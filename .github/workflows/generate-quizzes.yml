@@ -78,4 +78,4 @@ jobs:
           git commit -m "🔄 Auto-generated quizzes via GitHub Actions" || echo "No changes to commit"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ secrets.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 }}
