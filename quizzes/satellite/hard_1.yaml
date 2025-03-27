@@ -1,0 +1,301 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "textbook" is a synonym for "casebook".
+    value: textbook
+  - correct: false
+    detail: Incorrect, "irreligion:noun" is not a synonym for "casebook".
+    value: irreligion:noun
+  - correct: false
+    detail: Incorrect, "refrigeration:noun" is not a synonym for "casebook".
+    value: refrigeration:noun
+  - correct: false
+    detail: Incorrect, "gulper:noun" is not a synonym for "casebook".
+    value: gulper:noun
+  text: What is a synonym for "casebook"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "propellant" is a synonym for "propulsive".
+    value: propellent
+  - correct: false
+    detail: Incorrect, "treated:verb" is not a synonym for "propulsive".
+    value: treated:verb
+  - correct: false
+    detail: Incorrect, "steady:satellite" is not a synonym for "propulsive".
+    value: steady:satellite
+  - correct: false
+    detail: Incorrect, "home room:noun" is not a synonym for "propulsive".
+    value: home room:noun
+  text: What is a synonym for "propulsive"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "distinct" is a synonym for "decided".
+    value: distinct
+  - correct: false
+    detail: Incorrect, "maharani:noun" is not a synonym for "decided".
+    value: maharani:noun
+  - correct: false
+    detail: Incorrect, "field coil:noun" is not a synonym for "decided".
+    value: field coil:noun
+  - correct: false
+    detail: Incorrect, "phototrophic bacteria:noun" is not a synonym for "decided".
+    value: phototrophic bacteria:noun
+  text: What is a synonym for "decided"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "quadruple" is a synonym for "quadruplicate".
+    value: quadruple
+  - correct: false
+    detail: Incorrect, "anchusa capensis:noun" is not a synonym for "quadruplicate".
+    value: anchusa capensis:noun
+  - correct: false
+    detail: Incorrect, "done:satellite" is not a synonym for "quadruplicate".
+    value: done:satellite
+  - correct: false
+    detail: Incorrect, "hermissenda crassicornis:noun" is not a synonym for "quadruplicate".
+    value: hermissenda crassicornis:noun
+  text: What is a synonym for "quadruplicate"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "perilous" is a synonym for "touch-and-go".
+    value: parlous
+  - correct: false
+    detail: Incorrect, "aleksandr scriabin:noun" is not a synonym for "touch-and-go".
+    value: aleksandr scriabin:noun
+  - correct: false
+    detail: Incorrect, "tanoan language:noun" is not a synonym for "touch-and-go".
+    value: tanoan language:noun
+  - correct: false
+    detail: Incorrect, "well point:noun" is not a synonym for "touch-and-go".
+    value: well point:noun
+  text: What is a synonym for "touch-and-go"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "cc" is a synonym for "two hundred".
+    value: '200'
+  - correct: false
+    detail: Incorrect, "word-worship:noun" is not a synonym for "two hundred".
+    value: word-worship:noun
+  - correct: false
+    detail: Incorrect, "good day:noun" is not a synonym for "two hundred".
+    value: good day:noun
+  - correct: false
+    detail: Incorrect, "tacca pinnatifida:noun" is not a synonym for "two hundred".
+    value: tacca pinnatifida:noun
+  text: What is a synonym for "two hundred"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unmechanised" is a synonym for "unmechanized".
+    value: unmechanised
+  - correct: false
+    detail: Incorrect, "rustic:satellite" is not a synonym for "unmechanized".
+    value: rustic:satellite
+  - correct: false
+    detail: Incorrect, "sawed-off:satellite" is not a synonym for "unmechanized".
+    value: sawed-off:satellite
+  - correct: false
+    detail: Incorrect, "falseness:noun" is not a synonym for "unmechanized".
+    value: falseness:noun
+  text: What is a synonym for "unmechanized"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "in straitened circumstances" is a synonym for "impecunious".
+    value: hard up
+  - correct: false
+    detail: Incorrect, "grouch:noun" is not a synonym for "impecunious".
+    value: grouch:noun
+  - correct: false
+    detail: Incorrect, "45:satellite" is not a synonym for "impecunious".
+    value: 45:satellite
+  - correct: false
+    detail: Incorrect, "berliner:noun" is not a synonym for "impecunious".
+    value: berliner:noun
+  text: What is a synonym for "impecunious"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "soft on" is a synonym for "infatuated".
+    value: taken with
+  - correct: false
+    detail: Incorrect, "attainder:noun" is not a synonym for "infatuated".
+    value: attainder:noun
+  - correct: false
+    detail: Incorrect, "state of nature:noun" is not a synonym for "infatuated".
+    value: state of nature:noun
+  - correct: false
+    detail: Incorrect, "genus corallorhiza:noun" is not a synonym for "infatuated".
+    value: genus corallorhiza:noun
+  text: What is a synonym for "infatuated"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "individual" is a synonym for "item-by-item".
+    value: case-by-case
+  - correct: false
+    detail: Incorrect, "security force:noun" is not a synonym for "item-by-item".
+    value: security force:noun
+  - correct: false
+    detail: Incorrect, "tump over:verb" is not a synonym for "item-by-item".
+    value: tump over:verb
+  - correct: false
+    detail: Incorrect, "biota:noun" is not a synonym for "item-by-item".
+    value: biota:noun
+  text: What is a synonym for "item-by-item"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "elucidative" is a synonym for "clarifying".
+    value: elucidative
+  - correct: false
+    detail: Incorrect, "fields:verb" is not a synonym for "clarifying".
+    value: fields:verb
+  - correct: false
+    detail: Incorrect, "front tooth:noun" is not a synonym for "clarifying".
+    value: front tooth:noun
+  - correct: false
+    detail: Incorrect, "spikelet:noun" is not a synonym for "clarifying".
+    value: spikelet:noun
+  text: What is a synonym for "clarifying"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "lynx-eyed" is a synonym for "sharp-sighted".
+    value: argus-eyed
+  - correct: false
+    detail: Incorrect, "ferrying:noun" is not a synonym for "sharp-sighted".
+    value: ferrying:noun
+  - correct: false
+    detail: Incorrect, "canalisation:noun" is not a synonym for "sharp-sighted".
+    value: canalisation:noun
+  - correct: false
+    detail: Incorrect, "encumber:verb" is not a synonym for "sharp-sighted".
+    value: encumber:verb
+  text: What is a synonym for "sharp-sighted"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "exasperating" is a synonym for "exacerbating".
+    value: aggravating
+  - correct: false
+    detail: Incorrect, "fashion plate:noun" is not a synonym for "exacerbating".
+    value: fashion plate:noun
+  - correct: false
+    detail: Incorrect, "nephroptosia:noun" is not a synonym for "exacerbating".
+    value: nephroptosia:noun
+  - correct: false
+    detail: Incorrect, "nonviolent resistance:noun" is not a synonym for "exacerbating".
+    value: nonviolent resistance:noun
+  text: What is a synonym for "exacerbating"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "empathetic" is a synonym for "empathic".
+    value: empathetic
+  - correct: false
+    detail: Incorrect, "zonal:adjective" is not a synonym for "empathic".
+    value: zonal:adjective
+  - correct: false
+    detail: Incorrect, "heterosexualism:noun" is not a synonym for "empathic".
+    value: heterosexualism:noun
+  - correct: false
+    detail: Incorrect, "skin doctor:noun" is not a synonym for "empathic".
+    value: skin doctor:noun
+  text: What is a synonym for "empathic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "sluttish" is a synonym for "promiscuous".
+    value: sluttish
+  - correct: false
+    detail: Incorrect, "bulging:satellite" is not a synonym for "promiscuous".
+    value: bulging:satellite
+  - correct: false
+    detail: Incorrect, "wood tick:noun" is not a synonym for "promiscuous".
+    value: wood tick:noun
+  - correct: false
+    detail: Incorrect, "stretch forth:verb" is not a synonym for "promiscuous".
+    value: stretch forth:verb
+  text: What is a synonym for "promiscuous"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "warming" is a synonym for "calefacient".
+    value: warming
+  - correct: false
+    detail: Incorrect, "tyan shan:noun" is not a synonym for "calefacient".
+    value: tyan shan:noun
+  - correct: false
+    detail: Incorrect, "fill again:verb" is not a synonym for "calefacient".
+    value: fill again:verb
+  - correct: false
+    detail: Incorrect, "antony tudor:noun" is not a synonym for "calefacient".
+    value: antony tudor:noun
+  text: What is a synonym for "calefacient"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "stagey" is a synonym for "stagy".
+    value: stagey
+  - correct: false
+    detail: Incorrect, "rose bed:noun" is not a synonym for "stagy".
+    value: rose bed:noun
+  - correct: false
+    detail: Incorrect, "cybernation:noun" is not a synonym for "stagy".
+    value: cybernation:noun
+  - correct: false
+    detail: Incorrect, "suicide squeeze:noun" is not a synonym for "stagy".
+    value: suicide squeeze:noun
+  text: What is a synonym for "stagy"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "naturalized" is a synonym for "naturalised".
+    value: naturalized
+  - correct: false
+    detail: Incorrect, "seafarer:noun" is not a synonym for "naturalised".
+    value: seafarer:noun
+  - correct: false
+    detail: Incorrect, "eleocharis dulcis:noun" is not a synonym for "naturalised".
+    value: eleocharis dulcis:noun
+  - correct: false
+    detail: Incorrect, "glory lily:noun" is not a synonym for "naturalised".
+    value: glory lily:noun
+  text: What is a synonym for "naturalised"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "changeless" is a synonym for "unalterable".
+    value: changeless
+  - correct: false
+    detail: Incorrect, "constituent:noun" is not a synonym for "unalterable".
+    value: constituent:noun
+  - correct: false
+    detail: Incorrect, "greenish-gray:satellite" is not a synonym for "unalterable".
+    value: greenish-gray:satellite
+  - correct: false
+    detail: Incorrect, "hamsun:noun" is not a synonym for "unalterable".
+    value: hamsun:noun
+  text: What is a synonym for "unalterable"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hardheaded" is a synonym for "mulish".
+    value: hardheaded
+  - correct: false
+    detail: Incorrect, "exhaust:noun" is not a synonym for "mulish".
+    value: exhaust:noun
+  - correct: false
+    detail: Incorrect, "stressed:verb" is not a synonym for "mulish".
+    value: stressed:verb
+  - correct: false
+    detail: Incorrect, "houyhnhnm:noun" is not a synonym for "mulish".
+    value: houyhnhnm:noun
+  text: What is a synonym for "mulish"?

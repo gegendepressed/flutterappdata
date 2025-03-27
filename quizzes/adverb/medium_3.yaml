@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "very" is a synonym for "real".
+    value: rattling
+  - correct: false
+    detail: Incorrect, "slowest:adjective" is not a synonym for "real".
+    value: slowest:adjective
+  - correct: false
+    detail: Incorrect, "task:verb" is not a synonym for "real".
+    value: task:verb
+  - correct: false
+    detail: Incorrect, "oklahoma:noun" is not a synonym for "real".
+    value: oklahoma:noun
+  text: What is a synonym for "real"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rather" is a synonym for "kind of".
+    value: sort of
+  - correct: false
+    detail: Incorrect, "farmington:noun" is not a synonym for "kind of".
+    value: farmington:noun
+  - correct: false
+    detail: Incorrect, "thundercloud:noun" is not a synonym for "kind of".
+    value: thundercloud:noun
+  - correct: false
+    detail: Incorrect, "orientating:verb" is not a synonym for "kind of".
+    value: orientating:verb
+  text: What is a synonym for "kind of"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "lengthwise" is a synonym for "longwise".
+    value: longitudinally
+  - correct: false
+    detail: Incorrect, "dourah:noun" is not a synonym for "longwise".
+    value: dourah:noun
+  - correct: false
+    detail: Incorrect, "dualistic:adjective" is not a synonym for "longwise".
+    value: dualistic:adjective
+  - correct: false
+    detail: Incorrect, "decimalise:verb" is not a synonym for "longwise".
+    value: decimalise:verb
+  text: What is a synonym for "longwise"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "balmily" is a synonym for "daftly".
+    value: balmily
+  - correct: false
+    detail: Incorrect, "ligature:noun" is not a synonym for "daftly".
+    value: ligature:noun
+  - correct: false
+    detail: Incorrect, "rubbing:verb" is not a synonym for "daftly".
+    value: rubbing:verb
+  - correct: false
+    detail: Incorrect, "energy-releasing:adjective" is not a synonym for "daftly".
+    value: energy-releasing:adjective
+  text: What is a synonym for "daftly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "some" is a synonym for "close to".
+    value: about
+  - correct: false
+    detail: Incorrect, "unravel:verb" is not a synonym for "close to".
+    value: unravel:verb
+  - correct: false
+    detail: Incorrect, "ranid:noun" is not a synonym for "close to".
+    value: ranid:noun
+  - correct: false
+    detail: Incorrect, "reducing diet:noun" is not a synonym for "close to".
+    value: reducing diet:noun
+  text: What is a synonym for "close to"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "p.a." is a synonym for "per year".
+    value: per annum
+  - correct: false
+    detail: Incorrect, "yellowcake:noun" is not a synonym for "per year".
+    value: yellowcake:noun
+  - correct: false
+    detail: Incorrect, "tolmetin sodium:noun" is not a synonym for "per year".
+    value: tolmetin sodium:noun
+  - correct: false
+    detail: Incorrect, "marihuana:noun" is not a synonym for "per year".
+    value: marihuana:noun
+  text: What is a synonym for "per year"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "right" is a synonym for "mightily".
+    value: right
+  - correct: false
+    detail: Incorrect, "prumnopitys amara:noun" is not a synonym for "mightily".
+    value: prumnopitys amara:noun
+  - correct: false
+    detail: Incorrect, "glucinium:noun" is not a synonym for "mightily".
+    value: glucinium:noun
+  - correct: false
+    detail: Incorrect, "eliminate:verb" is not a synonym for "mightily".
+    value: eliminate:verb
+  text: What is a synonym for "mightily"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "yet" is a synonym for "withal".
+    value: yet
+  - correct: false
+    detail: Incorrect, "frederick william iv:noun" is not a synonym for "withal".
+    value: frederick william iv:noun
+  - correct: false
+    detail: Incorrect, "climax:verb" is not a synonym for "withal".
+    value: climax:verb
+  - correct: false
+    detail: Incorrect, "astronautic:adjective" is not a synonym for "withal".
+    value: astronautic:adjective
+  text: What is a synonym for "withal"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "barely" is a synonym for "hardly".
+    value: barely
+  - correct: false
+    detail: Incorrect, "common rose mallow:noun" is not a synonym for "hardly".
+    value: common rose mallow:noun
+  - correct: false
+    detail: Incorrect, "samuel wiesenthal:noun" is not a synonym for "hardly".
+    value: samuel wiesenthal:noun
+  - correct: false
+    detail: Incorrect, "clump:verb" is not a synonym for "hardly".
+    value: clump:verb
+  text: What is a synonym for "hardly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "still|in time|so far|however" is a synonym for "yet".
+    value: until now|even
+  - correct: false
+    detail: Incorrect, "approach:noun" is not a synonym for "yet".
+    value: approach:noun
+  - correct: false
+    detail: Incorrect, "order ornithischia:noun" is not a synonym for "yet".
+    value: order ornithischia:noun
+  - correct: false
+    detail: Incorrect, "adad:noun" is not a synonym for "yet".
+    value: adad:noun
+  text: What is a synonym for "yet"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "CE" is a synonym for "c.e.".
+    value: CE
+  - correct: false
+    detail: Incorrect, "1st earl baldwin of bewdley:noun" is not a synonym for "c.e.".
+    value: 1st earl baldwin of bewdley:noun
+  - correct: false
+    detail: Incorrect, "ustilago:noun" is not a synonym for "c.e.".
+    value: ustilago:noun
+  - correct: false
+    detail: Incorrect, "fixings:noun" is not a synonym for "c.e.".
+    value: fixings:noun
+  text: What is a synonym for "c.e."?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "in spite of appearance" is a synonym for "inside".
+    value: in spite of appearance
+  - correct: false
+    detail: Incorrect, "cipher:noun" is not a synonym for "inside".
+    value: cipher:noun
+  - correct: false
+    detail: Incorrect, "schematic:satellite" is not a synonym for "inside".
+    value: schematic:satellite
+  - correct: false
+    detail: Incorrect, "dig out:verb" is not a synonym for "inside".
+    value: dig out:verb
+  text: What is a synonym for "inside"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "straight off" is a synonym for "at once".
+    value: immediately
+  - correct: false
+    detail: Incorrect, "heron's bill:noun" is not a synonym for "at once".
+    value: heron's bill:noun
+  - correct: false
+    detail: Incorrect, "gravitational theory:noun" is not a synonym for "at once".
+    value: gravitational theory:noun
+  - correct: false
+    detail: Incorrect, "ara:noun" is not a synonym for "at once".
+    value: ara:noun
+  text: What is a synonym for "at once"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "perspicuously" is a synonym for "lucidly".
+    value: perspicuously
+  - correct: false
+    detail: Incorrect, "conjugal visitation:noun" is not a synonym for "lucidly".
+    value: conjugal visitation:noun
+  - correct: false
+    detail: Incorrect, "mongolic language:noun" is not a synonym for "lucidly".
+    value: mongolic language:noun
+  - correct: false
+    detail: Incorrect, "freckle:noun" is not a synonym for "lucidly".
+    value: freckle:noun
+  text: What is a synonym for "lucidly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "funnily|fishily" is a synonym for "queerly".
+    value: strangely
+  - correct: false
+    detail: Incorrect, "vasoconstrictor:noun" is not a synonym for "queerly".
+    value: vasoconstrictor:noun
+  - correct: false
+    detail: Incorrect, "dumb cane:noun" is not a synonym for "queerly".
+    value: dumb cane:noun
+  - correct: false
+    detail: Incorrect, "simpleton:noun" is not a synonym for "queerly".
+    value: simpleton:noun
+  text: What is a synonym for "queerly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "off" is a synonym for "away".
+    value: forth|out|aside|off|aside|aside
+  - correct: false
+    detail: Incorrect, "small-leaved linden:noun" is not a synonym for "away".
+    value: small-leaved linden:noun
+  - correct: false
+    detail: Incorrect, "mountain fern:noun" is not a synonym for "away".
+    value: mountain fern:noun
+  - correct: false
+    detail: Incorrect, "ponca:noun" is not a synonym for "away".
+    value: ponca:noun
+  text: What is a synonym for "away"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "nearly" is a synonym for "almost".
+    value: nearly
+  - correct: false
+    detail: Incorrect, "asparagus:noun" is not a synonym for "almost".
+    value: asparagus:noun
+  - correct: false
+    detail: Incorrect, "raskolnikov:noun" is not a synonym for "almost".
+    value: raskolnikov:noun
+  - correct: false
+    detail: Incorrect, "diametrical:satellite" is not a synonym for "almost".
+    value: diametrical:satellite
+  text: What is a synonym for "almost"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "on a lower floor|under" is a synonym for "below".
+    value: to a lower place
+  - correct: false
+    detail: Incorrect, "fossilization:noun" is not a synonym for "below".
+    value: fossilization:noun
+  - correct: false
+    detail: Incorrect, "canker brake:noun" is not a synonym for "below".
+    value: canker brake:noun
+  - correct: false
+    detail: Incorrect, "see-through:satellite" is not a synonym for "below".
+    value: see-through:satellite
+  text: What is a synonym for "below"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rapidly" is a synonym for "quickly".
+    value: chop-chop
+  - correct: false
+    detail: Incorrect, "sixth baron byron of rochdale:noun" is not a synonym for "quickly".
+    value: sixth baron byron of rochdale:noun
+  - correct: false
+    detail: Incorrect, "legal age:noun" is not a synonym for "quickly".
+    value: legal age:noun
+  - correct: false
+    detail: Incorrect, "getting:noun" is not a synonym for "quickly".
+    value: getting:noun
+  text: What is a synonym for "quickly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "sapiently" is a synonym for "acutely".
+    value: sharply
+  - correct: false
+    detail: Incorrect, "nephroptosia:noun" is not a synonym for "acutely".
+    value: nephroptosia:noun
+  - correct: false
+    detail: Incorrect, "mushroom:noun" is not a synonym for "acutely".
+    value: mushroom:noun
+  - correct: false
+    detail: Incorrect, "sacking:verb" is not a synonym for "acutely".
+    value: sacking:verb
+  text: What is a synonym for "acutely"?

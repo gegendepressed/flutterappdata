@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "mantled" is a synonym for "cloaked".
+    value: mantled
+  - correct: false
+    detail: Incorrect, "spectacular:satellite" is not a synonym for "cloaked".
+    value: spectacular:satellite
+  - correct: false
+    detail: Incorrect, "effervescing:satellite" is not a synonym for "cloaked".
+    value: effervescing:satellite
+  - correct: false
+    detail: Incorrect, "aerosol can:noun" is not a synonym for "cloaked".
+    value: aerosol can:noun
+  text: What is a synonym for "cloaked"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "gold" is a synonym for "gilded".
+    value: sumptuous|gold
+  - correct: false
+    detail: Incorrect, "gayly:adverb" is not a synonym for "gilded".
+    value: gayly:adverb
+  - correct: false
+    detail: Incorrect, "kay boyle:noun" is not a synonym for "gilded".
+    value: kay boyle:noun
+  - correct: false
+    detail: Incorrect, "disciplinal:satellite" is not a synonym for "gilded".
+    value: disciplinal:satellite
+  text: What is a synonym for "gilded"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "white-livered" is a synonym for "yellow".
+    value: xanthous|chicken
+  - correct: false
+    detail: Incorrect, "refine:verb" is not a synonym for "yellow".
+    value: refine:verb
+  - correct: false
+    detail: Incorrect, "sundae:noun" is not a synonym for "yellow".
+    value: sundae:noun
+  - correct: false
+    detail: Incorrect, "tipped:verb" is not a synonym for "yellow".
+    value: tipped:verb
+  text: What is a synonym for "yellow"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "drawn-out" is a synonym for "extended".
+    value: lengthy
+  - correct: false
+    detail: Incorrect, "lasiocampa:noun" is not a synonym for "extended".
+    value: lasiocampa:noun
+  - correct: false
+    detail: Incorrect, "chelicerata:noun" is not a synonym for "extended".
+    value: chelicerata:noun
+  - correct: false
+    detail: Incorrect, "scissors hold:noun" is not a synonym for "extended".
+    value: scissors hold:noun
+  text: What is a synonym for "extended"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "dubitable" is a synonym for "doubtful".
+    value: in question|dubious|tentative
+  - correct: false
+    detail: Incorrect, "acocanthera venenata:noun" is not a synonym for "doubtful".
+    value: acocanthera venenata:noun
+  - correct: false
+    detail: Incorrect, "tennessean:noun" is not a synonym for "doubtful".
+    value: tennessean:noun
+  - correct: false
+    detail: Incorrect, "natatorium:noun" is not a synonym for "doubtful".
+    value: natatorium:noun
+  text: What is a synonym for "doubtful"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "cornered" is a synonym for "treed".
+    value: cornered
+  - correct: false
+    detail: Incorrect, "valet:noun" is not a synonym for "treed".
+    value: valet:noun
+  - correct: false
+    detail: Incorrect, "dioscorea paniculata:noun" is not a synonym for "treed".
+    value: dioscorea paniculata:noun
+  - correct: false
+    detail: Incorrect, "roguishness:noun" is not a synonym for "treed".
+    value: roguishness:noun
+  text: What is a synonym for "treed"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "clouded" is a synonym for "overcast".
+    value: clouded
+  - correct: false
+    detail: Incorrect, "selfsame:satellite" is not a synonym for "overcast".
+    value: selfsame:satellite
+  - correct: false
+    detail: Incorrect, "carl yastrzemski:noun" is not a synonym for "overcast".
+    value: carl yastrzemski:noun
+  - correct: false
+    detail: Incorrect, "monotremata:noun" is not a synonym for "overcast".
+    value: monotremata:noun
+  text: What is a synonym for "overcast"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "braggart" is a synonym for "crowing".
+    value: braggart
+  - correct: false
+    detail: Incorrect, "noncyclical:adjective" is not a synonym for "crowing".
+    value: noncyclical:adjective
+  - correct: false
+    detail: Incorrect, "spliff:noun" is not a synonym for "crowing".
+    value: spliff:noun
+  - correct: false
+    detail: Incorrect, "drib:noun" is not a synonym for "crowing".
+    value: drib:noun
+  text: What is a synonym for "crowing"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "skeletal" is a synonym for "haggard".
+    value: gaunt
+  - correct: false
+    detail: Incorrect, "novelty:noun" is not a synonym for "haggard".
+    value: novelty:noun
+  - correct: false
+    detail: Incorrect, "curtisia:noun" is not a synonym for "haggard".
+    value: curtisia:noun
+  - correct: false
+    detail: Incorrect, "supernatural being:noun" is not a synonym for "haggard".
+    value: supernatural being:noun
+  text: What is a synonym for "haggard"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "wonky|shivering" is a synonym for "shaky".
+    value: wonky|shivering
+  - correct: false
+    detail: Incorrect, "c.e.:adverb" is not a synonym for "shaky".
+    value: c.e.:adverb
+  - correct: false
+    detail: Incorrect, "hazy:satellite" is not a synonym for "shaky".
+    value: hazy:satellite
+  - correct: false
+    detail: Incorrect, "life preserver:noun" is not a synonym for "shaky".
+    value: life preserver:noun
+  text: What is a synonym for "shaky"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "leathered" is a synonym for "leathery".
+    value: leatherlike
+  - correct: false
+    detail: Incorrect, "department of sociology:noun" is not a synonym for "leathery".
+    value: department of sociology:noun
+  - correct: false
+    detail: Incorrect, "chromosomal aberration:noun" is not a synonym for "leathery".
+    value: chromosomal aberration:noun
+  - correct: false
+    detail: Incorrect, "visualised:satellite" is not a synonym for "leathery".
+    value: visualised:satellite
+  text: What is a synonym for "leathery"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "flossy" is a synonym for "downy".
+    value: fluffy|pubescent
+  - correct: false
+    detail: Incorrect, "genus draco:noun" is not a synonym for "downy".
+    value: genus draco:noun
+  - correct: false
+    detail: Incorrect, "desert fox:noun" is not a synonym for "downy".
+    value: desert fox:noun
+  - correct: false
+    detail: Incorrect, "reeking:satellite" is not a synonym for "downy".
+    value: reeking:satellite
+  text: What is a synonym for "downy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "embodied" is a synonym for "bodied".
+    value: corporal
+  - correct: false
+    detail: Incorrect, "nontricyclic:noun" is not a synonym for "bodied".
+    value: nontricyclic:noun
+  - correct: false
+    detail: Incorrect, "eye-lotion:noun" is not a synonym for "bodied".
+    value: eye-lotion:noun
+  - correct: false
+    detail: Incorrect, "george beadle:noun" is not a synonym for "bodied".
+    value: george beadle:noun
+  text: What is a synonym for "bodied"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "over-embellished|imperial" is a synonym for "purple".
+    value: royal
+  - correct: false
+    detail: Incorrect, "vaccinum:noun" is not a synonym for "purple".
+    value: vaccinum:noun
+  - correct: false
+    detail: Incorrect, "american flagfish:noun" is not a synonym for "purple".
+    value: american flagfish:noun
+  - correct: false
+    detail: Incorrect, "galvanic:satellite" is not a synonym for "purple".
+    value: galvanic:satellite
+  text: What is a synonym for "purple"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "oily" is a synonym for "unctuous".
+    value: fulsome
+  - correct: false
+    detail: Incorrect, "acned:satellite" is not a synonym for "unctuous".
+    value: acned:satellite
+  - correct: false
+    detail: Incorrect, "carolus linnaeus:noun" is not a synonym for "unctuous".
+    value: carolus linnaeus:noun
+  - correct: false
+    detail: Incorrect, "dobrich:noun" is not a synonym for "unctuous".
+    value: dobrich:noun
+  text: What is a synonym for "unctuous"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "scabrous" is a synonym for "lepidote".
+    value: scaly
+  - correct: false
+    detail: Incorrect, "bedbug:noun" is not a synonym for "lepidote".
+    value: bedbug:noun
+  - correct: false
+    detail: Incorrect, "breughel:noun" is not a synonym for "lepidote".
+    value: breughel:noun
+  - correct: false
+    detail: Incorrect, "dandy fever:noun" is not a synonym for "lepidote".
+    value: dandy fever:noun
+  text: What is a synonym for "lepidote"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "up-to-date" is a synonym for "with-it".
+    value: up-to-date
+  - correct: false
+    detail: Incorrect, "godunov:noun" is not a synonym for "with-it".
+    value: godunov:noun
+  - correct: false
+    detail: Incorrect, "indissoluble:adjective" is not a synonym for "with-it".
+    value: indissoluble:adjective
+  - correct: false
+    detail: Incorrect, "family steatornithidae:noun" is not a synonym for "with-it".
+    value: family steatornithidae:noun
+  text: What is a synonym for "with-it"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "cuboidal" is a synonym for "cubelike".
+    value: cubiform
+  - correct: false
+    detail: Incorrect, "tusk:verb" is not a synonym for "cubelike".
+    value: tusk:verb
+  - correct: false
+    detail: Incorrect, "vorticose vein:noun" is not a synonym for "cubelike".
+    value: vorticose vein:noun
+  - correct: false
+    detail: Incorrect, "chylific:adjective" is not a synonym for "cubelike".
+    value: chylific:adjective
+  text: What is a synonym for "cubelike"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "sympathetic|consonant" is a synonym for "harmonic".
+    value: harmonised
+  - correct: false
+    detail: Incorrect, "first moment:noun" is not a synonym for "harmonic".
+    value: first moment:noun
+  - correct: false
+    detail: Incorrect, "encyclopedism:noun" is not a synonym for "harmonic".
+    value: encyclopedism:noun
+  - correct: false
+    detail: Incorrect, "fold:noun" is not a synonym for "harmonic".
+    value: fold:noun
+  text: What is a synonym for "harmonic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "prideful" is a synonym for "sniffy".
+    value: overbearing
+  - correct: false
+    detail: Incorrect, "camisole:noun" is not a synonym for "sniffy".
+    value: camisole:noun
+  - correct: false
+    detail: Incorrect, "yachtsman:noun" is not a synonym for "sniffy".
+    value: yachtsman:noun
+  - correct: false
+    detail: Incorrect, "in passing:adverb" is not a synonym for "sniffy".
+    value: in passing:adverb
+  text: What is a synonym for "sniffy"?

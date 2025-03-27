@@ -1,0 +1,301 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "climbable" is a synonym for "surmountable".
+    value: climbable
+  - correct: false
+    detail: Incorrect, "sun:noun" is not a synonym for "surmountable".
+    value: sun:noun
+  - correct: false
+    detail: Incorrect, "boehmenism:noun" is not a synonym for "surmountable".
+    value: boehmenism:noun
+  - correct: false
+    detail: Incorrect, "spitball:noun" is not a synonym for "surmountable".
+    value: spitball:noun
+  text: What is a synonym for "surmountable"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "enwrapped" is a synonym for "engrossed".
+    value: intent
+  - correct: false
+    detail: Incorrect, "traveling salesman:noun" is not a synonym for "engrossed".
+    value: traveling salesman:noun
+  - correct: false
+    detail: Incorrect, "metabolize:verb" is not a synonym for "engrossed".
+    value: metabolize:verb
+  - correct: false
+    detail: Incorrect, "sensational:satellite" is not a synonym for "engrossed".
+    value: sensational:satellite
+  text: What is a synonym for "engrossed"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unlucky" is a synonym for "ill-starred".
+    value: ill-omened
+  - correct: false
+    detail: Incorrect, "geological era:noun" is not a synonym for "ill-starred".
+    value: geological era:noun
+  - correct: false
+    detail: Incorrect, "didelphis:noun" is not a synonym for "ill-starred".
+    value: didelphis:noun
+  - correct: false
+    detail: Incorrect, "white rocket:noun" is not a synonym for "ill-starred".
+    value: white rocket:noun
+  text: What is a synonym for "ill-starred"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "rudimentary" is a synonym for "vestigial".
+    value: rudimentary
+  - correct: false
+    detail: Incorrect, "cxv:satellite" is not a synonym for "vestigial".
+    value: cxv:satellite
+  - correct: false
+    detail: Incorrect, "athyrium pycnocarpon:noun" is not a synonym for "vestigial".
+    value: athyrium pycnocarpon:noun
+  - correct: false
+    detail: Incorrect, "obstructive:satellite" is not a synonym for "vestigial".
+    value: obstructive:satellite
+  text: What is a synonym for "vestigial"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "liquescent" is a synonym for "melting".
+    value: liquescent
+  - correct: false
+    detail: Incorrect, "divers:satellite" is not a synonym for "melting".
+    value: divers:satellite
+  - correct: false
+    detail: Incorrect, "message:noun" is not a synonym for "melting".
+    value: message:noun
+  - correct: false
+    detail: Incorrect, "rolling:noun" is not a synonym for "melting".
+    value: rolling:noun
+  text: What is a synonym for "melting"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "rosy" is a synonym for "rosy-cheeked".
+    value: rose-cheeked
+  - correct: false
+    detail: Incorrect, "niggard:noun" is not a synonym for "rosy-cheeked".
+    value: niggard:noun
+  - correct: false
+    detail: Incorrect, "genus loranthus:noun" is not a synonym for "rosy-cheeked".
+    value: genus loranthus:noun
+  - correct: false
+    detail: Incorrect, "ecumenicism:noun" is not a synonym for "rosy-cheeked".
+    value: ecumenicism:noun
+  text: What is a synonym for "rosy-cheeked"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "northeasterly" is a synonym for "northeaster".
+    value: northeast
+  - correct: false
+    detail: Incorrect, "plugged:satellite" is not a synonym for "northeaster".
+    value: plugged:satellite
+  - correct: false
+    detail: Incorrect, "wrapping:verb" is not a synonym for "northeaster".
+    value: wrapping:verb
+  - correct: false
+    detail: Incorrect, "steps:verb" is not a synonym for "northeaster".
+    value: steps:verb
+  text: What is a synonym for "northeaster"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "appressed" is a synonym for "adpressed".
+    value: appressed
+  - correct: false
+    detail: Incorrect, "close-minded:satellite" is not a synonym for "adpressed".
+    value: close-minded:satellite
+  - correct: false
+    detail: Incorrect, "sprinkling:verb" is not a synonym for "adpressed".
+    value: sprinkling:verb
+  - correct: false
+    detail: Incorrect, "chinook:noun" is not a synonym for "adpressed".
+    value: chinook:noun
+  text: What is a synonym for "adpressed"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "coarse-furred" is a synonym for "coarse-haired".
+    value: coarse-furred
+  - correct: false
+    detail: Incorrect, "congo eel:noun" is not a synonym for "coarse-haired".
+    value: congo eel:noun
+  - correct: false
+    detail: Incorrect, "approval:noun" is not a synonym for "coarse-haired".
+    value: approval:noun
+  - correct: false
+    detail: Incorrect, "scraps:verb" is not a synonym for "coarse-haired".
+    value: scraps:verb
+  text: What is a synonym for "coarse-haired"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "superimposed" is a synonym for "overlying".
+    value: superimposed
+  - correct: false
+    detail: Incorrect, "bathymeter:noun" is not a synonym for "overlying".
+    value: bathymeter:noun
+  - correct: false
+    detail: Incorrect, "foster son:noun" is not a synonym for "overlying".
+    value: foster son:noun
+  - correct: false
+    detail: Incorrect, "punch in:verb" is not a synonym for "overlying".
+    value: punch in:verb
+  text: What is a synonym for "overlying"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "vital|decisive" is a synonym for "critical".
+    value: vital|decisive
+  - correct: false
+    detail: Incorrect, "come round:verb" is not a synonym for "critical".
+    value: come round:verb
+  - correct: false
+    detail: Incorrect, "co2:noun" is not a synonym for "critical".
+    value: co2:noun
+  - correct: false
+    detail: Incorrect, "glandular disorder:noun" is not a synonym for "critical".
+    value: glandular disorder:noun
+  text: What is a synonym for "critical"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "secure" is a synonym for "inviolable".
+    value: sacrosanct|absolute
+  - correct: false
+    detail: Incorrect, "alcohol abuse:noun" is not a synonym for "inviolable".
+    value: alcohol abuse:noun
+  - correct: false
+    detail: Incorrect, "fig up:verb" is not a synonym for "inviolable".
+    value: fig up:verb
+  - correct: false
+    detail: Incorrect, "post doc:noun" is not a synonym for "inviolable".
+    value: post doc:noun
+  text: What is a synonym for "inviolable"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "quick" is a synonym for "ready".
+    value: quick
+  - correct: false
+    detail: Incorrect, "caenolestidae:noun" is not a synonym for "ready".
+    value: caenolestidae:noun
+  - correct: false
+    detail: Incorrect, "electrolytic capacitor:noun" is not a synonym for "ready".
+    value: electrolytic capacitor:noun
+  - correct: false
+    detail: Incorrect, "family fistulinaceae:noun" is not a synonym for "ready".
+    value: family fistulinaceae:noun
+  text: What is a synonym for "ready"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unconverted" is a synonym for "unpersuaded".
+    value: unconverted
+  - correct: false
+    detail: Incorrect, "concertize:verb" is not a synonym for "unpersuaded".
+    value: concertize:verb
+  - correct: false
+    detail: Incorrect, "saclike:satellite" is not a synonym for "unpersuaded".
+    value: saclike:satellite
+  - correct: false
+    detail: Incorrect, "drum sander:noun" is not a synonym for "unpersuaded".
+    value: drum sander:noun
+  text: What is a synonym for "unpersuaded"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "foster" is a synonym for "surrogate".
+    value: foster
+  - correct: false
+    detail: Incorrect, "high-top:satellite" is not a synonym for "surrogate".
+    value: high-top:satellite
+  - correct: false
+    detail: Incorrect, "sleepwalk:verb" is not a synonym for "surrogate".
+    value: sleepwalk:verb
+  - correct: false
+    detail: Incorrect, "family antedonidae:noun" is not a synonym for "surrogate".
+    value: family antedonidae:noun
+  text: What is a synonym for "surrogate"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "clubbable" is a synonym for "clubable".
+    value: clubbable
+  - correct: false
+    detail: Incorrect, "patent of invention:noun" is not a synonym for "clubable".
+    value: patent of invention:noun
+  - correct: false
+    detail: Incorrect, "rosales:noun" is not a synonym for "clubable".
+    value: rosales:noun
+  - correct: false
+    detail: Incorrect, "lyon:noun" is not a synonym for "clubable".
+    value: lyon:noun
+  text: What is a synonym for "clubable"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "riotous" is a synonym for "disruptive".
+    value: tumultuous
+  - correct: false
+    detail: Incorrect, "grizzled:verb" is not a synonym for "disruptive".
+    value: grizzled:verb
+  - correct: false
+    detail: Incorrect, "strachey:noun" is not a synonym for "disruptive".
+    value: strachey:noun
+  - correct: false
+    detail: Incorrect, "rocky mountain bee plant:noun" is not a synonym for "disruptive".
+    value: rocky mountain bee plant:noun
+  text: What is a synonym for "disruptive"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "casteless" is a synonym for "outcaste".
+    value: casteless
+  - correct: false
+    detail: Incorrect, "john augustus roebling:noun" is not a synonym for "outcaste".
+    value: john augustus roebling:noun
+  - correct: false
+    detail: Incorrect, "jugful:noun" is not a synonym for "outcaste".
+    value: jugful:noun
+  - correct: false
+    detail: Incorrect, "malacca:noun" is not a synonym for "outcaste".
+    value: malacca:noun
+  text: What is a synonym for "outcaste"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "inside" is a synonym for "privileged".
+    value: inner
+  - correct: false
+    detail: Incorrect, "metacarpal:noun" is not a synonym for "privileged".
+    value: metacarpal:noun
+  - correct: false
+    detail: Incorrect, "family rafflesiaceae:noun" is not a synonym for "privileged".
+    value: family rafflesiaceae:noun
+  - correct: false
+    detail: Incorrect, "unsubstantiated:satellite" is not a synonym for "privileged".
+    value: unsubstantiated:satellite
+  text: What is a synonym for "privileged"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "callous" is a synonym for "pachydermatous".
+    value: indurate
+  - correct: false
+    detail: Incorrect, "tonight:adverb" is not a synonym for "pachydermatous".
+    value: tonight:adverb
+  - correct: false
+    detail: Incorrect, "belligerency:noun" is not a synonym for "pachydermatous".
+    value: belligerency:noun
+  - correct: false
+    detail: Incorrect, "battle of ipsus:noun" is not a synonym for "pachydermatous".
+    value: battle of ipsus:noun
+  text: What is a synonym for "pachydermatous"?

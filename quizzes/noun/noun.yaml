@@ -1,0 +1,13 @@
+id: noun
+img: noun.png
+quizzes:
+- description: Synonyms for Noun (Easy)
+  id: noun-easy
+  title: Noun - Easy
+- description: Synonyms for Noun (Medium)
+  id: noun-medium
+  title: Noun - Medium
+- description: Synonyms for Noun (Hard)
+  id: noun-hard
+  title: Noun - Hard
+title: Noun Synonyms

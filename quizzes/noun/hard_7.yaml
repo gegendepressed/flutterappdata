@@ -1,0 +1,302 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Long Beach" is a synonym for "long beach".
+    value: Long Beach
+  - correct: false
+    detail: Incorrect, "bo hai:noun" is not a synonym for "long beach".
+    value: bo hai:noun
+  - correct: false
+    detail: Incorrect, "aralia spinosa:noun" is not a synonym for "long beach".
+    value: aralia spinosa:noun
+  - correct: false
+    detail: Incorrect, "south korean:adjective" is not a synonym for "long beach".
+    value: south korean:adjective
+  text: What is a synonym for "long beach"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Nazareth" is a synonym for "nazareth".
+    value: Nazareth
+  - correct: false
+    detail: Incorrect, "grain alcohol:noun" is not a synonym for "nazareth".
+    value: grain alcohol:noun
+  - correct: false
+    detail: Incorrect, "anshar:noun" is not a synonym for "nazareth".
+    value: anshar:noun
+  - correct: false
+    detail: Incorrect, "nutriment:noun" is not a synonym for "nazareth".
+    value: nutriment:noun
+  text: What is a synonym for "nazareth"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Jacobite" is a synonym for "jacobite".
+    value: Jacobite
+  - correct: false
+    detail: Incorrect, "marred:satellite" is not a synonym for "jacobite".
+    value: marred:satellite
+  - correct: false
+    detail: Incorrect, "windmill:noun" is not a synonym for "jacobite".
+    value: windmill:noun
+  - correct: false
+    detail: Incorrect, "ethmoidal vein:noun" is not a synonym for "jacobite".
+    value: ethmoidal vein:noun
+  text: What is a synonym for "jacobite"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "roomie" is a synonym for "roomy".
+    value: roomie
+  - correct: false
+    detail: Incorrect, "harvest mouse:noun" is not a synonym for "roomy".
+    value: harvest mouse:noun
+  - correct: false
+    detail: Incorrect, "whirling dervish:noun" is not a synonym for "roomy".
+    value: whirling dervish:noun
+  - correct: false
+    detail: Incorrect, "astaire:noun" is not a synonym for "roomy".
+    value: astaire:noun
+  text: What is a synonym for "roomy"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "deck" is a synonym for "deck of cards".
+    value: deck
+  - correct: false
+    detail: Incorrect, "get under one's skin:verb" is not a synonym for "deck of cards".
+    value: get under one's skin:verb
+  - correct: false
+    detail: Incorrect, "louis le hutin:noun" is not a synonym for "deck of cards".
+    value: louis le hutin:noun
+  - correct: false
+    detail: Incorrect, "best:noun" is not a synonym for "deck of cards".
+    value: best:noun
+  text: What is a synonym for "deck of cards"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Fatherhood" is a synonym for "fatherhood".
+    value: Father-God
+  - correct: false
+    detail: Incorrect, "ernest bevin:noun" is not a synonym for "fatherhood".
+    value: ernest bevin:noun
+  - correct: false
+    detail: Incorrect, "labor-intensive:satellite" is not a synonym for "fatherhood".
+    value: labor-intensive:satellite
+  - correct: false
+    detail: Incorrect, "carboxyl:noun" is not a synonym for "fatherhood".
+    value: carboxyl:noun
+  text: What is a synonym for "fatherhood"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "order Sphaeriales" is a synonym for "sphaeriales".
+    value: Sphaeriales
+  - correct: false
+    detail: Incorrect, "tomtit:noun" is not a synonym for "sphaeriales".
+    value: tomtit:noun
+  - correct: false
+    detail: Incorrect, "push away:verb" is not a synonym for "sphaeriales".
+    value: push away:verb
+  - correct: false
+    detail: Incorrect, "engineering:verb" is not a synonym for "sphaeriales".
+    value: engineering:verb
+  text: What is a synonym for "sphaeriales"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Caladenia cairnsiana" is a synonym for "zebra orchid".
+    value: Caladenia cairnsiana
+  - correct: false
+    detail: Incorrect, "dole:noun" is not a synonym for "zebra orchid".
+    value: dole:noun
+  - correct: false
+    detail: Incorrect, "sensor:noun" is not a synonym for "zebra orchid".
+    value: sensor:noun
+  - correct: false
+    detail: Incorrect, "half-bred:satellite" is not a synonym for "zebra orchid".
+    value: half-bred:satellite
+  text: What is a synonym for "zebra orchid"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "spiraea" is a synonym for "astilbe japonica".
+    value: spiraea
+  - correct: false
+    detail: Incorrect, "voluptuary:noun" is not a synonym for "astilbe japonica".
+    value: voluptuary:noun
+  - correct: false
+    detail: Incorrect, "bluehead:noun" is not a synonym for "astilbe japonica".
+    value: bluehead:noun
+  - correct: false
+    detail: Incorrect, "tape drive:noun" is not a synonym for "astilbe japonica".
+    value: tape drive:noun
+  text: What is a synonym for "astilbe japonica"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "fetus" is a synonym for "foetus".
+    value: fetus
+  - correct: false
+    detail: Incorrect, "unvulcanised:satellite" is not a synonym for "foetus".
+    value: unvulcanised:satellite
+  - correct: false
+    detail: Incorrect, "apatosaur:noun" is not a synonym for "foetus".
+    value: apatosaur:noun
+  - correct: false
+    detail: Incorrect, "subfamily emberizinae:noun" is not a synonym for "foetus".
+    value: subfamily emberizinae:noun
+  text: What is a synonym for "foetus"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "music hall" is a synonym for "vaudeville theater".
+    value: music hall
+  - correct: false
+    detail: Incorrect, "brown-haired:satellite" is not a synonym for "vaudeville theater".
+    value: brown-haired:satellite
+  - correct: false
+    detail: Incorrect, "hoity-toity:satellite" is not a synonym for "vaudeville theater".
+    value: hoity-toity:satellite
+  - correct: false
+    detail: Incorrect, "trilby:noun" is not a synonym for "vaudeville theater".
+    value: trilby:noun
+  text: What is a synonym for "vaudeville theater"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "debasement|abasement" is a synonym for "degradation".
+    value: debasement|abasement
+  - correct: false
+    detail: Incorrect, "simulation:noun" is not a synonym for "degradation".
+    value: simulation:noun
+  - correct: false
+    detail: Incorrect, "saint john's:noun" is not a synonym for "degradation".
+    value: saint john's:noun
+  - correct: false
+    detail: Incorrect, "innkeeper:noun" is not a synonym for "degradation".
+    value: innkeeper:noun
+  text: What is a synonym for "degradation"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Hammond organ" is a synonym for "electric organ".
+    value: organ
+  - correct: false
+    detail: Incorrect, "overappraisal:noun" is not a synonym for "electric organ".
+    value: overappraisal:noun
+  - correct: false
+    detail: Incorrect, "anapsida:noun" is not a synonym for "electric organ".
+    value: anapsida:noun
+  - correct: false
+    detail: Incorrect, "land of enchantment:noun" is not a synonym for "electric organ".
+    value: land of enchantment:noun
+  text: What is a synonym for "electric organ"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Visken" is a synonym for "pindolol".
+    value: Visken
+  - correct: false
+    detail: Incorrect, "petrification:noun" is not a synonym for "pindolol".
+    value: petrification:noun
+  - correct: false
+    detail: Incorrect, "bated:verb" is not a synonym for "pindolol".
+    value: bated:verb
+  - correct: false
+    detail: Incorrect, "roadless:satellite" is not a synonym for "pindolol".
+    value: roadless:satellite
+  text: What is a synonym for "pindolol"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "bean" is a synonym for "bean plant".
+    value: bean
+  - correct: false
+    detail: Incorrect, "gladiola:noun" is not a synonym for "bean plant".
+    value: gladiola:noun
+  - correct: false
+    detail: Incorrect, "lily pons:noun" is not a synonym for "bean plant".
+    value: lily pons:noun
+  - correct: false
+    detail: Incorrect, "polychrome:satellite" is not a synonym for "bean plant".
+    value: polychrome:satellite
+  text: What is a synonym for "bean plant"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Delhi boil" is a synonym for "oriental sore".
+    value: Aleppo boil
+  - correct: false
+    detail: Incorrect, "robert penn warren:noun" is not a synonym for "oriental sore".
+    value: robert penn warren:noun
+  - correct: false
+    detail: Incorrect, "citellus parryi:noun" is not a synonym for "oriental sore".
+    value: citellus parryi:noun
+  - correct: false
+    detail: Incorrect, "choice of words:noun" is not a synonym for "oriental sore".
+    value: choice of words:noun
+  text: What is a synonym for "oriental sore"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Edward James Muggeridge" is a synonym for "eadweard muybridge".
+    value: Eadweard Muybridge
+  - correct: false
+    detail: Incorrect, "handle:verb" is not a synonym for "eadweard muybridge".
+    value: handle:verb
+  - correct: false
+    detail: Incorrect, "fibrosity:noun" is not a synonym for "eadweard muybridge".
+    value: fibrosity:noun
+  - correct: false
+    detail: Incorrect, "cheilanthes alabamensis:noun" is not a synonym for "eadweard
+      muybridge".
+    value: cheilanthes alabamensis:noun
+  text: What is a synonym for "eadweard muybridge"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Rosa damascena" is a synonym for "rosa damascena".
+    value: damask rose
+  - correct: false
+    detail: Incorrect, "expeditiousness:noun" is not a synonym for "rosa damascena".
+    value: expeditiousness:noun
+  - correct: false
+    detail: Incorrect, "offerer:adjective" is not a synonym for "rosa damascena".
+    value: offerer:adjective
+  - correct: false
+    detail: Incorrect, "trip-up:noun" is not a synonym for "rosa damascena".
+    value: trip-up:noun
+  text: What is a synonym for "rosa damascena"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "wine" is a synonym for "wine-colored".
+    value: wine-coloured
+  - correct: false
+    detail: Incorrect, "burrill bernard crohn:noun" is not a synonym for "wine-colored".
+    value: burrill bernard crohn:noun
+  - correct: false
+    detail: Incorrect, "stanford:noun" is not a synonym for "wine-colored".
+    value: stanford:noun
+  - correct: false
+    detail: Incorrect, "periarteritis nodosa:noun" is not a synonym for "wine-colored".
+    value: periarteritis nodosa:noun
+  text: What is a synonym for "wine-colored"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "advocate" is a synonym for "counselor-at-law".
+    value: counselor
+  - correct: false
+    detail: Incorrect, "orange red:noun" is not a synonym for "counselor-at-law".
+    value: orange red:noun
+  - correct: false
+    detail: Incorrect, "shopfront:noun" is not a synonym for "counselor-at-law".
+    value: shopfront:noun
+  - correct: false
+    detail: Incorrect, "presidency:noun" is not a synonym for "counselor-at-law".
+    value: presidency:noun
+  text: What is a synonym for "counselor-at-law"?

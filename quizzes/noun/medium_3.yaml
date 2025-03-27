@@ -1,0 +1,302 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "cell nucleus" is a synonym for "nucleus".
+    value: karyon|core
+  - correct: false
+    detail: Incorrect, "hexacosanoic acid:noun" is not a synonym for "nucleus".
+    value: hexacosanoic acid:noun
+  - correct: false
+    detail: Incorrect, "beta orionis:noun" is not a synonym for "nucleus".
+    value: beta orionis:noun
+  - correct: false
+    detail: Incorrect, "one-hitter:noun" is not a synonym for "nucleus".
+    value: one-hitter:noun
+  text: What is a synonym for "nucleus"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Normodyne" is a synonym for "trandate".
+    value: Trandate
+  - correct: false
+    detail: Incorrect, "family halictidae:noun" is not a synonym for "trandate".
+    value: family halictidae:noun
+  - correct: false
+    detail: Incorrect, "vexation:noun" is not a synonym for "trandate".
+    value: vexation:noun
+  - correct: false
+    detail: Incorrect, "seychelles islands:noun" is not a synonym for "trandate".
+    value: seychelles islands:noun
+  text: What is a synonym for "trandate"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "topi" is a synonym for "topee".
+    value: pith hat
+  - correct: false
+    detail: Incorrect, "chew:verb" is not a synonym for "topee".
+    value: chew:verb
+  - correct: false
+    detail: Incorrect, "knowledge domain:noun" is not a synonym for "topee".
+    value: knowledge domain:noun
+  - correct: false
+    detail: Incorrect, "gamekeeper:noun" is not a synonym for "topee".
+    value: gamekeeper:noun
+  text: What is a synonym for "topee"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "electronic dictionary" is a synonym for "mrd".
+    value: electronic dictionary
+  - correct: false
+    detail: Incorrect, "tacker:noun" is not a synonym for "mrd".
+    value: tacker:noun
+  - correct: false
+    detail: Incorrect, "ravelling:verb" is not a synonym for "mrd".
+    value: ravelling:verb
+  - correct: false
+    detail: Incorrect, "our lady's bedstraw:noun" is not a synonym for "mrd".
+    value: our lady's bedstraw:noun
+  text: What is a synonym for "mrd"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "necking" is a synonym for "cuddling".
+    value: petting
+  - correct: false
+    detail: Incorrect, "tangelo tree:noun" is not a synonym for "cuddling".
+    value: tangelo tree:noun
+  - correct: false
+    detail: Incorrect, "mother-of-thousands:noun" is not a synonym for "cuddling".
+    value: mother-of-thousands:noun
+  - correct: false
+    detail: Incorrect, "adequacy:noun" is not a synonym for "cuddling".
+    value: adequacy:noun
+  text: What is a synonym for "cuddling"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Rhein" is a synonym for "rhein".
+    value: Rhein
+  - correct: false
+    detail: Incorrect, "lead-acid battery:noun" is not a synonym for "rhein".
+    value: lead-acid battery:noun
+  - correct: false
+    detail: Incorrect, "greet:verb" is not a synonym for "rhein".
+    value: greet:verb
+  - correct: false
+    detail: Incorrect, "siren call:noun" is not a synonym for "rhein".
+    value: siren call:noun
+  text: What is a synonym for "rhein"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "morality|moral" is a synonym for "morals".
+    value: lesson
+  - correct: false
+    detail: Incorrect, "flamefish:noun" is not a synonym for "morals".
+    value: flamefish:noun
+  - correct: false
+    detail: Incorrect, "unreasoningly:adverb" is not a synonym for "morals".
+    value: unreasoningly:adverb
+  - correct: false
+    detail: Incorrect, "lisle thread:noun" is not a synonym for "morals".
+    value: lisle thread:noun
+  text: What is a synonym for "morals"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Aricara" is a synonym for "arikara".
+    value: Arikara
+  - correct: false
+    detail: Incorrect, "cub shark:noun" is not a synonym for "arikara".
+    value: cub shark:noun
+  - correct: false
+    detail: Incorrect, "class coniferopsida:noun" is not a synonym for "arikara".
+    value: class coniferopsida:noun
+  - correct: false
+    detail: Incorrect, "tums:noun" is not a synonym for "arikara".
+    value: tums:noun
+  text: What is a synonym for "arikara"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Judas" is a synonym for "jude".
+    value: Saint Jude
+  - correct: false
+    detail: Incorrect, "intimation:noun" is not a synonym for "jude".
+    value: intimation:noun
+  - correct: false
+    detail: Incorrect, "prix goncourt:noun" is not a synonym for "jude".
+    value: prix goncourt:noun
+  - correct: false
+    detail: Incorrect, "acuate:satellite" is not a synonym for "jude".
+    value: acuate:satellite
+  text: What is a synonym for "jude"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "bam|gust" is a synonym for "blast".
+    value: flak
+  - correct: false
+    detail: Incorrect, "electric:satellite" is not a synonym for "blast".
+    value: electric:satellite
+  - correct: false
+    detail: Incorrect, "austria-hungary:noun" is not a synonym for "blast".
+    value: austria-hungary:noun
+  - correct: false
+    detail: Incorrect, "ransomed:satellite" is not a synonym for "blast".
+    value: ransomed:satellite
+  text: What is a synonym for "blast"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "secret" is a synonym for "mystery".
+    value: whodunit
+  - correct: false
+    detail: Incorrect, "twisting:verb" is not a synonym for "mystery".
+    value: twisting:verb
+  - correct: false
+    detail: Incorrect, "graf zeppelin:noun" is not a synonym for "mystery".
+    value: graf zeppelin:noun
+  - correct: false
+    detail: Incorrect, "contamination:noun" is not a synonym for "mystery".
+    value: contamination:noun
+  text: What is a synonym for "mystery"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "dissembling" is a synonym for "deceit".
+    value: fraudulence|misrepresentation
+  - correct: false
+    detail: Incorrect, "proprietary drug:noun" is not a synonym for "deceit".
+    value: proprietary drug:noun
+  - correct: false
+    detail: Incorrect, "goldworker:noun" is not a synonym for "deceit".
+    value: goldworker:noun
+  - correct: false
+    detail: Incorrect, "defend:verb" is not a synonym for "deceit".
+    value: defend:verb
+  text: What is a synonym for "deceit"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Coyote State" is a synonym for "sd".
+    value: SD
+  - correct: false
+    detail: Incorrect, "lippmann:noun" is not a synonym for "sd".
+    value: lippmann:noun
+  - correct: false
+    detail: Incorrect, "retrace:verb" is not a synonym for "sd".
+    value: retrace:verb
+  - correct: false
+    detail: Incorrect, "illegitimate child:noun" is not a synonym for "sd".
+    value: illegitimate child:noun
+  text: What is a synonym for "sd"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "orchard" is a synonym for "woodlet".
+    value: plantation
+  - correct: false
+    detail: Incorrect, "claymore mine:noun" is not a synonym for "woodlet".
+    value: claymore mine:noun
+  - correct: false
+    detail: Incorrect, "prairie star:noun" is not a synonym for "woodlet".
+    value: prairie star:noun
+  - correct: false
+    detail: Incorrect, "venereal infection:noun" is not a synonym for "woodlet".
+    value: venereal infection:noun
+  text: What is a synonym for "woodlet"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "roaring" is a synonym for "roar".
+    value: boom
+  - correct: false
+    detail: Incorrect, "broken wind:noun" is not a synonym for "roar".
+    value: broken wind:noun
+  - correct: false
+    detail: Incorrect, "deliciousness:noun" is not a synonym for "roar".
+    value: deliciousness:noun
+  - correct: false
+    detail: Incorrect, "genus pogonia:noun" is not a synonym for "roar".
+    value: genus pogonia:noun
+  text: What is a synonym for "roar"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Yugoslavian" is a synonym for "yugoslav".
+    value: Yugoslav
+  - correct: false
+    detail: Incorrect, "tetrabromo-phenolsulfonephthalein:noun" is not a synonym for
+      "yugoslav".
+    value: tetrabromo-phenolsulfonephthalein:noun
+  - correct: false
+    detail: Incorrect, "pavor nocturnus:noun" is not a synonym for "yugoslav".
+    value: pavor nocturnus:noun
+  - correct: false
+    detail: Incorrect, "gluttonise:verb" is not a synonym for "yugoslav".
+    value: gluttonise:verb
+  text: What is a synonym for "yugoslav"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "shop assistant" is a synonym for "clerk".
+    value: shop assistant
+  - correct: false
+    detail: Incorrect, "six:satellite" is not a synonym for "clerk".
+    value: six:satellite
+  - correct: false
+    detail: Incorrect, "stamp out:verb" is not a synonym for "clerk".
+    value: stamp out:verb
+  - correct: false
+    detail: Incorrect, "acute organic brain syndrome:noun" is not a synonym for "clerk".
+    value: acute organic brain syndrome:noun
+  text: What is a synonym for "clerk"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Equality State" is a synonym for "wy".
+    value: Wyoming
+  - correct: false
+    detail: Incorrect, "destine:verb" is not a synonym for "wy".
+    value: destine:verb
+  - correct: false
+    detail: Incorrect, "ineffectiveness:noun" is not a synonym for "wy".
+    value: ineffectiveness:noun
+  - correct: false
+    detail: Incorrect, "spartan:adjective" is not a synonym for "wy".
+    value: spartan:adjective
+  text: What is a synonym for "wy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "St. Anselm" is a synonym for "anselm".
+    value: St. Anselm
+  - correct: false
+    detail: Incorrect, "picnic shoulder:noun" is not a synonym for "anselm".
+    value: picnic shoulder:noun
+  - correct: false
+    detail: Incorrect, "ineluctability:noun" is not a synonym for "anselm".
+    value: ineluctability:noun
+  - correct: false
+    detail: Incorrect, "american cranberry bush:noun" is not a synonym for "anselm".
+    value: american cranberry bush:noun
+  text: What is a synonym for "anselm"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Louis Joliet" is a synonym for "jolliet".
+    value: Louis Jolliet
+  - correct: false
+    detail: Incorrect, "ring-necked pheasant:noun" is not a synonym for "jolliet".
+    value: ring-necked pheasant:noun
+  - correct: false
+    detail: Incorrect, "curly grass fern:noun" is not a synonym for "jolliet".
+    value: curly grass fern:noun
+  - correct: false
+    detail: Incorrect, "sucking:noun" is not a synonym for "jolliet".
+    value: sucking:noun
+  text: What is a synonym for "jolliet"?

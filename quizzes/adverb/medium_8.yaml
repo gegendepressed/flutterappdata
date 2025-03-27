@@ -1,0 +1,302 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "daftly" is a synonym for "nuttily".
+    value: dottily
+  - correct: false
+    detail: Incorrect, "euonymous alatus:noun" is not a synonym for "nuttily".
+    value: euonymous alatus:noun
+  - correct: false
+    detail: Incorrect, "decision making:noun" is not a synonym for "nuttily".
+    value: decision making:noun
+  - correct: false
+    detail: Incorrect, "entertaining:verb" is not a synonym for "nuttily".
+    value: entertaining:verb
+  text: What is a synonym for "nuttily"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "et al." is a synonym for "et alia".
+    value: et al
+  - correct: false
+    detail: Incorrect, "stock room:noun" is not a synonym for "et alia".
+    value: stock room:noun
+  - correct: false
+    detail: Incorrect, "blown:satellite" is not a synonym for "et alia".
+    value: blown:satellite
+  - correct: false
+    detail: Incorrect, "black and white:adjective" is not a synonym for "et alia".
+    value: black and white:adjective
+  text: What is a synonym for "et alia"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "on that point|thither" is a synonym for "there".
+    value: in that location|in that respect
+  - correct: false
+    detail: Incorrect, "ascetic:adjective" is not a synonym for "there".
+    value: ascetic:adjective
+  - correct: false
+    detail: Incorrect, "family papaveraceae:noun" is not a synonym for "there".
+    value: family papaveraceae:noun
+  - correct: false
+    detail: Incorrect, "following:noun" is not a synonym for "there".
+    value: following:noun
+  text: What is a synonym for "there"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "on occasion" is a synonym for "at times".
+    value: now and then
+  - correct: false
+    detail: Incorrect, "stark naked:satellite" is not a synonym for "at times".
+    value: stark naked:satellite
+  - correct: false
+    detail: Incorrect, "rudbeckia hirta:noun" is not a synonym for "at times".
+    value: rudbeckia hirta:noun
+  - correct: false
+    detail: Incorrect, "rate of flow:noun" is not a synonym for "at times".
+    value: rate of flow:noun
+  text: What is a synonym for "at times"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "merrily" is a synonym for "happily".
+    value: merrily
+  - correct: false
+    detail: Incorrect, "quran:noun" is not a synonym for "happily".
+    value: quran:noun
+  - correct: false
+    detail: Incorrect, "silene virginica:noun" is not a synonym for "happily".
+    value: silene virginica:noun
+  - correct: false
+    detail: Incorrect, "auricular:adjective" is not a synonym for "happily".
+    value: auricular:adjective
+  text: What is a synonym for "happily"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "et al." is a synonym for "et aliae".
+    value: et al.
+  - correct: false
+    detail: Incorrect, "license number:noun" is not a synonym for "et aliae".
+    value: license number:noun
+  - correct: false
+    detail: Incorrect, "suction lipectomy:noun" is not a synonym for "et aliae".
+    value: suction lipectomy:noun
+  - correct: false
+    detail: Incorrect, "keep one's eyes peeled:verb" is not a synonym for "et aliae".
+    value: keep one's eyes peeled:verb
+  text: What is a synonym for "et aliae"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "videlicet" is a synonym for "viz.".
+    value: that is to say
+  - correct: false
+    detail: Incorrect, "malcolm stock:noun" is not a synonym for "viz.".
+    value: malcolm stock:noun
+  - correct: false
+    detail: Incorrect, "bound:satellite" is not a synonym for "viz.".
+    value: bound:satellite
+  - correct: false
+    detail: Incorrect, "unmade:verb" is not a synonym for "viz.".
+    value: unmade:verb
+  text: What is a synonym for "viz."?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "seasonably" is a synonym for "apropos".
+    value: timely
+  - correct: false
+    detail: Incorrect, "congruence:noun" is not a synonym for "apropos".
+    value: congruence:noun
+  - correct: false
+    detail: Incorrect, "duellist:noun" is not a synonym for "apropos".
+    value: duellist:noun
+  - correct: false
+    detail: Incorrect, "crown of thorns:noun" is not a synonym for "apropos".
+    value: crown of thorns:noun
+  text: What is a synonym for "apropos"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "unremarkably" is a synonym for "normally".
+    value: ordinarily
+  - correct: false
+    detail: Incorrect, "ordinary:noun" is not a synonym for "normally".
+    value: ordinary:noun
+  - correct: false
+    detail: Incorrect, "waul:verb" is not a synonym for "normally".
+    value: waul:verb
+  - correct: false
+    detail: Incorrect, "cracticus:noun" is not a synonym for "normally".
+    value: cracticus:noun
+  text: What is a synonym for "normally"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "for certain" is a synonym for "sure".
+    value: sure as shooting
+  - correct: false
+    detail: Incorrect, "white hellebore:noun" is not a synonym for "sure".
+    value: white hellebore:noun
+  - correct: false
+    detail: Incorrect, "skinny:satellite" is not a synonym for "sure".
+    value: skinny:satellite
+  - correct: false
+    detail: Incorrect, "ossified:verb" is not a synonym for "sure".
+    value: ossified:verb
+  text: What is a synonym for "sure"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "to begin with" is a synonym for "earlier".
+    value: originally
+  - correct: false
+    detail: Incorrect, "expertly:adverb" is not a synonym for "earlier".
+    value: expertly:adverb
+  - correct: false
+    detail: Incorrect, "illimani:noun" is not a synonym for "earlier".
+    value: illimani:noun
+  - correct: false
+    detail: Incorrect, "eurafrican:noun" is not a synonym for "earlier".
+    value: eurafrican:noun
+  text: What is a synonym for "earlier"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "exquisitely" is a synonym for "finely".
+    value: exquisitely
+  - correct: false
+    detail: Incorrect, "serve:verb" is not a synonym for "finely".
+    value: serve:verb
+  - correct: false
+    detail: Incorrect, "irish setter:noun" is not a synonym for "finely".
+    value: irish setter:noun
+  - correct: false
+    detail: Incorrect, "related:verb" is not a synonym for "finely".
+    value: related:verb
+  text: What is a synonym for "finely"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "lastly" is a synonym for "finally".
+    value: in conclusion
+  - correct: false
+    detail: Incorrect, "inhalator:noun" is not a synonym for "finally".
+    value: inhalator:noun
+  - correct: false
+    detail: Incorrect, "redbird cactus:noun" is not a synonym for "finally".
+    value: redbird cactus:noun
+  - correct: false
+    detail: Incorrect, "decapoda:noun" is not a synonym for "finally".
+    value: decapoda:noun
+  text: What is a synonym for "finally"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "legitimately" is a synonym for "lawfully".
+    value: licitly|legally
+  - correct: false
+    detail: Incorrect, "atomic physics:noun" is not a synonym for "lawfully".
+    value: atomic physics:noun
+  - correct: false
+    detail: Incorrect, "apron:noun" is not a synonym for "lawfully".
+    value: apron:noun
+  - correct: false
+    detail: Incorrect, "french spinach:noun" is not a synonym for "lawfully".
+    value: french spinach:noun
+  text: What is a synonym for "lawfully"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "instantly" is a synonym for "outright".
+    value: instantaneously
+  - correct: false
+    detail: Incorrect, "iodoprotein:noun" is not a synonym for "outright".
+    value: iodoprotein:noun
+  - correct: false
+    detail: Incorrect, "family geophilidae:noun" is not a synonym for "outright".
+    value: family geophilidae:noun
+  - correct: false
+    detail: Incorrect, "final examination:noun" is not a synonym for "outright".
+    value: final examination:noun
+  text: What is a synonym for "outright"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "or so|about|about|round" is a synonym for "around".
+    value: about
+  - correct: false
+    detail: Incorrect, "saxifraga:noun" is not a synonym for "around".
+    value: saxifraga:noun
+  - correct: false
+    detail: Incorrect, "slipshod:satellite" is not a synonym for "around".
+    value: slipshod:satellite
+  - correct: false
+    detail: Incorrect, "nuptse:noun" is not a synonym for "around".
+    value: nuptse:noun
+  text: What is a synonym for "around"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "per year" is a synonym for "p.a.".
+    value: annually
+  - correct: false
+    detail: Incorrect, "missionary:adjective" is not a synonym for "p.a.".
+    value: missionary:adjective
+  - correct: false
+    detail: Incorrect, "battle of zama:noun" is not a synonym for "p.a.".
+    value: battle of zama:noun
+  - correct: false
+    detail: Incorrect, "obstetrician:noun" is not a synonym for "p.a.".
+    value: obstetrician:noun
+  text: What is a synonym for "p.a."?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "AD" is a synonym for "ad".
+    value: AD
+  - correct: false
+    detail: Incorrect, "becket bend:noun" is not a synonym for "ad".
+    value: becket bend:noun
+  - correct: false
+    detail: Incorrect, "groundfish:noun" is not a synonym for "ad".
+    value: groundfish:noun
+  - correct: false
+    detail: Incorrect, "genus ceroxylon:noun" is not a synonym for "ad".
+    value: genus ceroxylon:noun
+  text: What is a synonym for "ad"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "northward" is a synonym for "north".
+    value: northwards
+  - correct: false
+    detail: Incorrect, "school of medicine:noun" is not a synonym for "north".
+    value: school of medicine:noun
+  - correct: false
+    detail: Incorrect, "mustela nivalis:noun" is not a synonym for "north".
+    value: mustela nivalis:noun
+  - correct: false
+    detail: Incorrect, "redress:noun" is not a synonym for "north".
+    value: redress:noun
+  text: What is a synonym for "north"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "praiseworthily" is a synonym for "laudably".
+    value: admirably
+  - correct: false
+    detail: Incorrect, "tegucigalpa:noun" is not a synonym for "laudably".
+    value: tegucigalpa:noun
+  - correct: false
+    detail: Incorrect, "preventive:adjective" is not a synonym for "laudably".
+    value: preventive:adjective
+  - correct: false
+    detail: Incorrect, "first baron marks of broughton:noun" is not a synonym for
+      "laudably".
+    value: first baron marks of broughton:noun
+  text: What is a synonym for "laudably"?

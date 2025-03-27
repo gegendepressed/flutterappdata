@@ -1,0 +1,302 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "specify" is a synonym for "peg down".
+    value: specify
+  - correct: false
+    detail: Incorrect, "understood:verb" is not a synonym for "peg down".
+    value: understood:verb
+  - correct: false
+    detail: Incorrect, "heat energy:noun" is not a synonym for "peg down".
+    value: heat energy:noun
+  - correct: false
+    detail: Incorrect, "deciding:verb" is not a synonym for "peg down".
+    value: deciding:verb
+  text: What is a synonym for "peg down"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "splash" is a synonym for "sloping".
+    value: slop|slop|slop
+  - correct: false
+    detail: Incorrect, "oreopteris:noun" is not a synonym for "sloping".
+    value: oreopteris:noun
+  - correct: false
+    detail: Incorrect, "genus rhizobium:noun" is not a synonym for "sloping".
+    value: genus rhizobium:noun
+  - correct: false
+    detail: Incorrect, "dagda:noun" is not a synonym for "sloping".
+    value: dagda:noun
+  text: What is a synonym for "sloping"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "inveigh|rail" is a synonym for "rails".
+    value: rail
+  - correct: false
+    detail: Incorrect, "wild hyacinth:noun" is not a synonym for "rails".
+    value: wild hyacinth:noun
+  - correct: false
+    detail: Incorrect, "mommsen:noun" is not a synonym for "rails".
+    value: mommsen:noun
+  - correct: false
+    detail: Incorrect, "dog mercury:noun" is not a synonym for "rails".
+    value: dog mercury:noun
+  text: What is a synonym for "rails"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "tangle" is a synonym for "embroil".
+    value: drag in
+  - correct: false
+    detail: Incorrect, "tradition:noun" is not a synonym for "embroil".
+    value: tradition:noun
+  - correct: false
+    detail: Incorrect, "orthopteron:noun" is not a synonym for "embroil".
+    value: orthopteron:noun
+  - correct: false
+    detail: Incorrect, "handout:noun" is not a synonym for "embroil".
+    value: handout:noun
+  text: What is a synonym for "embroil"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "slack off" is a synonym for "die away".
+    value: slack off
+  - correct: false
+    detail: Incorrect, "acer platanoides:noun" is not a synonym for "die away".
+    value: acer platanoides:noun
+  - correct: false
+    detail: Incorrect, "jones' penstemon:noun" is not a synonym for "die away".
+    value: jones' penstemon:noun
+  - correct: false
+    detail: Incorrect, "madagascar pepper:noun" is not a synonym for "die away".
+    value: madagascar pepper:noun
+  text: What is a synonym for "die away"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "saddle" is a synonym for "burden".
+    value: weight
+  - correct: false
+    detail: Incorrect, "sheep's sorrel:noun" is not a synonym for "burden".
+    value: sheep's sorrel:noun
+  - correct: false
+    detail: Incorrect, "far:noun" is not a synonym for "burden".
+    value: far:noun
+  - correct: false
+    detail: Incorrect, "internalization:noun" is not a synonym for "burden".
+    value: internalization:noun
+  text: What is a synonym for "burden"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "decollate" is a synonym for "beheaded".
+    value: behead
+  - correct: false
+    detail: Incorrect, "squatina:noun" is not a synonym for "beheaded".
+    value: squatina:noun
+  - correct: false
+    detail: Incorrect, "gin mill:noun" is not a synonym for "beheaded".
+    value: gin mill:noun
+  - correct: false
+    detail: Incorrect, "intimidate:verb" is not a synonym for "beheaded".
+    value: intimidate:verb
+  text: What is a synonym for "beheaded"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "roll" is a synonym for "hustle".
+    value: bustle
+  - correct: false
+    detail: Incorrect, "wince:noun" is not a synonym for "hustle".
+    value: wince:noun
+  - correct: false
+    detail: Incorrect, "colossae:noun" is not a synonym for "hustle".
+    value: colossae:noun
+  - correct: false
+    detail: Incorrect, "slovakia:noun" is not a synonym for "hustle".
+    value: slovakia:noun
+  text: What is a synonym for "hustle"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "maintain|affirm" is a synonym for "assert".
+    value: swear|put forward|insist
+  - correct: false
+    detail: Incorrect, "methenamine:noun" is not a synonym for "assert".
+    value: methenamine:noun
+  - correct: false
+    detail: Incorrect, "solubleness:noun" is not a synonym for "assert".
+    value: solubleness:noun
+  - correct: false
+    detail: Incorrect, "maltster:noun" is not a synonym for "assert".
+    value: maltster:noun
+  text: What is a synonym for "assert"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "huckster" is a synonym for "hawking".
+    value: hawk
+  - correct: false
+    detail: Incorrect, "hydrotherapy:noun" is not a synonym for "hawking".
+    value: hydrotherapy:noun
+  - correct: false
+    detail: Incorrect, "van wyck brooks:noun" is not a synonym for "hawking".
+    value: van wyck brooks:noun
+  - correct: false
+    detail: Incorrect, "high priest:noun" is not a synonym for "hawking".
+    value: high priest:noun
+  text: What is a synonym for "hawking"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "attach|bring together" is a synonym for "bond".
+    value: stick to|bind
+  - correct: false
+    detail: Incorrect, "holy trinity:noun" is not a synonym for "bond".
+    value: holy trinity:noun
+  - correct: false
+    detail: Incorrect, "vouch:verb" is not a synonym for "bond".
+    value: vouch:verb
+  - correct: false
+    detail: Incorrect, "hurt:noun" is not a synonym for "bond".
+    value: hurt:noun
+  text: What is a synonym for "bond"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "whirlpool" is a synonym for "purl".
+    value: whirlpool
+  - correct: false
+    detail: Incorrect, "arrested development:noun" is not a synonym for "purl".
+    value: arrested development:noun
+  - correct: false
+    detail: Incorrect, "lily turf:noun" is not a synonym for "purl".
+    value: lily turf:noun
+  - correct: false
+    detail: Incorrect, "tupac amaru revolutionary movement:noun" is not a synonym
+      for "purl".
+    value: tupac amaru revolutionary movement:noun
+  text: What is a synonym for "purl"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "choke off" is a synonym for "congest".
+    value: choke
+  - correct: false
+    detail: Incorrect, "what is more:adverb" is not a synonym for "congest".
+    value: what is more:adverb
+  - correct: false
+    detail: Incorrect, "jefferson davis' birthday:noun" is not a synonym for "congest".
+    value: jefferson davis' birthday:noun
+  - correct: false
+    detail: Incorrect, "rotary international:noun" is not a synonym for "congest".
+    value: rotary international:noun
+  text: What is a synonym for "congest"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "motorcycle|bicycle" is a synonym for "cycle".
+    value: pedal
+  - correct: false
+    detail: Incorrect, "record-keeper:noun" is not a synonym for "cycle".
+    value: record-keeper:noun
+  - correct: false
+    detail: Incorrect, "genus fabiana:noun" is not a synonym for "cycle".
+    value: genus fabiana:noun
+  - correct: false
+    detail: Incorrect, "prince-of-wales plume:noun" is not a synonym for "cycle".
+    value: prince-of-wales plume:noun
+  text: What is a synonym for "cycle"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "domiciliate|trail" is a synonym for "shack".
+    value: domicile
+  - correct: false
+    detail: Incorrect, "eucalyptus rostrata:noun" is not a synonym for "shack".
+    value: eucalyptus rostrata:noun
+  - correct: false
+    detail: Incorrect, "fagus sylvatica:noun" is not a synonym for "shack".
+    value: fagus sylvatica:noun
+  - correct: false
+    detail: Incorrect, "lever scale:noun" is not a synonym for "shack".
+    value: lever scale:noun
+  text: What is a synonym for "shack"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "jump" is a synonym for "climb up".
+    value: climb
+  - correct: false
+    detail: Incorrect, "globalization:noun" is not a synonym for "climb up".
+    value: globalization:noun
+  - correct: false
+    detail: Incorrect, "carbonated:verb" is not a synonym for "climb up".
+    value: carbonated:verb
+  - correct: false
+    detail: Incorrect, "immunoglobulin m:noun" is not a synonym for "climb up".
+    value: immunoglobulin m:noun
+  text: What is a synonym for "climb up"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "wrinkle" is a synonym for "crisp".
+    value: scrunch up|crispen
+  - correct: false
+    detail: Incorrect, "die back:verb" is not a synonym for "crisp".
+    value: die back:verb
+  - correct: false
+    detail: Incorrect, "punch-drunk:satellite" is not a synonym for "crisp".
+    value: punch-drunk:satellite
+  - correct: false
+    detail: Incorrect, "facelift:noun" is not a synonym for "crisp".
+    value: facelift:noun
+  text: What is a synonym for "crisp"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "tin|house" is a synonym for "put up".
+    value: bear
+  - correct: false
+    detail: Incorrect, "master of laws:noun" is not a synonym for "put up".
+    value: master of laws:noun
+  - correct: false
+    detail: Incorrect, "obviation:noun" is not a synonym for "put up".
+    value: obviation:noun
+  - correct: false
+    detail: Incorrect, "inebriated:verb" is not a synonym for "put up".
+    value: inebriated:verb
+  text: What is a synonym for "put up"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "blaze up" is a synonym for "flaring".
+    value: flame up
+  - correct: false
+    detail: Incorrect, "geoffroea decorticans:noun" is not a synonym for "flaring".
+    value: geoffroea decorticans:noun
+  - correct: false
+    detail: Incorrect, "davy:noun" is not a synonym for "flaring".
+    value: davy:noun
+  - correct: false
+    detail: Incorrect, "fatalistic:adjective" is not a synonym for "flaring".
+    value: fatalistic:adjective
+  text: What is a synonym for "flaring"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "botch" is a synonym for "foul up".
+    value: louse up
+  - correct: false
+    detail: Incorrect, "unmown:adjective" is not a synonym for "foul up".
+    value: unmown:adjective
+  - correct: false
+    detail: Incorrect, "come apart:verb" is not a synonym for "foul up".
+    value: come apart:verb
+  - correct: false
+    detail: Incorrect, "grey polypody:noun" is not a synonym for "foul up".
+    value: grey polypody:noun
+  text: What is a synonym for "foul up"?

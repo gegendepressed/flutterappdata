@@ -1,0 +1,302 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "independent" is a synonym for "main".
+    value: independent
+  - correct: false
+    detail: Incorrect, "phasmid:noun" is not a synonym for "main".
+    value: phasmid:noun
+  - correct: false
+    detail: Incorrect, "atomic number 21:noun" is not a synonym for "main".
+    value: atomic number 21:noun
+  - correct: false
+    detail: Incorrect, "ecstasy:noun" is not a synonym for "main".
+    value: ecstasy:noun
+  text: What is a synonym for "main"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "carunculous" is a synonym for "caruncular".
+    value: carunculous
+  - correct: false
+    detail: Incorrect, "order testacea:noun" is not a synonym for "caruncular".
+    value: order testacea:noun
+  - correct: false
+    detail: Incorrect, "ulvaceae:noun" is not a synonym for "caruncular".
+    value: ulvaceae:noun
+  - correct: false
+    detail: Incorrect, "giant pigfish:noun" is not a synonym for "caruncular".
+    value: giant pigfish:noun
+  text: What is a synonym for "caruncular"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "sedimentary" is a synonym for "aqueous".
+    value: sedimentary
+  - correct: false
+    detail: Incorrect, "hydrophyllaceae:noun" is not a synonym for "aqueous".
+    value: hydrophyllaceae:noun
+  - correct: false
+    detail: Incorrect, "unworthy:satellite" is not a synonym for "aqueous".
+    value: unworthy:satellite
+  - correct: false
+    detail: Incorrect, "regretful:adjective" is not a synonym for "aqueous".
+    value: regretful:adjective
+  text: What is a synonym for "aqueous"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "affixial" is a synonym for "affixal".
+    value: affixial
+  - correct: false
+    detail: Incorrect, "canadian hemlock:noun" is not a synonym for "affixal".
+    value: canadian hemlock:noun
+  - correct: false
+    detail: Incorrect, "viscounty:noun" is not a synonym for "affixal".
+    value: viscounty:noun
+  - correct: false
+    detail: Incorrect, "gritty:satellite" is not a synonym for "affixal".
+    value: gritty:satellite
+  text: What is a synonym for "affixal"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "vegetational" is a synonym for "vegetative".
+    value: vegetive|vegetal
+  - correct: false
+    detail: Incorrect, "soporiferous:satellite" is not a synonym for "vegetative".
+    value: soporiferous:satellite
+  - correct: false
+    detail: Incorrect, "materia medica:noun" is not a synonym for "vegetative".
+    value: materia medica:noun
+  - correct: false
+    detail: Incorrect, "carrousel:noun" is not a synonym for "vegetative".
+    value: carrousel:noun
+  text: What is a synonym for "vegetative"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Anglo-Jewish" is a synonym for "anglo-jewish".
+    value: Anglo-Jewish
+  - correct: false
+    detail: Incorrect, "orpheus:noun" is not a synonym for "anglo-jewish".
+    value: orpheus:noun
+  - correct: false
+    detail: Incorrect, "aegis:noun" is not a synonym for "anglo-jewish".
+    value: aegis:noun
+  - correct: false
+    detail: Incorrect, "criminal intelligence services of canada:noun" is not a synonym
+      for "anglo-jewish".
+    value: criminal intelligence services of canada:noun
+  text: What is a synonym for "anglo-jewish"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "angular" is a synonym for "angulate".
+    value: angular
+  - correct: false
+    detail: Incorrect, "uintatheriidae:noun" is not a synonym for "angulate".
+    value: uintatheriidae:noun
+  - correct: false
+    detail: Incorrect, "hussite:noun" is not a synonym for "angulate".
+    value: hussite:noun
+  - correct: false
+    detail: Incorrect, "sorensen:noun" is not a synonym for "angulate".
+    value: sorensen:noun
+  text: What is a synonym for "angulate"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "pyemic" is a synonym for "pyaemic".
+    value: pyemic
+  - correct: false
+    detail: Incorrect, "turbinate bone:noun" is not a synonym for "pyaemic".
+    value: turbinate bone:noun
+  - correct: false
+    detail: Incorrect, "william blake:noun" is not a synonym for "pyaemic".
+    value: william blake:noun
+  - correct: false
+    detail: Incorrect, "misuse:verb" is not a synonym for "pyaemic".
+    value: misuse:verb
+  text: What is a synonym for "pyaemic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "brassy" is a synonym for "brasslike".
+    value: brassy
+  - correct: false
+    detail: Incorrect, "paul bunyan:noun" is not a synonym for "brasslike".
+    value: paul bunyan:noun
+  - correct: false
+    detail: Incorrect, "stock raiser:noun" is not a synonym for "brasslike".
+    value: stock raiser:noun
+  - correct: false
+    detail: Incorrect, "genus micropogonias:noun" is not a synonym for "brasslike".
+    value: genus micropogonias:noun
+  text: What is a synonym for "brasslike"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "clitoric" is a synonym for "clitoral".
+    value: clitoric
+  - correct: false
+    detail: Incorrect, "action mechanism:noun" is not a synonym for "clitoral".
+    value: action mechanism:noun
+  - correct: false
+    detail: Incorrect, "unsexed:verb" is not a synonym for "clitoral".
+    value: unsexed:verb
+  - correct: false
+    detail: Incorrect, "haematic:adjective" is not a synonym for "clitoral".
+    value: haematic:adjective
+  text: What is a synonym for "clitoral"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "cowardly" is a synonym for "fearful".
+    value: cowardly
+  - correct: false
+    detail: Incorrect, "cardinal number:noun" is not a synonym for "fearful".
+    value: cardinal number:noun
+  - correct: false
+    detail: Incorrect, "primula elatior:noun" is not a synonym for "fearful".
+    value: primula elatior:noun
+  - correct: false
+    detail: Incorrect, "family helvellaceae:noun" is not a synonym for "fearful".
+    value: family helvellaceae:noun
+  text: What is a synonym for "fearful"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Cambodian" is a synonym for "kampuchean".
+    value: Cambodian
+  - correct: false
+    detail: Incorrect, "thereto:adverb" is not a synonym for "kampuchean".
+    value: thereto:adverb
+  - correct: false
+    detail: Incorrect, "oily:satellite" is not a synonym for "kampuchean".
+    value: oily:satellite
+  - correct: false
+    detail: Incorrect, "epsilon aurigae:noun" is not a synonym for "kampuchean".
+    value: epsilon aurigae:noun
+  text: What is a synonym for "kampuchean"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "adynamic" is a synonym for "undynamic".
+    value: adynamic
+  - correct: false
+    detail: Incorrect, "actaea rubra:noun" is not a synonym for "undynamic".
+    value: actaea rubra:noun
+  - correct: false
+    detail: Incorrect, "teething ring:noun" is not a synonym for "undynamic".
+    value: teething ring:noun
+  - correct: false
+    detail: Incorrect, "gubbins:noun" is not a synonym for "undynamic".
+    value: gubbins:noun
+  text: What is a synonym for "undynamic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "avellan" is a synonym for "avellane".
+    value: avellan
+  - correct: false
+    detail: Incorrect, "krakow:noun" is not a synonym for "avellane".
+    value: krakow:noun
+  - correct: false
+    detail: Incorrect, "wi:noun" is not a synonym for "avellane".
+    value: wi:noun
+  - correct: false
+    detail: Incorrect, "trapezius:noun" is not a synonym for "avellane".
+    value: trapezius:noun
+  text: What is a synonym for "avellane"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "biped" is a synonym for "two-footed".
+    value: bipedal
+  - correct: false
+    detail: Incorrect, "colonized:verb" is not a synonym for "two-footed".
+    value: colonized:verb
+  - correct: false
+    detail: Incorrect, "defining:verb" is not a synonym for "two-footed".
+    value: defining:verb
+  - correct: false
+    detail: Incorrect, "stunner:noun" is not a synonym for "two-footed".
+    value: stunner:noun
+  text: What is a synonym for "two-footed"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "dorsal" is a synonym for "abaxial".
+    value: dorsal
+  - correct: false
+    detail: Incorrect, "console table:noun" is not a synonym for "abaxial".
+    value: console table:noun
+  - correct: false
+    detail: Incorrect, "locust:noun" is not a synonym for "abaxial".
+    value: locust:noun
+  - correct: false
+    detail: Incorrect, "bayes' postulate:noun" is not a synonym for "abaxial".
+    value: bayes' postulate:noun
+  text: What is a synonym for "abaxial"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "inadvisable" is a synonym for "unadvisable".
+    value: inadvisable
+  - correct: false
+    detail: Incorrect, "misappropriated:verb" is not a synonym for "unadvisable".
+    value: misappropriated:verb
+  - correct: false
+    detail: Incorrect, "echinodermata:noun" is not a synonym for "unadvisable".
+    value: echinodermata:noun
+  - correct: false
+    detail: Incorrect, "unseeded:satellite" is not a synonym for "unadvisable".
+    value: unseeded:satellite
+  text: What is a synonym for "unadvisable"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Korean" is a synonym for "korean".
+    value: Korean
+  - correct: false
+    detail: Incorrect, "umbilical vesicle:noun" is not a synonym for "korean".
+    value: umbilical vesicle:noun
+  - correct: false
+    detail: Incorrect, "homework:noun" is not a synonym for "korean".
+    value: homework:noun
+  - correct: false
+    detail: Incorrect, "rewording:verb" is not a synonym for "korean".
+    value: rewording:verb
+  text: What is a synonym for "korean"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Burmese" is a synonym for "burmese".
+    value: Burmese
+  - correct: false
+    detail: Incorrect, "iditarod:noun" is not a synonym for "burmese".
+    value: iditarod:noun
+  - correct: false
+    detail: Incorrect, "fungi:noun" is not a synonym for "burmese".
+    value: fungi:noun
+  - correct: false
+    detail: Incorrect, "methenamine:noun" is not a synonym for "burmese".
+    value: methenamine:noun
+  text: What is a synonym for "burmese"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "prodromal" is a synonym for "prodromic".
+    value: prodromal
+  - correct: false
+    detail: Incorrect, "conjugate solution:noun" is not a synonym for "prodromic".
+    value: conjugate solution:noun
+  - correct: false
+    detail: Incorrect, "genus tetraneuris:noun" is not a synonym for "prodromic".
+    value: genus tetraneuris:noun
+  - correct: false
+    detail: Incorrect, "malecite:noun" is not a synonym for "prodromic".
+    value: malecite:noun
+  text: What is a synonym for "prodromic"?

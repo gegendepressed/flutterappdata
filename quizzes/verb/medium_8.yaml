@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "depend" is a synonym for "look".
+    value: seem|search|front
+  - correct: false
+    detail: Incorrect, "vibrio comma:noun" is not a synonym for "look".
+    value: vibrio comma:noun
+  - correct: false
+    detail: Incorrect, "grit:noun" is not a synonym for "look".
+    value: grit:noun
+  - correct: false
+    detail: Incorrect, "comic opera:noun" is not a synonym for "look".
+    value: comic opera:noun
+  text: What is a synonym for "look"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fascinate" is a synonym for "transfix".
+    value: grip
+  - correct: false
+    detail: Incorrect, "black-stemmed spleenwort:noun" is not a synonym for "transfix".
+    value: black-stemmed spleenwort:noun
+  - correct: false
+    detail: Incorrect, "microwave:noun" is not a synonym for "transfix".
+    value: microwave:noun
+  - correct: false
+    detail: Incorrect, "substitutable:satellite" is not a synonym for "transfix".
+    value: substitutable:satellite
+  text: What is a synonym for "transfix"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "cut|load" is a synonym for "diluted".
+    value: stretch
+  - correct: false
+    detail: Incorrect, "wilhelm karl grimm:noun" is not a synonym for "diluted".
+    value: wilhelm karl grimm:noun
+  - correct: false
+    detail: Incorrect, "black snakeroot:noun" is not a synonym for "diluted".
+    value: black snakeroot:noun
+  - correct: false
+    detail: Incorrect, "decimal point:noun" is not a synonym for "diluted".
+    value: decimal point:noun
+  text: What is a synonym for "diluted"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "wait" is a synonym for "awaited".
+    value: look
+  - correct: false
+    detail: Incorrect, "sunray:noun" is not a synonym for "awaited".
+    value: sunray:noun
+  - correct: false
+    detail: Incorrect, "sandril:noun" is not a synonym for "awaited".
+    value: sandril:noun
+  - correct: false
+    detail: Incorrect, "genus nicandra:noun" is not a synonym for "awaited".
+    value: genus nicandra:noun
+  text: What is a synonym for "awaited"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "damp" is a synonym for "muffled".
+    value: tone down
+  - correct: false
+    detail: Incorrect, "cyanogenetic:satellite" is not a synonym for "muffled".
+    value: cyanogenetic:satellite
+  - correct: false
+    detail: Incorrect, "bubbly:noun" is not a synonym for "muffled".
+    value: bubbly:noun
+  - correct: false
+    detail: Incorrect, "plague pneumonia:noun" is not a synonym for "muffled".
+    value: plague pneumonia:noun
+  text: What is a synonym for "muffled"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "demolish|jam" is a synonym for "crushed".
+    value: beat out
+  - correct: false
+    detail: Incorrect, "trade good:noun" is not a synonym for "crushed".
+    value: trade good:noun
+  - correct: false
+    detail: Incorrect, "erolia:noun" is not a synonym for "crushed".
+    value: erolia:noun
+  - correct: false
+    detail: Incorrect, "mutsuhito:noun" is not a synonym for "crushed".
+    value: mutsuhito:noun
+  text: What is a synonym for "crushed"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "hop on" is a synonym for "jump on".
+    value: mount up
+  - correct: false
+    detail: Incorrect, "leo the lion:noun" is not a synonym for "jump on".
+    value: leo the lion:noun
+  - correct: false
+    detail: Incorrect, "maintained:satellite" is not a synonym for "jump on".
+    value: maintained:satellite
+  - correct: false
+    detail: Incorrect, "nose:noun" is not a synonym for "jump on".
+    value: nose:noun
+  text: What is a synonym for "jump on"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "twiddle" is a synonym for "swirl".
+    value: whirl|eddy
+  - correct: false
+    detail: Incorrect, "comfortable:adjective" is not a synonym for "swirl".
+    value: comfortable:adjective
+  - correct: false
+    detail: Incorrect, "keynote:noun" is not a synonym for "swirl".
+    value: keynote:noun
+  - correct: false
+    detail: Incorrect, "rochelle salts:noun" is not a synonym for "swirl".
+    value: rochelle salts:noun
+  text: What is a synonym for "swirl"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "botch" is a synonym for "bungle".
+    value: bollix up
+  - correct: false
+    detail: Incorrect, "loganiaceae:noun" is not a synonym for "bungle".
+    value: loganiaceae:noun
+  - correct: false
+    detail: Incorrect, "qabbalah:noun" is not a synonym for "bungle".
+    value: qabbalah:noun
+  - correct: false
+    detail: Incorrect, "cubic yard:noun" is not a synonym for "bungle".
+    value: cubic yard:noun
+  text: What is a synonym for "bungle"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "burn out" is a synonym for "blow out".
+    value: blow|snuff out
+  - correct: false
+    detail: Incorrect, "grease-gun:noun" is not a synonym for "blow out".
+    value: grease-gun:noun
+  - correct: false
+    detail: Incorrect, "pink shower tree:noun" is not a synonym for "blow out".
+    value: pink shower tree:noun
+  - correct: false
+    detail: Incorrect, "whicker:verb" is not a synonym for "blow out".
+    value: whicker:verb
+  text: What is a synonym for "blow out"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "cycle" is a synonym for "wheeling".
+    value: cycle
+  - correct: false
+    detail: Incorrect, "at bay:satellite" is not a synonym for "wheeling".
+    value: at bay:satellite
+  - correct: false
+    detail: Incorrect, "maulers:noun" is not a synonym for "wheeling".
+    value: maulers:noun
+  - correct: false
+    detail: Incorrect, "mucocutaneous leishmaniasis:noun" is not a synonym for "wheeling".
+    value: mucocutaneous leishmaniasis:noun
+  text: What is a synonym for "wheeling"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "bank|believe|hope" is a synonym for "trust".
+    value: rely
+  - correct: false
+    detail: Incorrect, "nothofagus cuninghamii:noun" is not a synonym for "trust".
+    value: nothofagus cuninghamii:noun
+  - correct: false
+    detail: Incorrect, "cubbyhole:noun" is not a synonym for "trust".
+    value: cubbyhole:noun
+  - correct: false
+    detail: Incorrect, "horse of the wood:noun" is not a synonym for "trust".
+    value: horse of the wood:noun
+  text: What is a synonym for "trust"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "provoke" is a synonym for "kindle".
+    value: inflame|arouse
+  - correct: false
+    detail: Incorrect, "kriti:noun" is not a synonym for "kindle".
+    value: kriti:noun
+  - correct: false
+    detail: Incorrect, "wrist:noun" is not a synonym for "kindle".
+    value: wrist:noun
+  - correct: false
+    detail: Incorrect, "enceinte:satellite" is not a synonym for "kindle".
+    value: enceinte:satellite
+  text: What is a synonym for "kindle"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "state" is a synonym for "say".
+    value: aver|suppose|read|order
+  - correct: false
+    detail: Incorrect, "prothrombinase:noun" is not a synonym for "say".
+    value: prothrombinase:noun
+  - correct: false
+    detail: Incorrect, "nbe:noun" is not a synonym for "say".
+    value: nbe:noun
+  - correct: false
+    detail: Incorrect, "raven:verb" is not a synonym for "say".
+    value: raven:verb
+  text: What is a synonym for "say"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "powderise" is a synonym for "powdered".
+    value: pulverise|powder
+  - correct: false
+    detail: Incorrect, "a trifle:adverb" is not a synonym for "powdered".
+    value: a trifle:adverb
+  - correct: false
+    detail: Incorrect, "rara avis:noun" is not a synonym for "powdered".
+    value: rara avis:noun
+  - correct: false
+    detail: Incorrect, "day-to-day:satellite" is not a synonym for "powdered".
+    value: day-to-day:satellite
+  text: What is a synonym for "powdered"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "lay" is a synonym for "position".
+    value: set
+  - correct: false
+    detail: Incorrect, "line of inquiry:noun" is not a synonym for "position".
+    value: line of inquiry:noun
+  - correct: false
+    detail: Incorrect, "cbc:noun" is not a synonym for "position".
+    value: cbc:noun
+  - correct: false
+    detail: Incorrect, "liriope muscari:noun" is not a synonym for "position".
+    value: liriope muscari:noun
+  text: What is a synonym for "position"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "go on" is a synonym for "move on".
+    value: pass on
+  - correct: false
+    detail: Incorrect, "minoxidil:noun" is not a synonym for "move on".
+    value: minoxidil:noun
+  - correct: false
+    detail: Incorrect, "hash over:verb" is not a synonym for "move on".
+    value: hash over:verb
+  - correct: false
+    detail: Incorrect, "woolly bear caterpillar:noun" is not a synonym for "move on".
+    value: woolly bear caterpillar:noun
+  text: What is a synonym for "move on"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "tusk|tusk" is a synonym for "tusked".
+    value: horn
+  - correct: false
+    detail: Incorrect, "brawl:noun" is not a synonym for "tusked".
+    value: brawl:noun
+  - correct: false
+    detail: Incorrect, "mandelamine:noun" is not a synonym for "tusked".
+    value: mandelamine:noun
+  - correct: false
+    detail: Incorrect, "lindheimera texana:noun" is not a synonym for "tusked".
+    value: lindheimera texana:noun
+  text: What is a synonym for "tusked"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "live" is a synonym for "hold up".
+    value: withstand
+  - correct: false
+    detail: Incorrect, "bank line:noun" is not a synonym for "hold up".
+    value: bank line:noun
+  - correct: false
+    detail: Incorrect, "bereaved person:noun" is not a synonym for "hold up".
+    value: bereaved person:noun
+  - correct: false
+    detail: Incorrect, "acoustic wave:noun" is not a synonym for "hold up".
+    value: acoustic wave:noun
+  text: What is a synonym for "hold up"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "speed" is a synonym for "hasten".
+    value: stimulate
+  - correct: false
+    detail: Incorrect, "matureness:noun" is not a synonym for "hasten".
+    value: matureness:noun
+  - correct: false
+    detail: Incorrect, "sculling:verb" is not a synonym for "hasten".
+    value: sculling:verb
+  - correct: false
+    detail: Incorrect, "george m. cohan:noun" is not a synonym for "hasten".
+    value: george m. cohan:noun
+  text: What is a synonym for "hasten"?

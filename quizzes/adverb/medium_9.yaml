@@ -1,0 +1,302 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "frontwards" is a synonym for "forwards".
+    value: onward
+  - correct: false
+    detail: Incorrect, "chiller:noun" is not a synonym for "forwards".
+    value: chiller:noun
+  - correct: false
+    detail: Incorrect, "spectacular:satellite" is not a synonym for "forwards".
+    value: spectacular:satellite
+  - correct: false
+    detail: Incorrect, "castroism:noun" is not a synonym for "forwards".
+    value: castroism:noun
+  text: What is a synonym for "forwards"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "apparently" is a synonym for "plain".
+    value: plainly
+  - correct: false
+    detail: Incorrect, "bermuda maidenhair fern:noun" is not a synonym for "plain".
+    value: bermuda maidenhair fern:noun
+  - correct: false
+    detail: Incorrect, "stamping ground:noun" is not a synonym for "plain".
+    value: stamping ground:noun
+  - correct: false
+    detail: Incorrect, "beatnik:noun" is not a synonym for "plain".
+    value: beatnik:noun
+  text: What is a synonym for "plain"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "awful" is a synonym for "terribly".
+    value: abominably
+  - correct: false
+    detail: Incorrect, "great cerebral vein:noun" is not a synonym for "terribly".
+    value: great cerebral vein:noun
+  - correct: false
+    detail: Incorrect, "floppy:noun" is not a synonym for "terribly".
+    value: floppy:noun
+  - correct: false
+    detail: Incorrect, "buttery:satellite" is not a synonym for "terribly".
+    value: buttery:satellite
+  text: What is a synonym for "terribly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rather" is a synonym for "kinda".
+    value: kind of
+  - correct: false
+    detail: Incorrect, "contraceptive:noun" is not a synonym for "kinda".
+    value: contraceptive:noun
+  - correct: false
+    detail: Incorrect, "burke:noun" is not a synonym for "kinda".
+    value: burke:noun
+  - correct: false
+    detail: Incorrect, "spiritual rebirth:noun" is not a synonym for "kinda".
+    value: spiritual rebirth:noun
+  text: What is a synonym for "kinda"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "boastfully" is a synonym for "big".
+    value: vauntingly
+  - correct: false
+    detail: Incorrect, "storage device:noun" is not a synonym for "big".
+    value: storage device:noun
+  - correct: false
+    detail: Incorrect, "tiger:noun" is not a synonym for "big".
+    value: tiger:noun
+  - correct: false
+    detail: Incorrect, "zea saccharata:noun" is not a synonym for "big".
+    value: zea saccharata:noun
+  text: What is a synonym for "big"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "middling" is a synonym for "jolly".
+    value: fairly
+  - correct: false
+    detail: Incorrect, "profitableness:noun" is not a synonym for "jolly".
+    value: profitableness:noun
+  - correct: false
+    detail: Incorrect, "birchbark canoe:noun" is not a synonym for "jolly".
+    value: birchbark canoe:noun
+  - correct: false
+    detail: Incorrect, "uppity:satellite" is not a synonym for "jolly".
+    value: uppity:satellite
+  text: What is a synonym for "jolly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "advantageously|well" is a synonym for "best".
+    value: good|well|well
+  - correct: false
+    detail: Incorrect, "flapping:verb" is not a synonym for "best".
+    value: flapping:verb
+  - correct: false
+    detail: Incorrect, "fagot:verb" is not a synonym for "best".
+    value: fagot:verb
+  - correct: false
+    detail: Incorrect, "carbonic:adjective" is not a synonym for "best".
+    value: carbonic:adjective
+  text: What is a synonym for "best"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "very" is a synonym for "rattling".
+    value: very
+  - correct: false
+    detail: Incorrect, "rubus caesius:noun" is not a synonym for "rattling".
+    value: rubus caesius:noun
+  - correct: false
+    detail: Incorrect, "limax:noun" is not a synonym for "rattling".
+    value: limax:noun
+  - correct: false
+    detail: Incorrect, "benzine:noun" is not a synonym for "rattling".
+    value: benzine:noun
+  text: What is a synonym for "rattling"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "until now" is a synonym for "til now".
+    value: thus far
+  - correct: false
+    detail: Incorrect, "29th:satellite" is not a synonym for "til now".
+    value: 29th:satellite
+  - correct: false
+    detail: Incorrect, "max muller:noun" is not a synonym for "til now".
+    value: max muller:noun
+  - correct: false
+    detail: Incorrect, "instruction execution:noun" is not a synonym for "til now".
+    value: instruction execution:noun
+  text: What is a synonym for "til now"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "slyly" is a synonym for "foxily".
+    value: slyly
+  - correct: false
+    detail: Incorrect, "decilitre:noun" is not a synonym for "foxily".
+    value: decilitre:noun
+  - correct: false
+    detail: Incorrect, "brescia:noun" is not a synonym for "foxily".
+    value: brescia:noun
+  - correct: false
+    detail: Incorrect, "twelve noon:noun" is not a synonym for "foxily".
+    value: twelve noon:noun
+  text: What is a synonym for "foxily"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "decently" is a synonym for "right".
+    value: powerful|justly|correctly
+  - correct: false
+    detail: Incorrect, "epic:adjective" is not a synonym for "right".
+    value: epic:adjective
+  - correct: false
+    detail: Incorrect, "veterinary:noun" is not a synonym for "right".
+    value: veterinary:noun
+  - correct: false
+    detail: Incorrect, "alberti:noun" is not a synonym for "right".
+    value: alberti:noun
+  text: What is a synonym for "right"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "sagaciously" is a synonym for "astutely".
+    value: shrewdly
+  - correct: false
+    detail: Incorrect, "callousness:noun" is not a synonym for "astutely".
+    value: callousness:noun
+  - correct: false
+    detail: Incorrect, "sciaenidae:noun" is not a synonym for "astutely".
+    value: sciaenidae:noun
+  - correct: false
+    detail: Incorrect, "straighten up:verb" is not a synonym for "astutely".
+    value: straighten up:verb
+  text: What is a synonym for "astutely"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "passing" is a synonym for "super".
+    value: extremely
+  - correct: false
+    detail: Incorrect, "pass by:verb" is not a synonym for "super".
+    value: pass by:verb
+  - correct: false
+    detail: Incorrect, "indo-hittite:noun" is not a synonym for "super".
+    value: indo-hittite:noun
+  - correct: false
+    detail: Incorrect, "exemplify:verb" is not a synonym for "super".
+    value: exemplify:verb
+  text: What is a synonym for "super"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "anyways" is a synonym for "anyhow".
+    value: at any rate
+  - correct: false
+    detail: Incorrect, "sium suave:noun" is not a synonym for "anyhow".
+    value: sium suave:noun
+  - correct: false
+    detail: Incorrect, "people against gangsterism and drugs:noun" is not a synonym
+      for "anyhow".
+    value: people against gangsterism and drugs:noun
+  - correct: false
+    detail: Incorrect, "vomit:verb" is not a synonym for "anyhow".
+    value: vomit:verb
+  text: What is a synonym for "anyhow"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "deadly" is a synonym for "deucedly".
+    value: deadly
+  - correct: false
+    detail: Incorrect, "club:noun" is not a synonym for "deucedly".
+    value: club:noun
+  - correct: false
+    detail: Incorrect, "doubtful:satellite" is not a synonym for "deucedly".
+    value: doubtful:satellite
+  - correct: false
+    detail: Incorrect, "she-bop:verb" is not a synonym for "deucedly".
+    value: she-bop:verb
+  text: What is a synonym for "deucedly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "dead|unawares|curtly" is a synonym for "short".
+    value: suddenly
+  - correct: false
+    detail: Incorrect, "crackle:verb" is not a synonym for "short".
+    value: crackle:verb
+  - correct: false
+    detail: Incorrect, "genus erignathus:noun" is not a synonym for "short".
+    value: genus erignathus:noun
+  - correct: false
+    detail: Incorrect, "encrusted:verb" is not a synonym for "short".
+    value: encrusted:verb
+  text: What is a synonym for "short"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "befittingly" is a synonym for "suitably".
+    value: fittingly
+  - correct: false
+    detail: Incorrect, "verner:noun" is not a synonym for "suitably".
+    value: verner:noun
+  - correct: false
+    detail: Incorrect, "tropicbird:noun" is not a synonym for "suitably".
+    value: tropicbird:noun
+  - correct: false
+    detail: Incorrect, "hawkyns:noun" is not a synonym for "suitably".
+    value: hawkyns:noun
+  text: What is a synonym for "suitably"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "obliquely" is a synonym for "sideways".
+    value: sideway
+  - correct: false
+    detail: Incorrect, "party to the action:noun" is not a synonym for "sideways".
+    value: party to the action:noun
+  - correct: false
+    detail: Incorrect, "relate:verb" is not a synonym for "sideways".
+    value: relate:verb
+  - correct: false
+    detail: Incorrect, "second banana:noun" is not a synonym for "sideways".
+    value: second banana:noun
+  text: What is a synonym for "sideways"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "sagaciously" is a synonym for "shrewdly".
+    value: acutely
+  - correct: false
+    detail: Incorrect, "doped:verb" is not a synonym for "shrewdly".
+    value: doped:verb
+  - correct: false
+    detail: Incorrect, "virginia mallow:noun" is not a synonym for "shrewdly".
+    value: virginia mallow:noun
+  - correct: false
+    detail: Incorrect, "qintar:noun" is not a synonym for "shrewdly".
+    value: qintar:noun
+  text: What is a synonym for "shrewdly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "apparently" is a synonym for "plainly".
+    value: obviously
+  - correct: false
+    detail: Incorrect, "somatic cell:noun" is not a synonym for "plainly".
+    value: somatic cell:noun
+  - correct: false
+    detail: Incorrect, "meet:satellite" is not a synonym for "plainly".
+    value: meet:satellite
+  - correct: false
+    detail: Incorrect, "blusher:noun" is not a synonym for "plainly".
+    value: blusher:noun
+  text: What is a synonym for "plainly"?

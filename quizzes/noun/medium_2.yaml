@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "arbor|spike" is a synonym for "spindle".
+    value: mandril
+  - correct: false
+    detail: Incorrect, "tube-shaped:satellite" is not a synonym for "spindle".
+    value: tube-shaped:satellite
+  - correct: false
+    detail: Incorrect, "dry:verb" is not a synonym for "spindle".
+    value: dry:verb
+  - correct: false
+    detail: Incorrect, "language unit:noun" is not a synonym for "spindle".
+    value: language unit:noun
+  text: What is a synonym for "spindle"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "shaft|gig" is a synonym for "spear".
+    value: lance
+  - correct: false
+    detail: Incorrect, "dialog box:noun" is not a synonym for "spear".
+    value: dialog box:noun
+  - correct: false
+    detail: Incorrect, "teentsy:satellite" is not a synonym for "spear".
+    value: teentsy:satellite
+  - correct: false
+    detail: Incorrect, "cleaver:noun" is not a synonym for "spear".
+    value: cleaver:noun
+  text: What is a synonym for "spear"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rig" is a synonym for "turnout".
+    value: rig
+  - correct: false
+    detail: Incorrect, "advertency:noun" is not a synonym for "turnout".
+    value: advertency:noun
+  - correct: false
+    detail: Incorrect, "magnoliidae:noun" is not a synonym for "turnout".
+    value: magnoliidae:noun
+  - correct: false
+    detail: Incorrect, "swooning:verb" is not a synonym for "turnout".
+    value: swooning:verb
+  text: What is a synonym for "turnout"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "submarine" is a synonym for "pigboat".
+    value: sub
+  - correct: false
+    detail: Incorrect, "himalaya:noun" is not a synonym for "pigboat".
+    value: himalaya:noun
+  - correct: false
+    detail: Incorrect, "blaze away:verb" is not a synonym for "pigboat".
+    value: blaze away:verb
+  - correct: false
+    detail: Incorrect, "extinguishing:verb" is not a synonym for "pigboat".
+    value: extinguishing:verb
+  text: What is a synonym for "pigboat"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Skopje" is a synonym for "uskub".
+    value: Uskub
+  - correct: false
+    detail: Incorrect, "shouter:noun" is not a synonym for "uskub".
+    value: shouter:noun
+  - correct: false
+    detail: Incorrect, "bring home:verb" is not a synonym for "uskub".
+    value: bring home:verb
+  - correct: false
+    detail: Incorrect, "intrusion:noun" is not a synonym for "uskub".
+    value: intrusion:noun
+  text: What is a synonym for "uskub"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "varan" is a synonym for "monitor".
+    value: proctor|admonisher
+  - correct: false
+    detail: Incorrect, "solemn:satellite" is not a synonym for "monitor".
+    value: solemn:satellite
+  - correct: false
+    detail: Incorrect, "fast one:noun" is not a synonym for "monitor".
+    value: fast one:noun
+  - correct: false
+    detail: Incorrect, "nucleate:adjective" is not a synonym for "monitor".
+    value: nucleate:adjective
+  text: What is a synonym for "monitor"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rose-apple tree" is a synonym for "jambosa".
+    value: Eugenia jambos
+  - correct: false
+    detail: Incorrect, "transudation:noun" is not a synonym for "jambosa".
+    value: transudation:noun
+  - correct: false
+    detail: Incorrect, "family trypetidae:noun" is not a synonym for "jambosa".
+    value: family trypetidae:noun
+  - correct: false
+    detail: Incorrect, "transmogrify:verb" is not a synonym for "jambosa".
+    value: transmogrify:verb
+  text: What is a synonym for "jambosa"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "five" is a synonym for "fivesome".
+    value: quintette
+  - correct: false
+    detail: Incorrect, "genus nephrolepis:noun" is not a synonym for "fivesome".
+    value: genus nephrolepis:noun
+  - correct: false
+    detail: Incorrect, "rubber:satellite" is not a synonym for "fivesome".
+    value: rubber:satellite
+  - correct: false
+    detail: Incorrect, "cards:noun" is not a synonym for "fivesome".
+    value: cards:noun
+  text: What is a synonym for "fivesome"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Photinia arbutifolia" is a synonym for "toyon".
+    value: tollon
+  - correct: false
+    detail: Incorrect, "permissibly:adverb" is not a synonym for "toyon".
+    value: permissibly:adverb
+  - correct: false
+    detail: Incorrect, "rat:noun" is not a synonym for "toyon".
+    value: rat:noun
+  - correct: false
+    detail: Incorrect, "novocaine:noun" is not a synonym for "toyon".
+    value: novocaine:noun
+  text: What is a synonym for "toyon"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "romaine" is a synonym for "coss".
+    value: cos|cos
+  - correct: false
+    detail: Incorrect, "toothbrush tree:noun" is not a synonym for "coss".
+    value: toothbrush tree:noun
+  - correct: false
+    detail: Incorrect, "vena appendicularis:noun" is not a synonym for "coss".
+    value: vena appendicularis:noun
+  - correct: false
+    detail: Incorrect, "nepeta hederaceae:noun" is not a synonym for "coss".
+    value: nepeta hederaceae:noun
+  text: What is a synonym for "coss"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "spreading factor" is a synonym for "hyazyme".
+    value: spreading factor
+  - correct: false
+    detail: Incorrect, "cherry apple:noun" is not a synonym for "hyazyme".
+    value: cherry apple:noun
+  - correct: false
+    detail: Incorrect, "just right:adverb" is not a synonym for "hyazyme".
+    value: just right:adverb
+  - correct: false
+    detail: Incorrect, "open frame:noun" is not a synonym for "hyazyme".
+    value: open frame:noun
+  text: What is a synonym for "hyazyme"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "crawfish" is a synonym for "crawdad".
+    value: crawdaddy
+  - correct: false
+    detail: Incorrect, "storm center:noun" is not a synonym for "crawdad".
+    value: storm center:noun
+  - correct: false
+    detail: Incorrect, "john wiclif:noun" is not a synonym for "crawdad".
+    value: john wiclif:noun
+  - correct: false
+    detail: Incorrect, "alternative pleading:noun" is not a synonym for "crawdad".
+    value: alternative pleading:noun
+  text: What is a synonym for "crawdad"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Whitweek" is a synonym for "whitsun".
+    value: Whitsun
+  - correct: false
+    detail: Incorrect, "ratan:noun" is not a synonym for "whitsun".
+    value: ratan:noun
+  - correct: false
+    detail: Incorrect, "link-attached terminal:noun" is not a synonym for "whitsun".
+    value: link-attached terminal:noun
+  - correct: false
+    detail: Incorrect, "stopping:verb" is not a synonym for "whitsun".
+    value: stopping:verb
+  text: What is a synonym for "whitsun"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Caryocar nuciferum" is a synonym for "souari".
+    value: souari nut
+  - correct: false
+    detail: Incorrect, "hostelry:noun" is not a synonym for "souari".
+    value: hostelry:noun
+  - correct: false
+    detail: Incorrect, "dish:verb" is not a synonym for "souari".
+    value: dish:verb
+  - correct: false
+    detail: Incorrect, "moreton bay tulipwood:noun" is not a synonym for "souari".
+    value: moreton bay tulipwood:noun
+  text: What is a synonym for "souari"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "sergeant-at-law" is a synonym for "sergeant".
+    value: serjeant
+  - correct: false
+    detail: Incorrect, "rorschach test:noun" is not a synonym for "sergeant".
+    value: rorschach test:noun
+  - correct: false
+    detail: Incorrect, "waiting line:noun" is not a synonym for "sergeant".
+    value: waiting line:noun
+  - correct: false
+    detail: Incorrect, "pitfall:noun" is not a synonym for "sergeant".
+    value: pitfall:noun
+  text: What is a synonym for "sergeant"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "reference" is a synonym for "mention".
+    value: reference
+  - correct: false
+    detail: Incorrect, "crisp:verb" is not a synonym for "mention".
+    value: crisp:verb
+  - correct: false
+    detail: Incorrect, "divide:noun" is not a synonym for "mention".
+    value: divide:noun
+  - correct: false
+    detail: Incorrect, "keratinisation:noun" is not a synonym for "mention".
+    value: keratinisation:noun
+  text: What is a synonym for "mention"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Hans Bethe" is a synonym for "bethe".
+    value: Bethe
+  - correct: false
+    detail: Incorrect, "bolivia:noun" is not a synonym for "bethe".
+    value: bolivia:noun
+  - correct: false
+    detail: Incorrect, "cautionary:satellite" is not a synonym for "bethe".
+    value: cautionary:satellite
+  - correct: false
+    detail: Incorrect, "beano:noun" is not a synonym for "bethe".
+    value: beano:noun
+  text: What is a synonym for "bethe"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "torment|distortion" is a synonym for "torture".
+    value: anguish
+  - correct: false
+    detail: Incorrect, "family terebellidae:noun" is not a synonym for "torture".
+    value: family terebellidae:noun
+  - correct: false
+    detail: Incorrect, "cupid's dart:noun" is not a synonym for "torture".
+    value: cupid's dart:noun
+  - correct: false
+    detail: Incorrect, "divided highway:noun" is not a synonym for "torture".
+    value: divided highway:noun
+  text: What is a synonym for "torture"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Sir Edwin Landseer Luytens" is a synonym for "lutyens".
+    value: Sir Edwin Landseer Luytens
+  - correct: false
+    detail: Incorrect, "odontophorus:noun" is not a synonym for "lutyens".
+    value: odontophorus:noun
+  - correct: false
+    detail: Incorrect, "oil colour:noun" is not a synonym for "lutyens".
+    value: oil colour:noun
+  - correct: false
+    detail: Incorrect, "physical rehabilitation:noun" is not a synonym for "lutyens".
+    value: physical rehabilitation:noun
+  text: What is a synonym for "lutyens"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Hopei" is a synonym for "hopeh".
+    value: Hopeh
+  - correct: false
+    detail: Incorrect, "ephemerality:noun" is not a synonym for "hopeh".
+    value: ephemerality:noun
+  - correct: false
+    detail: Incorrect, "unnumerable:satellite" is not a synonym for "hopeh".
+    value: unnumerable:satellite
+  - correct: false
+    detail: Incorrect, "alternate:verb" is not a synonym for "hopeh".
+    value: alternate:verb
+  text: What is a synonym for "hopeh"?

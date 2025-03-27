@@ -1,0 +1,303 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "lemonlike" is a synonym for "tart".
+    value: tangy|sharp
+  - correct: false
+    detail: Incorrect, "unidimensional:adjective" is not a synonym for "tart".
+    value: unidimensional:adjective
+  - correct: false
+    detail: Incorrect, "crested swift:noun" is not a synonym for "tart".
+    value: crested swift:noun
+  - correct: false
+    detail: Incorrect, "fascia:noun" is not a synonym for "tart".
+    value: fascia:noun
+  text: What is a synonym for "tart"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "soppy" is a synonym for "maudlin".
+    value: kitschy
+  - correct: false
+    detail: Incorrect, "august 6:noun" is not a synonym for "maudlin".
+    value: august 6:noun
+  - correct: false
+    detail: Incorrect, "milium:noun" is not a synonym for "maudlin".
+    value: milium:noun
+  - correct: false
+    detail: Incorrect, "iran:noun" is not a synonym for "maudlin".
+    value: iran:noun
+  text: What is a synonym for "maudlin"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "well-to-do" is a synonym for "well-off".
+    value: well-to-do
+  - correct: false
+    detail: Incorrect, "sleepless person:noun" is not a synonym for "well-off".
+    value: sleepless person:noun
+  - correct: false
+    detail: Incorrect, "pellaea mucronata:noun" is not a synonym for "well-off".
+    value: pellaea mucronata:noun
+  - correct: false
+    detail: Incorrect, "amazon ant:noun" is not a synonym for "well-off".
+    value: amazon ant:noun
+  text: What is a synonym for "well-off"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "blind drunk" is a synonym for "fuddled".
+    value: cockeyed
+  - correct: false
+    detail: Incorrect, "feodor mikhailovich dostoevski:noun" is not a synonym for
+      "fuddled".
+    value: feodor mikhailovich dostoevski:noun
+  - correct: false
+    detail: Incorrect, "psychotria capensis:noun" is not a synonym for "fuddled".
+    value: psychotria capensis:noun
+  - correct: false
+    detail: Incorrect, "nehemiah:noun" is not a synonym for "fuddled".
+    value: nehemiah:noun
+  text: What is a synonym for "fuddled"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "thickheaded" is a synonym for "thick".
+    value: boneheaded
+  - correct: false
+    detail: Incorrect, "republican party:noun" is not a synonym for "thick".
+    value: republican party:noun
+  - correct: false
+    detail: Incorrect, "genus cottus:noun" is not a synonym for "thick".
+    value: genus cottus:noun
+  - correct: false
+    detail: Incorrect, "washing day:noun" is not a synonym for "thick".
+    value: washing day:noun
+  text: What is a synonym for "thick"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "biramous" is a synonym for "pronged".
+    value: branched
+  - correct: false
+    detail: Incorrect, "alcapton:noun" is not a synonym for "pronged".
+    value: alcapton:noun
+  - correct: false
+    detail: Incorrect, "bosworth field:noun" is not a synonym for "pronged".
+    value: bosworth field:noun
+  - correct: false
+    detail: Incorrect, "whitney young:noun" is not a synonym for "pronged".
+    value: whitney young:noun
+  text: What is a synonym for "pronged"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "dazed" is a synonym for "foggy".
+    value: hazy
+  - correct: false
+    detail: Incorrect, "run short:verb" is not a synonym for "foggy".
+    value: run short:verb
+  - correct: false
+    detail: Incorrect, "saber:noun" is not a synonym for "foggy".
+    value: saber:noun
+  - correct: false
+    detail: Incorrect, "abortion-inducing drug:noun" is not a synonym for "foggy".
+    value: abortion-inducing drug:noun
+  text: What is a synonym for "foggy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "headstrong" is a synonym for "willful".
+    value: self-willed
+  - correct: false
+    detail: Incorrect, "orderly:satellite" is not a synonym for "willful".
+    value: orderly:satellite
+  - correct: false
+    detail: Incorrect, "herb:noun" is not a synonym for "willful".
+    value: herb:noun
+  - correct: false
+    detail: Incorrect, "alliaria officinalis:noun" is not a synonym for "willful".
+    value: alliaria officinalis:noun
+  text: What is a synonym for "willful"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "wicked" is a synonym for "loathly".
+    value: loathsome
+  - correct: false
+    detail: Incorrect, "threat:noun" is not a synonym for "loathly".
+    value: threat:noun
+  - correct: false
+    detail: Incorrect, "cynewulf:noun" is not a synonym for "loathly".
+    value: cynewulf:noun
+  - correct: false
+    detail: Incorrect, "argumentatively:adverb" is not a synonym for "loathly".
+    value: argumentatively:adverb
+  text: What is a synonym for "loathly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "conspicuous|clamant" is a synonym for "blatant".
+    value: conspicuous|clamant
+  - correct: false
+    detail: Incorrect, "smashing:verb" is not a synonym for "blatant".
+    value: smashing:verb
+  - correct: false
+    detail: Incorrect, "accessory nerve:noun" is not a synonym for "blatant".
+    value: accessory nerve:noun
+  - correct: false
+    detail: Incorrect, "hoofing:verb" is not a synonym for "blatant".
+    value: hoofing:verb
+  text: What is a synonym for "blatant"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "particular" is a synonym for "finicky".
+    value: particular
+  - correct: false
+    detail: Incorrect, "chinese scholar tree:noun" is not a synonym for "finicky".
+    value: chinese scholar tree:noun
+  - correct: false
+    detail: Incorrect, "proxy:noun" is not a synonym for "finicky".
+    value: proxy:noun
+  - correct: false
+    detail: Incorrect, "kordofanian:noun" is not a synonym for "finicky".
+    value: kordofanian:noun
+  text: What is a synonym for "finicky"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "mouselike|mousy" is a synonym for "mousey".
+    value: mousy
+  - correct: false
+    detail: Incorrect, "artichoke plant:noun" is not a synonym for "mousey".
+    value: artichoke plant:noun
+  - correct: false
+    detail: Incorrect, "equus caballus przewalskii:noun" is not a synonym for "mousey".
+    value: equus caballus przewalskii:noun
+  - correct: false
+    detail: Incorrect, "downy ground cherry:noun" is not a synonym for "mousey".
+    value: downy ground cherry:noun
+  text: What is a synonym for "mousey"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "initiative" is a synonym for "first".
+    value: world-class
+  - correct: false
+    detail: Incorrect, "bartonia:noun" is not a synonym for "first".
+    value: bartonia:noun
+  - correct: false
+    detail: Incorrect, "florida water rat:noun" is not a synonym for "first".
+    value: florida water rat:noun
+  - correct: false
+    detail: Incorrect, "walter gropius:noun" is not a synonym for "first".
+    value: walter gropius:noun
+  text: What is a synonym for "first"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "illicit" is a synonym for "outlaw".
+    value: illicit
+  - correct: false
+    detail: Incorrect, "immediacy:noun" is not a synonym for "outlaw".
+    value: immediacy:noun
+  - correct: false
+    detail: Incorrect, "audition:noun" is not a synonym for "outlaw".
+    value: audition:noun
+  - correct: false
+    detail: Incorrect, "compound fracture:noun" is not a synonym for "outlaw".
+    value: compound fracture:noun
+  text: What is a synonym for "outlaw"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "lxxx" is a synonym for "eighty".
+    value: '80'
+  - correct: false
+    detail: Incorrect, "bovinae:noun" is not a synonym for "eighty".
+    value: bovinae:noun
+  - correct: false
+    detail: Incorrect, "halibut:noun" is not a synonym for "eighty".
+    value: halibut:noun
+  - correct: false
+    detail: Incorrect, "genus pellaea:noun" is not a synonym for "eighty".
+    value: genus pellaea:noun
+  text: What is a synonym for "eighty"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fugacious|casual" is a synonym for "passing".
+    value: short-lived
+  - correct: false
+    detail: Incorrect, "sweptback:satellite" is not a synonym for "passing".
+    value: sweptback:satellite
+  - correct: false
+    detail: Incorrect, "action at law:noun" is not a synonym for "passing".
+    value: action at law:noun
+  - correct: false
+    detail: Incorrect, "i-beam:noun" is not a synonym for "passing".
+    value: i-beam:noun
+  text: What is a synonym for "passing"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "astounded|knocked out" is a synonym for "stunned".
+    value: amazed
+  - correct: false
+    detail: Incorrect, "kosteletzya virginica:noun" is not a synonym for "stunned".
+    value: kosteletzya virginica:noun
+  - correct: false
+    detail: Incorrect, "inside information:noun" is not a synonym for "stunned".
+    value: inside information:noun
+  - correct: false
+    detail: Incorrect, "hogged:satellite" is not a synonym for "stunned".
+    value: hogged:satellite
+  text: What is a synonym for "stunned"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "jejune" is a synonym for "juvenile".
+    value: adolescent
+  - correct: false
+    detail: Incorrect, "dr. seuss:noun" is not a synonym for "juvenile".
+    value: dr. seuss:noun
+  - correct: false
+    detail: Incorrect, "conjunctive:satellite" is not a synonym for "juvenile".
+    value: conjunctive:satellite
+  - correct: false
+    detail: Incorrect, "colour of law:noun" is not a synonym for "juvenile".
+    value: colour of law:noun
+  text: What is a synonym for "juvenile"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "lacy" is a synonym for "netted".
+    value: netlike
+  - correct: false
+    detail: Incorrect, "bugbear:noun" is not a synonym for "netted".
+    value: bugbear:noun
+  - correct: false
+    detail: Incorrect, "secondary sexual characteristic:noun" is not a synonym for
+      "netted".
+    value: secondary sexual characteristic:noun
+  - correct: false
+    detail: Incorrect, "sevenfold:satellite" is not a synonym for "netted".
+    value: sevenfold:satellite
+  text: What is a synonym for "netted"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "inert" is a synonym for "torpid".
+    value: soggy|dormant
+  - correct: false
+    detail: Incorrect, "family gobiidae:noun" is not a synonym for "torpid".
+    value: family gobiidae:noun
+  - correct: false
+    detail: Incorrect, "histrion:noun" is not a synonym for "torpid".
+    value: histrion:noun
+  - correct: false
+    detail: Incorrect, "peter goldmark:noun" is not a synonym for "torpid".
+    value: peter goldmark:noun
+  text: What is a synonym for "torpid"?

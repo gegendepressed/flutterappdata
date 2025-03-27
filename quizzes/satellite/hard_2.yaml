@@ -1,0 +1,301 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "underway" is a synonym for "afoot".
+    value: underway
+  - correct: false
+    detail: Incorrect, "regulator gene:noun" is not a synonym for "afoot".
+    value: regulator gene:noun
+  - correct: false
+    detail: Incorrect, "genus aptenodytes:noun" is not a synonym for "afoot".
+    value: genus aptenodytes:noun
+  - correct: false
+    detail: Incorrect, "sweetening:noun" is not a synonym for "afoot".
+    value: sweetening:noun
+  text: What is a synonym for "afoot"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "gray" is a synonym for "grey-haired".
+    value: grizzly
+  - correct: false
+    detail: Incorrect, "stinking wattle:noun" is not a synonym for "grey-haired".
+    value: stinking wattle:noun
+  - correct: false
+    detail: Incorrect, "silkgrass:noun" is not a synonym for "grey-haired".
+    value: silkgrass:noun
+  - correct: false
+    detail: Incorrect, "stash:noun" is not a synonym for "grey-haired".
+    value: stash:noun
+  text: What is a synonym for "grey-haired"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "bedraggled" is a synonym for "draggled".
+    value: bedraggled
+  - correct: false
+    detail: Incorrect, "soleidae:noun" is not a synonym for "draggled".
+    value: soleidae:noun
+  - correct: false
+    detail: Incorrect, "wonder:verb" is not a synonym for "draggled".
+    value: wonder:verb
+  - correct: false
+    detail: Incorrect, "newmarket:noun" is not a synonym for "draggled".
+    value: newmarket:noun
+  text: What is a synonym for "draggled"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unchristlike" is a synonym for "unchristianly".
+    value: unchristlike
+  - correct: false
+    detail: Incorrect, "ben hecht:noun" is not a synonym for "unchristianly".
+    value: ben hecht:noun
+  - correct: false
+    detail: Incorrect, "carbon monoxide:noun" is not a synonym for "unchristianly".
+    value: carbon monoxide:noun
+  - correct: false
+    detail: Incorrect, "violent disorder:noun" is not a synonym for "unchristianly".
+    value: violent disorder:noun
+  text: What is a synonym for "unchristianly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "faulty|bad" is a synonym for "defective".
+    value: faulty|bad
+  - correct: false
+    detail: Incorrect, "salad plate:noun" is not a synonym for "defective".
+    value: salad plate:noun
+  - correct: false
+    detail: Incorrect, "keep:verb" is not a synonym for "defective".
+    value: keep:verb
+  - correct: false
+    detail: Incorrect, "vesicle:noun" is not a synonym for "defective".
+    value: vesicle:noun
+  text: What is a synonym for "defective"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "supposititious" is a synonym for "suppositious".
+    value: divinatory
+  - correct: false
+    detail: Incorrect, "plant bug:noun" is not a synonym for "suppositious".
+    value: plant bug:noun
+  - correct: false
+    detail: Incorrect, "vitis rotundifolia:noun" is not a synonym for "suppositious".
+    value: vitis rotundifolia:noun
+  - correct: false
+    detail: Incorrect, "ctenophore:noun" is not a synonym for "suppositious".
+    value: ctenophore:noun
+  text: What is a synonym for "suppositious"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "vanquishable" is a synonym for "vincible".
+    value: vanquishable
+  - correct: false
+    detail: Incorrect, "storm-tossed:satellite" is not a synonym for "vincible".
+    value: storm-tossed:satellite
+  - correct: false
+    detail: Incorrect, "desk-bound:satellite" is not a synonym for "vincible".
+    value: desk-bound:satellite
+  - correct: false
+    detail: Incorrect, "cryptogamia:noun" is not a synonym for "vincible".
+    value: cryptogamia:noun
+  text: What is a synonym for "vincible"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "uninebriated" is a synonym for "unintoxicated".
+    value: uninebriated
+  - correct: false
+    detail: Incorrect, "jan swammerdam:noun" is not a synonym for "unintoxicated".
+    value: jan swammerdam:noun
+  - correct: false
+    detail: Incorrect, "eatable:adjective" is not a synonym for "unintoxicated".
+    value: eatable:adjective
+  - correct: false
+    detail: Incorrect, "whiskered:verb" is not a synonym for "unintoxicated".
+    value: whiskered:verb
+  text: What is a synonym for "unintoxicated"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "charismatic" is a synonym for "magnetic".
+    value: charismatic
+  - correct: false
+    detail: Incorrect, "deranged:satellite" is not a synonym for "magnetic".
+    value: deranged:satellite
+  - correct: false
+    detail: Incorrect, "lammas:noun" is not a synonym for "magnetic".
+    value: lammas:noun
+  - correct: false
+    detail: Incorrect, "matey:satellite" is not a synonym for "magnetic".
+    value: matey:satellite
+  text: What is a synonym for "magnetic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "persnickety" is a synonym for "pernickety".
+    value: persnickety
+  - correct: false
+    detail: Incorrect, "free-lance:satellite" is not a synonym for "pernickety".
+    value: free-lance:satellite
+  - correct: false
+    detail: Incorrect, "academe:noun" is not a synonym for "pernickety".
+    value: academe:noun
+  - correct: false
+    detail: Incorrect, "hives:verb" is not a synonym for "pernickety".
+    value: hives:verb
+  text: What is a synonym for "pernickety"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unimpeachable" is a synonym for "unexceptionable".
+    value: unimpeachable
+  - correct: false
+    detail: Incorrect, "pathological:adjective" is not a synonym for "unexceptionable".
+    value: pathological:adjective
+  - correct: false
+    detail: Incorrect, "unmake:verb" is not a synonym for "unexceptionable".
+    value: unmake:verb
+  - correct: false
+    detail: Incorrect, "formularize:verb" is not a synonym for "unexceptionable".
+    value: formularize:verb
+  text: What is a synonym for "unexceptionable"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "twinning" is a synonym for "biparous".
+    value: twinning
+  - correct: false
+    detail: Incorrect, "family rallidae:noun" is not a synonym for "biparous".
+    value: family rallidae:noun
+  - correct: false
+    detail: Incorrect, "disoriented:satellite" is not a synonym for "biparous".
+    value: disoriented:satellite
+  - correct: false
+    detail: Incorrect, "chemotherapeutical:adjective" is not a synonym for "biparous".
+    value: chemotherapeutical:adjective
+  text: What is a synonym for "biparous"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unseen" is a synonym for "unobserved".
+    value: unseen
+  - correct: false
+    detail: Incorrect, "disrupting explosive:noun" is not a synonym for "unobserved".
+    value: disrupting explosive:noun
+  - correct: false
+    detail: Incorrect, "booking clerk:noun" is not a synonym for "unobserved".
+    value: booking clerk:noun
+  - correct: false
+    detail: Incorrect, "w. h. auden:noun" is not a synonym for "unobserved".
+    value: w. h. auden:noun
+  text: What is a synonym for "unobserved"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "contentious" is a synonym for "disputative".
+    value: contentious
+  - correct: false
+    detail: Incorrect, "he:noun" is not a synonym for "disputative".
+    value: he:noun
+  - correct: false
+    detail: Incorrect, "pedantic:satellite" is not a synonym for "disputative".
+    value: pedantic:satellite
+  - correct: false
+    detail: Incorrect, "decadent:satellite" is not a synonym for "disputative".
+    value: decadent:satellite
+  text: What is a synonym for "disputative"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "meltable" is a synonym for "disintegrable".
+    value: meltable
+  - correct: false
+    detail: Incorrect, "discipline:verb" is not a synonym for "disintegrable".
+    value: discipline:verb
+  - correct: false
+    detail: Incorrect, "genus callirhoe:noun" is not a synonym for "disintegrable".
+    value: genus callirhoe:noun
+  - correct: false
+    detail: Incorrect, "represented:adjective" is not a synonym for "disintegrable".
+    value: represented:adjective
+  text: What is a synonym for "disintegrable"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "platelike" is a synonym for "placoid".
+    value: platelike
+  - correct: false
+    detail: Incorrect, "genus hypentelium:noun" is not a synonym for "placoid".
+    value: genus hypentelium:noun
+  - correct: false
+    detail: Incorrect, "vilify:verb" is not a synonym for "placoid".
+    value: vilify:verb
+  - correct: false
+    detail: Incorrect, "balistes:noun" is not a synonym for "placoid".
+    value: balistes:noun
+  text: What is a synonym for "placoid"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "low-set" is a synonym for "lowset".
+    value: low-set
+  - correct: false
+    detail: Incorrect, "chiding:verb" is not a synonym for "lowset".
+    value: chiding:verb
+  - correct: false
+    detail: Incorrect, "family bacteroidaceae:noun" is not a synonym for "lowset".
+    value: family bacteroidaceae:noun
+  - correct: false
+    detail: Incorrect, "connive:verb" is not a synonym for "lowset".
+    value: connive:verb
+  text: What is a synonym for "lowset"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "untempting" is a synonym for "uninviting".
+    value: untempting
+  - correct: false
+    detail: Incorrect, "luting:noun" is not a synonym for "uninviting".
+    value: luting:noun
+  - correct: false
+    detail: Incorrect, "family mutillidae:noun" is not a synonym for "uninviting".
+    value: family mutillidae:noun
+  - correct: false
+    detail: Incorrect, "bungling:verb" is not a synonym for "uninviting".
+    value: bungling:verb
+  text: What is a synonym for "uninviting"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "amylaceous" is a synonym for "amyloidal".
+    value: amyloid
+  - correct: false
+    detail: Incorrect, "perpendicular:noun" is not a synonym for "amyloidal".
+    value: perpendicular:noun
+  - correct: false
+    detail: Incorrect, "estimator:noun" is not a synonym for "amyloidal".
+    value: estimator:noun
+  - correct: false
+    detail: Incorrect, "book of nahum:noun" is not a synonym for "amyloidal".
+    value: book of nahum:noun
+  text: What is a synonym for "amyloidal"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "seven-day" is a synonym for "weeklong".
+    value: seven-day
+  - correct: false
+    detail: Incorrect, "sir howard walter florey:noun" is not a synonym for "weeklong".
+    value: sir howard walter florey:noun
+  - correct: false
+    detail: Incorrect, "top-quality:satellite" is not a synonym for "weeklong".
+    value: top-quality:satellite
+  - correct: false
+    detail: Incorrect, "coherency:noun" is not a synonym for "weeklong".
+    value: coherency:noun
+  text: What is a synonym for "weeklong"?

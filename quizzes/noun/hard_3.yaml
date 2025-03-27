@@ -1,0 +1,305 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "tee hinge" is a synonym for "t hinge".
+    value: tee hinge
+  - correct: false
+    detail: Incorrect, "emotionality:noun" is not a synonym for "t hinge".
+    value: emotionality:noun
+  - correct: false
+    detail: Incorrect, "nervus vagus:noun" is not a synonym for "t hinge".
+    value: nervus vagus:noun
+  - correct: false
+    detail: Incorrect, "spider flower:noun" is not a synonym for "t hinge".
+    value: spider flower:noun
+  text: What is a synonym for "t hinge"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "ache" is a synonym for "aching".
+    value: ache
+  - correct: false
+    detail: Incorrect, "genus dicranopteris:noun" is not a synonym for "aching".
+    value: genus dicranopteris:noun
+  - correct: false
+    detail: Incorrect, "straightaway:satellite" is not a synonym for "aching".
+    value: straightaway:satellite
+  - correct: false
+    detail: Incorrect, "sambucus:noun" is not a synonym for "aching".
+    value: sambucus:noun
+  text: What is a synonym for "aching"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "eyebath" is a synonym for "eye cup".
+    value: eyecup
+  - correct: false
+    detail: Incorrect, "wait:noun" is not a synonym for "eye cup".
+    value: wait:noun
+  - correct: false
+    detail: Incorrect, "blackpool:noun" is not a synonym for "eye cup".
+    value: blackpool:noun
+  - correct: false
+    detail: Incorrect, "genus argusianus:noun" is not a synonym for "eye cup".
+    value: genus argusianus:noun
+  text: What is a synonym for "eye cup"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "abdominousness" is a synonym for "paunchiness".
+    value: abdominousness
+  - correct: false
+    detail: Incorrect, "money-spinner:noun" is not a synonym for "paunchiness".
+    value: money-spinner:noun
+  - correct: false
+    detail: Incorrect, "courtyard:noun" is not a synonym for "paunchiness".
+    value: courtyard:noun
+  - correct: false
+    detail: Incorrect, "turkmen:adjective" is not a synonym for "paunchiness".
+    value: turkmen:adjective
+  text: What is a synonym for "paunchiness"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "James Thomas Farrell" is a synonym for "james thomas farrell".
+    value: James Thomas Farrell
+  - correct: false
+    detail: Incorrect, "lithe:satellite" is not a synonym for "james thomas farrell".
+    value: lithe:satellite
+  - correct: false
+    detail: Incorrect, "sense of smell:noun" is not a synonym for "james thomas farrell".
+    value: sense of smell:noun
+  - correct: false
+    detail: Incorrect, "unconcern:noun" is not a synonym for "james thomas farrell".
+    value: unconcern:noun
+  text: What is a synonym for "james thomas farrell"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Saint Eustatius" is a synonym for "st. eustatius".
+    value: Saint Eustatius
+  - correct: false
+    detail: Incorrect, "demonolatry:noun" is not a synonym for "st. eustatius".
+    value: demonolatry:noun
+  - correct: false
+    detail: Incorrect, "efflorescent:satellite" is not a synonym for "st. eustatius".
+    value: efflorescent:satellite
+  - correct: false
+    detail: Incorrect, "reproacher:noun" is not a synonym for "st. eustatius".
+    value: reproacher:noun
+  text: What is a synonym for "st. eustatius"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Federal" is a synonym for "federal soldier".
+    value: Union soldier
+  - correct: false
+    detail: Incorrect, "exclaiming:noun" is not a synonym for "federal soldier".
+    value: exclaiming:noun
+  - correct: false
+    detail: Incorrect, "panorama:noun" is not a synonym for "federal soldier".
+    value: panorama:noun
+  - correct: false
+    detail: Incorrect, "candour:noun" is not a synonym for "federal soldier".
+    value: candour:noun
+  text: What is a synonym for "federal soldier"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Chinese cork oak" is a synonym for "quercus variabilis".
+    value: Quercus variabilis
+  - correct: false
+    detail: Incorrect, "horse radish:noun" is not a synonym for "quercus variabilis".
+    value: horse radish:noun
+  - correct: false
+    detail: Incorrect, "verbena family:noun" is not a synonym for "quercus variabilis".
+    value: verbena family:noun
+  - correct: false
+    detail: Incorrect, "septette:noun" is not a synonym for "quercus variabilis".
+    value: septette:noun
+  text: What is a synonym for "quercus variabilis"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "family Styracaceae" is a synonym for "storax family".
+    value: family Styracaceae
+  - correct: false
+    detail: Incorrect, "high pitch:noun" is not a synonym for "storax family".
+    value: high pitch:noun
+  - correct: false
+    detail: Incorrect, "genus pseudomonas:noun" is not a synonym for "storax family".
+    value: genus pseudomonas:noun
+  - correct: false
+    detail: Incorrect, "personality assessment:noun" is not a synonym for "storax
+      family".
+    value: personality assessment:noun
+  text: What is a synonym for "storax family"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "genus Rypticus" is a synonym for "rypticus".
+    value: Rypticus
+  - correct: false
+    detail: Incorrect, "saint luke:noun" is not a synonym for "rypticus".
+    value: saint luke:noun
+  - correct: false
+    detail: Incorrect, "genus phocoena:noun" is not a synonym for "rypticus".
+    value: genus phocoena:noun
+  - correct: false
+    detail: Incorrect, "coffee cream:noun" is not a synonym for "rypticus".
+    value: coffee cream:noun
+  text: What is a synonym for "rypticus"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Tasmania|Tasmania" is a synonym for "tasmania".
+    value: Tasmania|Tasmania
+  - correct: false
+    detail: Incorrect, "store:noun" is not a synonym for "tasmania".
+    value: store:noun
+  - correct: false
+    detail: Incorrect, "cucurbita pepo:noun" is not a synonym for "tasmania".
+    value: cucurbita pepo:noun
+  - correct: false
+    detail: Incorrect, "washed:verb" is not a synonym for "tasmania".
+    value: washed:verb
+  text: What is a synonym for "tasmania"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Garullus garullus" is a synonym for "common european jay".
+    value: common European jay
+  - correct: false
+    detail: Incorrect, "american white birch:noun" is not a synonym for "common european
+      jay".
+    value: american white birch:noun
+  - correct: false
+    detail: Incorrect, "true warbler:noun" is not a synonym for "common european jay".
+    value: true warbler:noun
+  - correct: false
+    detail: Incorrect, "allium cepa viviparum:noun" is not a synonym for "common european
+      jay".
+    value: allium cepa viviparum:noun
+  text: What is a synonym for "common european jay"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "gallop rhythm" is a synonym for "cantering rhythm".
+    value: gallop rhythm
+  - correct: false
+    detail: Incorrect, "micromillimeter:noun" is not a synonym for "cantering rhythm".
+    value: micromillimeter:noun
+  - correct: false
+    detail: Incorrect, "blast:verb" is not a synonym for "cantering rhythm".
+    value: blast:verb
+  - correct: false
+    detail: Incorrect, "characinidae:noun" is not a synonym for "cantering rhythm".
+    value: characinidae:noun
+  text: What is a synonym for "cantering rhythm"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "C major scale" is a synonym for "c major scale".
+    value: scale of C major
+  - correct: false
+    detail: Incorrect, "nara:noun" is not a synonym for "c major scale".
+    value: nara:noun
+  - correct: false
+    detail: Incorrect, "delusion:noun" is not a synonym for "c major scale".
+    value: delusion:noun
+  - correct: false
+    detail: Incorrect, "obviating:verb" is not a synonym for "c major scale".
+    value: obviating:verb
+  text: What is a synonym for "c major scale"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "black nightshade" is a synonym for "common nightshade".
+    value: poisonberry
+  - correct: false
+    detail: Incorrect, "internal angle:noun" is not a synonym for "common nightshade".
+    value: internal angle:noun
+  - correct: false
+    detail: Incorrect, "coming:verb" is not a synonym for "common nightshade".
+    value: coming:verb
+  - correct: false
+    detail: Incorrect, "humanlike:satellite" is not a synonym for "common nightshade".
+    value: humanlike:satellite
+  text: What is a synonym for "common nightshade"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hardtack" is a synonym for "pilot bread".
+    value: sea biscuit
+  - correct: false
+    detail: Incorrect, "cyprian:adjective" is not a synonym for "pilot bread".
+    value: cyprian:adjective
+  - correct: false
+    detail: Incorrect, "ray flower:noun" is not a synonym for "pilot bread".
+    value: ray flower:noun
+  - correct: false
+    detail: Incorrect, "crotalus cerastes:noun" is not a synonym for "pilot bread".
+    value: crotalus cerastes:noun
+  text: What is a synonym for "pilot bread"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "wale" is a synonym for "strake".
+    value: wale
+  - correct: false
+    detail: Incorrect, "creeping:verb" is not a synonym for "strake".
+    value: creeping:verb
+  - correct: false
+    detail: Incorrect, "polynesian tattler:noun" is not a synonym for "strake".
+    value: polynesian tattler:noun
+  - correct: false
+    detail: Incorrect, "jiddah:noun" is not a synonym for "strake".
+    value: jiddah:noun
+  text: What is a synonym for "strake"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Ne" is a synonym for "atomic number 10".
+    value: Ne
+  - correct: false
+    detail: Incorrect, "santa cruz cypress:noun" is not a synonym for "atomic number
+      10".
+    value: santa cruz cypress:noun
+  - correct: false
+    detail: Incorrect, "booklover:noun" is not a synonym for "atomic number 10".
+    value: booklover:noun
+  - correct: false
+    detail: Incorrect, "pompous:satellite" is not a synonym for "atomic number 10".
+    value: pompous:satellite
+  text: What is a synonym for "atomic number 10"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "serranid fish" is a synonym for "serranid".
+    value: serranid fish
+  - correct: false
+    detail: Incorrect, "defoliate:satellite" is not a synonym for "serranid".
+    value: defoliate:satellite
+  - correct: false
+    detail: Incorrect, "thyme-leaved speedwell:noun" is not a synonym for "serranid".
+    value: thyme-leaved speedwell:noun
+  - correct: false
+    detail: Incorrect, "jean francois millet:noun" is not a synonym for "serranid".
+    value: jean francois millet:noun
+  text: What is a synonym for "serranid"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "relationship" is a synonym for "kinship".
+    value: affinity|family relationship
+  - correct: false
+    detail: Incorrect, "prince albert's yew:noun" is not a synonym for "kinship".
+    value: prince albert's yew:noun
+  - correct: false
+    detail: Incorrect, "passing tone:noun" is not a synonym for "kinship".
+    value: passing tone:noun
+  - correct: false
+    detail: Incorrect, "satin flower:noun" is not a synonym for "kinship".
+    value: satin flower:noun
+  text: What is a synonym for "kinship"?

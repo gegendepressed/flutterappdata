@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "study" is a synonym for "canvass".
+    value: examine
+  - correct: false
+    detail: Incorrect, "xerophile:noun" is not a synonym for "canvass".
+    value: xerophile:noun
+  - correct: false
+    detail: Incorrect, "industrial revolution:noun" is not a synonym for "canvass".
+    value: industrial revolution:noun
+  - correct: false
+    detail: Incorrect, "genus montia:noun" is not a synonym for "canvass".
+    value: genus montia:noun
+  text: What is a synonym for "canvass"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "gormandise" is a synonym for "binge".
+    value: gourmandize
+  - correct: false
+    detail: Incorrect, "friskiness:noun" is not a synonym for "binge".
+    value: friskiness:noun
+  - correct: false
+    detail: Incorrect, "validness:noun" is not a synonym for "binge".
+    value: validness:noun
+  - correct: false
+    detail: Incorrect, "swinburne:noun" is not a synonym for "binge".
+    value: swinburne:noun
+  text: What is a synonym for "binge"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "set up" is a synonym for "rigging".
+    value: set
+  - correct: false
+    detail: Incorrect, "auntie:noun" is not a synonym for "rigging".
+    value: auntie:noun
+  - correct: false
+    detail: Incorrect, "needle furze:noun" is not a synonym for "rigging".
+    value: needle furze:noun
+  - correct: false
+    detail: Incorrect, "parkinsonism:noun" is not a synonym for "rigging".
+    value: parkinsonism:noun
+  text: What is a synonym for "rigging"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "pilot|fell" is a synonym for "fly".
+    value: vaporize
+  - correct: false
+    detail: Incorrect, "offsetting balance:noun" is not a synonym for "fly".
+    value: offsetting balance:noun
+  - correct: false
+    detail: Incorrect, "kentucky derby:noun" is not a synonym for "fly".
+    value: kentucky derby:noun
+  - correct: false
+    detail: Incorrect, "bugle:noun" is not a synonym for "fly".
+    value: bugle:noun
+  text: What is a synonym for "fly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ride|tease apart" is a synonym for "tease".
+    value: tantalize
+  - correct: false
+    detail: Incorrect, "schiaparelli:noun" is not a synonym for "tease".
+    value: schiaparelli:noun
+  - correct: false
+    detail: Incorrect, "countercheck:verb" is not a synonym for "tease".
+    value: countercheck:verb
+  - correct: false
+    detail: Incorrect, "scandalise:verb" is not a synonym for "tease".
+    value: scandalise:verb
+  text: What is a synonym for "tease"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "abound" is a synonym for "bristle".
+    value: burst|uprise
+  - correct: false
+    detail: Incorrect, "flies:noun" is not a synonym for "bristle".
+    value: flies:noun
+  - correct: false
+    detail: Incorrect, "citizenship day:noun" is not a synonym for "bristle".
+    value: citizenship day:noun
+  - correct: false
+    detail: Incorrect, "gravitation:noun" is not a synonym for "bristle".
+    value: gravitation:noun
+  text: What is a synonym for "bristle"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ambuscade" is a synonym for "scupper".
+    value: ambush
+  - correct: false
+    detail: Incorrect, "anguilla:noun" is not a synonym for "scupper".
+    value: anguilla:noun
+  - correct: false
+    detail: Incorrect, "marcel marceau:noun" is not a synonym for "scupper".
+    value: marcel marceau:noun
+  - correct: false
+    detail: Incorrect, "proto-norse:noun" is not a synonym for "scupper".
+    value: proto-norse:noun
+  text: What is a synonym for "scupper"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "put off" is a synonym for "elude".
+    value: parry
+  - correct: false
+    detail: Incorrect, "spacewards:adverb" is not a synonym for "elude".
+    value: spacewards:adverb
+  - correct: false
+    detail: Incorrect, "crawling:noun" is not a synonym for "elude".
+    value: crawling:noun
+  - correct: false
+    detail: Incorrect, "respectfulness:noun" is not a synonym for "elude".
+    value: respectfulness:noun
+  text: What is a synonym for "elude"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "gazump" is a synonym for "hook".
+    value: lift|addict|snare|solicit
+  - correct: false
+    detail: Incorrect, "water spirit:noun" is not a synonym for "hook".
+    value: water spirit:noun
+  - correct: false
+    detail: Incorrect, "shambles:verb" is not a synonym for "hook".
+    value: shambles:verb
+  - correct: false
+    detail: Incorrect, "out loud:adverb" is not a synonym for "hook".
+    value: out loud:adverb
+  text: What is a synonym for "hook"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "meliorate" is a synonym for "improved".
+    value: meliorate
+  - correct: false
+    detail: Incorrect, "auxiliary boiler:noun" is not a synonym for "improved".
+    value: auxiliary boiler:noun
+  - correct: false
+    detail: Incorrect, "fording:noun" is not a synonym for "improved".
+    value: fording:noun
+  - correct: false
+    detail: Incorrect, "orchid tree:noun" is not a synonym for "improved".
+    value: orchid tree:noun
+  text: What is a synonym for "improved"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "range" is a synonym for "rolled".
+    value: undulate
+  - correct: false
+    detail: Incorrect, "caffein addict:noun" is not a synonym for "rolled".
+    value: caffein addict:noun
+  - correct: false
+    detail: Incorrect, "order gruiformes:noun" is not a synonym for "rolled".
+    value: order gruiformes:noun
+  - correct: false
+    detail: Incorrect, "giant sequoia:noun" is not a synonym for "rolled".
+    value: giant sequoia:noun
+  text: What is a synonym for "rolled"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "oppose" is a synonym for "defend".
+    value: fight down|champion|represent|maintain
+  - correct: false
+    detail: Incorrect, "long-lived:satellite" is not a synonym for "defend".
+    value: long-lived:satellite
+  - correct: false
+    detail: Incorrect, "european sea eagle:noun" is not a synonym for "defend".
+    value: european sea eagle:noun
+  - correct: false
+    detail: Incorrect, "chartres:noun" is not a synonym for "defend".
+    value: chartres:noun
+  text: What is a synonym for "defend"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "procrastinate" is a synonym for "stalls".
+    value: stall
+  - correct: false
+    detail: Incorrect, "ballast:noun" is not a synonym for "stalls".
+    value: ballast:noun
+  - correct: false
+    detail: Incorrect, "malignant tumor:noun" is not a synonym for "stalls".
+    value: malignant tumor:noun
+  - correct: false
+    detail: Incorrect, "jabiru:noun" is not a synonym for "stalls".
+    value: jabiru:noun
+  text: What is a synonym for "stalls"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "knock about" is a synonym for "battered".
+    value: batter|clobber
+  - correct: false
+    detail: Incorrect, "unsegregated:satellite" is not a synonym for "battered".
+    value: unsegregated:satellite
+  - correct: false
+    detail: Incorrect, "fashion designer:noun" is not a synonym for "battered".
+    value: fashion designer:noun
+  - correct: false
+    detail: Incorrect, "abel tasman:noun" is not a synonym for "battered".
+    value: abel tasman:noun
+  text: What is a synonym for "battered"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "boil" is a synonym for "roiled".
+    value: roil|roil
+  - correct: false
+    detail: Incorrect, "pyrrhic victory:noun" is not a synonym for "roiled".
+    value: pyrrhic victory:noun
+  - correct: false
+    detail: Incorrect, "antiknock:satellite" is not a synonym for "roiled".
+    value: antiknock:satellite
+  - correct: false
+    detail: Incorrect, "honours:noun" is not a synonym for "roiled".
+    value: honours:noun
+  text: What is a synonym for "roiled"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "puff" is a synonym for "heave".
+    value: retch
+  - correct: false
+    detail: Incorrect, "emperor butterfly:noun" is not a synonym for "heave".
+    value: emperor butterfly:noun
+  - correct: false
+    detail: Incorrect, "sparganium:noun" is not a synonym for "heave".
+    value: sparganium:noun
+  - correct: false
+    detail: Incorrect, "irritating:satellite" is not a synonym for "heave".
+    value: irritating:satellite
+  text: What is a synonym for "heave"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "finalize" is a synonym for "finalise".
+    value: settle
+  - correct: false
+    detail: Incorrect, "bustle:verb" is not a synonym for "finalise".
+    value: bustle:verb
+  - correct: false
+    detail: Incorrect, "serotonin:noun" is not a synonym for "finalise".
+    value: serotonin:noun
+  - correct: false
+    detail: Incorrect, "somnambulate:verb" is not a synonym for "finalise".
+    value: somnambulate:verb
+  text: What is a synonym for "finalise"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "engage" is a synonym for "leased".
+    value: rent|lease
+  - correct: false
+    detail: Incorrect, "immobilizing:verb" is not a synonym for "leased".
+    value: immobilizing:verb
+  - correct: false
+    detail: Incorrect, "grifola frondosa:noun" is not a synonym for "leased".
+    value: grifola frondosa:noun
+  - correct: false
+    detail: Incorrect, "commercialisation:noun" is not a synonym for "leased".
+    value: commercialisation:noun
+  text: What is a synonym for "leased"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fill in|shade|shade|shade" is a synonym for "shaded".
+    value: shade off|shade
+  - correct: false
+    detail: Incorrect, "agamic:satellite" is not a synonym for "shaded".
+    value: agamic:satellite
+  - correct: false
+    detail: Incorrect, "wall st.:noun" is not a synonym for "shaded".
+    value: wall st.:noun
+  - correct: false
+    detail: Incorrect, "fanny adams:noun" is not a synonym for "shaded".
+    value: fanny adams:noun
+  text: What is a synonym for "shaded"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "quench|quench|quench" is a synonym for "quenched".
+    value: quench|quench|squelch
+  - correct: false
+    detail: Incorrect, "chessboard:noun" is not a synonym for "quenched".
+    value: chessboard:noun
+  - correct: false
+    detail: Incorrect, "ammonium chloride:noun" is not a synonym for "quenched".
+    value: ammonium chloride:noun
+  - correct: false
+    detail: Incorrect, "crystalline:satellite" is not a synonym for "quenched".
+    value: crystalline:satellite
+  text: What is a synonym for "quenched"?

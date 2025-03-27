@@ -1,0 +1,306 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "body" is a synonym for "organic structure".
+    value: physical structure
+  - correct: false
+    detail: Incorrect, "pepsi:noun" is not a synonym for "organic structure".
+    value: pepsi:noun
+  - correct: false
+    detail: Incorrect, "oka:noun" is not a synonym for "organic structure".
+    value: oka:noun
+  - correct: false
+    detail: Incorrect, "busybodied:satellite" is not a synonym for "organic structure".
+    value: busybodied:satellite
+  text: What is a synonym for "organic structure"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "whitetail prairie dog" is a synonym for "cynomys gunnisoni".
+    value: Cynomys gunnisoni
+  - correct: false
+    detail: Incorrect, "abronia elliptica:noun" is not a synonym for "cynomys gunnisoni".
+    value: abronia elliptica:noun
+  - correct: false
+    detail: Incorrect, "side-look:noun" is not a synonym for "cynomys gunnisoni".
+    value: side-look:noun
+  - correct: false
+    detail: Incorrect, "alcohol addiction:noun" is not a synonym for "cynomys gunnisoni".
+    value: alcohol addiction:noun
+  text: What is a synonym for "cynomys gunnisoni"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "pubic bone" is a synonym for "os pubis".
+    value: pubic bone
+  - correct: false
+    detail: Incorrect, "ruse:noun" is not a synonym for "os pubis".
+    value: ruse:noun
+  - correct: false
+    detail: Incorrect, "dame's violet:noun" is not a synonym for "os pubis".
+    value: dame's violet:noun
+  - correct: false
+    detail: Incorrect, "callitris parlatorei:noun" is not a synonym for "os pubis".
+    value: callitris parlatorei:noun
+  text: What is a synonym for "os pubis"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Henrik Ibsen" is a synonym for "henrik johan ibsen".
+    value: Henrik Johan Ibsen
+  - correct: false
+    detail: Incorrect, "grias:noun" is not a synonym for "henrik johan ibsen".
+    value: grias:noun
+  - correct: false
+    detail: Incorrect, "orthophosphoric acid:noun" is not a synonym for "henrik johan
+      ibsen".
+    value: orthophosphoric acid:noun
+  - correct: false
+    detail: Incorrect, "antirrhinum coulterianum:noun" is not a synonym for "henrik
+      johan ibsen".
+    value: antirrhinum coulterianum:noun
+  text: What is a synonym for "henrik johan ibsen"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Hosni Mubarak" is a synonym for "hosni mubarak".
+    value: Mubarak
+  - correct: false
+    detail: Incorrect, "shield-shaped:satellite" is not a synonym for "hosni mubarak".
+    value: shield-shaped:satellite
+  - correct: false
+    detail: Incorrect, "conclusiveness:noun" is not a synonym for "hosni mubarak".
+    value: conclusiveness:noun
+  - correct: false
+    detail: Incorrect, "english-weed:noun" is not a synonym for "hosni mubarak".
+    value: english-weed:noun
+  text: What is a synonym for "hosni mubarak"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "pusher" is a synonym for "thruster".
+    value: pusher
+  - correct: false
+    detail: Incorrect, "spurned:verb" is not a synonym for "thruster".
+    value: spurned:verb
+  - correct: false
+    detail: Incorrect, "lacrimator:noun" is not a synonym for "thruster".
+    value: lacrimator:noun
+  - correct: false
+    detail: Incorrect, "wounding:satellite" is not a synonym for "thruster".
+    value: wounding:satellite
+  text: What is a synonym for "thruster"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "pork" is a synonym for "porc".
+    value: pork
+  - correct: false
+    detail: Incorrect, "math:noun" is not a synonym for "porc".
+    value: math:noun
+  - correct: false
+    detail: Incorrect, "sympathize:verb" is not a synonym for "porc".
+    value: sympathize:verb
+  - correct: false
+    detail: Incorrect, "backflowing:noun" is not a synonym for "porc".
+    value: backflowing:noun
+  text: What is a synonym for "porc"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Argyranthemum" is a synonym for "argyranthemum".
+    value: Argyranthemum
+  - correct: false
+    detail: Incorrect, "vyacheslav mikhailovich molotov:noun" is not a synonym for
+      "argyranthemum".
+    value: vyacheslav mikhailovich molotov:noun
+  - correct: false
+    detail: Incorrect, "unlittered:satellite" is not a synonym for "argyranthemum".
+    value: unlittered:satellite
+  - correct: false
+    detail: Incorrect, "oleaginous:satellite" is not a synonym for "argyranthemum".
+    value: oleaginous:satellite
+  text: What is a synonym for "argyranthemum"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Selaginella apoda" is a synonym for "basket spikemoss".
+    value: meadow spikemoss
+  - correct: false
+    detail: Incorrect, "penetratively:adverb" is not a synonym for "basket spikemoss".
+    value: penetratively:adverb
+  - correct: false
+    detail: Incorrect, "apothecaries' pound:noun" is not a synonym for "basket spikemoss".
+    value: apothecaries' pound:noun
+  - correct: false
+    detail: Incorrect, "underdone:satellite" is not a synonym for "basket spikemoss".
+    value: underdone:satellite
+  text: What is a synonym for "basket spikemoss"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "genus Regulus" is a synonym for "regulus".
+    value: Regulus|Regulus
+  - correct: false
+    detail: Incorrect, "catatonic type schizophrenia:noun" is not a synonym for "regulus".
+    value: catatonic type schizophrenia:noun
+  - correct: false
+    detail: Incorrect, "jack dempsey:noun" is not a synonym for "regulus".
+    value: jack dempsey:noun
+  - correct: false
+    detail: Incorrect, "regress:verb" is not a synonym for "regulus".
+    value: regress:verb
+  text: What is a synonym for "regulus"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "shilling" is a synonym for "kenyan shilling".
+    value: Kenyan shilling
+  - correct: false
+    detail: Incorrect, "wedding cake:noun" is not a synonym for "kenyan shilling".
+    value: wedding cake:noun
+  - correct: false
+    detail: Incorrect, "foot soldier:noun" is not a synonym for "kenyan shilling".
+    value: foot soldier:noun
+  - correct: false
+    detail: Incorrect, "gondola car:noun" is not a synonym for "kenyan shilling".
+    value: gondola car:noun
+  text: What is a synonym for "kenyan shilling"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "genus Calamagrostis" is a synonym for "genus calamagrostis".
+    value: Calamagrostis
+  - correct: false
+    detail: Incorrect, "loan:verb" is not a synonym for "genus calamagrostis".
+    value: loan:verb
+  - correct: false
+    detail: Incorrect, "insure:verb" is not a synonym for "genus calamagrostis".
+    value: insure:verb
+  - correct: false
+    detail: Incorrect, "poleax:noun" is not a synonym for "genus calamagrostis".
+    value: poleax:noun
+  text: What is a synonym for "genus calamagrostis"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Yucca gloriosa" is a synonym for "yucca gloriosa".
+    value: Yucca gloriosa
+  - correct: false
+    detail: Incorrect, "epistle to philemon:noun" is not a synonym for "yucca gloriosa".
+    value: epistle to philemon:noun
+  - correct: false
+    detail: Incorrect, "carboxyl:adjective" is not a synonym for "yucca gloriosa".
+    value: carboxyl:adjective
+  - correct: false
+    detail: Incorrect, "carlyle:noun" is not a synonym for "yucca gloriosa".
+    value: carlyle:noun
+  text: What is a synonym for "yucca gloriosa"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Styphelia" is a synonym for "genus styphelia".
+    value: Styphelia
+  - correct: false
+    detail: Incorrect, "o'connor:noun" is not a synonym for "genus styphelia".
+    value: o'connor:noun
+  - correct: false
+    detail: Incorrect, "human relationship:noun" is not a synonym for "genus styphelia".
+    value: human relationship:noun
+  - correct: false
+    detail: Incorrect, "gas chamber:noun" is not a synonym for "genus styphelia".
+    value: gas chamber:noun
+  text: What is a synonym for "genus styphelia"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Grecian" is a synonym for "grecian".
+    value: Grecian
+  - correct: false
+    detail: Incorrect, "north dakotan:noun" is not a synonym for "grecian".
+    value: north dakotan:noun
+  - correct: false
+    detail: Incorrect, "louvered window:noun" is not a synonym for "grecian".
+    value: louvered window:noun
+  - correct: false
+    detail: Incorrect, "tolu balsam:noun" is not a synonym for "grecian".
+    value: tolu balsam:noun
+  text: What is a synonym for "grecian"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "St. Dominic" is a synonym for "domingo de guzman".
+    value: St. Dominic
+  - correct: false
+    detail: Incorrect, "konqueror:noun" is not a synonym for "domingo de guzman".
+    value: konqueror:noun
+  - correct: false
+    detail: Incorrect, "mariposan:noun" is not a synonym for "domingo de guzman".
+    value: mariposan:noun
+  - correct: false
+    detail: Incorrect, "incontestable:satellite" is not a synonym for "domingo de
+      guzman".
+    value: incontestable:satellite
+  text: What is a synonym for "domingo de guzman"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "lookout" is a synonym for "observation post".
+    value: lookout
+  - correct: false
+    detail: Incorrect, "water glass:noun" is not a synonym for "observation post".
+    value: water glass:noun
+  - correct: false
+    detail: Incorrect, "byzantine empire:noun" is not a synonym for "observation post".
+    value: byzantine empire:noun
+  - correct: false
+    detail: Incorrect, "noseband:noun" is not a synonym for "observation post".
+    value: noseband:noun
+  text: What is a synonym for "observation post"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Ratibida" is a synonym for "ratibida".
+    value: Ratibida
+  - correct: false
+    detail: Incorrect, "mitigative:satellite" is not a synonym for "ratibida".
+    value: mitigative:satellite
+  - correct: false
+    detail: Incorrect, "autarchic:adjective" is not a synonym for "ratibida".
+    value: autarchic:adjective
+  - correct: false
+    detail: Incorrect, "williams:noun" is not a synonym for "ratibida".
+    value: williams:noun
+  text: What is a synonym for "ratibida"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Peronospora destructor" is a synonym for "peronospora destructor".
+    value: onion mildew
+  - correct: false
+    detail: Incorrect, "incriminating:satellite" is not a synonym for "peronospora
+      destructor".
+    value: incriminating:satellite
+  - correct: false
+    detail: Incorrect, "stagnant anoxia:noun" is not a synonym for "peronospora destructor".
+    value: stagnant anoxia:noun
+  - correct: false
+    detail: Incorrect, "neurohypophysis:noun" is not a synonym for "peronospora destructor".
+    value: neurohypophysis:noun
+  text: What is a synonym for "peronospora destructor"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "leather flower" is a synonym for "vase-fine".
+    value: Clematis viorna
+  - correct: false
+    detail: Incorrect, "renouncement:noun" is not a synonym for "vase-fine".
+    value: renouncement:noun
+  - correct: false
+    detail: Incorrect, "domicile:noun" is not a synonym for "vase-fine".
+    value: domicile:noun
+  - correct: false
+    detail: Incorrect, "saint kitts:noun" is not a synonym for "vase-fine".
+    value: saint kitts:noun
+  text: What is a synonym for "vase-fine"?

@@ -1,0 +1,302 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "provocatively" is a synonym for "provokingly".
+    value: provocatively
+  - correct: false
+    detail: Incorrect, "antimicrobic:satellite" is not a synonym for "provokingly".
+    value: antimicrobic:satellite
+  - correct: false
+    detail: Incorrect, "puddingwife:noun" is not a synonym for "provokingly".
+    value: puddingwife:noun
+  - correct: false
+    detail: Incorrect, "belike:adverb" is not a synonym for "provokingly".
+    value: belike:adverb
+  text: What is a synonym for "provokingly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "essentially" is a synonym for "fundamentally".
+    value: basically
+  - correct: false
+    detail: Incorrect, "stuffing:verb" is not a synonym for "fundamentally".
+    value: stuffing:verb
+  - correct: false
+    detail: Incorrect, "virgin:satellite" is not a synonym for "fundamentally".
+    value: virgin:satellite
+  - correct: false
+    detail: Incorrect, "rhone:noun" is not a synonym for "fundamentally".
+    value: rhone:noun
+  text: What is a synonym for "fundamentally"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "obstreperously" is a synonym for "clamorously".
+    value: loudly
+  - correct: false
+    detail: Incorrect, "temporary expedient:noun" is not a synonym for "clamorously".
+    value: temporary expedient:noun
+  - correct: false
+    detail: Incorrect, "rauwolfia:noun" is not a synonym for "clamorously".
+    value: rauwolfia:noun
+  - correct: false
+    detail: Incorrect, "cape gooseberry:noun" is not a synonym for "clamorously".
+    value: cape gooseberry:noun
+  text: What is a synonym for "clamorously"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "talkily" is a synonym for "talkatively".
+    value: garrulously
+  - correct: false
+    detail: Incorrect, "edge in:verb" is not a synonym for "talkatively".
+    value: edge in:verb
+  - correct: false
+    detail: Incorrect, "perambulator:noun" is not a synonym for "talkatively".
+    value: perambulator:noun
+  - correct: false
+    detail: Incorrect, "kinetic energy:noun" is not a synonym for "talkatively".
+    value: kinetic energy:noun
+  text: What is a synonym for "talkatively"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "devilishly" is a synonym for "devilish".
+    value: devilishly
+  - correct: false
+    detail: Incorrect, "beet armyworm:noun" is not a synonym for "devilish".
+    value: beet armyworm:noun
+  - correct: false
+    detail: Incorrect, "anagrams:verb" is not a synonym for "devilish".
+    value: anagrams:verb
+  - correct: false
+    detail: Incorrect, "nutritiveness:noun" is not a synonym for "devilish".
+    value: nutritiveness:noun
+  text: What is a synonym for "devilish"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hydraulically" is a synonym for "hydraulicly".
+    value: hydraulically
+  - correct: false
+    detail: Incorrect, "breadline:noun" is not a synonym for "hydraulicly".
+    value: breadline:noun
+  - correct: false
+    detail: Incorrect, "platanus racemosa:noun" is not a synonym for "hydraulicly".
+    value: platanus racemosa:noun
+  - correct: false
+    detail: Incorrect, "biennial:adjective" is not a synonym for "hydraulicly".
+    value: biennial:adjective
+  text: What is a synonym for "hydraulicly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "lazily" is a synonym for "idly".
+    value: lazily
+  - correct: false
+    detail: Incorrect, "louis the stammerer:noun" is not a synonym for "idly".
+    value: louis the stammerer:noun
+  - correct: false
+    detail: Incorrect, "xylosma congestum:noun" is not a synonym for "idly".
+    value: xylosma congestum:noun
+  - correct: false
+    detail: Incorrect, "fag out:verb" is not a synonym for "idly".
+    value: fag out:verb
+  text: What is a synonym for "idly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "obstructively" is a synonym for "hinderingly".
+    value: obstructively
+  - correct: false
+    detail: Incorrect, "slag code:noun" is not a synonym for "hinderingly".
+    value: slag code:noun
+  - correct: false
+    detail: Incorrect, "boarding card:noun" is not a synonym for "hinderingly".
+    value: boarding card:noun
+  - correct: false
+    detail: Incorrect, "trumpet vine:noun" is not a synonym for "hinderingly".
+    value: trumpet vine:noun
+  text: What is a synonym for "hinderingly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "raving" is a synonym for "ravingly".
+    value: raving
+  - correct: false
+    detail: Incorrect, "mystification:noun" is not a synonym for "ravingly".
+    value: mystification:noun
+  - correct: false
+    detail: Incorrect, "lilongwe:noun" is not a synonym for "ravingly".
+    value: lilongwe:noun
+  - correct: false
+    detail: Incorrect, "molluga verticillata:noun" is not a synonym for "ravingly".
+    value: molluga verticillata:noun
+  text: What is a synonym for "ravingly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "high up|richly" is a synonym for "high".
+    value: high up|richly
+  - correct: false
+    detail: Incorrect, "psi:noun" is not a synonym for "high".
+    value: psi:noun
+  - correct: false
+    detail: Incorrect, "turn up the pressure:verb" is not a synonym for "high".
+    value: turn up the pressure:verb
+  - correct: false
+    detail: Incorrect, "ageratina:noun" is not a synonym for "high".
+    value: ageratina:noun
+  text: What is a synonym for "high"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "nearest" is a synonym for "closest".
+    value: nighest
+  - correct: false
+    detail: Incorrect, "anti-american:noun" is not a synonym for "closest".
+    value: anti-american:noun
+  - correct: false
+    detail: Incorrect, "literary pirate:noun" is not a synonym for "closest".
+    value: literary pirate:noun
+  - correct: false
+    detail: Incorrect, "defensive attitude:noun" is not a synonym for "closest".
+    value: defensive attitude:noun
+  text: What is a synonym for "closest"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "to the limit" is a synonym for "to the hilt".
+    value: to the limit
+  - correct: false
+    detail: Incorrect, "barnyard grass:noun" is not a synonym for "to the hilt".
+    value: barnyard grass:noun
+  - correct: false
+    detail: Incorrect, "burn out:verb" is not a synonym for "to the hilt".
+    value: burn out:verb
+  - correct: false
+    detail: Incorrect, "mass hysteria:noun" is not a synonym for "to the hilt".
+    value: mass hysteria:noun
+  text: What is a synonym for "to the hilt"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "as it were|as we say" is a synonym for "so to speak".
+    value: as it were|as we say
+  - correct: false
+    detail: Incorrect, "bombax ceiba:noun" is not a synonym for "so to speak".
+    value: bombax ceiba:noun
+  - correct: false
+    detail: Incorrect, "united arab emirate monetary unit:noun" is not a synonym for
+      "so to speak".
+    value: united arab emirate monetary unit:noun
+  - correct: false
+    detail: Incorrect, "stringency:noun" is not a synonym for "so to speak".
+    value: stringency:noun
+  text: What is a synonym for "so to speak"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "here" is a synonym for "hither".
+    value: here
+  - correct: false
+    detail: Incorrect, "gothic romancer:noun" is not a synonym for "hither".
+    value: gothic romancer:noun
+  - correct: false
+    detail: Incorrect, "ebbing:verb" is not a synonym for "hither".
+    value: ebbing:verb
+  - correct: false
+    detail: Incorrect, "cofferdam:noun" is not a synonym for "hither".
+    value: cofferdam:noun
+  text: What is a synonym for "hither"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unambiguously" is a synonym for "unequivocally".
+    value: unambiguously
+  - correct: false
+    detail: Incorrect, "luanda:noun" is not a synonym for "unequivocally".
+    value: luanda:noun
+  - correct: false
+    detail: Incorrect, "polystichum scopulinum:noun" is not a synonym for "unequivocally".
+    value: polystichum scopulinum:noun
+  - correct: false
+    detail: Incorrect, "rumpus room:noun" is not a synonym for "unequivocally".
+    value: rumpus room:noun
+  text: What is a synonym for "unequivocally"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "sceptically" is a synonym for "skeptically".
+    value: sceptically
+  - correct: false
+    detail: Incorrect, "mahogany family:noun" is not a synonym for "skeptically".
+    value: mahogany family:noun
+  - correct: false
+    detail: Incorrect, "ground cloth:noun" is not a synonym for "skeptically".
+    value: ground cloth:noun
+  - correct: false
+    detail: Incorrect, "mubarak:noun" is not a synonym for "skeptically".
+    value: mubarak:noun
+  text: What is a synonym for "skeptically"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "promptly" is a synonym for "pronto".
+    value: promptly
+  - correct: false
+    detail: Incorrect, "field garlic:noun" is not a synonym for "pronto".
+    value: field garlic:noun
+  - correct: false
+    detail: Incorrect, "public security:noun" is not a synonym for "pronto".
+    value: public security:noun
+  - correct: false
+    detail: Incorrect, "chippewyan:noun" is not a synonym for "pronto".
+    value: chippewyan:noun
+  text: What is a synonym for "pronto"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "stingily" is a synonym for "chintzily".
+    value: stingily
+  - correct: false
+    detail: Incorrect, "west african:adjective" is not a synonym for "chintzily".
+    value: west african:adjective
+  - correct: false
+    detail: Incorrect, "pitressin:noun" is not a synonym for "chintzily".
+    value: pitressin:noun
+  - correct: false
+    detail: Incorrect, "shortia galacifolia:noun" is not a synonym for "chintzily".
+    value: shortia galacifolia:noun
+  text: What is a synonym for "chintzily"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "sullenly" is a synonym for "glumly".
+    value: sullenly
+  - correct: false
+    detail: Incorrect, "sprightliness:noun" is not a synonym for "glumly".
+    value: sprightliness:noun
+  - correct: false
+    detail: Incorrect, "on the button:satellite" is not a synonym for "glumly".
+    value: on the button:satellite
+  - correct: false
+    detail: Incorrect, "gerfalcon:noun" is not a synonym for "glumly".
+    value: gerfalcon:noun
+  text: What is a synonym for "glumly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "first-rate|fine" is a synonym for "very well".
+    value: alright
+  - correct: false
+    detail: Incorrect, "asian longhorned beetle:noun" is not a synonym for "very well".
+    value: asian longhorned beetle:noun
+  - correct: false
+    detail: Incorrect, "geum strictum:noun" is not a synonym for "very well".
+    value: geum strictum:noun
+  - correct: false
+    detail: Incorrect, "geiger tube:noun" is not a synonym for "very well".
+    value: geiger tube:noun
+  text: What is a synonym for "very well"?

@@ -1,0 +1,304 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "rich people" is a synonym for "rich".
+    value: rich people
+  - correct: false
+    detail: Incorrect, "missis:noun" is not a synonym for "rich".
+    value: missis:noun
+  - correct: false
+    detail: Incorrect, "rudiment:noun" is not a synonym for "rich".
+    value: rudiment:noun
+  - correct: false
+    detail: Incorrect, "partitioning:noun" is not a synonym for "rich".
+    value: partitioning:noun
+  text: What is a synonym for "rich"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Isuridae" is a synonym for "isuridae".
+    value: family Isuridae
+  - correct: false
+    detail: Incorrect, "hyperacusia:noun" is not a synonym for "isuridae".
+    value: hyperacusia:noun
+  - correct: false
+    detail: Incorrect, "germicidal:satellite" is not a synonym for "isuridae".
+    value: germicidal:satellite
+  - correct: false
+    detail: Incorrect, "upriver:adverb" is not a synonym for "isuridae".
+    value: upriver:adverb
+  text: What is a synonym for "isuridae"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Walter Hess" is a synonym for "walter rudolf hess".
+    value: Hess
+  - correct: false
+    detail: Incorrect, "adelie coast:noun" is not a synonym for "walter rudolf hess".
+    value: adelie coast:noun
+  - correct: false
+    detail: Incorrect, "arabic:noun" is not a synonym for "walter rudolf hess".
+    value: arabic:noun
+  - correct: false
+    detail: Incorrect, "pauline:adjective" is not a synonym for "walter rudolf hess".
+    value: pauline:adjective
+  text: What is a synonym for "walter rudolf hess"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "vegetable garden" is a synonym for "vegetable patch".
+    value: kitchen garden
+  - correct: false
+    detail: Incorrect, "capiz:noun" is not a synonym for "vegetable patch".
+    value: capiz:noun
+  - correct: false
+    detail: Incorrect, "sneakily:adverb" is not a synonym for "vegetable patch".
+    value: sneakily:adverb
+  - correct: false
+    detail: Incorrect, "incorruptness:noun" is not a synonym for "vegetable patch".
+    value: incorruptness:noun
+  text: What is a synonym for "vegetable patch"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "odds-maker" is a synonym for "handicapper".
+    value: odds-maker
+  - correct: false
+    detail: Incorrect, "trh:noun" is not a synonym for "handicapper".
+    value: trh:noun
+  - correct: false
+    detail: Incorrect, "shia:noun" is not a synonym for "handicapper".
+    value: shia:noun
+  - correct: false
+    detail: Incorrect, "pestilence:noun" is not a synonym for "handicapper".
+    value: pestilence:noun
+  text: What is a synonym for "handicapper"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "covered stadium" is a synonym for "domed stadium".
+    value: dome
+  - correct: false
+    detail: Incorrect, "blue-winged teal:noun" is not a synonym for "domed stadium".
+    value: blue-winged teal:noun
+  - correct: false
+    detail: Incorrect, "cxxxv:satellite" is not a synonym for "domed stadium".
+    value: cxxxv:satellite
+  - correct: false
+    detail: Incorrect, "cause:noun" is not a synonym for "domed stadium".
+    value: cause:noun
+  text: What is a synonym for "domed stadium"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Xylosma congestum" is a synonym for "xylosma congestum".
+    value: xylosma
+  - correct: false
+    detail: Incorrect, "contraclockwise:adjective" is not a synonym for "xylosma congestum".
+    value: contraclockwise:adjective
+  - correct: false
+    detail: Incorrect, "phoronidea:noun" is not a synonym for "xylosma congestum".
+    value: phoronidea:noun
+  - correct: false
+    detail: Incorrect, "maniac:noun" is not a synonym for "xylosma congestum".
+    value: maniac:noun
+  text: What is a synonym for "xylosma congestum"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Begonia heracleifolia" is a synonym for "star begonia".
+    value: star-leaf begonia
+  - correct: false
+    detail: Incorrect, "brain:noun" is not a synonym for "star begonia".
+    value: brain:noun
+  - correct: false
+    detail: Incorrect, "slaying:verb" is not a synonym for "star begonia".
+    value: slaying:verb
+  - correct: false
+    detail: Incorrect, "run for:verb" is not a synonym for "star begonia".
+    value: run for:verb
+  text: What is a synonym for "star begonia"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "urogenital medicine" is a synonym for "urology".
+    value: urogenital medicine
+  - correct: false
+    detail: Incorrect, "silverleaf nightshade:noun" is not a synonym for "urology".
+    value: silverleaf nightshade:noun
+  - correct: false
+    detail: Incorrect, "defensive structure:noun" is not a synonym for "urology".
+    value: defensive structure:noun
+  - correct: false
+    detail: Incorrect, "hahnium:noun" is not a synonym for "urology".
+    value: hahnium:noun
+  text: What is a synonym for "urology"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "nomograph" is a synonym for "nomogram".
+    value: nomograph
+  - correct: false
+    detail: Incorrect, "apace:adverb" is not a synonym for "nomogram".
+    value: apace:adverb
+  - correct: false
+    detail: Incorrect, "second battle of ypres:noun" is not a synonym for "nomogram".
+    value: second battle of ypres:noun
+  - correct: false
+    detail: Incorrect, "incompetent:adjective" is not a synonym for "nomogram".
+    value: incompetent:adjective
+  text: What is a synonym for "nomogram"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "April" is a synonym for "april".
+    value: April
+  - correct: false
+    detail: Incorrect, "mt. everest:noun" is not a synonym for "april".
+    value: mt. everest:noun
+  - correct: false
+    detail: Incorrect, "anglo-catholic:adjective" is not a synonym for "april".
+    value: anglo-catholic:adjective
+  - correct: false
+    detail: Incorrect, "greenbelt:noun" is not a synonym for "april".
+    value: greenbelt:noun
+  text: What is a synonym for "april"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "California fuchsia" is a synonym for "epilobium canum canum".
+    value: humming bird's trumpet
+  - correct: false
+    detail: Incorrect, "james augustus henry murray:noun" is not a synonym for "epilobium
+      canum canum".
+    value: james augustus henry murray:noun
+  - correct: false
+    detail: Incorrect, "agrobiological:adjective" is not a synonym for "epilobium
+      canum canum".
+    value: agrobiological:adjective
+  - correct: false
+    detail: Incorrect, "syrinx:noun" is not a synonym for "epilobium canum canum".
+    value: syrinx:noun
+  text: What is a synonym for "epilobium canum canum"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "atmosphere" is a synonym for "atmospheric state".
+    value: atmosphere
+  - correct: false
+    detail: Incorrect, "take a breather:verb" is not a synonym for "atmospheric state".
+    value: take a breather:verb
+  - correct: false
+    detail: Incorrect, "pressman:noun" is not a synonym for "atmospheric state".
+    value: pressman:noun
+  - correct: false
+    detail: Incorrect, "speckless:verb" is not a synonym for "atmospheric state".
+    value: speckless:verb
+  text: What is a synonym for "atmospheric state"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "power grid" is a synonym for "power system".
+    value: grid
+  - correct: false
+    detail: Incorrect, "mayflower:noun" is not a synonym for "power system".
+    value: mayflower:noun
+  - correct: false
+    detail: Incorrect, "myrrh:noun" is not a synonym for "power system".
+    value: myrrh:noun
+  - correct: false
+    detail: Incorrect, "logograph:noun" is not a synonym for "power system".
+    value: logograph:noun
+  text: What is a synonym for "power system"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "thyrse" is a synonym for "thyrsus".
+    value: thyrse
+  - correct: false
+    detail: Incorrect, "likeliness:noun" is not a synonym for "thyrsus".
+    value: likeliness:noun
+  - correct: false
+    detail: Incorrect, "paper currency:noun" is not a synonym for "thyrsus".
+    value: paper currency:noun
+  - correct: false
+    detail: Incorrect, "vigour:noun" is not a synonym for "thyrsus".
+    value: vigour:noun
+  text: What is a synonym for "thyrsus"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "lily of the Incas" is a synonym for "lily of the incas".
+    value: Peruvian lily
+  - correct: false
+    detail: Incorrect, "ceratotherium simum:noun" is not a synonym for "lily of the
+      incas".
+    value: ceratotherium simum:noun
+  - correct: false
+    detail: Incorrect, "sphalerite:noun" is not a synonym for "lily of the incas".
+    value: sphalerite:noun
+  - correct: false
+    detail: Incorrect, "shmo:noun" is not a synonym for "lily of the incas".
+    value: shmo:noun
+  text: What is a synonym for "lily of the incas"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "incontinence" is a synonym for "dissoluteness".
+    value: incontinence
+  - correct: false
+    detail: Incorrect, "indian lodge:noun" is not a synonym for "dissoluteness".
+    value: indian lodge:noun
+  - correct: false
+    detail: Incorrect, "water project:noun" is not a synonym for "dissoluteness".
+    value: water project:noun
+  - correct: false
+    detail: Incorrect, "substantive dye:noun" is not a synonym for "dissoluteness".
+    value: substantive dye:noun
+  text: What is a synonym for "dissoluteness"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "cotton" is a synonym for "cotton wool".
+    value: cotton fiber
+  - correct: false
+    detail: Incorrect, "publicised:adjective" is not a synonym for "cotton wool".
+    value: publicised:adjective
+  - correct: false
+    detail: Incorrect, "fox:verb" is not a synonym for "cotton wool".
+    value: fox:verb
+  - correct: false
+    detail: Incorrect, "third cranial nerve:noun" is not a synonym for "cotton wool".
+    value: third cranial nerve:noun
+  text: What is a synonym for "cotton wool"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Greek monetary unit" is a synonym for "greek monetary unit".
+    value: Greek monetary unit
+  - correct: false
+    detail: Incorrect, "empirically:adverb" is not a synonym for "greek monetary unit".
+    value: empirically:adverb
+  - correct: false
+    detail: Incorrect, "wild celery:noun" is not a synonym for "greek monetary unit".
+    value: wild celery:noun
+  - correct: false
+    detail: Incorrect, "sulpha:noun" is not a synonym for "greek monetary unit".
+    value: sulpha:noun
+  text: What is a synonym for "greek monetary unit"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "apparentness" is a synonym for "apparency".
+    value: apparentness
+  - correct: false
+    detail: Incorrect, "two-dimensional figure:noun" is not a synonym for "apparency".
+    value: two-dimensional figure:noun
+  - correct: false
+    detail: Incorrect, "genus daphnia:noun" is not a synonym for "apparency".
+    value: genus daphnia:noun
+  - correct: false
+    detail: Incorrect, "striped:satellite" is not a synonym for "apparency".
+    value: striped:satellite
+  text: What is a synonym for "apparency"?

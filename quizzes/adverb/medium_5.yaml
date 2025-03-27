@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "heretofore" is a synonym for "so far".
+    value: yet
+  - correct: false
+    detail: Incorrect, "pipal tree:noun" is not a synonym for "so far".
+    value: pipal tree:noun
+  - correct: false
+    detail: Incorrect, "single:noun" is not a synonym for "so far".
+    value: single:noun
+  - correct: false
+    detail: Incorrect, "madagascan:noun" is not a synonym for "so far".
+    value: madagascan:noun
+  text: What is a synonym for "so far"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "jolly" is a synonym for "fairly".
+    value: clean
+  - correct: false
+    detail: Incorrect, "navicular:noun" is not a synonym for "fairly".
+    value: navicular:noun
+  - correct: false
+    detail: Incorrect, "kiaat:noun" is not a synonym for "fairly".
+    value: kiaat:noun
+  - correct: false
+    detail: Incorrect, "enhydra:noun" is not a synonym for "fairly".
+    value: enhydra:noun
+  text: What is a synonym for "fairly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "excellently" is a synonym for "famously".
+    value: excellently
+  - correct: false
+    detail: Incorrect, "glint:verb" is not a synonym for "famously".
+    value: glint:verb
+  - correct: false
+    detail: Incorrect, "i.q.:noun" is not a synonym for "famously".
+    value: i.q.:noun
+  - correct: false
+    detail: Incorrect, "guide:verb" is not a synonym for "famously".
+    value: guide:verb
+  text: What is a synonym for "famously"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "forrader|in advance" is a synonym for "ahead".
+    value: onwards
+  - correct: false
+    detail: Incorrect, "white-tailed jackrabbit:noun" is not a synonym for "ahead".
+    value: white-tailed jackrabbit:noun
+  - correct: false
+    detail: Incorrect, "pull away:verb" is not a synonym for "ahead".
+    value: pull away:verb
+  - correct: false
+    detail: Incorrect, "aspergillaceae:noun" is not a synonym for "ahead".
+    value: aspergillaceae:noun
+  text: What is a synonym for "ahead"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "erst" is a synonym for "once".
+    value: in one case|formerly
+  - correct: false
+    detail: Incorrect, "lozier:noun" is not a synonym for "once".
+    value: lozier:noun
+  - correct: false
+    detail: Incorrect, "redbud:noun" is not a synonym for "once".
+    value: redbud:noun
+  - correct: false
+    detail: Incorrect, "culture:noun" is not a synonym for "once".
+    value: culture:noun
+  text: What is a synonym for "once"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "excessively" is a synonym for "too".
+    value: likewise
+  - correct: false
+    detail: Incorrect, "dictated:satellite" is not a synonym for "too".
+    value: dictated:satellite
+  - correct: false
+    detail: Incorrect, "pittidae:noun" is not a synonym for "too".
+    value: pittidae:noun
+  - correct: false
+    detail: Incorrect, "seyhan:noun" is not a synonym for "too".
+    value: seyhan:noun
+  text: What is a synonym for "too"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "back" is a synonym for "rearward".
+    value: backward
+  - correct: false
+    detail: Incorrect, "anapsid:noun" is not a synonym for "rearward".
+    value: anapsid:noun
+  - correct: false
+    detail: Incorrect, "bleaching clay:noun" is not a synonym for "rearward".
+    value: bleaching clay:noun
+  - correct: false
+    detail: Incorrect, "shopping center:noun" is not a synonym for "rearward".
+    value: shopping center:noun
+  text: What is a synonym for "rearward"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "dementedly" is a synonym for "crazily".
+    value: dementedly
+  - correct: false
+    detail: Incorrect, "wild boar:noun" is not a synonym for "crazily".
+    value: wild boar:noun
+  - correct: false
+    detail: Incorrect, "canopus:noun" is not a synonym for "crazily".
+    value: canopus:noun
+  - correct: false
+    detail: Incorrect, "kogia breviceps:noun" is not a synonym for "crazily".
+    value: kogia breviceps:noun
+  text: What is a synonym for "crazily"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "et al." is a synonym for "et alii".
+    value: et alia
+  - correct: false
+    detail: Incorrect, "pointlessness:noun" is not a synonym for "et alii".
+    value: pointlessness:noun
+  - correct: false
+    detail: Incorrect, "bluff:noun" is not a synonym for "et alii".
+    value: bluff:noun
+  - correct: false
+    detail: Incorrect, "class merostomata:noun" is not a synonym for "et alii".
+    value: class merostomata:noun
+  text: What is a synonym for "et alii"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ahead" is a synonym for "onwards".
+    value: onward
+  - correct: false
+    detail: Incorrect, "pnom penh:noun" is not a synonym for "onwards".
+    value: pnom penh:noun
+  - correct: false
+    detail: Incorrect, "jot:verb" is not a synonym for "onwards".
+    value: jot:verb
+  - correct: false
+    detail: Incorrect, "squirt:verb" is not a synonym for "onwards".
+    value: squirt:verb
+  text: What is a synonym for "onwards"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "in all probability" is a synonym for "belike".
+    value: likely
+  - correct: false
+    detail: Incorrect, "ascaphus:noun" is not a synonym for "belike".
+    value: ascaphus:noun
+  - correct: false
+    detail: Incorrect, "deserving:verb" is not a synonym for "belike".
+    value: deserving:verb
+  - correct: false
+    detail: Incorrect, "udder:noun" is not a synonym for "belike".
+    value: udder:noun
+  text: What is a synonym for "belike"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "slow" is a synonym for "slowly".
+    value: easy
+  - correct: false
+    detail: Incorrect, "rationalisation:noun" is not a synonym for "slowly".
+    value: rationalisation:noun
+  - correct: false
+    detail: Incorrect, "shortage:noun" is not a synonym for "slowly".
+    value: shortage:noun
+  - correct: false
+    detail: Incorrect, "valerianaceae:noun" is not a synonym for "slowly".
+    value: valerianaceae:noun
+  text: What is a synonym for "slowly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "B.C." is a synonym for "bc".
+    value: before Christ
+  - correct: false
+    detail: Incorrect, "endurable:satellite" is not a synonym for "bc".
+    value: endurable:satellite
+  - correct: false
+    detail: Incorrect, "wandering jew:noun" is not a synonym for "bc".
+    value: wandering jew:noun
+  - correct: false
+    detail: Incorrect, "cairn terrier:noun" is not a synonym for "bc".
+    value: cairn terrier:noun
+  text: What is a synonym for "bc"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "confessedly" is a synonym for "true".
+    value: admittedly
+  - correct: false
+    detail: Incorrect, "northeast:noun" is not a synonym for "true".
+    value: northeast:noun
+  - correct: false
+    detail: Incorrect, "cercidiphyllaceae:noun" is not a synonym for "true".
+    value: cercidiphyllaceae:noun
+  - correct: false
+    detail: Incorrect, "oasis:noun" is not a synonym for "true".
+    value: oasis:noun
+  text: What is a synonym for "true"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "in the main" is a synonym for "mainly".
+    value: chiefly
+  - correct: false
+    detail: Incorrect, "magnetic pyrites:noun" is not a synonym for "mainly".
+    value: magnetic pyrites:noun
+  - correct: false
+    detail: Incorrect, "urban vi:noun" is not a synonym for "mainly".
+    value: urban vi:noun
+  - correct: false
+    detail: Incorrect, "assoil:verb" is not a synonym for "mainly".
+    value: assoil:verb
+  text: What is a synonym for "mainly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "back" is a synonym for "backward".
+    value: rearwards|backwards|back
+  - correct: false
+    detail: Incorrect, "card catalogue:noun" is not a synonym for "backward".
+    value: card catalogue:noun
+  - correct: false
+    detail: Incorrect, "come-on:noun" is not a synonym for "backward".
+    value: come-on:noun
+  - correct: false
+    detail: Incorrect, "white-breasted nuthatch:noun" is not a synonym for "backward".
+    value: white-breasted nuthatch:noun
+  text: What is a synonym for "backward"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "soon" is a synonym for "shortly".
+    value: soon
+  - correct: false
+    detail: Incorrect, "schnittlaugh:noun" is not a synonym for "shortly".
+    value: schnittlaugh:noun
+  - correct: false
+    detail: Incorrect, "rachel louise carson:noun" is not a synonym for "shortly".
+    value: rachel louise carson:noun
+  - correct: false
+    detail: Incorrect, "pinus:noun" is not a synonym for "shortly".
+    value: pinus:noun
+  text: What is a synonym for "shortly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "slapdash" is a synonym for "smack".
+    value: bang
+  - correct: false
+    detail: Incorrect, "george bernard shaw:noun" is not a synonym for "smack".
+    value: george bernard shaw:noun
+  - correct: false
+    detail: Incorrect, "complex body part:noun" is not a synonym for "smack".
+    value: complex body part:noun
+  - correct: false
+    detail: Incorrect, "detrimental:satellite" is not a synonym for "smack".
+    value: detrimental:satellite
+  text: What is a synonym for "smack"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "wondrous" is a synonym for "superbly".
+    value: terrifically
+  - correct: false
+    detail: Incorrect, "pottage:noun" is not a synonym for "superbly".
+    value: pottage:noun
+  - correct: false
+    detail: Incorrect, "untarnished:satellite" is not a synonym for "superbly".
+    value: untarnished:satellite
+  - correct: false
+    detail: Incorrect, "castration:noun" is not a synonym for "superbly".
+    value: castration:noun
+  text: What is a synonym for "superbly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "wordily" is a synonym for "windily".
+    value: wordily
+  - correct: false
+    detail: Incorrect, "david riesman jr.:noun" is not a synonym for "windily".
+    value: david riesman jr.:noun
+  - correct: false
+    detail: Incorrect, "crude:noun" is not a synonym for "windily".
+    value: crude:noun
+  - correct: false
+    detail: Incorrect, "splayfooted:adjective" is not a synonym for "windily".
+    value: splayfooted:adjective
+  text: What is a synonym for "windily"?

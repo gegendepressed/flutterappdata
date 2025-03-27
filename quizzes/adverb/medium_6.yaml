@@ -1,0 +1,302 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "roughly" is a synonym for "some".
+    value: or so
+  - correct: false
+    detail: Incorrect, "double check:noun" is not a synonym for "some".
+    value: double check:noun
+  - correct: false
+    detail: Incorrect, "related to:adjective" is not a synonym for "some".
+    value: related to:adjective
+  - correct: false
+    detail: Incorrect, "pat:verb" is not a synonym for "some".
+    value: pat:verb
+  text: What is a synonym for "some"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "in short" is a synonym for "in brief".
+    value: shortly
+  - correct: false
+    detail: Incorrect, "bedsore:noun" is not a synonym for "in brief".
+    value: bedsore:noun
+  - correct: false
+    detail: Incorrect, "tricholoma irinum:noun" is not a synonym for "in brief".
+    value: tricholoma irinum:noun
+  - correct: false
+    detail: Incorrect, "broom:noun" is not a synonym for "in brief".
+    value: broom:noun
+  text: What is a synonym for "in brief"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "CE" is a synonym for "ce".
+    value: C.E.
+  - correct: false
+    detail: Incorrect, "ledger:noun" is not a synonym for "ce".
+    value: ledger:noun
+  - correct: false
+    detail: Incorrect, "volume-detonation bomb:noun" is not a synonym for "ce".
+    value: volume-detonation bomb:noun
+  - correct: false
+    detail: Incorrect, "rheumatism weed:noun" is not a synonym for "ce".
+    value: rheumatism weed:noun
+  text: What is a synonym for "ce"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "daftly" is a synonym for "dottily".
+    value: wackily
+  - correct: false
+    detail: Incorrect, "related:adjective" is not a synonym for "dottily".
+    value: related:adjective
+  - correct: false
+    detail: Incorrect, "swabbing:noun" is not a synonym for "dottily".
+    value: swabbing:noun
+  - correct: false
+    detail: Incorrect, "grass poly:noun" is not a synonym for "dottily".
+    value: grass poly:noun
+  text: What is a synonym for "dottily"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "thence" is a synonym for "hence".
+    value: therefore
+  - correct: false
+    detail: Incorrect, "killer cell:noun" is not a synonym for "hence".
+    value: killer cell:noun
+  - correct: false
+    detail: Incorrect, "throng:noun" is not a synonym for "hence".
+    value: throng:noun
+  - correct: false
+    detail: Incorrect, "closing curtain:noun" is not a synonym for "hence".
+    value: closing curtain:noun
+  text: What is a synonym for "hence"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "in good order" is a synonym for "decently".
+    value: in good order
+  - correct: false
+    detail: Incorrect, "assess:verb" is not a synonym for "decently".
+    value: assess:verb
+  - correct: false
+    detail: Incorrect, "piano accordion:noun" is not a synonym for "decently".
+    value: piano accordion:noun
+  - correct: false
+    detail: Incorrect, "calabar bean:noun" is not a synonym for "decently".
+    value: calabar bean:noun
+  text: What is a synonym for "decently"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "advantageously|well" is a synonym for "better".
+    value: substantially|well
+  - correct: false
+    detail: Incorrect, "biology lab:noun" is not a synonym for "better".
+    value: biology lab:noun
+  - correct: false
+    detail: Incorrect, "royal academy:noun" is not a synonym for "better".
+    value: royal academy:noun
+  - correct: false
+    detail: Incorrect, "coral snake:noun" is not a synonym for "better".
+    value: coral snake:noun
+  text: What is a synonym for "better"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "competently" is a synonym for "capably".
+    value: ably
+  - correct: false
+    detail: Incorrect, "full complement:noun" is not a synonym for "capably".
+    value: full complement:noun
+  - correct: false
+    detail: Incorrect, "bearded seal:noun" is not a synonym for "capably".
+    value: bearded seal:noun
+  - correct: false
+    detail: Incorrect, "wild olive:noun" is not a synonym for "capably".
+    value: wild olive:noun
+  text: What is a synonym for "capably"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "staidly|badly" is a synonym for "gravely".
+    value: severely
+  - correct: false
+    detail: Incorrect, "spreading:noun" is not a synonym for "gravely".
+    value: spreading:noun
+  - correct: false
+    detail: Incorrect, "ptilonorhynchidae:noun" is not a synonym for "gravely".
+    value: ptilonorhynchidae:noun
+  - correct: false
+    detail: Incorrect, "workday:noun" is not a synonym for "gravely".
+    value: workday:noun
+  text: What is a synonym for "gravely"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "slapdash" is a synonym for "bang".
+    value: slap
+  - correct: false
+    detail: Incorrect, "guy of burgundy:noun" is not a synonym for "bang".
+    value: guy of burgundy:noun
+  - correct: false
+    detail: Incorrect, "raining:verb" is not a synonym for "bang".
+    value: raining:verb
+  - correct: false
+    detail: Incorrect, "dog stinkhorn:noun" is not a synonym for "bang".
+    value: dog stinkhorn:noun
+  text: What is a synonym for "bang"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fresh" is a synonym for "freshly".
+    value: fresh
+  - correct: false
+    detail: Incorrect, "in vitro:adverb" is not a synonym for "freshly".
+    value: in vitro:adverb
+  - correct: false
+    detail: Incorrect, "plagiarist:noun" is not a synonym for "freshly".
+    value: plagiarist:noun
+  - correct: false
+    detail: Incorrect, "pushkin:noun" is not a synonym for "freshly".
+    value: pushkin:noun
+  text: What is a synonym for "freshly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "presently" is a synonym for "soon".
+    value: before long
+  - correct: false
+    detail: Incorrect, "candlestick:noun" is not a synonym for "soon".
+    value: candlestick:noun
+  - correct: false
+    detail: Incorrect, "regime:noun" is not a synonym for "soon".
+    value: regime:noun
+  - correct: false
+    detail: Incorrect, "prunus cerasus:noun" is not a synonym for "soon".
+    value: prunus cerasus:noun
+  text: What is a synonym for "soon"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "completely" is a synonym for "whole".
+    value: all
+  - correct: false
+    detail: Incorrect, "jemaah islamiyah:noun" is not a synonym for "whole".
+    value: jemaah islamiyah:noun
+  - correct: false
+    detail: Incorrect, "front room:noun" is not a synonym for "whole".
+    value: front room:noun
+  - correct: false
+    detail: Incorrect, "kauri gum:noun" is not a synonym for "whole".
+    value: kauri gum:noun
+  text: What is a synonym for "whole"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "but" is a synonym for "merely".
+    value: simply
+  - correct: false
+    detail: Incorrect, "lyly:noun" is not a synonym for "merely".
+    value: lyly:noun
+  - correct: false
+    detail: Incorrect, "vladimir lenin:noun" is not a synonym for "merely".
+    value: vladimir lenin:noun
+  - correct: false
+    detail: Incorrect, "decayable:satellite" is not a synonym for "merely".
+    value: decayable:satellite
+  text: What is a synonym for "merely"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "in brief" is a synonym for "in short".
+    value: in brief
+  - correct: false
+    detail: Incorrect, "mexican fire plant:noun" is not a synonym for "in short".
+    value: mexican fire plant:noun
+  - correct: false
+    detail: Incorrect, "presidency:noun" is not a synonym for "in short".
+    value: presidency:noun
+  - correct: false
+    detail: Incorrect, "genus lycoperdon:noun" is not a synonym for "in short".
+    value: genus lycoperdon:noun
+  text: What is a synonym for "in short"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "flat" is a synonym for "straight".
+    value: direct|directly
+  - correct: false
+    detail: Incorrect, "aerosolise:verb" is not a synonym for "straight".
+    value: aerosolise:verb
+  - correct: false
+    detail: Incorrect, "high style:noun" is not a synonym for "straight".
+    value: high style:noun
+  - correct: false
+    detail: Incorrect, "chenin blanc:noun" is not a synonym for "straight".
+    value: chenin blanc:noun
+  text: What is a synonym for "straight"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rather" is a synonym for "sort of".
+    value: rather
+  - correct: false
+    detail: Incorrect, "capital of norway:noun" is not a synonym for "sort of".
+    value: capital of norway:noun
+  - correct: false
+    detail: Incorrect, "free form:noun" is not a synonym for "sort of".
+    value: free form:noun
+  - correct: false
+    detail: Incorrect, "north american free trade agreement:noun" is not a synonym
+      for "sort of".
+    value: north american free trade agreement:noun
+  text: What is a synonym for "sort of"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "deplorably" is a synonym for "woefully".
+    value: lamentably
+  - correct: false
+    detail: Incorrect, "elaborated:satellite" is not a synonym for "woefully".
+    value: elaborated:satellite
+  - correct: false
+    detail: Incorrect, "prognostication:noun" is not a synonym for "woefully".
+    value: prognostication:noun
+  - correct: false
+    detail: Incorrect, "tartarus:noun" is not a synonym for "woefully".
+    value: tartarus:noun
+  text: What is a synonym for "woefully"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fortunately" is a synonym for "luckily".
+    value: fortuitously
+  - correct: false
+    detail: Incorrect, "genus tamias:noun" is not a synonym for "luckily".
+    value: genus tamias:noun
+  - correct: false
+    detail: Incorrect, "edmond malone:noun" is not a synonym for "luckily".
+    value: edmond malone:noun
+  - correct: false
+    detail: Incorrect, "queerly:adverb" is not a synonym for "luckily".
+    value: queerly:adverb
+  text: What is a synonym for "luckily"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "in spite of appearance" is a synonym for "at heart".
+    value: at bottom
+  - correct: false
+    detail: Incorrect, "hynerpeton:noun" is not a synonym for "at heart".
+    value: hynerpeton:noun
+  - correct: false
+    detail: Incorrect, "class rhodophyceae:noun" is not a synonym for "at heart".
+    value: class rhodophyceae:noun
+  - correct: false
+    detail: Incorrect, "interior secretary:noun" is not a synonym for "at heart".
+    value: interior secretary:noun
+  text: What is a synonym for "at heart"?

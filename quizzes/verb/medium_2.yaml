@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "enlighten" is a synonym for "clear".
+    value: crystallise
+  - correct: false
+    detail: Incorrect, "mantis religioso:noun" is not a synonym for "clear".
+    value: mantis religioso:noun
+  - correct: false
+    detail: Incorrect, "rope off:verb" is not a synonym for "clear".
+    value: rope off:verb
+  - correct: false
+    detail: Incorrect, "pubococcygeus exercises:noun" is not a synonym for "clear".
+    value: pubococcygeus exercises:noun
+  text: What is a synonym for "clear"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "deck out" is a synonym for "fig out".
+    value: deck out
+  - correct: false
+    detail: Incorrect, "suitability:noun" is not a synonym for "fig out".
+    value: suitability:noun
+  - correct: false
+    detail: Incorrect, "tabriz:noun" is not a synonym for "fig out".
+    value: tabriz:noun
+  - correct: false
+    detail: Incorrect, "rotary joint:noun" is not a synonym for "fig out".
+    value: rotary joint:noun
+  text: What is a synonym for "fig out"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "scant" is a synonym for "skimp".
+    value: scant|scant|scrimp
+  - correct: false
+    detail: Incorrect, "guttiferales:noun" is not a synonym for "skimp".
+    value: guttiferales:noun
+  - correct: false
+    detail: Incorrect, "belly dancing:verb" is not a synonym for "skimp".
+    value: belly dancing:verb
+  - correct: false
+    detail: Incorrect, "nucleolar organizer:noun" is not a synonym for "skimp".
+    value: nucleolar organizer:noun
+  text: What is a synonym for "skimp"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fatigue" is a synonym for "fag".
+    value: fatigue
+  - correct: false
+    detail: Incorrect, "synge:noun" is not a synonym for "fag".
+    value: synge:noun
+  - correct: false
+    detail: Incorrect, "ephah:noun" is not a synonym for "fag".
+    value: ephah:noun
+  - correct: false
+    detail: Incorrect, "november 2:noun" is not a synonym for "fag".
+    value: november 2:noun
+  text: What is a synonym for "fag"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "course|flow|flow|hang" is a synonym for "flowing".
+    value: course|flow|flow|hang
+  - correct: false
+    detail: Incorrect, "familiarising:satellite" is not a synonym for "flowing".
+    value: familiarising:satellite
+  - correct: false
+    detail: Incorrect, "adelie:noun" is not a synonym for "flowing".
+    value: adelie:noun
+  - correct: false
+    detail: Incorrect, "cell organ:noun" is not a synonym for "flowing".
+    value: cell organ:noun
+  text: What is a synonym for "flowing"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "pitch" is a synonym for "canted".
+    value: pitch
+  - correct: false
+    detail: Incorrect, "inexorable:satellite" is not a synonym for "canted".
+    value: inexorable:satellite
+  - correct: false
+    detail: Incorrect, "ezed:noun" is not a synonym for "canted".
+    value: ezed:noun
+  - correct: false
+    detail: Incorrect, "sour-tasting:satellite" is not a synonym for "canted".
+    value: sour-tasting:satellite
+  text: What is a synonym for "canted"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "illegalise" is a synonym for "outlawed".
+    value: criminalize
+  - correct: false
+    detail: Incorrect, "yosemite falls:noun" is not a synonym for "outlawed".
+    value: yosemite falls:noun
+  - correct: false
+    detail: Incorrect, "circular:noun" is not a synonym for "outlawed".
+    value: circular:noun
+  - correct: false
+    detail: Incorrect, "bengali:adjective" is not a synonym for "outlawed".
+    value: bengali:adjective
+  text: What is a synonym for "outlawed"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "mess about" is a synonym for "linger".
+    value: loiter
+  - correct: false
+    detail: Incorrect, "wernicke's area:noun" is not a synonym for "linger".
+    value: wernicke's area:noun
+  - correct: false
+    detail: Incorrect, "tenaciousness:noun" is not a synonym for "linger".
+    value: tenaciousness:noun
+  - correct: false
+    detail: Incorrect, "write-in candidate:noun" is not a synonym for "linger".
+    value: write-in candidate:noun
+  text: What is a synonym for "linger"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "give the sack" is a synonym for "fire".
+    value: can
+  - correct: false
+    detail: Incorrect, "purchase:noun" is not a synonym for "fire".
+    value: purchase:noun
+  - correct: false
+    detail: Incorrect, "american featherfoil:noun" is not a synonym for "fire".
+    value: american featherfoil:noun
+  - correct: false
+    detail: Incorrect, "reddened:satellite" is not a synonym for "fire".
+    value: reddened:satellite
+  text: What is a synonym for "fire"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "snitch" is a synonym for "cop".
+    value: nail
+  - correct: false
+    detail: Incorrect, "quaver:noun" is not a synonym for "cop".
+    value: quaver:noun
+  - correct: false
+    detail: Incorrect, "noneffervescent:adjective" is not a synonym for "cop".
+    value: noneffervescent:adjective
+  - correct: false
+    detail: Incorrect, "medicago sativa:noun" is not a synonym for "cop".
+    value: medicago sativa:noun
+  text: What is a synonym for "cop"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "maledict" is a synonym for "beshrew".
+    value: curse
+  - correct: false
+    detail: Incorrect, "aggregator:noun" is not a synonym for "beshrew".
+    value: aggregator:noun
+  - correct: false
+    detail: Incorrect, "elaeocarpus family:noun" is not a synonym for "beshrew".
+    value: elaeocarpus family:noun
+  - correct: false
+    detail: Incorrect, "chorizagrotis auxiliaris:noun" is not a synonym for "beshrew".
+    value: chorizagrotis auxiliaris:noun
+  text: What is a synonym for "beshrew"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "haze over" is a synonym for "fog".
+    value: cloud
+  - correct: false
+    detail: Incorrect, "william caxton:noun" is not a synonym for "fog".
+    value: william caxton:noun
+  - correct: false
+    detail: Incorrect, "genus lotus:noun" is not a synonym for "fog".
+    value: genus lotus:noun
+  - correct: false
+    detail: Incorrect, "amenableness:noun" is not a synonym for "fog".
+    value: amenableness:noun
+  text: What is a synonym for "fog"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "cry" is a synonym for "hollo".
+    value: scream
+  - correct: false
+    detail: Incorrect, "lactoflavin:noun" is not a synonym for "hollo".
+    value: lactoflavin:noun
+  - correct: false
+    detail: Incorrect, "genus ribes:noun" is not a synonym for "hollo".
+    value: genus ribes:noun
+  - correct: false
+    detail: Incorrect, "abductor muscle:noun" is not a synonym for "hollo".
+    value: abductor muscle:noun
+  text: What is a synonym for "hollo"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fend off" is a synonym for "avoid".
+    value: head off
+  - correct: false
+    detail: Incorrect, "sergeant fish:noun" is not a synonym for "avoid".
+    value: sergeant fish:noun
+  - correct: false
+    detail: Incorrect, "purus:noun" is not a synonym for "avoid".
+    value: purus:noun
+  - correct: false
+    detail: Incorrect, "horizontal integration:noun" is not a synonym for "avoid".
+    value: horizontal integration:noun
+  text: What is a synonym for "avoid"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ramble" is a synonym for "roll".
+    value: vagabond|revolve|seethe|roll up
+  - correct: false
+    detail: Incorrect, "bump off:verb" is not a synonym for "roll".
+    value: bump off:verb
+  - correct: false
+    detail: Incorrect, "blurt out:verb" is not a synonym for "roll".
+    value: blurt out:verb
+  - correct: false
+    detail: Incorrect, "peeping tom:noun" is not a synonym for "roll".
+    value: peeping tom:noun
+  text: What is a synonym for "roll"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "go around" is a synonym for "bypast".
+    value: get around
+  - correct: false
+    detail: Incorrect, "solar power:noun" is not a synonym for "bypast".
+    value: solar power:noun
+  - correct: false
+    detail: Incorrect, "atrium dextrum:noun" is not a synonym for "bypast".
+    value: atrium dextrum:noun
+  - correct: false
+    detail: Incorrect, "prince of wales:noun" is not a synonym for "bypast".
+    value: prince of wales:noun
+  text: What is a synonym for "bypast"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "have it away" is a synonym for "know".
+    value: do it
+  - correct: false
+    detail: Incorrect, "sensing element:noun" is not a synonym for "know".
+    value: sensing element:noun
+  - correct: false
+    detail: Incorrect, "purify:verb" is not a synonym for "know".
+    value: purify:verb
+  - correct: false
+    detail: Incorrect, "neatness:noun" is not a synonym for "know".
+    value: neatness:noun
+  text: What is a synonym for "know"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "pitch|dispose" is a synonym for "incline".
+    value: be given
+  - correct: false
+    detail: Incorrect, "sensibly:adverb" is not a synonym for "incline".
+    value: sensibly:adverb
+  - correct: false
+    detail: Incorrect, "szechwan province:noun" is not a synonym for "incline".
+    value: szechwan province:noun
+  - correct: false
+    detail: Incorrect, "harpia:noun" is not a synonym for "incline".
+    value: harpia:noun
+  text: What is a synonym for "incline"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "articulate" is a synonym for "word".
+    value: articulate
+  - correct: false
+    detail: Incorrect, "knockoff:noun" is not a synonym for "word".
+    value: knockoff:noun
+  - correct: false
+    detail: Incorrect, "genus avicennia:noun" is not a synonym for "word".
+    value: genus avicennia:noun
+  - correct: false
+    detail: Incorrect, "accusative:satellite" is not a synonym for "word".
+    value: accusative:satellite
+  text: What is a synonym for "word"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "need" is a synonym for "call for".
+    value: gather up
+  - correct: false
+    detail: Incorrect, "dimorphous:adjective" is not a synonym for "call for".
+    value: dimorphous:adjective
+  - correct: false
+    detail: Incorrect, "painted:satellite" is not a synonym for "call for".
+    value: painted:satellite
+  - correct: false
+    detail: Incorrect, "eighth cranial nerve:noun" is not a synonym for "call for".
+    value: eighth cranial nerve:noun
+  text: What is a synonym for "call for"?

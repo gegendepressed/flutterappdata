@@ -1,0 +1,301 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "stag" is a synonym for "sleuthing".
+    value: snoop
+  - correct: false
+    detail: Incorrect, "long plane:noun" is not a synonym for "sleuthing".
+    value: long plane:noun
+  - correct: false
+    detail: Incorrect, "sir john gielgud:noun" is not a synonym for "sleuthing".
+    value: sir john gielgud:noun
+  - correct: false
+    detail: Incorrect, "hose down:verb" is not a synonym for "sleuthing".
+    value: hose down:verb
+  text: What is a synonym for "sleuthing"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "reference" is a synonym for "referenced".
+    value: reference
+  - correct: false
+    detail: Incorrect, "ice-cream sundae:noun" is not a synonym for "referenced".
+    value: ice-cream sundae:noun
+  - correct: false
+    detail: Incorrect, "degraded:satellite" is not a synonym for "referenced".
+    value: degraded:satellite
+  - correct: false
+    detail: Incorrect, "unwiseness:noun" is not a synonym for "referenced".
+    value: unwiseness:noun
+  text: What is a synonym for "referenced"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "resect|disembowel" is a synonym for "eviscerate".
+    value: resect|disembowel
+  - correct: false
+    detail: Incorrect, "unalterable:satellite" is not a synonym for "eviscerate".
+    value: unalterable:satellite
+  - correct: false
+    detail: Incorrect, "sunspot:noun" is not a synonym for "eviscerate".
+    value: sunspot:noun
+  - correct: false
+    detail: Incorrect, "hold back:verb" is not a synonym for "eviscerate".
+    value: hold back:verb
+  text: What is a synonym for "eviscerate"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "welcome|welcome" is a synonym for "welcoming".
+    value: receive|welcome
+  - correct: false
+    detail: Incorrect, "basia:noun" is not a synonym for "welcoming".
+    value: basia:noun
+  - correct: false
+    detail: Incorrect, "read-only memory:noun" is not a synonym for "welcoming".
+    value: read-only memory:noun
+  - correct: false
+    detail: Incorrect, "interposition:noun" is not a synonym for "welcoming".
+    value: interposition:noun
+  text: What is a synonym for "welcoming"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "blockade|barricade" is a synonym for "block off".
+    value: bar|shut off
+  - correct: false
+    detail: Incorrect, "objurgate:verb" is not a synonym for "block off".
+    value: objurgate:verb
+  - correct: false
+    detail: Incorrect, "trailer camp:noun" is not a synonym for "block off".
+    value: trailer camp:noun
+  - correct: false
+    detail: Incorrect, "genus thujopsis:noun" is not a synonym for "block off".
+    value: genus thujopsis:noun
+  text: What is a synonym for "block off"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "congregate" is a synonym for "congregating".
+    value: congregate
+  - correct: false
+    detail: Incorrect, "vedism:noun" is not a synonym for "congregating".
+    value: vedism:noun
+  - correct: false
+    detail: Incorrect, "maine lobster:noun" is not a synonym for "congregating".
+    value: maine lobster:noun
+  - correct: false
+    detail: Incorrect, "black kite:noun" is not a synonym for "congregating".
+    value: black kite:noun
+  text: What is a synonym for "congregating"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "dehumanise" is a synonym for "dehumanized".
+    value: dehumanize
+  - correct: false
+    detail: Incorrect, "el salvador:noun" is not a synonym for "dehumanized".
+    value: el salvador:noun
+  - correct: false
+    detail: Incorrect, "christianise:verb" is not a synonym for "dehumanized".
+    value: christianise:verb
+  - correct: false
+    detail: Incorrect, "improvize:verb" is not a synonym for "dehumanized".
+    value: improvize:verb
+  text: What is a synonym for "dehumanized"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "set off" is a synonym for "touch off".
+    value: set off
+  - correct: false
+    detail: Incorrect, "division chrysophyta:noun" is not a synonym for "touch off".
+    value: division chrysophyta:noun
+  - correct: false
+    detail: Incorrect, "rhone river:noun" is not a synonym for "touch off".
+    value: rhone river:noun
+  - correct: false
+    detail: Incorrect, "haematocoele:noun" is not a synonym for "touch off".
+    value: haematocoele:noun
+  text: What is a synonym for "touch off"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "bard" is a synonym for "caparisoned".
+    value: barde
+  - correct: false
+    detail: Incorrect, "messenger rna:noun" is not a synonym for "caparisoned".
+    value: messenger rna:noun
+  - correct: false
+    detail: Incorrect, "laddie:noun" is not a synonym for "caparisoned".
+    value: laddie:noun
+  - correct: false
+    detail: Incorrect, "maiden:noun" is not a synonym for "caparisoned".
+    value: maiden:noun
+  text: What is a synonym for "caparisoned"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "attitudinize" is a synonym for "attitudinise".
+    value: attitudinize
+  - correct: false
+    detail: Incorrect, "brugmansia arborea:noun" is not a synonym for "attitudinise".
+    value: brugmansia arborea:noun
+  - correct: false
+    detail: Incorrect, "dangling:noun" is not a synonym for "attitudinise".
+    value: dangling:noun
+  - correct: false
+    detail: Incorrect, "pomposity:noun" is not a synonym for "attitudinise".
+    value: pomposity:noun
+  text: What is a synonym for "attitudinise"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "reorganize" is a synonym for "regroup".
+    value: reorganise
+  - correct: false
+    detail: Incorrect, "kiss-me-over-the-garden-gate:noun" is not a synonym for "regroup".
+    value: kiss-me-over-the-garden-gate:noun
+  - correct: false
+    detail: Incorrect, "sports announcer:noun" is not a synonym for "regroup".
+    value: sports announcer:noun
+  - correct: false
+    detail: Incorrect, "scarer:noun" is not a synonym for "regroup".
+    value: scarer:noun
+  text: What is a synonym for "regroup"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "linger over" is a synonym for "dwell on".
+    value: linger over
+  - correct: false
+    detail: Incorrect, "jacquinia:noun" is not a synonym for "dwell on".
+    value: jacquinia:noun
+  - correct: false
+    detail: Incorrect, "callosectomy:noun" is not a synonym for "dwell on".
+    value: callosectomy:noun
+  - correct: false
+    detail: Incorrect, "pronominal:noun" is not a synonym for "dwell on".
+    value: pronominal:noun
+  text: What is a synonym for "dwell on"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "victual|victual|victual" is a synonym for "victuals".
+    value: victual|victual|victual
+  - correct: false
+    detail: Incorrect, "jumping bean:noun" is not a synonym for "victuals".
+    value: jumping bean:noun
+  - correct: false
+    detail: Incorrect, "insubstantial:adjective" is not a synonym for "victuals".
+    value: insubstantial:adjective
+  - correct: false
+    detail: Incorrect, "deriving:noun" is not a synonym for "victuals".
+    value: deriving:noun
+  text: What is a synonym for "victuals"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "weave" is a synonym for "tissue".
+    value: weave
+  - correct: false
+    detail: Incorrect, "apgar score:noun" is not a synonym for "tissue".
+    value: apgar score:noun
+  - correct: false
+    detail: Incorrect, "sinbad:noun" is not a synonym for "tissue".
+    value: sinbad:noun
+  - correct: false
+    detail: Incorrect, "supraocular:adjective" is not a synonym for "tissue".
+    value: supraocular:adjective
+  text: What is a synonym for "tissue"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "give one's best" is a synonym for "go all out".
+    value: do one's best
+  - correct: false
+    detail: Incorrect, "vena saphena:noun" is not a synonym for "go all out".
+    value: vena saphena:noun
+  - correct: false
+    detail: Incorrect, "pothouse:noun" is not a synonym for "go all out".
+    value: pothouse:noun
+  - correct: false
+    detail: Incorrect, "ascension of christ:noun" is not a synonym for "go all out".
+    value: ascension of christ:noun
+  text: What is a synonym for "go all out"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unsettle" is a synonym for "enervated".
+    value: unnerve
+  - correct: false
+    detail: Incorrect, "trumpetfish:noun" is not a synonym for "enervated".
+    value: trumpetfish:noun
+  - correct: false
+    detail: Incorrect, "canada porcupine:noun" is not a synonym for "enervated".
+    value: canada porcupine:noun
+  - correct: false
+    detail: Incorrect, "mogen david:noun" is not a synonym for "enervated".
+    value: mogen david:noun
+  text: What is a synonym for "enervated"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hole" is a synonym for "hole out".
+    value: hole
+  - correct: false
+    detail: Incorrect, "bird watcher:noun" is not a synonym for "hole out".
+    value: bird watcher:noun
+  - correct: false
+    detail: Incorrect, "stooped:satellite" is not a synonym for "hole out".
+    value: stooped:satellite
+  - correct: false
+    detail: Incorrect, "benzocaine:noun" is not a synonym for "hole out".
+    value: benzocaine:noun
+  text: What is a synonym for "hole out"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "fess up" is a synonym for "own up".
+    value: make a clean breast of
+  - correct: false
+    detail: Incorrect, "utterance:noun" is not a synonym for "own up".
+    value: utterance:noun
+  - correct: false
+    detail: Incorrect, "class pelecypoda:noun" is not a synonym for "own up".
+    value: class pelecypoda:noun
+  - correct: false
+    detail: Incorrect, "gaskell:noun" is not a synonym for "own up".
+    value: gaskell:noun
+  text: What is a synonym for "own up"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "soften" is a synonym for "cushioning".
+    value: soften
+  - correct: false
+    detail: Incorrect, "buccaneering:verb" is not a synonym for "cushioning".
+    value: buccaneering:verb
+  - correct: false
+    detail: Incorrect, "essentially:adverb" is not a synonym for "cushioning".
+    value: essentially:adverb
+  - correct: false
+    detail: Incorrect, "pine away:verb" is not a synonym for "cushioning".
+    value: pine away:verb
+  text: What is a synonym for "cushioning"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "underwrite" is a synonym for "subvention".
+    value: subvent
+  - correct: false
+    detail: Incorrect, "wealthy person:noun" is not a synonym for "subvention".
+    value: wealthy person:noun
+  - correct: false
+    detail: Incorrect, "diffident:adjective" is not a synonym for "subvention".
+    value: diffident:adjective
+  - correct: false
+    detail: Incorrect, "saffron crocus:noun" is not a synonym for "subvention".
+    value: saffron crocus:noun
+  text: What is a synonym for "subvention"?

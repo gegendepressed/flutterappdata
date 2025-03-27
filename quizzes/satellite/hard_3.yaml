@@ -1,0 +1,301 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "well-to-do" is a synonym for "well-situated".
+    value: easy
+  - correct: false
+    detail: Incorrect, "fishing:noun" is not a synonym for "well-situated".
+    value: fishing:noun
+  - correct: false
+    detail: Incorrect, "bequest:noun" is not a synonym for "well-situated".
+    value: bequest:noun
+  - correct: false
+    detail: Incorrect, "nowrooz:noun" is not a synonym for "well-situated".
+    value: nowrooz:noun
+  text: What is a synonym for "well-situated"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "forty-nine" is a synonym for "il".
+    value: forty-nine
+  - correct: false
+    detail: Incorrect, "epidendrum:noun" is not a synonym for "il".
+    value: epidendrum:noun
+  - correct: false
+    detail: Incorrect, "lebensraum:noun" is not a synonym for "il".
+    value: lebensraum:noun
+  - correct: false
+    detail: Incorrect, "simon the canaanite:noun" is not a synonym for "il".
+    value: simon the canaanite:noun
+  text: What is a synonym for "il"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "touching" is a synonym for "poignant".
+    value: touching
+  - correct: false
+    detail: Incorrect, "irregular:satellite" is not a synonym for "poignant".
+    value: irregular:satellite
+  - correct: false
+    detail: Incorrect, "packaging company:noun" is not a synonym for "poignant".
+    value: packaging company:noun
+  - correct: false
+    detail: Incorrect, "family synodontidae:noun" is not a synonym for "poignant".
+    value: family synodontidae:noun
+  text: What is a synonym for "poignant"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "seventy-fifth" is a synonym for "75th".
+    value: seventy-fifth
+  - correct: false
+    detail: Incorrect, "bureau of customs:noun" is not a synonym for "75th".
+    value: bureau of customs:noun
+  - correct: false
+    detail: Incorrect, "adad:noun" is not a synonym for "75th".
+    value: adad:noun
+  - correct: false
+    detail: Incorrect, "pompous:satellite" is not a synonym for "75th".
+    value: pompous:satellite
+  text: What is a synonym for "75th"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "bare" is a synonym for "au naturel".
+    value: nude
+  - correct: false
+    detail: Incorrect, "disgusting:verb" is not a synonym for "au naturel".
+    value: disgusting:verb
+  - correct: false
+    detail: Incorrect, "stoppered:verb" is not a synonym for "au naturel".
+    value: stoppered:verb
+  - correct: false
+    detail: Incorrect, "rock hyrax:noun" is not a synonym for "au naturel".
+    value: rock hyrax:noun
+  text: What is a synonym for "au naturel"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "high-stepping" is a synonym for "high-stepped".
+    value: high-stepping
+  - correct: false
+    detail: Incorrect, "field lupine:noun" is not a synonym for "high-stepped".
+    value: field lupine:noun
+  - correct: false
+    detail: Incorrect, "alfred alistair cooke:noun" is not a synonym for "high-stepped".
+    value: alfred alistair cooke:noun
+  - correct: false
+    detail: Incorrect, "dickey:satellite" is not a synonym for "high-stepped".
+    value: dickey:satellite
+  text: What is a synonym for "high-stepped"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unobserved" is a synonym for "unseen".
+    value: unobserved
+  - correct: false
+    detail: Incorrect, "rimbaud:noun" is not a synonym for "unseen".
+    value: rimbaud:noun
+  - correct: false
+    detail: Incorrect, "lounge car:noun" is not a synonym for "unseen".
+    value: lounge car:noun
+  - correct: false
+    detail: Incorrect, "pearly nautilus:noun" is not a synonym for "unseen".
+    value: pearly nautilus:noun
+  text: What is a synonym for "unseen"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "clotted|choked" is a synonym for "clogged".
+    value: clotted|choked
+  - correct: false
+    detail: Incorrect, "schmoose:verb" is not a synonym for "clogged".
+    value: schmoose:verb
+  - correct: false
+    detail: Incorrect, "artemis pontica:noun" is not a synonym for "clogged".
+    value: artemis pontica:noun
+  - correct: false
+    detail: Incorrect, "interpretable:satellite" is not a synonym for "clogged".
+    value: interpretable:satellite
+  text: What is a synonym for "clogged"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "exploitive" is a synonym for "exploitatory".
+    value: exploitive
+  - correct: false
+    detail: Incorrect, "lowering:satellite" is not a synonym for "exploitatory".
+    value: lowering:satellite
+  - correct: false
+    detail: Incorrect, "vestris:noun" is not a synonym for "exploitatory".
+    value: vestris:noun
+  - correct: false
+    detail: Incorrect, "401-k plan:noun" is not a synonym for "exploitatory".
+    value: 401-k plan:noun
+  text: What is a synonym for "exploitatory"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "positive" is a synonym for "plus".
+    value: positive
+  - correct: false
+    detail: Incorrect, "grand turk:noun" is not a synonym for "plus".
+    value: grand turk:noun
+  - correct: false
+    detail: Incorrect, "ideal:noun" is not a synonym for "plus".
+    value: ideal:noun
+  - correct: false
+    detail: Incorrect, "sob:noun" is not a synonym for "plus".
+    value: sob:noun
+  text: What is a synonym for "plus"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "upside-down" is a synonym for "inverted".
+    value: upside-down
+  - correct: false
+    detail: Incorrect, "dour:satellite" is not a synonym for "inverted".
+    value: dour:satellite
+  - correct: false
+    detail: Incorrect, "yogi:noun" is not a synonym for "inverted".
+    value: yogi:noun
+  - correct: false
+    detail: Incorrect, "genetic profiling:noun" is not a synonym for "inverted".
+    value: genetic profiling:noun
+  text: What is a synonym for "inverted"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "shapeless" is a synonym for "formless".
+    value: shapeless
+  - correct: false
+    detail: Incorrect, "class hepaticae:noun" is not a synonym for "formless".
+    value: class hepaticae:noun
+  - correct: false
+    detail: Incorrect, "genus lycosa:noun" is not a synonym for "formless".
+    value: genus lycosa:noun
+  - correct: false
+    detail: Incorrect, "silklike:satellite" is not a synonym for "formless".
+    value: silklike:satellite
+  text: What is a synonym for "formless"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unappreciated" is a synonym for "unvalued".
+    value: unsung
+  - correct: false
+    detail: Incorrect, "maize:noun" is not a synonym for "unvalued".
+    value: maize:noun
+  - correct: false
+    detail: Incorrect, "half-evergreen:satellite" is not a synonym for "unvalued".
+    value: half-evergreen:satellite
+  - correct: false
+    detail: Incorrect, "crystal violet:noun" is not a synonym for "unvalued".
+    value: crystal violet:noun
+  text: What is a synonym for "unvalued"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "18th" is a synonym for "eighteenth".
+    value: 18th
+  - correct: false
+    detail: Incorrect, "chironomidae:noun" is not a synonym for "eighteenth".
+    value: chironomidae:noun
+  - correct: false
+    detail: Incorrect, "trifoliata:noun" is not a synonym for "eighteenth".
+    value: trifoliata:noun
+  - correct: false
+    detail: Incorrect, "brasov:noun" is not a synonym for "eighteenth".
+    value: brasov:noun
+  text: What is a synonym for "eighteenth"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "scornful" is a synonym for "contemptuous".
+    value: disdainful
+  - correct: false
+    detail: Incorrect, "trophy:noun" is not a synonym for "contemptuous".
+    value: trophy:noun
+  - correct: false
+    detail: Incorrect, "botaurus lentiginosus:noun" is not a synonym for "contemptuous".
+    value: botaurus lentiginosus:noun
+  - correct: false
+    detail: Incorrect, "plot of land:noun" is not a synonym for "contemptuous".
+    value: plot of land:noun
+  text: What is a synonym for "contemptuous"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "potty-trained" is a synonym for "toilet-trained".
+    value: potty-trained
+  - correct: false
+    detail: Incorrect, "bolo:noun" is not a synonym for "toilet-trained".
+    value: bolo:noun
+  - correct: false
+    detail: Incorrect, "anglicisation:noun" is not a synonym for "toilet-trained".
+    value: anglicisation:noun
+  - correct: false
+    detail: Incorrect, "genus zostera:noun" is not a synonym for "toilet-trained".
+    value: genus zostera:noun
+  text: What is a synonym for "toilet-trained"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "fiddle-shaped" is a synonym for "pandurate".
+    value: fiddle-shaped
+  - correct: false
+    detail: Incorrect, "wealthy man:noun" is not a synonym for "pandurate".
+    value: wealthy man:noun
+  - correct: false
+    detail: Incorrect, "myopus:noun" is not a synonym for "pandurate".
+    value: myopus:noun
+  - correct: false
+    detail: Incorrect, "perennial ragweed:noun" is not a synonym for "pandurate".
+    value: perennial ragweed:noun
+  text: What is a synonym for "pandurate"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "fabulous" is a synonym for "mythologic".
+    value: mythical
+  - correct: false
+    detail: Incorrect, "back and forth:adverb" is not a synonym for "mythologic".
+    value: back and forth:adverb
+  - correct: false
+    detail: Incorrect, "ishtar:noun" is not a synonym for "mythologic".
+    value: ishtar:noun
+  - correct: false
+    detail: Incorrect, "donbas:noun" is not a synonym for "mythologic".
+    value: donbas:noun
+  text: What is a synonym for "mythologic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "interactive" is a synonym for "interactional".
+    value: interactive
+  - correct: false
+    detail: Incorrect, "bwr:noun" is not a synonym for "interactional".
+    value: bwr:noun
+  - correct: false
+    detail: Incorrect, "learnedness:noun" is not a synonym for "interactional".
+    value: learnedness:noun
+  - correct: false
+    detail: Incorrect, "cucurbita moschata:noun" is not a synonym for "interactional".
+    value: cucurbita moschata:noun
+  text: What is a synonym for "interactional"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "highly-sexed" is a synonym for "oversexed".
+    value: highly-sexed
+  - correct: false
+    detail: Incorrect, "factor in:verb" is not a synonym for "oversexed".
+    value: factor in:verb
+  - correct: false
+    detail: Incorrect, "otologist:noun" is not a synonym for "oversexed".
+    value: otologist:noun
+  - correct: false
+    detail: Incorrect, "citric acid cycle:noun" is not a synonym for "oversexed".
+    value: citric acid cycle:noun
+  text: What is a synonym for "oversexed"?

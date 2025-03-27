@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "squint-eyed" is a synonym for "asquint".
+    value: askant
+  - correct: false
+    detail: Incorrect, "glumly:adverb" is not a synonym for "asquint".
+    value: glumly:adverb
+  - correct: false
+    detail: Incorrect, "adam's needle:noun" is not a synonym for "asquint".
+    value: adam's needle:noun
+  - correct: false
+    detail: Incorrect, "alternative birth:noun" is not a synonym for "asquint".
+    value: alternative birth:noun
+  text: What is a synonym for "asquint"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fresh" is a synonym for "brisk".
+    value: tonic
+  - correct: false
+    detail: Incorrect, "sidalcea malviflora:noun" is not a synonym for "brisk".
+    value: sidalcea malviflora:noun
+  - correct: false
+    detail: Incorrect, "boeuf fondu bourguignon:noun" is not a synonym for "brisk".
+    value: boeuf fondu bourguignon:noun
+  - correct: false
+    detail: Incorrect, "wind deflection:noun" is not a synonym for "brisk".
+    value: wind deflection:noun
+  text: What is a synonym for "brisk"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "tricky" is a synonym for "guileful".
+    value: tricksy
+  - correct: false
+    detail: Incorrect, "family tachinidae:noun" is not a synonym for "guileful".
+    value: family tachinidae:noun
+  - correct: false
+    detail: Incorrect, "placido domingo:noun" is not a synonym for "guileful".
+    value: placido domingo:noun
+  - correct: false
+    detail: Incorrect, "hieronymus bosch:noun" is not a synonym for "guileful".
+    value: hieronymus bosch:noun
+  text: What is a synonym for "guileful"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "glossy" is a synonym for "shiny".
+    value: glossy
+  - correct: false
+    detail: Incorrect, "alcoholism abuse:noun" is not a synonym for "shiny".
+    value: alcoholism abuse:noun
+  - correct: false
+    detail: Incorrect, "lubberly:satellite" is not a synonym for "shiny".
+    value: lubberly:satellite
+  - correct: false
+    detail: Incorrect, "analyzer:noun" is not a synonym for "shiny".
+    value: analyzer:noun
+  text: What is a synonym for "shiny"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "squeaking" is a synonym for "squeaky".
+    value: squealing
+  - correct: false
+    detail: Incorrect, "cleverness:noun" is not a synonym for "squeaky".
+    value: cleverness:noun
+  - correct: false
+    detail: Incorrect, "genus gobio:noun" is not a synonym for "squeaky".
+    value: genus gobio:noun
+  - correct: false
+    detail: Incorrect, "necrophilism:noun" is not a synonym for "squeaky".
+    value: necrophilism:noun
+  text: What is a synonym for "squeaky"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "tight-laced" is a synonym for "prudish".
+    value: straitlaced
+  - correct: false
+    detail: Incorrect, "plebeian:noun" is not a synonym for "prudish".
+    value: plebeian:noun
+  - correct: false
+    detail: Incorrect, "hawfinch:noun" is not a synonym for "prudish".
+    value: hawfinch:noun
+  - correct: false
+    detail: Incorrect, "brown thrush:noun" is not a synonym for "prudish".
+    value: brown thrush:noun
+  text: What is a synonym for "prudish"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "tending" is a synonym for "given".
+    value: disposed
+  - correct: false
+    detail: Incorrect, "poor speller:noun" is not a synonym for "given".
+    value: poor speller:noun
+  - correct: false
+    detail: Incorrect, "cocksucker:noun" is not a synonym for "given".
+    value: cocksucker:noun
+  - correct: false
+    detail: Incorrect, "motorised:adjective" is not a synonym for "given".
+    value: motorised:adjective
+  text: What is a synonym for "given"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "stocky" is a synonym for "heavyset".
+    value: stocky
+  - correct: false
+    detail: Incorrect, "sleeping:noun" is not a synonym for "heavyset".
+    value: sleeping:noun
+  - correct: false
+    detail: Incorrect, "time bomb:noun" is not a synonym for "heavyset".
+    value: time bomb:noun
+  - correct: false
+    detail: Incorrect, "fanned:verb" is not a synonym for "heavyset".
+    value: fanned:verb
+  text: What is a synonym for "heavyset"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "gratuitous" is a synonym for "gratis".
+    value: costless
+  - correct: false
+    detail: Incorrect, "deoxythymidine monophosphate:noun" is not a synonym for "gratis".
+    value: deoxythymidine monophosphate:noun
+  - correct: false
+    detail: Incorrect, "genus orchis:noun" is not a synonym for "gratis".
+    value: genus orchis:noun
+  - correct: false
+    detail: Incorrect, "lucanidae:noun" is not a synonym for "gratis".
+    value: lucanidae:noun
+  text: What is a synonym for "gratis"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ruddy" is a synonym for "scarlet".
+    value: ruby
+  - correct: false
+    detail: Incorrect, "papaw:noun" is not a synonym for "scarlet".
+    value: papaw:noun
+  - correct: false
+    detail: Incorrect, "infinitesimal:satellite" is not a synonym for "scarlet".
+    value: infinitesimal:satellite
+  - correct: false
+    detail: Incorrect, "satin walnut:noun" is not a synonym for "scarlet".
+    value: satin walnut:noun
+  text: What is a synonym for "scarlet"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "everlasting" is a synonym for "eternal".
+    value: interminable
+  - correct: false
+    detail: Incorrect, "monocotyledon:noun" is not a synonym for "eternal".
+    value: monocotyledon:noun
+  - correct: false
+    detail: Incorrect, "creak:noun" is not a synonym for "eternal".
+    value: creak:noun
+  - correct: false
+    detail: Incorrect, "phenelzine:noun" is not a synonym for "eternal".
+    value: phenelzine:noun
+  text: What is a synonym for "eternal"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "acid" is a synonym for "acidic".
+    value: acid
+  - correct: false
+    detail: Incorrect, "machupo virus:noun" is not a synonym for "acidic".
+    value: machupo virus:noun
+  - correct: false
+    detail: Incorrect, "roystonea oleracea:noun" is not a synonym for "acidic".
+    value: roystonea oleracea:noun
+  - correct: false
+    detail: Incorrect, "kashmiri:adjective" is not a synonym for "acidic".
+    value: kashmiri:adjective
+  text: What is a synonym for "acidic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "insensate" is a synonym for "inhuman".
+    value: cold-blooded
+  - correct: false
+    detail: Incorrect, "jerusalem cherry:noun" is not a synonym for "inhuman".
+    value: jerusalem cherry:noun
+  - correct: false
+    detail: Incorrect, "meadow-beauty family:noun" is not a synonym for "inhuman".
+    value: meadow-beauty family:noun
+  - correct: false
+    detail: Incorrect, "conspicuously:adverb" is not a synonym for "inhuman".
+    value: conspicuously:adverb
+  text: What is a synonym for "inhuman"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "bare" is a synonym for "sparer".
+    value: supererogatory
+  - correct: false
+    detail: Incorrect, "martingale:noun" is not a synonym for "sparer".
+    value: martingale:noun
+  - correct: false
+    detail: Incorrect, "insulating tape:noun" is not a synonym for "sparer".
+    value: insulating tape:noun
+  - correct: false
+    detail: Incorrect, "lepidopterology:noun" is not a synonym for "sparer".
+    value: lepidopterology:noun
+  text: What is a synonym for "sparer"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "exhausting" is a synonym for "wearying".
+    value: tiring
+  - correct: false
+    detail: Incorrect, "saunter:noun" is not a synonym for "wearying".
+    value: saunter:noun
+  - correct: false
+    detail: Incorrect, "cyanobacteria:noun" is not a synonym for "wearying".
+    value: cyanobacteria:noun
+  - correct: false
+    detail: Incorrect, "perigonium:noun" is not a synonym for "wearying".
+    value: perigonium:noun
+  text: What is a synonym for "wearying"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "angelic" is a synonym for "sainted".
+    value: beatific
+  - correct: false
+    detail: Incorrect, "hypostatisation:noun" is not a synonym for "sainted".
+    value: hypostatisation:noun
+  - correct: false
+    detail: Incorrect, "physalis philadelphica:noun" is not a synonym for "sainted".
+    value: physalis philadelphica:noun
+  - correct: false
+    detail: Incorrect, "religious:satellite" is not a synonym for "sainted".
+    value: religious:satellite
+  text: What is a synonym for "sainted"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "lowly|base" is a synonym for "baseborn".
+    value: humble
+  - correct: false
+    detail: Incorrect, "john herschel:noun" is not a synonym for "baseborn".
+    value: john herschel:noun
+  - correct: false
+    detail: Incorrect, "traveling:noun" is not a synonym for "baseborn".
+    value: traveling:noun
+  - correct: false
+    detail: Incorrect, "mungo park:noun" is not a synonym for "baseborn".
+    value: mungo park:noun
+  text: What is a synonym for "baseborn"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rich|sizable" is a synonym for "ample".
+    value: sizeable
+  - correct: false
+    detail: Incorrect, "stoneface:noun" is not a synonym for "ample".
+    value: stoneface:noun
+  - correct: false
+    detail: Incorrect, "officiousness:noun" is not a synonym for "ample".
+    value: officiousness:noun
+  - correct: false
+    detail: Incorrect, "zirconium silicate:noun" is not a synonym for "ample".
+    value: zirconium silicate:noun
+  text: What is a synonym for "ample"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "slapdash" is a synonym for "slipshod".
+    value: haphazard
+  - correct: false
+    detail: Incorrect, "lithology:noun" is not a synonym for "slipshod".
+    value: lithology:noun
+  - correct: false
+    detail: Incorrect, "simulation:noun" is not a synonym for "slipshod".
+    value: simulation:noun
+  - correct: false
+    detail: Incorrect, "the great unwashed:noun" is not a synonym for "slipshod".
+    value: the great unwashed:noun
+  text: What is a synonym for "slipshod"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "light-green" is a synonym for "greenish".
+    value: dark-green
+  - correct: false
+    detail: Incorrect, "preponderating:verb" is not a synonym for "greenish".
+    value: preponderating:verb
+  - correct: false
+    detail: Incorrect, "family sphaerocarpaceae:noun" is not a synonym for "greenish".
+    value: family sphaerocarpaceae:noun
+  - correct: false
+    detail: Incorrect, "teras:noun" is not a synonym for "greenish".
+    value: teras:noun
+  text: What is a synonym for "greenish"?

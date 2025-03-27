@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "small-scale" is a synonym for "small".
+    value: pocket-size
+  - correct: false
+    detail: Incorrect, "discount house:noun" is not a synonym for "small".
+    value: discount house:noun
+  - correct: false
+    detail: Incorrect, "malted milk:noun" is not a synonym for "small".
+    value: malted milk:noun
+  - correct: false
+    detail: Incorrect, "come short:verb" is not a synonym for "small".
+    value: come short:verb
+  text: What is a synonym for "small"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "viii" is a synonym for "eighter".
+    value: viii
+  - correct: false
+    detail: Incorrect, "common meter:noun" is not a synonym for "eighter".
+    value: common meter:noun
+  - correct: false
+    detail: Incorrect, "chicot:noun" is not a synonym for "eighter".
+    value: chicot:noun
+  - correct: false
+    detail: Incorrect, "forfeited:satellite" is not a synonym for "eighter".
+    value: forfeited:satellite
+  text: What is a synonym for "eighter"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "sparkly" is a synonym for "aglitter".
+    value: sparkly
+  - correct: false
+    detail: Incorrect, "rand:noun" is not a synonym for "aglitter".
+    value: rand:noun
+  - correct: false
+    detail: Incorrect, "cornwallis:noun" is not a synonym for "aglitter".
+    value: cornwallis:noun
+  - correct: false
+    detail: Incorrect, "cut across:verb" is not a synonym for "aglitter".
+    value: cut across:verb
+  text: What is a synonym for "aglitter"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "stuffy" is a synonym for "airless".
+    value: stuffy
+  - correct: false
+    detail: Incorrect, "salaat:noun" is not a synonym for "airless".
+    value: salaat:noun
+  - correct: false
+    detail: Incorrect, "william faulkner:noun" is not a synonym for "airless".
+    value: william faulkner:noun
+  - correct: false
+    detail: Incorrect, "pin:noun" is not a synonym for "airless".
+    value: pin:noun
+  text: What is a synonym for "airless"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "roily" is a synonym for "churning".
+    value: roiled
+  - correct: false
+    detail: Incorrect, "psilotum:noun" is not a synonym for "churning".
+    value: psilotum:noun
+  - correct: false
+    detail: Incorrect, "fas:noun" is not a synonym for "churning".
+    value: fas:noun
+  - correct: false
+    detail: Incorrect, "raven:verb" is not a synonym for "churning".
+    value: raven:verb
+  text: What is a synonym for "churning"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "arced" is a synonym for "arciform".
+    value: arced
+  - correct: false
+    detail: Incorrect, "stooping:verb" is not a synonym for "arciform".
+    value: stooping:verb
+  - correct: false
+    detail: Incorrect, "prostheon:noun" is not a synonym for "arciform".
+    value: prostheon:noun
+  - correct: false
+    detail: Incorrect, "pond-skater:noun" is not a synonym for "arciform".
+    value: pond-skater:noun
+  text: What is a synonym for "arciform"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "clean" is a synonym for "sporting".
+    value: sporty
+  - correct: false
+    detail: Incorrect, "at once:adverb" is not a synonym for "sporting".
+    value: at once:adverb
+  - correct: false
+    detail: Incorrect, "spheniscidae:noun" is not a synonym for "sporting".
+    value: spheniscidae:noun
+  - correct: false
+    detail: Incorrect, "twenty-seven:satellite" is not a synonym for "sporting".
+    value: twenty-seven:satellite
+  text: What is a synonym for "sporting"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "gold" is a synonym for "aureate".
+    value: golden
+  - correct: false
+    detail: Incorrect, "limp:verb" is not a synonym for "aureate".
+    value: limp:verb
+  - correct: false
+    detail: Incorrect, "callous:verb" is not a synonym for "aureate".
+    value: callous:verb
+  - correct: false
+    detail: Incorrect, "monarda punctata:noun" is not a synonym for "aureate".
+    value: monarda punctata:noun
+  text: What is a synonym for "aureate"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rough|earthy" is a synonym for "crude".
+    value: gross
+  - correct: false
+    detail: Incorrect, "pitch shot:noun" is not a synonym for "crude".
+    value: pitch shot:noun
+  - correct: false
+    detail: Incorrect, "noether:noun" is not a synonym for "crude".
+    value: noether:noun
+  - correct: false
+    detail: Incorrect, "amnesty:noun" is not a synonym for "crude".
+    value: amnesty:noun
+  text: What is a synonym for "crude"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "akin" is a synonym for "kin".
+    value: consanguineal
+  - correct: false
+    detail: Incorrect, "pernambuco wood:noun" is not a synonym for "kin".
+    value: pernambuco wood:noun
+  - correct: false
+    detail: Incorrect, "relative:noun" is not a synonym for "kin".
+    value: relative:noun
+  - correct: false
+    detail: Incorrect, "delight:verb" is not a synonym for "kin".
+    value: delight:verb
+  text: What is a synonym for "kin"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "utmost" is a synonym for "farthest".
+    value: furthest
+  - correct: false
+    detail: Incorrect, "bargeman:noun" is not a synonym for "farthest".
+    value: bargeman:noun
+  - correct: false
+    detail: Incorrect, "afro:noun" is not a synonym for "farthest".
+    value: afro:noun
+  - correct: false
+    detail: Incorrect, "peiping:noun" is not a synonym for "farthest".
+    value: peiping:noun
+  text: What is a synonym for "farthest"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "quadruple" is a synonym for "fourfold".
+    value: four-fold|quadruple
+  - correct: false
+    detail: Incorrect, "broth:noun" is not a synonym for "fourfold".
+    value: broth:noun
+  - correct: false
+    detail: Incorrect, "truckle:verb" is not a synonym for "fourfold".
+    value: truckle:verb
+  - correct: false
+    detail: Incorrect, "false garlic:noun" is not a synonym for "fourfold".
+    value: false garlic:noun
+  text: What is a synonym for "fourfold"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rakish" is a synonym for "dapper".
+    value: jaunty
+  - correct: false
+    detail: Incorrect, "norse mythology:noun" is not a synonym for "dapper".
+    value: norse mythology:noun
+  - correct: false
+    detail: Incorrect, "transdermal:adjective" is not a synonym for "dapper".
+    value: transdermal:adjective
+  - correct: false
+    detail: Incorrect, "tracy:noun" is not a synonym for "dapper".
+    value: tracy:noun
+  text: What is a synonym for "dapper"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "unidentified" is a synonym for "nameless".
+    value: unnamed
+  - correct: false
+    detail: Incorrect, "civic leader:noun" is not a synonym for "nameless".
+    value: civic leader:noun
+  - correct: false
+    detail: Incorrect, "unionist:noun" is not a synonym for "nameless".
+    value: unionist:noun
+  - correct: false
+    detail: Incorrect, "inebriety:noun" is not a synonym for "nameless".
+    value: inebriety:noun
+  text: What is a synonym for "nameless"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "confounded" is a synonym for "at sea".
+    value: confused
+  - correct: false
+    detail: Incorrect, "daft:satellite" is not a synonym for "at sea".
+    value: daft:satellite
+  - correct: false
+    detail: Incorrect, "war cry:noun" is not a synonym for "at sea".
+    value: war cry:noun
+  - correct: false
+    detail: Incorrect, "family macropodidae:noun" is not a synonym for "at sea".
+    value: family macropodidae:noun
+  text: What is a synonym for "at sea"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "treelike" is a synonym for "dendroid".
+    value: arborescent
+  - correct: false
+    detail: Incorrect, "cough out:verb" is not a synonym for "dendroid".
+    value: cough out:verb
+  - correct: false
+    detail: Incorrect, "elaeocarpus grandis:noun" is not a synonym for "dendroid".
+    value: elaeocarpus grandis:noun
+  - correct: false
+    detail: Incorrect, "genus plagianthus:noun" is not a synonym for "dendroid".
+    value: genus plagianthus:noun
+  text: What is a synonym for "dendroid"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "imprisoned" is a synonym for "confined".
+    value: jailed
+  - correct: false
+    detail: Incorrect, "hodman:noun" is not a synonym for "confined".
+    value: hodman:noun
+  - correct: false
+    detail: Incorrect, "computer game:noun" is not a synonym for "confined".
+    value: computer game:noun
+  - correct: false
+    detail: Incorrect, "overheated:verb" is not a synonym for "confined".
+    value: overheated:verb
+  text: What is a synonym for "confined"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "with child" is a synonym for "enceinte".
+    value: gravid
+  - correct: false
+    detail: Incorrect, "literal error:noun" is not a synonym for "enceinte".
+    value: literal error:noun
+  - correct: false
+    detail: Incorrect, "unequalled:satellite" is not a synonym for "enceinte".
+    value: unequalled:satellite
+  - correct: false
+    detail: Incorrect, "cetraria islandica:noun" is not a synonym for "enceinte".
+    value: cetraria islandica:noun
+  text: What is a synonym for "enceinte"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "departed" is a synonym for "at rest".
+    value: gone
+  - correct: false
+    detail: Incorrect, "heritiera macrophylla:noun" is not a synonym for "at rest".
+    value: heritiera macrophylla:noun
+  - correct: false
+    detail: Incorrect, "low water:noun" is not a synonym for "at rest".
+    value: low water:noun
+  - correct: false
+    detail: Incorrect, "lawmaker:noun" is not a synonym for "at rest".
+    value: lawmaker:noun
+  text: What is a synonym for "at rest"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "confounded" is a synonym for "mixed-up".
+    value: bewildered
+  - correct: false
+    detail: Incorrect, "tissue plasminogen activator:noun" is not a synonym for "mixed-up".
+    value: tissue plasminogen activator:noun
+  - correct: false
+    detail: Incorrect, "line of defense:noun" is not a synonym for "mixed-up".
+    value: line of defense:noun
+  - correct: false
+    detail: Incorrect, "duskiness:noun" is not a synonym for "mixed-up".
+    value: duskiness:noun
+  text: What is a synonym for "mixed-up"?

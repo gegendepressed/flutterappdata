@@ -1,0 +1,301 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "devalue" is a synonym for "devaluate".
+    value: undervalue
+  - correct: false
+    detail: Incorrect, "esprit de corps:noun" is not a synonym for "devaluate".
+    value: esprit de corps:noun
+  - correct: false
+    detail: Incorrect, "liaodong bandao:noun" is not a synonym for "devaluate".
+    value: liaodong bandao:noun
+  - correct: false
+    detail: Incorrect, "edward teller:noun" is not a synonym for "devaluate".
+    value: edward teller:noun
+  text: What is a synonym for "devaluate"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "fine-tune|calibrate|calibrate" is a synonym for "calibrated".
+    value: calibrate
+  - correct: false
+    detail: Incorrect, "genus sciara:noun" is not a synonym for "calibrated".
+    value: genus sciara:noun
+  - correct: false
+    detail: Incorrect, "inclusion:noun" is not a synonym for "calibrated".
+    value: inclusion:noun
+  - correct: false
+    detail: Incorrect, "helladic culture:noun" is not a synonym for "calibrated".
+    value: helladic culture:noun
+  text: What is a synonym for "calibrated"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "chew out" is a synonym for "trouncing".
+    value: lash
+  - correct: false
+    detail: Incorrect, "dacrymyces:noun" is not a synonym for "trouncing".
+    value: dacrymyces:noun
+  - correct: false
+    detail: Incorrect, "hemin:noun" is not a synonym for "trouncing".
+    value: hemin:noun
+  - correct: false
+    detail: Incorrect, "heads-up:satellite" is not a synonym for "trouncing".
+    value: heads-up:satellite
+  text: What is a synonym for "trouncing"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "figure" is a synonym for "envisioning".
+    value: figure
+  - correct: false
+    detail: Incorrect, "thoracic vein:noun" is not a synonym for "envisioning".
+    value: thoracic vein:noun
+  - correct: false
+    detail: Incorrect, "genus asarum:noun" is not a synonym for "envisioning".
+    value: genus asarum:noun
+  - correct: false
+    detail: Incorrect, "tilletia foetida:noun" is not a synonym for "envisioning".
+    value: tilletia foetida:noun
+  text: What is a synonym for "envisioning"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "leave|leave" is a synonym for "leave behind".
+    value: leave|leave
+  - correct: false
+    detail: Incorrect, "crabby person:noun" is not a synonym for "leave behind".
+    value: crabby person:noun
+  - correct: false
+    detail: Incorrect, "albrecht durer:noun" is not a synonym for "leave behind".
+    value: albrecht durer:noun
+  - correct: false
+    detail: Incorrect, "ukrayina:noun" is not a synonym for "leave behind".
+    value: ukrayina:noun
+  text: What is a synonym for "leave behind"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "frame" is a synonym for "frame up".
+    value: frame
+  - correct: false
+    detail: Incorrect, "plaintive:satellite" is not a synonym for "frame up".
+    value: plaintive:satellite
+  - correct: false
+    detail: Incorrect, "oom paul kruger:noun" is not a synonym for "frame up".
+    value: oom paul kruger:noun
+  - correct: false
+    detail: Incorrect, "eucalyptus gum:noun" is not a synonym for "frame up".
+    value: eucalyptus gum:noun
+  text: What is a synonym for "frame up"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "whiten" is a synonym for "white".
+    value: whiten
+  - correct: false
+    detail: Incorrect, "ade:noun" is not a synonym for "white".
+    value: ade:noun
+  - correct: false
+    detail: Incorrect, "browning automatic rifle:noun" is not a synonym for "white".
+    value: browning automatic rifle:noun
+  - correct: false
+    detail: Incorrect, "rachitic:satellite" is not a synonym for "white".
+    value: rachitic:satellite
+  text: What is a synonym for "white"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "ambuscade" is a synonym for "bushwhack".
+    value: lie in wait
+  - correct: false
+    detail: Incorrect, "net ton:noun" is not a synonym for "bushwhack".
+    value: net ton:noun
+  - correct: false
+    detail: Incorrect, "guallatiri:noun" is not a synonym for "bushwhack".
+    value: guallatiri:noun
+  - correct: false
+    detail: Incorrect, "home secretary:noun" is not a synonym for "bushwhack".
+    value: home secretary:noun
+  text: What is a synonym for "bushwhack"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "brandmark|trademark" is a synonym for "trademarked".
+    value: brandmark|trademark
+  - correct: false
+    detail: Incorrect, "tay:noun" is not a synonym for "trademarked".
+    value: tay:noun
+  - correct: false
+    detail: Incorrect, "sir thomas stamford raffles:noun" is not a synonym for "trademarked".
+    value: sir thomas stamford raffles:noun
+  - correct: false
+    detail: Incorrect, "unsynchronous:satellite" is not a synonym for "trademarked".
+    value: unsynchronous:satellite
+  text: What is a synonym for "trademarked"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "anaesthetise" is a synonym for "anesthetize".
+    value: anesthetise
+  - correct: false
+    detail: Incorrect, "faux pas:noun" is not a synonym for "anesthetize".
+    value: faux pas:noun
+  - correct: false
+    detail: Incorrect, "glen canyon dam:noun" is not a synonym for "anesthetize".
+    value: glen canyon dam:noun
+  - correct: false
+    detail: Incorrect, "computer mouse:noun" is not a synonym for "anesthetize".
+    value: computer mouse:noun
+  text: What is a synonym for "anesthetize"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "sky dive" is a synonym for "skydiving".
+    value: skydive
+  - correct: false
+    detail: Incorrect, "disconcertion:noun" is not a synonym for "skydiving".
+    value: disconcertion:noun
+  - correct: false
+    detail: Incorrect, "netlike:satellite" is not a synonym for "skydiving".
+    value: netlike:satellite
+  - correct: false
+    detail: Incorrect, "family halictidae:noun" is not a synonym for "skydiving".
+    value: family halictidae:noun
+  text: What is a synonym for "skydiving"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "plait|pleach" is a synonym for "braid".
+    value: lace
+  - correct: false
+    detail: Incorrect, "copper sulphate:noun" is not a synonym for "braid".
+    value: copper sulphate:noun
+  - correct: false
+    detail: Incorrect, "discomposed:verb" is not a synonym for "braid".
+    value: discomposed:verb
+  - correct: false
+    detail: Incorrect, "wedding gown:noun" is not a synonym for "braid".
+    value: wedding gown:noun
+  text: What is a synonym for "braid"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "rule out" is a synonym for "winnow out".
+    value: reject
+  - correct: false
+    detail: Incorrect, "salvadorian:noun" is not a synonym for "winnow out".
+    value: salvadorian:noun
+  - correct: false
+    detail: Incorrect, "accompanying:satellite" is not a synonym for "winnow out".
+    value: accompanying:satellite
+  - correct: false
+    detail: Incorrect, "mouth off:verb" is not a synonym for "winnow out".
+    value: mouth off:verb
+  text: What is a synonym for "winnow out"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "carry" is a synonym for "transmitting".
+    value: carry
+  - correct: false
+    detail: Incorrect, "rameses:verb" is not a synonym for "transmitting".
+    value: rameses:verb
+  - correct: false
+    detail: Incorrect, "dishonourable:adjective" is not a synonym for "transmitting".
+    value: dishonourable:adjective
+  - correct: false
+    detail: Incorrect, "snore:noun" is not a synonym for "transmitting".
+    value: snore:noun
+  text: What is a synonym for "transmitting"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "detail|detail" is a synonym for "detailed".
+    value: detail|detail
+  - correct: false
+    detail: Incorrect, "vainglory:noun" is not a synonym for "detailed".
+    value: vainglory:noun
+  - correct: false
+    detail: Incorrect, "antiknocking:satellite" is not a synonym for "detailed".
+    value: antiknocking:satellite
+  - correct: false
+    detail: Incorrect, "reverentially:adverb" is not a synonym for "detailed".
+    value: reverentially:adverb
+  text: What is a synonym for "detailed"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "harbour" is a synonym for "entertain".
+    value: hold
+  - correct: false
+    detail: Incorrect, "aristolochia serpentaria:noun" is not a synonym for "entertain".
+    value: aristolochia serpentaria:noun
+  - correct: false
+    detail: Incorrect, "class psilotatae:noun" is not a synonym for "entertain".
+    value: class psilotatae:noun
+  - correct: false
+    detail: Incorrect, "ensnarl:verb" is not a synonym for "entertain".
+    value: ensnarl:verb
+  text: What is a synonym for "entertain"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "elongate" is a synonym for "elongated".
+    value: elongate
+  - correct: false
+    detail: Incorrect, "anomalopidae:noun" is not a synonym for "elongated".
+    value: anomalopidae:noun
+  - correct: false
+    detail: Incorrect, "debase:verb" is not a synonym for "elongated".
+    value: debase:verb
+  - correct: false
+    detail: Incorrect, "ginkgo biloba:noun" is not a synonym for "elongated".
+    value: ginkgo biloba:noun
+  text: What is a synonym for "elongated"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "plump" is a synonym for "plummet".
+    value: plump
+  - correct: false
+    detail: Incorrect, "emasculate:verb" is not a synonym for "plummet".
+    value: emasculate:verb
+  - correct: false
+    detail: Incorrect, "triaenodon:noun" is not a synonym for "plummet".
+    value: triaenodon:noun
+  - correct: false
+    detail: Incorrect, "lake bottom:noun" is not a synonym for "plummet".
+    value: lake bottom:noun
+  text: What is a synonym for "plummet"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "repel|freak out" is a synonym for "gross out".
+    value: freak
+  - correct: false
+    detail: Incorrect, "republic of nauru:noun" is not a synonym for "gross out".
+    value: republic of nauru:noun
+  - correct: false
+    detail: Incorrect, "advertizing:verb" is not a synonym for "gross out".
+    value: advertizing:verb
+  - correct: false
+    detail: Incorrect, "singlet:noun" is not a synonym for "gross out".
+    value: singlet:noun
+  text: What is a synonym for "gross out"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "reprieve" is a synonym for "respite".
+    value: reprieve
+  - correct: false
+    detail: Incorrect, "publicist:noun" is not a synonym for "respite".
+    value: publicist:noun
+  - correct: false
+    detail: Incorrect, "goldplate:verb" is not a synonym for "respite".
+    value: goldplate:verb
+  - correct: false
+    detail: Incorrect, "frederick carleton lewis:noun" is not a synonym for "respite".
+    value: frederick carleton lewis:noun
+  text: What is a synonym for "respite"?

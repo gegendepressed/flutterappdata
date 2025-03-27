@@ -1,0 +1,302 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "diametral" is a synonym for "diametric".
+    value: diametrical
+  - correct: false
+    detail: Incorrect, "stigmata:noun" is not a synonym for "diametric".
+    value: stigmata:noun
+  - correct: false
+    detail: Incorrect, "army for the liberation of rwanda:noun" is not a synonym for
+      "diametric".
+    value: army for the liberation of rwanda:noun
+  - correct: false
+    detail: Incorrect, "gobiesox:noun" is not a synonym for "diametric".
+    value: gobiesox:noun
+  text: What is a synonym for "diametric"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "brave" is a synonym for "courageous".
+    value: brave
+  - correct: false
+    detail: Incorrect, "august plum:noun" is not a synonym for "courageous".
+    value: august plum:noun
+  - correct: false
+    detail: Incorrect, "john merven carrere:noun" is not a synonym for "courageous".
+    value: john merven carrere:noun
+  - correct: false
+    detail: Incorrect, "skittishness:noun" is not a synonym for "courageous".
+    value: skittishness:noun
+  text: What is a synonym for "courageous"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Utopian" is a synonym for "utopian".
+    value: Utopian
+  - correct: false
+    detail: Incorrect, "rick:noun" is not a synonym for "utopian".
+    value: rick:noun
+  - correct: false
+    detail: Incorrect, "dishonorably:adverb" is not a synonym for "utopian".
+    value: dishonorably:adverb
+  - correct: false
+    detail: Incorrect, "three-d:satellite" is not a synonym for "utopian".
+    value: three-d:satellite
+  text: What is a synonym for "utopian"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Cretaceous" is a synonym for "cretaceous".
+    value: Cretaceous
+  - correct: false
+    detail: Incorrect, "edith newbold jones wharton:noun" is not a synonym for "cretaceous".
+    value: edith newbold jones wharton:noun
+  - correct: false
+    detail: Incorrect, "agitating:verb" is not a synonym for "cretaceous".
+    value: agitating:verb
+  - correct: false
+    detail: Incorrect, "bos indicus:noun" is not a synonym for "cretaceous".
+    value: bos indicus:noun
+  text: What is a synonym for "cretaceous"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Zolaesque" is a synonym for "zolaesque".
+    value: Zolaesque
+  - correct: false
+    detail: Incorrect, "hodman:noun" is not a synonym for "zolaesque".
+    value: hodman:noun
+  - correct: false
+    detail: Incorrect, "boswellia serrata:noun" is not a synonym for "zolaesque".
+    value: boswellia serrata:noun
+  - correct: false
+    detail: Incorrect, "walker hound:noun" is not a synonym for "zolaesque".
+    value: walker hound:noun
+  text: What is a synonym for "zolaesque"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "liquid" is a synonym for "melted".
+    value: liquid
+  - correct: false
+    detail: Incorrect, "injudiciousness:noun" is not a synonym for "melted".
+    value: injudiciousness:noun
+  - correct: false
+    detail: Incorrect, "ebonise:verb" is not a synonym for "melted".
+    value: ebonise:verb
+  - correct: false
+    detail: Incorrect, "economic mobilization:noun" is not a synonym for "melted".
+    value: economic mobilization:noun
+  text: What is a synonym for "melted"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "neotenic" is a synonym for "neotenous".
+    value: neotenic
+  - correct: false
+    detail: Incorrect, "beldam:noun" is not a synonym for "neotenous".
+    value: beldam:noun
+  - correct: false
+    detail: Incorrect, "bewitch:verb" is not a synonym for "neotenous".
+    value: bewitch:verb
+  - correct: false
+    detail: Incorrect, "wife:noun" is not a synonym for "neotenous".
+    value: wife:noun
+  text: What is a synonym for "neotenous"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "cheliceral" is a synonym for "chelicerate".
+    value: cheliceral
+  - correct: false
+    detail: Incorrect, "lycopus americanus:noun" is not a synonym for "chelicerate".
+    value: lycopus americanus:noun
+  - correct: false
+    detail: Incorrect, "nauclea diderrichii:noun" is not a synonym for "chelicerate".
+    value: nauclea diderrichii:noun
+  - correct: false
+    detail: Incorrect, "qin shi huang ti:noun" is not a synonym for "chelicerate".
+    value: qin shi huang ti:noun
+  text: What is a synonym for "chelicerate"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "triclinic" is a synonym for "anorthic".
+    value: triclinic
+  - correct: false
+    detail: Incorrect, "transcript:noun" is not a synonym for "anorthic".
+    value: transcript:noun
+  - correct: false
+    detail: Incorrect, "schizophrenic psychosis:noun" is not a synonym for "anorthic".
+    value: schizophrenic psychosis:noun
+  - correct: false
+    detail: Incorrect, "whiskey:noun" is not a synonym for "anorthic".
+    value: whiskey:noun
+  text: What is a synonym for "anorthic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Saudi" is a synonym for "saudi-arabian".
+    value: Saudi-Arabian
+  - correct: false
+    detail: Incorrect, "amen cadence:noun" is not a synonym for "saudi-arabian".
+    value: amen cadence:noun
+  - correct: false
+    detail: Incorrect, "louis-hector berlioz:noun" is not a synonym for "saudi-arabian".
+    value: louis-hector berlioz:noun
+  - correct: false
+    detail: Incorrect, "hedged:verb" is not a synonym for "saudi-arabian".
+    value: hedged:verb
+  text: What is a synonym for "saudi-arabian"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "mastoidal" is a synonym for "mastoid".
+    value: mastoidal
+  - correct: false
+    detail: Incorrect, "woodrow charles herman:noun" is not a synonym for "mastoid".
+    value: woodrow charles herman:noun
+  - correct: false
+    detail: Incorrect, "public service:noun" is not a synonym for "mastoid".
+    value: public service:noun
+  - correct: false
+    detail: Incorrect, "lonicera flava:noun" is not a synonym for "mastoid".
+    value: lonicera flava:noun
+  text: What is a synonym for "mastoid"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hearable" is a synonym for "audible".
+    value: hearable
+  - correct: false
+    detail: Incorrect, "doorframe:noun" is not a synonym for "audible".
+    value: doorframe:noun
+  - correct: false
+    detail: Incorrect, "genus gerbera:noun" is not a synonym for "audible".
+    value: genus gerbera:noun
+  - correct: false
+    detail: Incorrect, "sowbread:noun" is not a synonym for "audible".
+    value: sowbread:noun
+  text: What is a synonym for "audible"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Anglo-catholic" is a synonym for "anglo-catholic".
+    value: Anglo-catholic
+  - correct: false
+    detail: Incorrect, "broad:adjective" is not a synonym for "anglo-catholic".
+    value: broad:adjective
+  - correct: false
+    detail: Incorrect, "compulsion:noun" is not a synonym for "anglo-catholic".
+    value: compulsion:noun
+  - correct: false
+    detail: Incorrect, "steenbok:noun" is not a synonym for "anglo-catholic".
+    value: steenbok:noun
+  text: What is a synonym for "anglo-catholic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "salientian" is a synonym for "anuran".
+    value: batrachian
+  - correct: false
+    detail: Incorrect, "chiseled:satellite" is not a synonym for "anuran".
+    value: chiseled:satellite
+  - correct: false
+    detail: Incorrect, "course of study:noun" is not a synonym for "anuran".
+    value: course of study:noun
+  - correct: false
+    detail: Incorrect, "genus kakatoe:noun" is not a synonym for "anuran".
+    value: genus kakatoe:noun
+  text: What is a synonym for "anuran"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unambitious" is a synonym for "ambitionless".
+    value: unambitious
+  - correct: false
+    detail: Incorrect, "operational:satellite" is not a synonym for "ambitionless".
+    value: operational:satellite
+  - correct: false
+    detail: Incorrect, "peach bells:noun" is not a synonym for "ambitionless".
+    value: peach bells:noun
+  - correct: false
+    detail: Incorrect, "bewhiskered:verb" is not a synonym for "ambitionless".
+    value: bewhiskered:verb
+  text: What is a synonym for "ambitionless"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "brachycephalic" is a synonym for "brachycranial".
+    value: brachycephalic
+  - correct: false
+    detail: Incorrect, "corpulency:noun" is not a synonym for "brachycranial".
+    value: corpulency:noun
+  - correct: false
+    detail: Incorrect, "vacuum bag:noun" is not a synonym for "brachycranial".
+    value: vacuum bag:noun
+  - correct: false
+    detail: Incorrect, "maculation:noun" is not a synonym for "brachycranial".
+    value: maculation:noun
+  text: What is a synonym for "brachycranial"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "fungal" is a synonym for "fungous".
+    value: fungal
+  - correct: false
+    detail: Incorrect, "ascendance:noun" is not a synonym for "fungous".
+    value: ascendance:noun
+  - correct: false
+    detail: Incorrect, "weapon system:noun" is not a synonym for "fungous".
+    value: weapon system:noun
+  - correct: false
+    detail: Incorrect, "manageable:satellite" is not a synonym for "fungous".
+    value: manageable:satellite
+  text: What is a synonym for "fungous"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "trusting" is a synonym for "trustful".
+    value: trusting
+  - correct: false
+    detail: Incorrect, "enl:noun" is not a synonym for "trustful".
+    value: enl:noun
+  - correct: false
+    detail: Incorrect, "semiconductive:satellite" is not a synonym for "trustful".
+    value: semiconductive:satellite
+  - correct: false
+    detail: Incorrect, "abusive:satellite" is not a synonym for "trustful".
+    value: abusive:satellite
+  text: What is a synonym for "trustful"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "anatomical|anatomical" is a synonym for "anatomic".
+    value: anatomical|anatomical
+  - correct: false
+    detail: Incorrect, "earthquake:noun" is not a synonym for "anatomic".
+    value: earthquake:noun
+  - correct: false
+    detail: Incorrect, "fourth earl of chesterfield:noun" is not a synonym for "anatomic".
+    value: fourth earl of chesterfield:noun
+  - correct: false
+    detail: Incorrect, "sexual intercourse:noun" is not a synonym for "anatomic".
+    value: sexual intercourse:noun
+  text: What is a synonym for "anatomic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Arabian|Arabian" is a synonym for "arabian".
+    value: Arabian|Arabian
+  - correct: false
+    detail: Incorrect, "genus melissa:noun" is not a synonym for "arabian".
+    value: genus melissa:noun
+  - correct: false
+    detail: Incorrect, "auricular appendage:noun" is not a synonym for "arabian".
+    value: auricular appendage:noun
+  - correct: false
+    detail: Incorrect, "ecologic:adjective" is not a synonym for "arabian".
+    value: ecologic:adjective
+  text: What is a synonym for "arabian"?

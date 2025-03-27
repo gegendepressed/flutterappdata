@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "deliverance" is a synonym for "savings".
+    value: saving|preservation
+  - correct: false
+    detail: Incorrect, "barmy:satellite" is not a synonym for "savings".
+    value: barmy:satellite
+  - correct: false
+    detail: Incorrect, "leptopteris superba:noun" is not a synonym for "savings".
+    value: leptopteris superba:noun
+  - correct: false
+    detail: Incorrect, "up-and-coming:satellite" is not a synonym for "savings".
+    value: up-and-coming:satellite
+  text: What is a synonym for "savings"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "falling out|respite" is a synonym for "break".
+    value: prison-breaking
+  - correct: false
+    detail: Incorrect, "samuel dashiell hammett:noun" is not a synonym for "break".
+    value: samuel dashiell hammett:noun
+  - correct: false
+    detail: Incorrect, "littre:noun" is not a synonym for "break".
+    value: littre:noun
+  - correct: false
+    detail: Incorrect, "indo-aryan:adjective" is not a synonym for "break".
+    value: indo-aryan:adjective
+  text: What is a synonym for "break"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fasciculus" is a synonym for "fascicle".
+    value: fascicule|fiber bundle
+  - correct: false
+    detail: Incorrect, "nazarene:adjective" is not a synonym for "fascicle".
+    value: nazarene:adjective
+  - correct: false
+    detail: Incorrect, "athrotaxis selaginoides:noun" is not a synonym for "fascicle".
+    value: athrotaxis selaginoides:noun
+  - correct: false
+    detail: Incorrect, "hibernating:satellite" is not a synonym for "fascicle".
+    value: hibernating:satellite
+  text: What is a synonym for "fascicle"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Rabindranath Tagore" is a synonym for "tagore".
+    value: Tagore
+  - correct: false
+    detail: Incorrect, "watchman:noun" is not a synonym for "tagore".
+    value: watchman:noun
+  - correct: false
+    detail: Incorrect, "coital:adjective" is not a synonym for "tagore".
+    value: coital:adjective
+  - correct: false
+    detail: Incorrect, "gray:satellite" is not a synonym for "tagore".
+    value: gray:satellite
+  text: What is a synonym for "tagore"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "endoblast" is a synonym for "endoderm".
+    value: entoderm
+  - correct: false
+    detail: Incorrect, "ill at ease:satellite" is not a synonym for "endoderm".
+    value: ill at ease:satellite
+  - correct: false
+    detail: Incorrect, "domestic goat:noun" is not a synonym for "endoderm".
+    value: domestic goat:noun
+  - correct: false
+    detail: Incorrect, "stinker:noun" is not a synonym for "endoderm".
+    value: stinker:noun
+  text: What is a synonym for "endoderm"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "cony" is a synonym for "dassie".
+    value: hyrax
+  - correct: false
+    detail: Incorrect, "legerdemain:noun" is not a synonym for "dassie".
+    value: legerdemain:noun
+  - correct: false
+    detail: Incorrect, "genus colchicum:noun" is not a synonym for "dassie".
+    value: genus colchicum:noun
+  - correct: false
+    detail: Incorrect, "short temper:noun" is not a synonym for "dassie".
+    value: short temper:noun
+  text: What is a synonym for "dassie"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "batholith" is a synonym for "pluton".
+    value: batholite
+  - correct: false
+    detail: Incorrect, "redstem storksbill:noun" is not a synonym for "pluton".
+    value: redstem storksbill:noun
+  - correct: false
+    detail: Incorrect, "gas gauge:noun" is not a synonym for "pluton".
+    value: gas gauge:noun
+  - correct: false
+    detail: Incorrect, "eleanor roosevelt:noun" is not a synonym for "pluton".
+    value: eleanor roosevelt:noun
+  text: What is a synonym for "pluton"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "panelling|acid" is a synonym for "pane".
+    value: loony toons
+  - correct: false
+    detail: Incorrect, "rain-giver:noun" is not a synonym for "pane".
+    value: rain-giver:noun
+  - correct: false
+    detail: Incorrect, "simon marks:noun" is not a synonym for "pane".
+    value: simon marks:noun
+  - correct: false
+    detail: Incorrect, "sharing:noun" is not a synonym for "pane".
+    value: sharing:noun
+  text: What is a synonym for "pane"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "James Polk" is a synonym for "polk".
+    value: James Polk
+  - correct: false
+    detail: Incorrect, "vitus:noun" is not a synonym for "polk".
+    value: vitus:noun
+  - correct: false
+    detail: Incorrect, "believably:adverb" is not a synonym for "polk".
+    value: believably:adverb
+  - correct: false
+    detail: Incorrect, "sand:noun" is not a synonym for "polk".
+    value: sand:noun
+  text: What is a synonym for "polk"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "want|motivation" is a synonym for "needs".
+    value: penury
+  - correct: false
+    detail: Incorrect, "nan-chang:noun" is not a synonym for "needs".
+    value: nan-chang:noun
+  - correct: false
+    detail: Incorrect, "squish:verb" is not a synonym for "needs".
+    value: squish:verb
+  - correct: false
+    detail: Incorrect, "contributory:satellite" is not a synonym for "needs".
+    value: contributory:satellite
+  text: What is a synonym for "needs"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "common purslane" is a synonym for "pussly".
+    value: verdolagas
+  - correct: false
+    detail: Incorrect, "unrevived:adjective" is not a synonym for "pussly".
+    value: unrevived:adjective
+  - correct: false
+    detail: Incorrect, "pail:noun" is not a synonym for "pussly".
+    value: pail:noun
+  - correct: false
+    detail: Incorrect, "malicious mischief:noun" is not a synonym for "pussly".
+    value: malicious mischief:noun
+  text: What is a synonym for "pussly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "encroachment" is a synonym for "trespass".
+    value: usurpation
+  - correct: false
+    detail: Incorrect, "stranger:adjective" is not a synonym for "trespass".
+    value: stranger:adjective
+  - correct: false
+    detail: Incorrect, "scottish deerhound:noun" is not a synonym for "trespass".
+    value: scottish deerhound:noun
+  - correct: false
+    detail: Incorrect, "absorbent:adjective" is not a synonym for "trespass".
+    value: absorbent:adjective
+  text: What is a synonym for "trespass"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ring" is a synonym for "mob".
+    value: ring
+  - correct: false
+    detail: Incorrect, "collision:noun" is not a synonym for "mob".
+    value: collision:noun
+  - correct: false
+    detail: Incorrect, "faith healing:noun" is not a synonym for "mob".
+    value: faith healing:noun
+  - correct: false
+    detail: Incorrect, "ecm:noun" is not a synonym for "mob".
+    value: ecm:noun
+  text: What is a synonym for "mob"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "EbS|exabit" is a synonym for "ebs".
+    value: EbS|exabit
+  - correct: false
+    detail: Incorrect, "airline:noun" is not a synonym for "ebs".
+    value: airline:noun
+  - correct: false
+    detail: Incorrect, "shark-liver oil:noun" is not a synonym for "ebs".
+    value: shark-liver oil:noun
+  - correct: false
+    detail: Incorrect, "guiltiness:noun" is not a synonym for "ebs".
+    value: guiltiness:noun
+  text: What is a synonym for "ebs"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "genus Bassia" is a synonym for "bassia".
+    value: genus Kochia
+  - correct: false
+    detail: Incorrect, "white dogtooth violet:noun" is not a synonym for "bassia".
+    value: white dogtooth violet:noun
+  - correct: false
+    detail: Incorrect, "philanthropist:noun" is not a synonym for "bassia".
+    value: philanthropist:noun
+  - correct: false
+    detail: Incorrect, "lusaka:noun" is not a synonym for "bassia".
+    value: lusaka:noun
+  text: What is a synonym for "bassia"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "anglerfish" is a synonym for "angler".
+    value: Lophius Americanus
+  - correct: false
+    detail: Incorrect, "giovanni de'medici:noun" is not a synonym for "angler".
+    value: giovanni de'medici:noun
+  - correct: false
+    detail: Incorrect, "open:adjective" is not a synonym for "angler".
+    value: open:adjective
+  - correct: false
+    detail: Incorrect, "lees:noun" is not a synonym for "angler".
+    value: lees:noun
+  text: What is a synonym for "angler"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "European blackbird" is a synonym for "merle".
+    value: ousel
+  - correct: false
+    detail: Incorrect, "fumes:verb" is not a synonym for "merle".
+    value: fumes:verb
+  - correct: false
+    detail: Incorrect, "lace making:noun" is not a synonym for "merle".
+    value: lace making:noun
+  - correct: false
+    detail: Incorrect, "colour:noun" is not a synonym for "merle".
+    value: colour:noun
+  text: What is a synonym for "merle"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "footstall" is a synonym for "pedestal".
+    value: footstall
+  - correct: false
+    detail: Incorrect, "quaff:verb" is not a synonym for "pedestal".
+    value: quaff:verb
+  - correct: false
+    detail: Incorrect, "odoacer:noun" is not a synonym for "pedestal".
+    value: odoacer:noun
+  - correct: false
+    detail: Incorrect, "wooing:verb" is not a synonym for "pedestal".
+    value: wooing:verb
+  text: What is a synonym for "pedestal"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fuddle" is a synonym for "smother".
+    value: welter
+  - correct: false
+    detail: Incorrect, "mytilus:noun" is not a synonym for "smother".
+    value: mytilus:noun
+  - correct: false
+    detail: Incorrect, "goddamn:satellite" is not a synonym for "smother".
+    value: goddamn:satellite
+  - correct: false
+    detail: Incorrect, "family polyangiaceae:noun" is not a synonym for "smother".
+    value: family polyangiaceae:noun
+  text: What is a synonym for "smother"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "grossness" is a synonym for "raunch".
+    value: grossness
+  - correct: false
+    detail: Incorrect, "stabilising:verb" is not a synonym for "raunch".
+    value: stabilising:verb
+  - correct: false
+    detail: Incorrect, "china pink:noun" is not a synonym for "raunch".
+    value: china pink:noun
+  - correct: false
+    detail: Incorrect, "methyl group:noun" is not a synonym for "raunch".
+    value: methyl group:noun
+  text: What is a synonym for "raunch"?

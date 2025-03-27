@@ -1,0 +1,304 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "oval window" is a synonym for "fenestra vestibuli".
+    value: fenestra ovalis
+  - correct: false
+    detail: Incorrect, "falloff:noun" is not a synonym for "fenestra vestibuli".
+    value: falloff:noun
+  - correct: false
+    detail: Incorrect, "small civet:noun" is not a synonym for "fenestra vestibuli".
+    value: small civet:noun
+  - correct: false
+    detail: Incorrect, "paleocene:noun" is not a synonym for "fenestra vestibuli".
+    value: paleocene:noun
+  text: What is a synonym for "fenestra vestibuli"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "plate" is a synonym for "denture".
+    value: dental plate
+  - correct: false
+    detail: Incorrect, "wedding present:noun" is not a synonym for "denture".
+    value: wedding present:noun
+  - correct: false
+    detail: Incorrect, "stick:noun" is not a synonym for "denture".
+    value: stick:noun
+  - correct: false
+    detail: Incorrect, "subfamily carduelinae:noun" is not a synonym for "denture".
+    value: subfamily carduelinae:noun
+  text: What is a synonym for "denture"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "deism" is a synonym for "free thought".
+    value: deism
+  - correct: false
+    detail: Incorrect, "unlicensed:satellite" is not a synonym for "free thought".
+    value: unlicensed:satellite
+  - correct: false
+    detail: Incorrect, "all-round:satellite" is not a synonym for "free thought".
+    value: all-round:satellite
+  - correct: false
+    detail: Incorrect, "dyed:satellite" is not a synonym for "free thought".
+    value: dyed:satellite
+  text: What is a synonym for "free thought"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "genus Petaurista" is a synonym for "genus petaurista".
+    value: genus Petaurista
+  - correct: false
+    detail: Incorrect, "nicotiana glauca:noun" is not a synonym for "genus petaurista".
+    value: nicotiana glauca:noun
+  - correct: false
+    detail: Incorrect, "tringa:noun" is not a synonym for "genus petaurista".
+    value: tringa:noun
+  - correct: false
+    detail: Incorrect, "pagan:noun" is not a synonym for "genus petaurista".
+    value: pagan:noun
+  text: What is a synonym for "genus petaurista"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Filago germanica" is a synonym for "filago germanica".
+    value: herba impia
+  - correct: false
+    detail: Incorrect, "columbite-tantalite:noun" is not a synonym for "filago germanica".
+    value: columbite-tantalite:noun
+  - correct: false
+    detail: Incorrect, "galega officinalis:noun" is not a synonym for "filago germanica".
+    value: galega officinalis:noun
+  - correct: false
+    detail: Incorrect, "squash racket:noun" is not a synonym for "filago germanica".
+    value: squash racket:noun
+  text: What is a synonym for "filago germanica"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "idle words" is a synonym for "nothingness".
+    value: jazz
+  - correct: false
+    detail: Incorrect, "like:noun" is not a synonym for "nothingness".
+    value: like:noun
+  - correct: false
+    detail: Incorrect, "blow tube:noun" is not a synonym for "nothingness".
+    value: blow tube:noun
+  - correct: false
+    detail: Incorrect, "cattle guard:noun" is not a synonym for "nothingness".
+    value: cattle guard:noun
+  text: What is a synonym for "nothingness"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "stapling machine" is a synonym for "stapler".
+    value: stapling machine
+  - correct: false
+    detail: Incorrect, "breaking away:noun" is not a synonym for "stapler".
+    value: breaking away:noun
+  - correct: false
+    detail: Incorrect, "reproduce:verb" is not a synonym for "stapler".
+    value: reproduce:verb
+  - correct: false
+    detail: Incorrect, "render:verb" is not a synonym for "stapler".
+    value: render:verb
+  text: What is a synonym for "stapler"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "proxy" is a synonym for "procurator".
+    value: proxy
+  - correct: false
+    detail: Incorrect, "zomba:noun" is not a synonym for "procurator".
+    value: zomba:noun
+  - correct: false
+    detail: Incorrect, "discontentment:noun" is not a synonym for "procurator".
+    value: discontentment:noun
+  - correct: false
+    detail: Incorrect, "st. dominic:noun" is not a synonym for "procurator".
+    value: st. dominic:noun
+  text: What is a synonym for "procurator"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "order Uropygi" is a synonym for "order pedipalpi".
+    value: Uropygi
+  - correct: false
+    detail: Incorrect, "testate:noun" is not a synonym for "order pedipalpi".
+    value: testate:noun
+  - correct: false
+    detail: Incorrect, "protoarchaeology:noun" is not a synonym for "order pedipalpi".
+    value: protoarchaeology:noun
+  - correct: false
+    detail: Incorrect, "radiator grille:noun" is not a synonym for "order pedipalpi".
+    value: radiator grille:noun
+  text: What is a synonym for "order pedipalpi"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "safety deposit box" is a synonym for "safe-deposit box".
+    value: lockbox
+  - correct: false
+    detail: Incorrect, "lafitte:noun" is not a synonym for "safe-deposit box".
+    value: lafitte:noun
+  - correct: false
+    detail: Incorrect, "materialism:noun" is not a synonym for "safe-deposit box".
+    value: materialism:noun
+  - correct: false
+    detail: Incorrect, "chat:noun" is not a synonym for "safe-deposit box".
+    value: chat:noun
+  text: What is a synonym for "safe-deposit box"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "runic letter" is a synonym for "rune".
+    value: runic letter
+  - correct: false
+    detail: Incorrect, "amino acid:noun" is not a synonym for "rune".
+    value: amino acid:noun
+  - correct: false
+    detail: Incorrect, "mastotermes darwiniensis:noun" is not a synonym for "rune".
+    value: mastotermes darwiniensis:noun
+  - correct: false
+    detail: Incorrect, "viola pubescens:noun" is not a synonym for "rune".
+    value: viola pubescens:noun
+  text: What is a synonym for "rune"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "men's room" is a synonym for "men's".
+    value: men's room
+  - correct: false
+    detail: Incorrect, "unshockable:adjective" is not a synonym for "men's".
+    value: unshockable:adjective
+  - correct: false
+    detail: Incorrect, "american indian day:noun" is not a synonym for "men's".
+    value: american indian day:noun
+  - correct: false
+    detail: Incorrect, "genus selene:noun" is not a synonym for "men's".
+    value: genus selene:noun
+  text: What is a synonym for "men's"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Sacramento sturgeon" is a synonym for "acipenser transmontanus".
+    value: Pacific sturgeon
+  - correct: false
+    detail: Incorrect, "guitar player:noun" is not a synonym for "acipenser transmontanus".
+    value: guitar player:noun
+  - correct: false
+    detail: Incorrect, "emperor:noun" is not a synonym for "acipenser transmontanus".
+    value: emperor:noun
+  - correct: false
+    detail: Incorrect, "contumely:noun" is not a synonym for "acipenser transmontanus".
+    value: contumely:noun
+  text: What is a synonym for "acipenser transmontanus"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "bestower" is a synonym for "conferrer".
+    value: donor
+  - correct: false
+    detail: Incorrect, "junior high:noun" is not a synonym for "conferrer".
+    value: junior high:noun
+  - correct: false
+    detail: Incorrect, "revitalise:verb" is not a synonym for "conferrer".
+    value: revitalise:verb
+  - correct: false
+    detail: Incorrect, "uproot:verb" is not a synonym for "conferrer".
+    value: uproot:verb
+  text: What is a synonym for "conferrer"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "misogynism" is a synonym for "misogyny".
+    value: misogynism
+  - correct: false
+    detail: Incorrect, "nellie tayloe ross:noun" is not a synonym for "misogyny".
+    value: nellie tayloe ross:noun
+  - correct: false
+    detail: Incorrect, "camponotus:noun" is not a synonym for "misogyny".
+    value: camponotus:noun
+  - correct: false
+    detail: Incorrect, "unflattering:adjective" is not a synonym for "misogyny".
+    value: unflattering:adjective
+  text: What is a synonym for "misogyny"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Benedict XIV" is a synonym for "benedict xiv".
+    value: Benedict XIV
+  - correct: false
+    detail: Incorrect, "firm:adverb" is not a synonym for "benedict xiv".
+    value: firm:adverb
+  - correct: false
+    detail: Incorrect, "primitivism:noun" is not a synonym for "benedict xiv".
+    value: primitivism:noun
+  - correct: false
+    detail: Incorrect, "life-of-man:noun" is not a synonym for "benedict xiv".
+    value: life-of-man:noun
+  text: What is a synonym for "benedict xiv"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "killer cell" is a synonym for "cytotoxic t cell".
+    value: killer T cell
+  - correct: false
+    detail: Incorrect, "amoy:noun" is not a synonym for "cytotoxic t cell".
+    value: amoy:noun
+  - correct: false
+    detail: Incorrect, "candle flame:noun" is not a synonym for "cytotoxic t cell".
+    value: candle flame:noun
+  - correct: false
+    detail: Incorrect, "blintz:noun" is not a synonym for "cytotoxic t cell".
+    value: blintz:noun
+  text: What is a synonym for "cytotoxic t cell"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "accompanyist" is a synonym for "accompanist".
+    value: accompanyist
+  - correct: false
+    detail: Incorrect, "scramble:verb" is not a synonym for "accompanist".
+    value: scramble:verb
+  - correct: false
+    detail: Incorrect, "randall jarrell:noun" is not a synonym for "accompanist".
+    value: randall jarrell:noun
+  - correct: false
+    detail: Incorrect, "parlor grand piano:noun" is not a synonym for "accompanist".
+    value: parlor grand piano:noun
+  text: What is a synonym for "accompanist"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Asa Gray" is a synonym for "asa gray".
+    value: Asa Gray
+  - correct: false
+    detail: Incorrect, "monoblastic leukaemia:noun" is not a synonym for "asa gray".
+    value: monoblastic leukaemia:noun
+  - correct: false
+    detail: Incorrect, "clit:noun" is not a synonym for "asa gray".
+    value: clit:noun
+  - correct: false
+    detail: Incorrect, "rupestral plant:noun" is not a synonym for "asa gray".
+    value: rupestral plant:noun
+  text: What is a synonym for "asa gray"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Vicomte Ferdinand Marie de Lesseps" is a synonym for "ferdinand
+      de lesseps".
+    value: Ferdinand de Lesseps
+  - correct: false
+    detail: Incorrect, "emberiza schoeniclus:noun" is not a synonym for "ferdinand
+      de lesseps".
+    value: emberiza schoeniclus:noun
+  - correct: false
+    detail: Incorrect, "sleek:satellite" is not a synonym for "ferdinand de lesseps".
+    value: sleek:satellite
+  - correct: false
+    detail: Incorrect, "whole meal flour:noun" is not a synonym for "ferdinand de
+      lesseps".
+    value: whole meal flour:noun
+  text: What is a synonym for "ferdinand de lesseps"?

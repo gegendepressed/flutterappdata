@@ -1,0 +1,304 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "nearly" is a synonym for "near".
+    value: nigh
+  - correct: false
+    detail: Incorrect, "duplicator:noun" is not a synonym for "near".
+    value: duplicator:noun
+  - correct: false
+    detail: Incorrect, "plath:noun" is not a synonym for "near".
+    value: plath:noun
+  - correct: false
+    detail: Incorrect, "rotundness:noun" is not a synonym for "near".
+    value: rotundness:noun
+  text: What is a synonym for "near"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "similarly|besides" is a synonym for "likewise".
+    value: similarly|besides
+  - correct: false
+    detail: Incorrect, "forgivable:satellite" is not a synonym for "likewise".
+    value: forgivable:satellite
+  - correct: false
+    detail: Incorrect, "everting:noun" is not a synonym for "likewise".
+    value: everting:noun
+  - correct: false
+    detail: Incorrect, "building site:noun" is not a synonym for "likewise".
+    value: building site:noun
+  text: What is a synonym for "likewise"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "anyways" is a synonym for "anyway".
+    value: in any case
+  - correct: false
+    detail: Incorrect, "crimea-congo hemorrhagic fever:noun" is not a synonym for
+      "anyway".
+    value: crimea-congo hemorrhagic fever:noun
+  - correct: false
+    detail: Incorrect, "bivouac:noun" is not a synonym for "anyway".
+    value: bivouac:noun
+  - correct: false
+    detail: Incorrect, "maoism:noun" is not a synonym for "anyway".
+    value: maoism:noun
+  text: What is a synonym for "anyway"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "until now" is a synonym for "thus far".
+    value: until now
+  - correct: false
+    detail: Incorrect, "squamata:noun" is not a synonym for "thus far".
+    value: squamata:noun
+  - correct: false
+    detail: Incorrect, "finnish:noun" is not a synonym for "thus far".
+    value: finnish:noun
+  - correct: false
+    detail: Incorrect, "illecebrum verticullatum:noun" is not a synonym for "thus
+      far".
+    value: illecebrum verticullatum:noun
+  text: What is a synonym for "thus far"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "confessedly" is a synonym for "avowedly".
+    value: admittedly
+  - correct: false
+    detail: Incorrect, "field-sequential color television:noun" is not a synonym for
+      "avowedly".
+    value: field-sequential color television:noun
+  - correct: false
+    detail: Incorrect, "mediation:noun" is not a synonym for "avowedly".
+    value: mediation:noun
+  - correct: false
+    detail: Incorrect, "tact:noun" is not a synonym for "avowedly".
+    value: tact:noun
+  text: What is a synonym for "avowedly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "gravely" is a synonym for "badly".
+    value: naughtily|bad|bad|disadvantageously|ill
+  - correct: false
+    detail: Incorrect, "invaginate:verb" is not a synonym for "badly".
+    value: invaginate:verb
+  - correct: false
+    detail: Incorrect, "chanukah:noun" is not a synonym for "badly".
+    value: chanukah:noun
+  - correct: false
+    detail: Incorrect, "glass snake:noun" is not a synonym for "badly".
+    value: glass snake:noun
+  text: What is a synonym for "badly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "completely" is a synonym for "wholly".
+    value: all
+  - correct: false
+    detail: Incorrect, "norfolk jacket:noun" is not a synonym for "wholly".
+    value: norfolk jacket:noun
+  - correct: false
+    detail: Incorrect, "genus anacardium:noun" is not a synonym for "wholly".
+    value: genus anacardium:noun
+  - correct: false
+    detail: Incorrect, "coagulate:satellite" is not a synonym for "wholly".
+    value: coagulate:satellite
+  text: What is a synonym for "wholly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "just|precisely" is a synonym for "exactly".
+    value: on the button|precisely
+  - correct: false
+    detail: Incorrect, "dismay:verb" is not a synonym for "exactly".
+    value: dismay:verb
+  - correct: false
+    detail: Incorrect, "fleshy:satellite" is not a synonym for "exactly".
+    value: fleshy:satellite
+  - correct: false
+    detail: Incorrect, "caroline islands:noun" is not a synonym for "exactly".
+    value: caroline islands:noun
+  text: What is a synonym for "exactly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "after" is a synonym for "later on".
+    value: later
+  - correct: false
+    detail: Incorrect, "refresher:noun" is not a synonym for "later on".
+    value: refresher:noun
+  - correct: false
+    detail: Incorrect, "creeping snowberry:noun" is not a synonym for "later on".
+    value: creeping snowberry:noun
+  - correct: false
+    detail: Incorrect, "dominated:satellite" is not a synonym for "later on".
+    value: dominated:satellite
+  text: What is a synonym for "later on"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "loquaciously" is a synonym for "talkily".
+    value: garrulously
+  - correct: false
+    detail: Incorrect, "freeze-drying:noun" is not a synonym for "talkily".
+    value: freeze-drying:noun
+  - correct: false
+    detail: Incorrect, "final exam:noun" is not a synonym for "talkily".
+    value: final exam:noun
+  - correct: false
+    detail: Incorrect, "cliftonia:noun" is not a synonym for "talkily".
+    value: cliftonia:noun
+  text: What is a synonym for "talkily"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "apropos" is a synonym for "timely".
+    value: well-timed
+  - correct: false
+    detail: Incorrect, "hunting and gathering society:noun" is not a synonym for "timely".
+    value: hunting and gathering society:noun
+  - correct: false
+    detail: Incorrect, "moniker:noun" is not a synonym for "timely".
+    value: moniker:noun
+  - correct: false
+    detail: Incorrect, "sea lyme grass:noun" is not a synonym for "timely".
+    value: sea lyme grass:noun
+  text: What is a synonym for "timely"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "merrily" is a synonym for "gayly".
+    value: happily
+  - correct: false
+    detail: Incorrect, "zebra mussel:noun" is not a synonym for "gayly".
+    value: zebra mussel:noun
+  - correct: false
+    detail: Incorrect, "amish:noun" is not a synonym for "gayly".
+    value: amish:noun
+  - correct: false
+    detail: Incorrect, "purchase:verb" is not a synonym for "gayly".
+    value: purchase:verb
+  text: What is a synonym for "gayly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "scarce|scantily" is a synonym for "barely".
+    value: scarcely
+  - correct: false
+    detail: Incorrect, "strike back:verb" is not a synonym for "barely".
+    value: strike back:verb
+  - correct: false
+    detail: Incorrect, "cracow:noun" is not a synonym for "barely".
+    value: cracow:noun
+  - correct: false
+    detail: Incorrect, "hug:noun" is not a synonym for "barely".
+    value: hug:noun
+  text: What is a synonym for "barely"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "perpetually" is a synonym for "always".
+    value: incessantly
+  - correct: false
+    detail: Incorrect, "golden age:noun" is not a synonym for "always".
+    value: golden age:noun
+  - correct: false
+    detail: Incorrect, "mutual:satellite" is not a synonym for "always".
+    value: mutual:satellite
+  - correct: false
+    detail: Incorrect, "sheep gadfly:noun" is not a synonym for "always".
+    value: sheep gadfly:noun
+  text: What is a synonym for "always"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "entirely" is a synonym for "solely".
+    value: alone
+  - correct: false
+    detail: Incorrect, "gladstone:noun" is not a synonym for "solely".
+    value: gladstone:noun
+  - correct: false
+    detail: Incorrect, "american smooth dogfish:noun" is not a synonym for "solely".
+    value: american smooth dogfish:noun
+  - correct: false
+    detail: Incorrect, "nestor notabilis:noun" is not a synonym for "solely".
+    value: nestor notabilis:noun
+  text: What is a synonym for "solely"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "steadfastly" is a synonym for "firm".
+    value: firmly
+  - correct: false
+    detail: Incorrect, "tamarisk gerbil:noun" is not a synonym for "firm".
+    value: tamarisk gerbil:noun
+  - correct: false
+    detail: Incorrect, "sports coat:noun" is not a synonym for "firm".
+    value: sports coat:noun
+  - correct: false
+    detail: Incorrect, "genus herrerasaurus:noun" is not a synonym for "firm".
+    value: genus herrerasaurus:noun
+  text: What is a synonym for "firm"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "finally" is a synonym for "last".
+    value: in conclusion
+  - correct: false
+    detail: Incorrect, "oswald spengler:noun" is not a synonym for "last".
+    value: oswald spengler:noun
+  - correct: false
+    detail: Incorrect, "sr:noun" is not a synonym for "last".
+    value: sr:noun
+  - correct: false
+    detail: Incorrect, "trailing windmills:noun" is not a synonym for "last".
+    value: trailing windmills:noun
+  text: What is a synonym for "last"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "slenderly" is a synonym for "meagrely".
+    value: meagerly
+  - correct: false
+    detail: Incorrect, "poyou:noun" is not a synonym for "meagrely".
+    value: poyou:noun
+  - correct: false
+    detail: Incorrect, "golan:noun" is not a synonym for "meagrely".
+    value: golan:noun
+  - correct: false
+    detail: Incorrect, "vombatidae:noun" is not a synonym for "meagrely".
+    value: vombatidae:noun
+  text: What is a synonym for "meagrely"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "intimately" is a synonym for "nearly".
+    value: about
+  - correct: false
+    detail: Incorrect, "superpatriotic:satellite" is not a synonym for "nearly".
+    value: superpatriotic:satellite
+  - correct: false
+    detail: Incorrect, "candyfloss:noun" is not a synonym for "nearly".
+    value: candyfloss:noun
+  - correct: false
+    detail: Incorrect, "scratch along:verb" is not a synonym for "nearly".
+    value: scratch along:verb
+  text: What is a synonym for "nearly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "to the letter" is a synonym for "to a t".
+    value: to the letter
+  - correct: false
+    detail: Incorrect, "strategist:noun" is not a synonym for "to a t".
+    value: strategist:noun
+  - correct: false
+    detail: Incorrect, "warm:verb" is not a synonym for "to a t".
+    value: warm:verb
+  - correct: false
+    detail: Incorrect, "hans jurgen eysenck:noun" is not a synonym for "to a t".
+    value: hans jurgen eysenck:noun
+  text: What is a synonym for "to a t"?

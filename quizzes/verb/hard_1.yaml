@@ -1,0 +1,301 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "step up" is a synonym for "escalate".
+    value: step up
+  - correct: false
+    detail: Incorrect, "genus strepera:noun" is not a synonym for "escalate".
+    value: genus strepera:noun
+  - correct: false
+    detail: Incorrect, "draw:verb" is not a synonym for "escalate".
+    value: draw:verb
+  - correct: false
+    detail: Incorrect, "z:noun" is not a synonym for "escalate".
+    value: z:noun
+  text: What is a synonym for "escalate"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "chromium-plate" is a synonym for "chrome".
+    value: chromium-plate
+  - correct: false
+    detail: Incorrect, "bushbuck:noun" is not a synonym for "chrome".
+    value: bushbuck:noun
+  - correct: false
+    detail: Incorrect, "clientele:noun" is not a synonym for "chrome".
+    value: clientele:noun
+  - correct: false
+    detail: Incorrect, "hutchinson:noun" is not a synonym for "chrome".
+    value: hutchinson:noun
+  text: What is a synonym for "chrome"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "mistrust" is a synonym for "suspected".
+    value: mistrust
+  - correct: false
+    detail: Incorrect, "employment interview:noun" is not a synonym for "suspected".
+    value: employment interview:noun
+  - correct: false
+    detail: Incorrect, "joe clark:noun" is not a synonym for "suspected".
+    value: joe clark:noun
+  - correct: false
+    detail: Incorrect, "kick the bucket:verb" is not a synonym for "suspected".
+    value: kick the bucket:verb
+  text: What is a synonym for "suspected"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "jar against" is a synonym for "knock against".
+    value: bump into
+  - correct: false
+    detail: Incorrect, "male:satellite" is not a synonym for "knock against".
+    value: male:satellite
+  - correct: false
+    detail: Incorrect, "dwight davis:noun" is not a synonym for "knock against".
+    value: dwight davis:noun
+  - correct: false
+    detail: Incorrect, "wedding:verb" is not a synonym for "knock against".
+    value: wedding:verb
+  text: What is a synonym for "knock against"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "survive" is a synonym for "pull round".
+    value: make it
+  - correct: false
+    detail: Incorrect, "somber:satellite" is not a synonym for "pull round".
+    value: somber:satellite
+  - correct: false
+    detail: Incorrect, "send on:verb" is not a synonym for "pull round".
+    value: send on:verb
+  - correct: false
+    detail: Incorrect, "indelicate:adjective" is not a synonym for "pull round".
+    value: indelicate:adjective
+  text: What is a synonym for "pull round"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "lace|lock" is a synonym for "interlacing".
+    value: enlace
+  - correct: false
+    detail: Incorrect, "overcapitalize:verb" is not a synonym for "interlacing".
+    value: overcapitalize:verb
+  - correct: false
+    detail: Incorrect, "anabaptism:noun" is not a synonym for "interlacing".
+    value: anabaptism:noun
+  - correct: false
+    detail: Incorrect, "battlesight:noun" is not a synonym for "interlacing".
+    value: battlesight:noun
+  text: What is a synonym for "interlacing"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "aggrandize" is a synonym for "embellish".
+    value: embroider
+  - correct: false
+    detail: Incorrect, "scintilla:noun" is not a synonym for "embellish".
+    value: scintilla:noun
+  - correct: false
+    detail: Incorrect, "unsecured bond:noun" is not a synonym for "embellish".
+    value: unsecured bond:noun
+  - correct: false
+    detail: Incorrect, "no man's land:noun" is not a synonym for "embellish".
+    value: no man's land:noun
+  text: What is a synonym for "embellish"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "recede" is a synonym for "move back".
+    value: retire
+  - correct: false
+    detail: Incorrect, "shellac:noun" is not a synonym for "move back".
+    value: shellac:noun
+  - correct: false
+    detail: Incorrect, "hebephrenia:noun" is not a synonym for "move back".
+    value: hebephrenia:noun
+  - correct: false
+    detail: Incorrect, "passion sunday:noun" is not a synonym for "move back".
+    value: passion sunday:noun
+  text: What is a synonym for "move back"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "stand guard" is a synonym for "keep guard".
+    value: stand guard
+  - correct: false
+    detail: Incorrect, "allied:satellite" is not a synonym for "keep guard".
+    value: allied:satellite
+  - correct: false
+    detail: Incorrect, "comfortably:adverb" is not a synonym for "keep guard".
+    value: comfortably:adverb
+  - correct: false
+    detail: Incorrect, "megaderma:noun" is not a synonym for "keep guard".
+    value: megaderma:noun
+  text: What is a synonym for "keep guard"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "ferret out" is a synonym for "ferret".
+    value: ferret out
+  - correct: false
+    detail: Incorrect, "wage:verb" is not a synonym for "ferret".
+    value: wage:verb
+  - correct: false
+    detail: Incorrect, "budorcas:noun" is not a synonym for "ferret".
+    value: budorcas:noun
+  - correct: false
+    detail: Incorrect, "sea snail:noun" is not a synonym for "ferret".
+    value: sea snail:noun
+  text: What is a synonym for "ferret"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "foretell" is a synonym for "foreshadow".
+    value: portend
+  - correct: false
+    detail: Incorrect, "atlantic croaker:noun" is not a synonym for "foreshadow".
+    value: atlantic croaker:noun
+  - correct: false
+    detail: Incorrect, "genus mesohippus:noun" is not a synonym for "foreshadow".
+    value: genus mesohippus:noun
+  - correct: false
+    detail: Incorrect, "how-d'ye-do:noun" is not a synonym for "foreshadow".
+    value: how-d'ye-do:noun
+  text: What is a synonym for "foreshadow"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "convert" is a synonym for "convincing".
+    value: convince
+  - correct: false
+    detail: Incorrect, "unreasoning:satellite" is not a synonym for "convincing".
+    value: unreasoning:satellite
+  - correct: false
+    detail: Incorrect, "dicentra canadensis:noun" is not a synonym for "convincing".
+    value: dicentra canadensis:noun
+  - correct: false
+    detail: Incorrect, "erinyes:noun" is not a synonym for "convincing".
+    value: erinyes:noun
+  text: What is a synonym for "convincing"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "steamer|steam clean" is a synonym for "steam".
+    value: steamer|steam clean
+  - correct: false
+    detail: Incorrect, "saboteur:noun" is not a synonym for "steam".
+    value: saboteur:noun
+  - correct: false
+    detail: Incorrect, "humor:verb" is not a synonym for "steam".
+    value: humor:verb
+  - correct: false
+    detail: Incorrect, "60 minutes:noun" is not a synonym for "steam".
+    value: 60 minutes:noun
+  text: What is a synonym for "steam"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "traumatize" is a synonym for "traumatise".
+    value: traumatize
+  - correct: false
+    detail: Incorrect, "chlorothiazide:noun" is not a synonym for "traumatise".
+    value: chlorothiazide:noun
+  - correct: false
+    detail: Incorrect, "satisfiable:satellite" is not a synonym for "traumatise".
+    value: satisfiable:satellite
+  - correct: false
+    detail: Incorrect, "coreid:noun" is not a synonym for "traumatise".
+    value: coreid:noun
+  text: What is a synonym for "traumatise"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "accoutre" is a synonym for "accoutered".
+    value: accouter
+  - correct: false
+    detail: Incorrect, "arctotis:noun" is not a synonym for "accoutered".
+    value: arctotis:noun
+  - correct: false
+    detail: Incorrect, "buck private:noun" is not a synonym for "accoutered".
+    value: buck private:noun
+  - correct: false
+    detail: Incorrect, "cheatgrass:noun" is not a synonym for "accoutered".
+    value: cheatgrass:noun
+  text: What is a synonym for "accoutered"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "madden" is a synonym for "crazed".
+    value: madden
+  - correct: false
+    detail: Incorrect, "haggada:noun" is not a synonym for "crazed".
+    value: haggada:noun
+  - correct: false
+    detail: Incorrect, "genus bolbitis:noun" is not a synonym for "crazed".
+    value: genus bolbitis:noun
+  - correct: false
+    detail: Incorrect, "appraiser:noun" is not a synonym for "crazed".
+    value: appraiser:noun
+  text: What is a synonym for "crazed"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "disenfranchise" is a synonym for "disenfranchised".
+    value: disenfranchise
+  - correct: false
+    detail: Incorrect, "floor covering:noun" is not a synonym for "disenfranchised".
+    value: floor covering:noun
+  - correct: false
+    detail: Incorrect, "unsavoury:adjective" is not a synonym for "disenfranchised".
+    value: unsavoury:adjective
+  - correct: false
+    detail: Incorrect, "coahuila:noun" is not a synonym for "disenfranchised".
+    value: coahuila:noun
+  text: What is a synonym for "disenfranchised"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "mother" is a synonym for "overprotect".
+    value: mother
+  - correct: false
+    detail: Incorrect, "prison term:noun" is not a synonym for "overprotect".
+    value: prison term:noun
+  - correct: false
+    detail: Incorrect, "errand boy:noun" is not a synonym for "overprotect".
+    value: errand boy:noun
+  - correct: false
+    detail: Incorrect, "teres major muscle:noun" is not a synonym for "overprotect".
+    value: teres major muscle:noun
+  text: What is a synonym for "overprotect"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "drop dead" is a synonym for "give-up the ghost".
+    value: kick the bucket
+  - correct: false
+    detail: Incorrect, "hankering:verb" is not a synonym for "give-up the ghost".
+    value: hankering:verb
+  - correct: false
+    detail: Incorrect, "brno:noun" is not a synonym for "give-up the ghost".
+    value: brno:noun
+  - correct: false
+    detail: Incorrect, "family blattidae:noun" is not a synonym for "give-up the ghost".
+    value: family blattidae:noun
+  text: What is a synonym for "give-up the ghost"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "factorise" is a synonym for "factorize".
+    value: factorise
+  - correct: false
+    detail: Incorrect, "architectonic:adjective" is not a synonym for "factorize".
+    value: architectonic:adjective
+  - correct: false
+    detail: Incorrect, "lima bean plant:noun" is not a synonym for "factorize".
+    value: lima bean plant:noun
+  - correct: false
+    detail: Incorrect, "shackled:satellite" is not a synonym for "factorize".
+    value: shackled:satellite
+  text: What is a synonym for "factorize"?

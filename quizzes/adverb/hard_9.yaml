@@ -1,0 +1,305 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "multifariously" is a synonym for "variously".
+    value: diversely
+  - correct: false
+    detail: Incorrect, "thirdly:adverb" is not a synonym for "variously".
+    value: thirdly:adverb
+  - correct: false
+    detail: Incorrect, "arctic fox:noun" is not a synonym for "variously".
+    value: arctic fox:noun
+  - correct: false
+    detail: Incorrect, "mayan:noun" is not a synonym for "variously".
+    value: mayan:noun
+  text: What is a synonym for "variously"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "imposingly" is a synonym for "impressively".
+    value: imposingly
+  - correct: false
+    detail: Incorrect, "symbol:noun" is not a synonym for "impressively".
+    value: symbol:noun
+  - correct: false
+    detail: Incorrect, "holocene epoch:noun" is not a synonym for "impressively".
+    value: holocene epoch:noun
+  - correct: false
+    detail: Incorrect, "phlegm:noun" is not a synonym for "impressively".
+    value: phlegm:noun
+  text: What is a synonym for "impressively"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "en passant" is a synonym for "in passing".
+    value: en passant
+  - correct: false
+    detail: Incorrect, "renegade:verb" is not a synonym for "in passing".
+    value: renegade:verb
+  - correct: false
+    detail: Incorrect, "corn marigold:noun" is not a synonym for "in passing".
+    value: corn marigold:noun
+  - correct: false
+    detail: Incorrect, "ascertained:verb" is not a synonym for "in passing".
+    value: ascertained:verb
+  text: What is a synonym for "in passing"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "appreciatively|thankfully" is a synonym for "gratefully".
+    value: appreciatively|thankfully
+  - correct: false
+    detail: Incorrect, "untier:noun" is not a synonym for "gratefully".
+    value: untier:noun
+  - correct: false
+    detail: Incorrect, "deceive:verb" is not a synonym for "gratefully".
+    value: deceive:verb
+  - correct: false
+    detail: Incorrect, "genus electrophorus:noun" is not a synonym for "gratefully".
+    value: genus electrophorus:noun
+  text: What is a synonym for "gratefully"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "severally" is a synonym for "on an individual basis".
+    value: separately
+  - correct: false
+    detail: Incorrect, "frost mist:noun" is not a synonym for "on an individual basis".
+    value: frost mist:noun
+  - correct: false
+    detail: Incorrect, "mouth:noun" is not a synonym for "on an individual basis".
+    value: mouth:noun
+  - correct: false
+    detail: Incorrect, "austerity:noun" is not a synonym for "on an individual basis".
+    value: austerity:noun
+  text: What is a synonym for "on an individual basis"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "compulsively" is a synonym for "obsessively".
+    value: compulsively
+  - correct: false
+    detail: Incorrect, "words:noun" is not a synonym for "obsessively".
+    value: words:noun
+  - correct: false
+    detail: Incorrect, "set free:verb" is not a synonym for "obsessively".
+    value: set free:verb
+  - correct: false
+    detail: Incorrect, "malopterurus:noun" is not a synonym for "obsessively".
+    value: malopterurus:noun
+  text: What is a synonym for "obsessively"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "into the wind" is a synonym for "upwind".
+    value: into the wind
+  - correct: false
+    detail: Incorrect, "detritus:noun" is not a synonym for "upwind".
+    value: detritus:noun
+  - correct: false
+    detail: Incorrect, "genus dryopteris:noun" is not a synonym for "upwind".
+    value: genus dryopteris:noun
+  - correct: false
+    detail: Incorrect, "sassaby:noun" is not a synonym for "upwind".
+    value: sassaby:noun
+  text: What is a synonym for "upwind"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "forward" is a synonym for "fore".
+    value: forward
+  - correct: false
+    detail: Incorrect, "ring:noun" is not a synonym for "fore".
+    value: ring:noun
+  - correct: false
+    detail: Incorrect, "unhappiness:noun" is not a synonym for "fore".
+    value: unhappiness:noun
+  - correct: false
+    detail: Incorrect, "passim:adverb" is not a synonym for "fore".
+    value: passim:adverb
+  text: What is a synonym for "fore"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "in the first place" is a synonym for "to begin with".
+    value: originally
+  - correct: false
+    detail: Incorrect, "chandelier:noun" is not a synonym for "to begin with".
+    value: chandelier:noun
+  - correct: false
+    detail: Incorrect, "uncritical:adjective" is not a synonym for "to begin with".
+    value: uncritical:adjective
+  - correct: false
+    detail: Incorrect, "coupled:verb" is not a synonym for "to begin with".
+    value: coupled:verb
+  text: What is a synonym for "to begin with"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "at first glance" is a synonym for "at first sight".
+    value: at first glance
+  - correct: false
+    detail: Incorrect, "worldly:satellite" is not a synonym for "at first sight".
+    value: worldly:satellite
+  - correct: false
+    detail: Incorrect, "valenciennes lace:noun" is not a synonym for "at first sight".
+    value: valenciennes lace:noun
+  - correct: false
+    detail: Incorrect, "coroneted:satellite" is not a synonym for "at first sight".
+    value: coroneted:satellite
+  text: What is a synonym for "at first sight"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "particularly" is a synonym for "in particular".
+    value: particularly
+  - correct: false
+    detail: Incorrect, "pica em:noun" is not a synonym for "in particular".
+    value: pica em:noun
+  - correct: false
+    detail: Incorrect, "transient:adjective" is not a synonym for "in particular".
+    value: transient:adjective
+  - correct: false
+    detail: Incorrect, "spike lee:noun" is not a synonym for "in particular".
+    value: spike lee:noun
+  text: What is a synonym for "in particular"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "dauntlessly" is a synonym for "fearlessly".
+    value: dauntlessly
+  - correct: false
+    detail: Incorrect, "zoril:noun" is not a synonym for "fearlessly".
+    value: zoril:noun
+  - correct: false
+    detail: Incorrect, "jonquil:noun" is not a synonym for "fearlessly".
+    value: jonquil:noun
+  - correct: false
+    detail: Incorrect, "disenchant:verb" is not a synonym for "fearlessly".
+    value: disenchant:verb
+  text: What is a synonym for "fearlessly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "venally" is a synonym for "deceitfully".
+    value: dishonestly
+  - correct: false
+    detail: Incorrect, "linguistic rule:noun" is not a synonym for "deceitfully".
+    value: linguistic rule:noun
+  - correct: false
+    detail: Incorrect, "genus ulmus:noun" is not a synonym for "deceitfully".
+    value: genus ulmus:noun
+  - correct: false
+    detail: Incorrect, "relation back:noun" is not a synonym for "deceitfully".
+    value: relation back:noun
+  text: What is a synonym for "deceitfully"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "horridly" is a synonym for "hideously".
+    value: monstrously
+  - correct: false
+    detail: Incorrect, "hopped-up:satellite" is not a synonym for "hideously".
+    value: hopped-up:satellite
+  - correct: false
+    detail: Incorrect, "carousing:verb" is not a synonym for "hideously".
+    value: carousing:verb
+  - correct: false
+    detail: Incorrect, "cystic fibrosis transport regulator:noun" is not a synonym
+      for "hideously".
+    value: cystic fibrosis transport regulator:noun
+  text: What is a synonym for "hideously"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "chock-a-block" is a synonym for "chock".
+    value: chock-a-block
+  - correct: false
+    detail: Incorrect, "bleachers:noun" is not a synonym for "chock".
+    value: bleachers:noun
+  - correct: false
+    detail: Incorrect, "exteriorization:noun" is not a synonym for "chock".
+    value: exteriorization:noun
+  - correct: false
+    detail: Incorrect, "presidency:noun" is not a synonym for "chock".
+    value: presidency:noun
+  text: What is a synonym for "chock"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "but then" is a synonym for "on the other hand".
+    value: then again
+  - correct: false
+    detail: Incorrect, "stewed:verb" is not a synonym for "on the other hand".
+    value: stewed:verb
+  - correct: false
+    detail: Incorrect, "nonracist:satellite" is not a synonym for "on the other hand".
+    value: nonracist:satellite
+  - correct: false
+    detail: Incorrect, "wastebasket:noun" is not a synonym for "on the other hand".
+    value: wastebasket:noun
+  text: What is a synonym for "on the other hand"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "in tandem" is a synonym for "tandem".
+    value: in tandem
+  - correct: false
+    detail: Incorrect, "na-dene:noun" is not a synonym for "tandem".
+    value: na-dene:noun
+  - correct: false
+    detail: Incorrect, "ballerina:noun" is not a synonym for "tandem".
+    value: ballerina:noun
+  - correct: false
+    detail: Incorrect, "islamic republic of mauritania:noun" is not a synonym for
+      "tandem".
+    value: islamic republic of mauritania:noun
+  text: What is a synonym for "tandem"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "disbelievingly" is a synonym for "incredulously".
+    value: disbelievingly
+  - correct: false
+    detail: Incorrect, "attorney general of the united states:noun" is not a synonym
+      for "incredulously".
+    value: attorney general of the united states:noun
+  - correct: false
+    detail: Incorrect, "carefulness:noun" is not a synonym for "incredulously".
+    value: carefulness:noun
+  - correct: false
+    detail: Incorrect, "disorder:verb" is not a synonym for "incredulously".
+    value: disorder:verb
+  text: What is a synonym for "incredulously"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "in one's own right" is a synonym for "in her own right".
+    value: in one's own right
+  - correct: false
+    detail: Incorrect, "invention:noun" is not a synonym for "in her own right".
+    value: invention:noun
+  - correct: false
+    detail: Incorrect, "luging:verb" is not a synonym for "in her own right".
+    value: luging:verb
+  - correct: false
+    detail: Incorrect, "battle of saratoga:noun" is not a synonym for "in her own
+      right".
+    value: battle of saratoga:noun
+  text: What is a synonym for "in her own right"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "candidly" is a synonym for "honestly".
+    value: frankly|aboveboard
+  - correct: false
+    detail: Incorrect, "circular function:noun" is not a synonym for "honestly".
+    value: circular function:noun
+  - correct: false
+    detail: Incorrect, "plattdeutsch:noun" is not a synonym for "honestly".
+    value: plattdeutsch:noun
+  - correct: false
+    detail: Incorrect, "polyborus plancus:noun" is not a synonym for "honestly".
+    value: polyborus plancus:noun
+  text: What is a synonym for "honestly"?

@@ -1,0 +1,304 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "lemon" is a synonym for "citrus limon".
+    value: lemon tree
+  - correct: false
+    detail: Incorrect, "clothes dryer:noun" is not a synonym for "citrus limon".
+    value: clothes dryer:noun
+  - correct: false
+    detail: Incorrect, "chancellor:noun" is not a synonym for "citrus limon".
+    value: chancellor:noun
+  - correct: false
+    detail: Incorrect, "r. buckminster fuller:noun" is not a synonym for "citrus limon".
+    value: r. buckminster fuller:noun
+  text: What is a synonym for "citrus limon"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "genus Sphacelotheca" is a synonym for "sphacelotheca".
+    value: genus Sphacelotheca
+  - correct: false
+    detail: Incorrect, "cant:verb" is not a synonym for "sphacelotheca".
+    value: cant:verb
+  - correct: false
+    detail: Incorrect, "religiousness:noun" is not a synonym for "sphacelotheca".
+    value: religiousness:noun
+  - correct: false
+    detail: Incorrect, "manageability:noun" is not a synonym for "sphacelotheca".
+    value: manageability:noun
+  text: What is a synonym for "sphacelotheca"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Manson" is a synonym for "manson".
+    value: Manson
+  - correct: false
+    detail: Incorrect, "amboyna pine:noun" is not a synonym for "manson".
+    value: amboyna pine:noun
+  - correct: false
+    detail: Incorrect, "brass knuckles:noun" is not a synonym for "manson".
+    value: brass knuckles:noun
+  - correct: false
+    detail: Incorrect, "bottom:noun" is not a synonym for "manson".
+    value: bottom:noun
+  text: What is a synonym for "manson"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "chophouse" is a synonym for "steakhouse".
+    value: chophouse
+  - correct: false
+    detail: Incorrect, "purple clover:noun" is not a synonym for "steakhouse".
+    value: purple clover:noun
+  - correct: false
+    detail: Incorrect, "coryphaena hippurus:noun" is not a synonym for "steakhouse".
+    value: coryphaena hippurus:noun
+  - correct: false
+    detail: Incorrect, "quercus grosseserrata:noun" is not a synonym for "steakhouse".
+    value: quercus grosseserrata:noun
+  text: What is a synonym for "steakhouse"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "major league" is a synonym for "big league".
+    value: major league
+  - correct: false
+    detail: Incorrect, "hyperacusis:noun" is not a synonym for "big league".
+    value: hyperacusis:noun
+  - correct: false
+    detail: Incorrect, "drew:noun" is not a synonym for "big league".
+    value: drew:noun
+  - correct: false
+    detail: Incorrect, "mother's day:noun" is not a synonym for "big league".
+    value: mother's day:noun
+  text: What is a synonym for "big league"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "movie house" is a synonym for "movie theater".
+    value: picture palace
+  - correct: false
+    detail: Incorrect, "symphalangus:noun" is not a synonym for "movie theater".
+    value: symphalangus:noun
+  - correct: false
+    detail: Incorrect, "bookworm:noun" is not a synonym for "movie theater".
+    value: bookworm:noun
+  - correct: false
+    detail: Incorrect, "myxinikela siroka:noun" is not a synonym for "movie theater".
+    value: myxinikela siroka:noun
+  text: What is a synonym for "movie theater"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "lysogenisation" is a synonym for "lysogenization".
+    value: lysogenisation
+  - correct: false
+    detail: Incorrect, "sand shark:noun" is not a synonym for "lysogenization".
+    value: sand shark:noun
+  - correct: false
+    detail: Incorrect, "welsh corgi:noun" is not a synonym for "lysogenization".
+    value: welsh corgi:noun
+  - correct: false
+    detail: Incorrect, "pocket:verb" is not a synonym for "lysogenization".
+    value: pocket:verb
+  text: What is a synonym for "lysogenization"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "intangible" is a synonym for "intangible asset".
+    value: intangible
+  - correct: false
+    detail: Incorrect, "seven hills of rome:noun" is not a synonym for "intangible
+      asset".
+    value: seven hills of rome:noun
+  - correct: false
+    detail: Incorrect, "notched:verb" is not a synonym for "intangible asset".
+    value: notched:verb
+  - correct: false
+    detail: Incorrect, "ament:noun" is not a synonym for "intangible asset".
+    value: ament:noun
+  text: What is a synonym for "intangible asset"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "gerbille" is a synonym for "gerbil".
+    value: gerbille
+  - correct: false
+    detail: Incorrect, "unsealed:adjective" is not a synonym for "gerbil".
+    value: unsealed:adjective
+  - correct: false
+    detail: Incorrect, "dove's foot geranium:noun" is not a synonym for "gerbil".
+    value: dove's foot geranium:noun
+  - correct: false
+    detail: Incorrect, "patrai:noun" is not a synonym for "gerbil".
+    value: patrai:noun
+  text: What is a synonym for "gerbil"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Torreya" is a synonym for "torreya".
+    value: Torreya
+  - correct: false
+    detail: Incorrect, "heraclitus:noun" is not a synonym for "torreya".
+    value: heraclitus:noun
+  - correct: false
+    detail: Incorrect, "unattached:satellite" is not a synonym for "torreya".
+    value: unattached:satellite
+  - correct: false
+    detail: Incorrect, "dancer:noun" is not a synonym for "torreya".
+    value: dancer:noun
+  text: What is a synonym for "torreya"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "stoma" is a synonym for "pore".
+    value: stomate
+  - correct: false
+    detail: Incorrect, "dendroctonus rufipennis:noun" is not a synonym for "pore".
+    value: dendroctonus rufipennis:noun
+  - correct: false
+    detail: Incorrect, "officialdom:noun" is not a synonym for "pore".
+    value: officialdom:noun
+  - correct: false
+    detail: Incorrect, "bag:noun" is not a synonym for "pore".
+    value: bag:noun
+  text: What is a synonym for "pore"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Guangzhou" is a synonym for "guangzhou".
+    value: Kuangchou
+  - correct: false
+    detail: Incorrect, "conventicle:noun" is not a synonym for "guangzhou".
+    value: conventicle:noun
+  - correct: false
+    detail: Incorrect, "genus sericocarpus:noun" is not a synonym for "guangzhou".
+    value: genus sericocarpus:noun
+  - correct: false
+    detail: Incorrect, "fit:satellite" is not a synonym for "guangzhou".
+    value: fit:satellite
+  text: What is a synonym for "guangzhou"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Uca" is a synonym for "genus uca".
+    value: genus Uca
+  - correct: false
+    detail: Incorrect, "chevaux-de-frise:noun" is not a synonym for "genus uca".
+    value: chevaux-de-frise:noun
+  - correct: false
+    detail: Incorrect, "billfish:noun" is not a synonym for "genus uca".
+    value: billfish:noun
+  - correct: false
+    detail: Incorrect, "roach:noun" is not a synonym for "genus uca".
+    value: roach:noun
+  text: What is a synonym for "genus uca"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Fred Astaire" is a synonym for "fred astaire".
+    value: Fred Astaire
+  - correct: false
+    detail: Incorrect, "senate:noun" is not a synonym for "fred astaire".
+    value: senate:noun
+  - correct: false
+    detail: Incorrect, "vitreous humor:noun" is not a synonym for "fred astaire".
+    value: vitreous humor:noun
+  - correct: false
+    detail: Incorrect, "cannonball along:verb" is not a synonym for "fred astaire".
+    value: cannonball along:verb
+  text: What is a synonym for "fred astaire"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "assembly" is a synonym for "forum".
+    value: assembly
+  - correct: false
+    detail: Incorrect, "vernix caseosa:noun" is not a synonym for "forum".
+    value: vernix caseosa:noun
+  - correct: false
+    detail: Incorrect, "quicklime:noun" is not a synonym for "forum".
+    value: quicklime:noun
+  - correct: false
+    detail: Incorrect, "sensorial:adjective" is not a synonym for "forum".
+    value: sensorial:adjective
+  text: What is a synonym for "forum"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Wolstonian glaciation" is a synonym for "wolstonian glaciation".
+    value: Wolstonian glaciation
+  - correct: false
+    detail: Incorrect, "lemaireocereus chichipe:noun" is not a synonym for "wolstonian
+      glaciation".
+    value: lemaireocereus chichipe:noun
+  - correct: false
+    detail: Incorrect, "labor:verb" is not a synonym for "wolstonian glaciation".
+    value: labor:verb
+  - correct: false
+    detail: Incorrect, "millay:noun" is not a synonym for "wolstonian glaciation".
+    value: millay:noun
+  text: What is a synonym for "wolstonian glaciation"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Enlightenment" is a synonym for "age of reason".
+    value: Age of Reason
+  - correct: false
+    detail: Incorrect, "hugo de vries:noun" is not a synonym for "age of reason".
+    value: hugo de vries:noun
+  - correct: false
+    detail: Incorrect, "net:noun" is not a synonym for "age of reason".
+    value: net:noun
+  - correct: false
+    detail: Incorrect, "amphioxus:noun" is not a synonym for "age of reason".
+    value: amphioxus:noun
+  text: What is a synonym for "age of reason"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Scorpio the Scorpion" is a synonym for "scorpio the scorpion".
+    value: Scorpio
+  - correct: false
+    detail: Incorrect, "stannic sulfide:noun" is not a synonym for "scorpio the scorpion".
+    value: stannic sulfide:noun
+  - correct: false
+    detail: Incorrect, "beak:verb" is not a synonym for "scorpio the scorpion".
+    value: beak:verb
+  - correct: false
+    detail: Incorrect, "paleacrita vernata:noun" is not a synonym for "scorpio the
+      scorpion".
+    value: paleacrita vernata:noun
+  text: What is a synonym for "scorpio the scorpion"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Boehmenism" is a synonym for "behmenism".
+    value: Boehmenism
+  - correct: false
+    detail: Incorrect, "hard-shell clam:noun" is not a synonym for "behmenism".
+    value: hard-shell clam:noun
+  - correct: false
+    detail: Incorrect, "genus mayaca:noun" is not a synonym for "behmenism".
+    value: genus mayaca:noun
+  - correct: false
+    detail: Incorrect, "genus vaccinium:noun" is not a synonym for "behmenism".
+    value: genus vaccinium:noun
+  text: What is a synonym for "behmenism"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "chicle" is a synonym for "chicle gum".
+    value: chicle
+  - correct: false
+    detail: Incorrect, "ancient greek:noun" is not a synonym for "chicle gum".
+    value: ancient greek:noun
+  - correct: false
+    detail: Incorrect, "hylocichla:noun" is not a synonym for "chicle gum".
+    value: hylocichla:noun
+  - correct: false
+    detail: Incorrect, "theist:adjective" is not a synonym for "chicle gum".
+    value: theist:adjective
+  text: What is a synonym for "chicle gum"?

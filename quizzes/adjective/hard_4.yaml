@@ -1,0 +1,302 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "tied" is a synonym for "laced".
+    value: tied
+  - correct: false
+    detail: Incorrect, "sam goldwyn:noun" is not a synonym for "laced".
+    value: sam goldwyn:noun
+  - correct: false
+    detail: Incorrect, "grovelling:verb" is not a synonym for "laced".
+    value: grovelling:verb
+  - correct: false
+    detail: Incorrect, "slack water:noun" is not a synonym for "laced".
+    value: slack water:noun
+  text: What is a synonym for "laced"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "commemorative" is a synonym for "commemorating".
+    value: commemorative
+  - correct: false
+    detail: Incorrect, "bacchant:noun" is not a synonym for "commemorating".
+    value: bacchant:noun
+  - correct: false
+    detail: Incorrect, "even:noun" is not a synonym for "commemorating".
+    value: even:noun
+  - correct: false
+    detail: Incorrect, "all important:satellite" is not a synonym for "commemorating".
+    value: all important:satellite
+  text: What is a synonym for "commemorating"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "revolutionary" is a synonym for "rotatory".
+    value: revolutionary
+  - correct: false
+    detail: Incorrect, "eleven:satellite" is not a synonym for "rotatory".
+    value: eleven:satellite
+  - correct: false
+    detail: Incorrect, "opinion poll:noun" is not a synonym for "rotatory".
+    value: opinion poll:noun
+  - correct: false
+    detail: Incorrect, "zoologist:noun" is not a synonym for "rotatory".
+    value: zoologist:noun
+  text: What is a synonym for "rotatory"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hypodermic" is a synonym for "subcutaneous".
+    value: hypodermic
+  - correct: false
+    detail: Incorrect, "immobilizing:verb" is not a synonym for "subcutaneous".
+    value: immobilizing:verb
+  - correct: false
+    detail: Incorrect, "sao francisco:noun" is not a synonym for "subcutaneous".
+    value: sao francisco:noun
+  - correct: false
+    detail: Incorrect, "gregory goodwin pincus:noun" is not a synonym for "subcutaneous".
+    value: gregory goodwin pincus:noun
+  text: What is a synonym for "subcutaneous"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unequal" is a synonym for "inadequate".
+    value: unequal
+  - correct: false
+    detail: Incorrect, "squirrel away:verb" is not a synonym for "inadequate".
+    value: squirrel away:verb
+  - correct: false
+    detail: Incorrect, "harbor porpoise:noun" is not a synonym for "inadequate".
+    value: harbor porpoise:noun
+  - correct: false
+    detail: Incorrect, "corticospinal tract:noun" is not a synonym for "inadequate".
+    value: corticospinal tract:noun
+  text: What is a synonym for "inadequate"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "mystical|mystical" is a synonym for "mystic".
+    value: mystical|mystical
+  - correct: false
+    detail: Incorrect, "expressage:noun" is not a synonym for "mystic".
+    value: expressage:noun
+  - correct: false
+    detail: Incorrect, "count alessandro di cagliostro:noun" is not a synonym for
+      "mystic".
+    value: count alessandro di cagliostro:noun
+  - correct: false
+    detail: Incorrect, "pontos:noun" is not a synonym for "mystic".
+    value: pontos:noun
+  text: What is a synonym for "mystic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "black-and-white" is a synonym for "black and white".
+    value: black-and-white
+  - correct: false
+    detail: Incorrect, "butea monosperma:noun" is not a synonym for "black and white".
+    value: butea monosperma:noun
+  - correct: false
+    detail: Incorrect, "retailer:noun" is not a synonym for "black and white".
+    value: retailer:noun
+  - correct: false
+    detail: Incorrect, "tone system:noun" is not a synonym for "black and white".
+    value: tone system:noun
+  text: What is a synonym for "black and white"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "adductive" is a synonym for "adducent".
+    value: adducting
+  - correct: false
+    detail: Incorrect, "purely:adverb" is not a synonym for "adducent".
+    value: purely:adverb
+  - correct: false
+    detail: Incorrect, "a. e. kennelly:noun" is not a synonym for "adducent".
+    value: a. e. kennelly:noun
+  - correct: false
+    detail: Incorrect, "sterilized:verb" is not a synonym for "adducent".
+    value: sterilized:verb
+  text: What is a synonym for "adducent"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "obtrusive" is a synonym for "noticeable".
+    value: obtrusive
+  - correct: false
+    detail: Incorrect, "satinwood:noun" is not a synonym for "noticeable".
+    value: satinwood:noun
+  - correct: false
+    detail: Incorrect, "pivot man:noun" is not a synonym for "noticeable".
+    value: pivot man:noun
+  - correct: false
+    detail: Incorrect, "socialising:verb" is not a synonym for "noticeable".
+    value: socialising:verb
+  text: What is a synonym for "noticeable"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "enteral" is a synonym for "intestinal".
+    value: enteric
+  - correct: false
+    detail: Incorrect, "sulfacetamide:noun" is not a synonym for "intestinal".
+    value: sulfacetamide:noun
+  - correct: false
+    detail: Incorrect, "rotor shaft:noun" is not a synonym for "intestinal".
+    value: rotor shaft:noun
+  - correct: false
+    detail: Incorrect, "common cockscomb:noun" is not a synonym for "intestinal".
+    value: common cockscomb:noun
+  text: What is a synonym for "intestinal"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "cupric" is a synonym for "cuprous".
+    value: cupric
+  - correct: false
+    detail: Incorrect, "edward macdowell:noun" is not a synonym for "cuprous".
+    value: edward macdowell:noun
+  - correct: false
+    detail: Incorrect, "sissy:noun" is not a synonym for "cuprous".
+    value: sissy:noun
+  - correct: false
+    detail: Incorrect, "regal:satellite" is not a synonym for "cuprous".
+    value: regal:satellite
+  text: What is a synonym for "cuprous"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "pompous" is a synonym for "ceremonious".
+    value: pompous
+  - correct: false
+    detail: Incorrect, "sarah kemble siddons:noun" is not a synonym for "ceremonious".
+    value: sarah kemble siddons:noun
+  - correct: false
+    detail: Incorrect, "steve reich:noun" is not a synonym for "ceremonious".
+    value: steve reich:noun
+  - correct: false
+    detail: Incorrect, "strikingness:noun" is not a synonym for "ceremonious".
+    value: strikingness:noun
+  text: What is a synonym for "ceremonious"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "alphabetical|alphabetical" is a synonym for "alphabetic".
+    value: alphabetical|alphabetical
+  - correct: false
+    detail: Incorrect, "pusan:noun" is not a synonym for "alphabetic".
+    value: pusan:noun
+  - correct: false
+    detail: Incorrect, "boatman:noun" is not a synonym for "alphabetic".
+    value: boatman:noun
+  - correct: false
+    detail: Incorrect, "house decorator:noun" is not a synonym for "alphabetic".
+    value: house decorator:noun
+  text: What is a synonym for "alphabetic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "dietetic" is a synonym for "dietetical".
+    value: dietetic
+  - correct: false
+    detail: Incorrect, "french pastry:noun" is not a synonym for "dietetical".
+    value: french pastry:noun
+  - correct: false
+    detail: Incorrect, "artist's model:noun" is not a synonym for "dietetical".
+    value: artist's model:noun
+  - correct: false
+    detail: Incorrect, "philippic:noun" is not a synonym for "dietetical".
+    value: philippic:noun
+  text: What is a synonym for "dietetical"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "congenerous" is a synonym for "congenerical".
+    value: congenerous
+  - correct: false
+    detail: Incorrect, "apostate:noun" is not a synonym for "congenerical".
+    value: apostate:noun
+  - correct: false
+    detail: Incorrect, "leptorrhine:adjective" is not a synonym for "congenerical".
+    value: leptorrhine:adjective
+  - correct: false
+    detail: Incorrect, "force majeure:noun" is not a synonym for "congenerical".
+    value: force majeure:noun
+  text: What is a synonym for "congenerical"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "indeterminate" is a synonym for "undetermined".
+    value: indeterminate
+  - correct: false
+    detail: Incorrect, "purple-staining cortinarius:noun" is not a synonym for "undetermined".
+    value: purple-staining cortinarius:noun
+  - correct: false
+    detail: Incorrect, "frame up:verb" is not a synonym for "undetermined".
+    value: frame up:verb
+  - correct: false
+    detail: Incorrect, "genus roystonea:noun" is not a synonym for "undetermined".
+    value: genus roystonea:noun
+  text: What is a synonym for "undetermined"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "evitable" is a synonym for "avertable".
+    value: avoidable
+  - correct: false
+    detail: Incorrect, "junker:noun" is not a synonym for "avertable".
+    value: junker:noun
+  - correct: false
+    detail: Incorrect, "garb:verb" is not a synonym for "avertable".
+    value: garb:verb
+  - correct: false
+    detail: Incorrect, "repressing:verb" is not a synonym for "avertable".
+    value: repressing:verb
+  text: What is a synonym for "avertable"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Aristotelic" is a synonym for "aristotelean".
+    value: Aristotelean
+  - correct: false
+    detail: Incorrect, "international waters:noun" is not a synonym for "aristotelean".
+    value: international waters:noun
+  - correct: false
+    detail: Incorrect, "inciter:noun" is not a synonym for "aristotelean".
+    value: inciter:noun
+  - correct: false
+    detail: Incorrect, "36th:satellite" is not a synonym for "aristotelean".
+    value: 36th:satellite
+  text: What is a synonym for "aristotelean"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Kafkaesque" is a synonym for "kafkaesque".
+    value: Kafkaesque
+  - correct: false
+    detail: Incorrect, "agriculture secretary:noun" is not a synonym for "kafkaesque".
+    value: agriculture secretary:noun
+  - correct: false
+    detail: Incorrect, "tegu:noun" is not a synonym for "kafkaesque".
+    value: tegu:noun
+  - correct: false
+    detail: Incorrect, "invariableness:noun" is not a synonym for "kafkaesque".
+    value: invariableness:noun
+  text: What is a synonym for "kafkaesque"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "armoured|armoured" is a synonym for "armored".
+    value: armoured|armoured
+  - correct: false
+    detail: Incorrect, "alcohol thermometer:noun" is not a synonym for "armored".
+    value: alcohol thermometer:noun
+  - correct: false
+    detail: Incorrect, "oxalis pes-caprae:noun" is not a synonym for "armored".
+    value: oxalis pes-caprae:noun
+  - correct: false
+    detail: Incorrect, "galeorhinus zyopterus:noun" is not a synonym for "armored".
+    value: galeorhinus zyopterus:noun
+  text: What is a synonym for "armored"?

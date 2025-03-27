@@ -1,0 +1,303 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "modernize" is a synonym for "modernise".
+    value: develop|overhaul
+  - correct: false
+    detail: Incorrect, "genus halimodendron:noun" is not a synonym for "modernise".
+    value: genus halimodendron:noun
+  - correct: false
+    detail: Incorrect, "bull-snake:noun" is not a synonym for "modernise".
+    value: bull-snake:noun
+  - correct: false
+    detail: Incorrect, "galled:verb" is not a synonym for "modernise".
+    value: galled:verb
+  text: What is a synonym for "modernise"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "urbanise|urbanise" is a synonym for "urbanize".
+    value: urbanise|urbanise
+  - correct: false
+    detail: Incorrect, "perch:noun" is not a synonym for "urbanize".
+    value: perch:noun
+  - correct: false
+    detail: Incorrect, "revelation of saint john the divine:noun" is not a synonym
+      for "urbanize".
+    value: revelation of saint john the divine:noun
+  - correct: false
+    detail: Incorrect, "intercostal:noun" is not a synonym for "urbanize".
+    value: intercostal:noun
+  text: What is a synonym for "urbanize"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "retake|retake" is a synonym for "recapture".
+    value: retake|retake
+  - correct: false
+    detail: Incorrect, "water bug:noun" is not a synonym for "recapture".
+    value: water bug:noun
+  - correct: false
+    detail: Incorrect, "wayfarer:noun" is not a synonym for "recapture".
+    value: wayfarer:noun
+  - correct: false
+    detail: Incorrect, "federal democratic republic of ethiopia:noun" is not a synonym
+      for "recapture".
+    value: federal democratic republic of ethiopia:noun
+  text: What is a synonym for "recapture"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "burrow" is a synonym for "tunnel".
+    value: burrow
+  - correct: false
+    detail: Incorrect, "nance:noun" is not a synonym for "tunnel".
+    value: nance:noun
+  - correct: false
+    detail: Incorrect, "hypoplastic anaemia:noun" is not a synonym for "tunnel".
+    value: hypoplastic anaemia:noun
+  - correct: false
+    detail: Incorrect, "lawrencium:noun" is not a synonym for "tunnel".
+    value: lawrencium:noun
+  text: What is a synonym for "tunnel"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "bewitch" is a synonym for "mesmerise".
+    value: magnetise
+  - correct: false
+    detail: Incorrect, "equipped:satellite" is not a synonym for "mesmerise".
+    value: equipped:satellite
+  - correct: false
+    detail: Incorrect, "pongamia:noun" is not a synonym for "mesmerise".
+    value: pongamia:noun
+  - correct: false
+    detail: Incorrect, "surgical:adjective" is not a synonym for "mesmerise".
+    value: surgical:adjective
+  text: What is a synonym for "mesmerise"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "break short" is a synonym for "cut short".
+    value: break off|truncate|clip
+  - correct: false
+    detail: Incorrect, "rpa-abb:noun" is not a synonym for "cut short".
+    value: rpa-abb:noun
+  - correct: false
+    detail: Incorrect, "toilet-trained:verb" is not a synonym for "cut short".
+    value: toilet-trained:verb
+  - correct: false
+    detail: Incorrect, "cockspur hawthorn:noun" is not a synonym for "cut short".
+    value: cockspur hawthorn:noun
+  text: What is a synonym for "cut short"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hemagglutinate" is a synonym for "haemagglutinate".
+    value: hemagglutinate
+  - correct: false
+    detail: Incorrect, "satiated:verb" is not a synonym for "haemagglutinate".
+    value: satiated:verb
+  - correct: false
+    detail: Incorrect, "adipose tissue:noun" is not a synonym for "haemagglutinate".
+    value: adipose tissue:noun
+  - correct: false
+    detail: Incorrect, "faker:noun" is not a synonym for "haemagglutinate".
+    value: faker:noun
+  text: What is a synonym for "haemagglutinate"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "reclaim|take back" is a synonym for "repossess".
+    value: reclaim|take back
+  - correct: false
+    detail: Incorrect, "aranea diademata:noun" is not a synonym for "repossess".
+    value: aranea diademata:noun
+  - correct: false
+    detail: Incorrect, "drug cocktail:noun" is not a synonym for "repossess".
+    value: drug cocktail:noun
+  - correct: false
+    detail: Incorrect, "antic:verb" is not a synonym for "repossess".
+    value: antic:verb
+  text: What is a synonym for "repossess"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "spit" is a synonym for "skewer".
+    value: spit
+  - correct: false
+    detail: Incorrect, "aster tripolium:noun" is not a synonym for "skewer".
+    value: aster tripolium:noun
+  - correct: false
+    detail: Incorrect, "bern:noun" is not a synonym for "skewer".
+    value: bern:noun
+  - correct: false
+    detail: Incorrect, "monochromatic:adjective" is not a synonym for "skewer".
+    value: monochromatic:adjective
+  text: What is a synonym for "skewer"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "splinter|splinter" is a synonym for "splintering".
+    value: secede
+  - correct: false
+    detail: Incorrect, "participation financing:noun" is not a synonym for "splintering".
+    value: participation financing:noun
+  - correct: false
+    detail: Incorrect, "byblos:noun" is not a synonym for "splintering".
+    value: byblos:noun
+  - correct: false
+    detail: Incorrect, "genus lonas:noun" is not a synonym for "splintering".
+    value: genus lonas:noun
+  text: What is a synonym for "splintering"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "decolourise" is a synonym for "discolourise".
+    value: discolorise
+  - correct: false
+    detail: Incorrect, "peristedion:noun" is not a synonym for "discolourise".
+    value: peristedion:noun
+  - correct: false
+    detail: Incorrect, "electra complex:noun" is not a synonym for "discolourise".
+    value: electra complex:noun
+  - correct: false
+    detail: Incorrect, "cst:noun" is not a synonym for "discolourise".
+    value: cst:noun
+  text: What is a synonym for "discolourise"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "grapple" is a synonym for "grappling".
+    value: make do
+  - correct: false
+    detail: Incorrect, "amino plastic:noun" is not a synonym for "grappling".
+    value: amino plastic:noun
+  - correct: false
+    detail: Incorrect, "eamon de valera:noun" is not a synonym for "grappling".
+    value: eamon de valera:noun
+  - correct: false
+    detail: Incorrect, "even a little:adverb" is not a synonym for "grappling".
+    value: even a little:adverb
+  text: What is a synonym for "grappling"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "slick" is a synonym for "sleek".
+    value: slick
+  - correct: false
+    detail: Incorrect, "obliterate:verb" is not a synonym for "sleek".
+    value: obliterate:verb
+  - correct: false
+    detail: Incorrect, "white bryony:noun" is not a synonym for "sleek".
+    value: white bryony:noun
+  - correct: false
+    detail: Incorrect, "flodden:noun" is not a synonym for "sleek".
+    value: flodden:noun
+  text: What is a synonym for "sleek"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "force out" is a synonym for "terminate".
+    value: give the axe
+  - correct: false
+    detail: Incorrect, "barrel organ:noun" is not a synonym for "terminate".
+    value: barrel organ:noun
+  - correct: false
+    detail: Incorrect, "anxious:satellite" is not a synonym for "terminate".
+    value: anxious:satellite
+  - correct: false
+    detail: Incorrect, "passage:noun" is not a synonym for "terminate".
+    value: passage:noun
+  text: What is a synonym for "terminate"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "scratch along" is a synonym for "rub along".
+    value: squeeze by
+  - correct: false
+    detail: Incorrect, "cephalopod:noun" is not a synonym for "rub along".
+    value: cephalopod:noun
+  - correct: false
+    detail: Incorrect, "carousing:verb" is not a synonym for "rub along".
+    value: carousing:verb
+  - correct: false
+    detail: Incorrect, "liquefied petroleum gas:noun" is not a synonym for "rub along".
+    value: liquefied petroleum gas:noun
+  text: What is a synonym for "rub along"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "intoxicate|uplift|uplift" is a synonym for "uplifting".
+    value: lift up
+  - correct: false
+    detail: Incorrect, "white-haired:satellite" is not a synonym for "uplifting".
+    value: white-haired:satellite
+  - correct: false
+    detail: Incorrect, "epicanthic fold:noun" is not a synonym for "uplifting".
+    value: epicanthic fold:noun
+  - correct: false
+    detail: Incorrect, "indicant:noun" is not a synonym for "uplifting".
+    value: indicant:noun
+  text: What is a synonym for "uplifting"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "pack" is a synonym for "tamp down".
+    value: pack
+  - correct: false
+    detail: Incorrect, "gangboard:noun" is not a synonym for "tamp down".
+    value: gangboard:noun
+  - correct: false
+    detail: Incorrect, "decoration:noun" is not a synonym for "tamp down".
+    value: decoration:noun
+  - correct: false
+    detail: Incorrect, "jassidae:noun" is not a synonym for "tamp down".
+    value: jassidae:noun
+  text: What is a synonym for "tamp down"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "calculate|report" is a synonym for "accounting".
+    value: answer for
+  - correct: false
+    detail: Incorrect, "north carolinian:noun" is not a synonym for "accounting".
+    value: north carolinian:noun
+  - correct: false
+    detail: Incorrect, "hallowmas:noun" is not a synonym for "accounting".
+    value: hallowmas:noun
+  - correct: false
+    detail: Incorrect, "ocean perch:noun" is not a synonym for "accounting".
+    value: ocean perch:noun
+  text: What is a synonym for "accounting"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "clean house|cleanse|strip|scavenge" is a synonym for "clean".
+    value: clean house|cleanse|strip|scavenge
+  - correct: false
+    detail: Incorrect, "whole name:noun" is not a synonym for "clean".
+    value: whole name:noun
+  - correct: false
+    detail: Incorrect, "avenue:noun" is not a synonym for "clean".
+    value: avenue:noun
+  - correct: false
+    detail: Incorrect, "pole vaulting:noun" is not a synonym for "clean".
+    value: pole vaulting:noun
+  text: What is a synonym for "clean"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "dress down" is a synonym for "underdress".
+    value: dress down
+  - correct: false
+    detail: Incorrect, "covenant:noun" is not a synonym for "underdress".
+    value: covenant:noun
+  - correct: false
+    detail: Incorrect, "sooner:adverb" is not a synonym for "underdress".
+    value: sooner:adverb
+  - correct: false
+    detail: Incorrect, "jose julian marti:noun" is not a synonym for "underdress".
+    value: jose julian marti:noun
+  text: What is a synonym for "underdress"?

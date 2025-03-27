@@ -1,0 +1,301 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "dysgenic" is a synonym for "cacogenic".
+    value: dysgenic
+  - correct: false
+    detail: Incorrect, "agile:satellite" is not a synonym for "cacogenic".
+    value: agile:satellite
+  - correct: false
+    detail: Incorrect, "electric discharge:noun" is not a synonym for "cacogenic".
+    value: electric discharge:noun
+  - correct: false
+    detail: Incorrect, "mahogany tree:noun" is not a synonym for "cacogenic".
+    value: mahogany tree:noun
+  text: What is a synonym for "cacogenic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unregretting" is a synonym for "unregretful".
+    value: unregretting
+  - correct: false
+    detail: Incorrect, "kookie:satellite" is not a synonym for "unregretful".
+    value: kookie:satellite
+  - correct: false
+    detail: Incorrect, "saddled-shaped false morel:noun" is not a synonym for "unregretful".
+    value: saddled-shaped false morel:noun
+  - correct: false
+    detail: Incorrect, "recovering:verb" is not a synonym for "unregretful".
+    value: recovering:verb
+  text: What is a synonym for "unregretful"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Panamanian" is a synonym for "panamanian".
+    value: Panamanian
+  - correct: false
+    detail: Incorrect, "barbara hepworth:noun" is not a synonym for "panamanian".
+    value: barbara hepworth:noun
+  - correct: false
+    detail: Incorrect, "blowback:noun" is not a synonym for "panamanian".
+    value: blowback:noun
+  - correct: false
+    detail: Incorrect, "ceftin:noun" is not a synonym for "panamanian".
+    value: ceftin:noun
+  text: What is a synonym for "panamanian"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "ethnographical" is a synonym for "ethnographic".
+    value: ethnographical
+  - correct: false
+    detail: Incorrect, "lilium candidum:noun" is not a synonym for "ethnographic".
+    value: lilium candidum:noun
+  - correct: false
+    detail: Incorrect, "good old days:noun" is not a synonym for "ethnographic".
+    value: good old days:noun
+  - correct: false
+    detail: Incorrect, "lordotic:satellite" is not a synonym for "ethnographic".
+    value: lordotic:satellite
+  text: What is a synonym for "ethnographic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Columbian" is a synonym for "columbian".
+    value: Columbian
+  - correct: false
+    detail: Incorrect, "un agency:noun" is not a synonym for "columbian".
+    value: un agency:noun
+  - correct: false
+    detail: Incorrect, "daily:satellite" is not a synonym for "columbian".
+    value: daily:satellite
+  - correct: false
+    detail: Incorrect, "rough-and-tumble:satellite" is not a synonym for "columbian".
+    value: rough-and-tumble:satellite
+  text: What is a synonym for "columbian"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "antediluvial" is a synonym for "antediluvian".
+    value: antediluvial
+  - correct: false
+    detail: Incorrect, "family thraupidae:noun" is not a synonym for "antediluvian".
+    value: family thraupidae:noun
+  - correct: false
+    detail: Incorrect, "turkish bath:noun" is not a synonym for "antediluvian".
+    value: turkish bath:noun
+  - correct: false
+    detail: Incorrect, "scots:adjective" is not a synonym for "antediluvian".
+    value: scots:adjective
+  text: What is a synonym for "antediluvian"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "axiomatical" is a synonym for "postulational".
+    value: axiomatical
+  - correct: false
+    detail: Incorrect, "booster dose:noun" is not a synonym for "postulational".
+    value: booster dose:noun
+  - correct: false
+    detail: Incorrect, "ensuing:verb" is not a synonym for "postulational".
+    value: ensuing:verb
+  - correct: false
+    detail: Incorrect, "scomberomorus sierra:noun" is not a synonym for "postulational".
+    value: scomberomorus sierra:noun
+  text: What is a synonym for "postulational"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "parasitic" is a synonym for "parasitical".
+    value: parasitic
+  - correct: false
+    detail: Incorrect, "eastern fox squirrel:noun" is not a synonym for "parasitical".
+    value: eastern fox squirrel:noun
+  - correct: false
+    detail: Incorrect, "diophantus:noun" is not a synonym for "parasitical".
+    value: diophantus:noun
+  - correct: false
+    detail: Incorrect, "disaffected:satellite" is not a synonym for "parasitical".
+    value: disaffected:satellite
+  text: What is a synonym for "parasitical"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "redemptory" is a synonym for "redemptive".
+    value: redemptional
+  - correct: false
+    detail: Incorrect, "ridgeling:noun" is not a synonym for "redemptive".
+    value: ridgeling:noun
+  - correct: false
+    detail: Incorrect, "funrun:noun" is not a synonym for "redemptive".
+    value: funrun:noun
+  - correct: false
+    detail: Incorrect, "argynnis:noun" is not a synonym for "redemptive".
+    value: argynnis:noun
+  text: What is a synonym for "redemptive"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "allelomorphic" is a synonym for "allelic".
+    value: allelomorphic
+  - correct: false
+    detail: Incorrect, "diapsid reptile:noun" is not a synonym for "allelic".
+    value: diapsid reptile:noun
+  - correct: false
+    detail: Incorrect, "saint joan:noun" is not a synonym for "allelic".
+    value: saint joan:noun
+  - correct: false
+    detail: Incorrect, "fifty dollar bill:noun" is not a synonym for "allelic".
+    value: fifty dollar bill:noun
+  text: What is a synonym for "allelic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Danish" is a synonym for "danish".
+    value: Danish
+  - correct: false
+    detail: Incorrect, "deserts:verb" is not a synonym for "danish".
+    value: deserts:verb
+  - correct: false
+    detail: Incorrect, "campanula divaricata:noun" is not a synonym for "danish".
+    value: campanula divaricata:noun
+  - correct: false
+    detail: Incorrect, "south korean:noun" is not a synonym for "danish".
+    value: south korean:noun
+  text: What is a synonym for "danish"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "aware" is a synonym for "cognizant".
+    value: cognisant
+  - correct: false
+    detail: Incorrect, "sandy:satellite" is not a synonym for "cognizant".
+    value: sandy:satellite
+  - correct: false
+    detail: Incorrect, "harvest mite:noun" is not a synonym for "cognizant".
+    value: harvest mite:noun
+  - correct: false
+    detail: Incorrect, "bleep:noun" is not a synonym for "cognizant".
+    value: bleep:noun
+  text: What is a synonym for "cognizant"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "achromatic" is a synonym for "neutral".
+    value: achromatic
+  - correct: false
+    detail: Incorrect, "roth:noun" is not a synonym for "neutral".
+    value: roth:noun
+  - correct: false
+    detail: Incorrect, "mosquito hawk:noun" is not a synonym for "neutral".
+    value: mosquito hawk:noun
+  - correct: false
+    detail: Incorrect, "dari persian:noun" is not a synonym for "neutral".
+    value: dari persian:noun
+  text: What is a synonym for "neutral"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "cheap" is a synonym for "inexpensive".
+    value: cheap
+  - correct: false
+    detail: Incorrect, "paraquet:noun" is not a synonym for "inexpensive".
+    value: paraquet:noun
+  - correct: false
+    detail: Incorrect, "sea robber:noun" is not a synonym for "inexpensive".
+    value: sea robber:noun
+  - correct: false
+    detail: Incorrect, "haircare:noun" is not a synonym for "inexpensive".
+    value: haircare:noun
+  text: What is a synonym for "inexpensive"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "kinaesthetic" is a synonym for "kinesthetic".
+    value: kinaesthetic
+  - correct: false
+    detail: Incorrect, "towage:noun" is not a synonym for "kinesthetic".
+    value: towage:noun
+  - correct: false
+    detail: Incorrect, "sou'easter:noun" is not a synonym for "kinesthetic".
+    value: sou'easter:noun
+  - correct: false
+    detail: Incorrect, "ictus:noun" is not a synonym for "kinesthetic".
+    value: ictus:noun
+  text: What is a synonym for "kinesthetic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "discalceate|unshoed" is a synonym for "unshod".
+    value: discalced
+  - correct: false
+    detail: Incorrect, "business organisation:noun" is not a synonym for "unshod".
+    value: business organisation:noun
+  - correct: false
+    detail: Incorrect, "braille:noun" is not a synonym for "unshod".
+    value: braille:noun
+  - correct: false
+    detail: Incorrect, "anadenanthera colubrina:noun" is not a synonym for "unshod".
+    value: anadenanthera colubrina:noun
+  text: What is a synonym for "unshod"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "immaterial" is a synonym for "incorporeal".
+    value: immaterial
+  - correct: false
+    detail: Incorrect, "hockey:noun" is not a synonym for "incorporeal".
+    value: hockey:noun
+  - correct: false
+    detail: Incorrect, "jacksonia:noun" is not a synonym for "incorporeal".
+    value: jacksonia:noun
+  - correct: false
+    detail: Incorrect, "morchella conica:noun" is not a synonym for "incorporeal".
+    value: morchella conica:noun
+  text: What is a synonym for "incorporeal"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unwooded" is a synonym for "treeless".
+    value: unwooded
+  - correct: false
+    detail: Incorrect, "arrest:verb" is not a synonym for "treeless".
+    value: arrest:verb
+  - correct: false
+    detail: Incorrect, "iron mould:noun" is not a synonym for "treeless".
+    value: iron mould:noun
+  - correct: false
+    detail: Incorrect, "satyric:adjective" is not a synonym for "treeless".
+    value: satyric:adjective
+  text: What is a synonym for "treeless"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unsaleable" is a synonym for "unsalable".
+    value: unsaleable
+  - correct: false
+    detail: Incorrect, "einstein:noun" is not a synonym for "unsalable".
+    value: einstein:noun
+  - correct: false
+    detail: Incorrect, "boyle:noun" is not a synonym for "unsalable".
+    value: boyle:noun
+  - correct: false
+    detail: Incorrect, "tenderizer:noun" is not a synonym for "unsalable".
+    value: tenderizer:noun
+  text: What is a synonym for "unsalable"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "uncut" is a synonym for "untrimmed".
+    value: uncut
+  - correct: false
+    detail: Incorrect, "clumber:noun" is not a synonym for "untrimmed".
+    value: clumber:noun
+  - correct: false
+    detail: Incorrect, "seedcase:noun" is not a synonym for "untrimmed".
+    value: seedcase:noun
+  - correct: false
+    detail: Incorrect, "unacceptableness:noun" is not a synonym for "untrimmed".
+    value: unacceptableness:noun
+  text: What is a synonym for "untrimmed"?

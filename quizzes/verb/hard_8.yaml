@@ -1,0 +1,302 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "maintain|wield" is a synonym for "maintained".
+    value: maintain|observe
+  - correct: false
+    detail: Incorrect, "sun-worship:noun" is not a synonym for "maintained".
+    value: sun-worship:noun
+  - correct: false
+    detail: Incorrect, "scout troop:noun" is not a synonym for "maintained".
+    value: scout troop:noun
+  - correct: false
+    detail: Incorrect, "advancement:noun" is not a synonym for "maintained".
+    value: advancement:noun
+  text: What is a synonym for "maintained"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "dislocate" is a synonym for "dislocated".
+    value: splay
+  - correct: false
+    detail: Incorrect, "dialogue:noun" is not a synonym for "dislocated".
+    value: dialogue:noun
+  - correct: false
+    detail: Incorrect, "antimony potassium tartrate:noun" is not a synonym for "dislocated".
+    value: antimony potassium tartrate:noun
+  - correct: false
+    detail: Incorrect, "scleroparei:noun" is not a synonym for "dislocated".
+    value: scleroparei:noun
+  text: What is a synonym for "dislocated"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "blame" is a synonym for "fault".
+    value: blame
+  - correct: false
+    detail: Incorrect, "genus regnellidium:noun" is not a synonym for "fault".
+    value: genus regnellidium:noun
+  - correct: false
+    detail: Incorrect, "encoding:verb" is not a synonym for "fault".
+    value: encoding:verb
+  - correct: false
+    detail: Incorrect, "tetchiness:noun" is not a synonym for "fault".
+    value: tetchiness:noun
+  text: What is a synonym for "fault"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "outweigh" is a synonym for "preponderating".
+    value: overbalance
+  - correct: false
+    detail: Incorrect, "semen:noun" is not a synonym for "preponderating".
+    value: semen:noun
+  - correct: false
+    detail: Incorrect, "painted turtle:noun" is not a synonym for "preponderating".
+    value: painted turtle:noun
+  - correct: false
+    detail: Incorrect, "genus parietaria:noun" is not a synonym for "preponderating".
+    value: genus parietaria:noun
+  text: What is a synonym for "preponderating"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "grow over" is a synonym for "overgrow".
+    value: grow over
+  - correct: false
+    detail: Incorrect, "manhattan clam chowder:noun" is not a synonym for "overgrow".
+    value: manhattan clam chowder:noun
+  - correct: false
+    detail: Incorrect, "run dry:verb" is not a synonym for "overgrow".
+    value: run dry:verb
+  - correct: false
+    detail: Incorrect, "holly family:noun" is not a synonym for "overgrow".
+    value: holly family:noun
+  text: What is a synonym for "overgrow"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "flow off" is a synonym for "flow away".
+    value: flow off
+  - correct: false
+    detail: Incorrect, "spring beauty:noun" is not a synonym for "flow away".
+    value: spring beauty:noun
+  - correct: false
+    detail: Incorrect, "jacques derrida:noun" is not a synonym for "flow away".
+    value: jacques derrida:noun
+  - correct: false
+    detail: Incorrect, "ingrate:noun" is not a synonym for "flow away".
+    value: ingrate:noun
+  text: What is a synonym for "flow away"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "create by mental act" is a synonym for "create mentally".
+    value: create by mental act
+  - correct: false
+    detail: Incorrect, "yugoslavian:adjective" is not a synonym for "create mentally".
+    value: yugoslavian:adjective
+  - correct: false
+    detail: Incorrect, "familiar spirit:noun" is not a synonym for "create mentally".
+    value: familiar spirit:noun
+  - correct: false
+    detail: Incorrect, "hero of alexandria:noun" is not a synonym for "create mentally".
+    value: hero of alexandria:noun
+  text: What is a synonym for "create mentally"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "dislodge" is a synonym for "reposition".
+    value: dislodge
+  - correct: false
+    detail: Incorrect, "cornell:noun" is not a synonym for "reposition".
+    value: cornell:noun
+  - correct: false
+    detail: Incorrect, "causa:noun" is not a synonym for "reposition".
+    value: causa:noun
+  - correct: false
+    detail: Incorrect, "rockery:noun" is not a synonym for "reposition".
+    value: rockery:noun
+  text: What is a synonym for "reposition"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "lessen" is a synonym for "diminished".
+    value: fall|diminish
+  - correct: false
+    detail: Incorrect, "unmelodious:adjective" is not a synonym for "diminished".
+    value: unmelodious:adjective
+  - correct: false
+    detail: Incorrect, "skeleton in the closet:noun" is not a synonym for "diminished".
+    value: skeleton in the closet:noun
+  - correct: false
+    detail: Incorrect, "fifth:noun" is not a synonym for "diminished".
+    value: fifth:noun
+  text: What is a synonym for "diminished"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "joy" is a synonym for "gladden".
+    value: joy
+  - correct: false
+    detail: Incorrect, "hospitalization insurance:noun" is not a synonym for "gladden".
+    value: hospitalization insurance:noun
+  - correct: false
+    detail: Incorrect, "jerusalem cricket:noun" is not a synonym for "gladden".
+    value: jerusalem cricket:noun
+  - correct: false
+    detail: Incorrect, "muttonhead:noun" is not a synonym for "gladden".
+    value: muttonhead:noun
+  text: What is a synonym for "gladden"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "deter" is a synonym for "dissuade".
+    value: deter
+  - correct: false
+    detail: Incorrect, "commoner:noun" is not a synonym for "dissuade".
+    value: commoner:noun
+  - correct: false
+    detail: Incorrect, "australian:adjective" is not a synonym for "dissuade".
+    value: australian:adjective
+  - correct: false
+    detail: Incorrect, "dts:noun" is not a synonym for "dissuade".
+    value: dts:noun
+  text: What is a synonym for "dissuade"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "pooch" is a synonym for "pooch out".
+    value: pooch
+  - correct: false
+    detail: Incorrect, "immortal:noun" is not a synonym for "pooch out".
+    value: immortal:noun
+  - correct: false
+    detail: Incorrect, "doctor of dental medicine:noun" is not a synonym for "pooch
+      out".
+    value: doctor of dental medicine:noun
+  - correct: false
+    detail: Incorrect, "tyndall:noun" is not a synonym for "pooch out".
+    value: tyndall:noun
+  text: What is a synonym for "pooch out"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "abide by" is a synonym for "comply".
+    value: follow
+  - correct: false
+    detail: Incorrect, "bolshevist:noun" is not a synonym for "comply".
+    value: bolshevist:noun
+  - correct: false
+    detail: Incorrect, "whole note:noun" is not a synonym for "comply".
+    value: whole note:noun
+  - correct: false
+    detail: Incorrect, "gutierrezia sarothrae:noun" is not a synonym for "comply".
+    value: gutierrezia sarothrae:noun
+  text: What is a synonym for "comply"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "sensitise" is a synonym for "sensitising".
+    value: sensibilise
+  - correct: false
+    detail: Incorrect, "offer:noun" is not a synonym for "sensitising".
+    value: offer:noun
+  - correct: false
+    detail: Incorrect, "disquieting:verb" is not a synonym for "sensitising".
+    value: disquieting:verb
+  - correct: false
+    detail: Incorrect, "trimurti:noun" is not a synonym for "sensitising".
+    value: trimurti:noun
+  text: What is a synonym for "sensitising"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "buttonhole" is a synonym for "lobby".
+    value: buttonhole
+  - correct: false
+    detail: Incorrect, "fluorescein:noun" is not a synonym for "lobby".
+    value: fluorescein:noun
+  - correct: false
+    detail: Incorrect, "canticles:noun" is not a synonym for "lobby".
+    value: canticles:noun
+  - correct: false
+    detail: Incorrect, "adapin:noun" is not a synonym for "lobby".
+    value: adapin:noun
+  text: What is a synonym for "lobby"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "drain" is a synonym for "enfeeble".
+    value: debilitate
+  - correct: false
+    detail: Incorrect, "amortise:verb" is not a synonym for "enfeeble".
+    value: amortise:verb
+  - correct: false
+    detail: Incorrect, "fluorescent:noun" is not a synonym for "enfeeble".
+    value: fluorescent:noun
+  - correct: false
+    detail: Incorrect, "genus taenia:noun" is not a synonym for "enfeeble".
+    value: genus taenia:noun
+  text: What is a synonym for "enfeeble"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "lick" is a synonym for "figure out".
+    value: work
+  - correct: false
+    detail: Incorrect, "zingiberaceae:noun" is not a synonym for "figure out".
+    value: zingiberaceae:noun
+  - correct: false
+    detail: Incorrect, "attach to:verb" is not a synonym for "figure out".
+    value: attach to:verb
+  - correct: false
+    detail: Incorrect, "genus aspidistra:noun" is not a synonym for "figure out".
+    value: genus aspidistra:noun
+  text: What is a synonym for "figure out"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "surface-mine" is a synonym for "surface mine".
+    value: strip mine
+  - correct: false
+    detail: Incorrect, "causing:verb" is not a synonym for "surface mine".
+    value: causing:verb
+  - correct: false
+    detail: Incorrect, "ecumenic:satellite" is not a synonym for "surface mine".
+    value: ecumenic:satellite
+  - correct: false
+    detail: Incorrect, "nobody:noun" is not a synonym for "surface mine".
+    value: nobody:noun
+  text: What is a synonym for "surface mine"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "barbarise|barbarise" is a synonym for "barbarize".
+    value: barbarise|barbarise
+  - correct: false
+    detail: Incorrect, "sexual perversion:noun" is not a synonym for "barbarize".
+    value: sexual perversion:noun
+  - correct: false
+    detail: Incorrect, "lungen:noun" is not a synonym for "barbarize".
+    value: lungen:noun
+  - correct: false
+    detail: Incorrect, "yugoslavia:noun" is not a synonym for "barbarize".
+    value: yugoslavia:noun
+  text: What is a synonym for "barbarize"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "recall" is a synonym for "hark back".
+    value: come back
+  - correct: false
+    detail: Incorrect, "nevus:noun" is not a synonym for "hark back".
+    value: nevus:noun
+  - correct: false
+    detail: Incorrect, "venus:noun" is not a synonym for "hark back".
+    value: venus:noun
+  - correct: false
+    detail: Incorrect, "menippe mercenaria:noun" is not a synonym for "hark back".
+    value: menippe mercenaria:noun
+  text: What is a synonym for "hark back"?

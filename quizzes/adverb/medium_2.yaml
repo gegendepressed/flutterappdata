@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "so" is a synonym for "then".
+    value: so
+  - correct: false
+    detail: Incorrect, "ylang-ylang:noun" is not a synonym for "then".
+    value: ylang-ylang:noun
+  - correct: false
+    detail: Incorrect, "crotalaria:noun" is not a synonym for "then".
+    value: crotalaria:noun
+  - correct: false
+    detail: Incorrect, "wicked:satellite" is not a synonym for "then".
+    value: wicked:satellite
+  text: What is a synonym for "then"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "videlicet" is a synonym for "to wit".
+    value: viz.
+  - correct: false
+    detail: Incorrect, "linked:verb" is not a synonym for "to wit".
+    value: linked:verb
+  - correct: false
+    detail: Incorrect, "markoff chain:noun" is not a synonym for "to wit".
+    value: markoff chain:noun
+  - correct: false
+    detail: Incorrect, "voltarian:adjective" is not a synonym for "to wit".
+    value: voltarian:adjective
+  text: What is a synonym for "to wit"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "terribly" is a synonym for "rottenly".
+    value: abysmally
+  - correct: false
+    detail: Incorrect, "habenaria dilatata:noun" is not a synonym for "rottenly".
+    value: habenaria dilatata:noun
+  - correct: false
+    detail: Incorrect, "edward winslow:noun" is not a synonym for "rottenly".
+    value: edward winslow:noun
+  - correct: false
+    detail: Incorrect, "matchmaker:noun" is not a synonym for "rottenly".
+    value: matchmaker:noun
+  text: What is a synonym for "rottenly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "jolly" is a synonym for "pretty".
+    value: middling
+  - correct: false
+    detail: Incorrect, "sedative:noun" is not a synonym for "pretty".
+    value: sedative:noun
+  - correct: false
+    detail: Incorrect, "dissemination:noun" is not a synonym for "pretty".
+    value: dissemination:noun
+  - correct: false
+    detail: Incorrect, "cephalopterus ornatus:noun" is not a synonym for "pretty".
+    value: cephalopterus ornatus:noun
+  text: What is a synonym for "pretty"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "frequently" is a synonym for "ofttimes".
+    value: oftentimes
+  - correct: false
+    detail: Incorrect, "rete:noun" is not a synonym for "ofttimes".
+    value: rete:noun
+  - correct: false
+    detail: Incorrect, "souvlaki:noun" is not a synonym for "ofttimes".
+    value: souvlaki:noun
+  - correct: false
+    detail: Incorrect, "hardbound:satellite" is not a synonym for "ofttimes".
+    value: hardbound:satellite
+  text: What is a synonym for "ofttimes"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "O.K." is a synonym for "okay".
+    value: all right
+  - correct: false
+    detail: Incorrect, "merestone:noun" is not a synonym for "okay".
+    value: merestone:noun
+  - correct: false
+    detail: Incorrect, "richard wright:noun" is not a synonym for "okay".
+    value: richard wright:noun
+  - correct: false
+    detail: Incorrect, "teeny-weeny:satellite" is not a synonym for "okay".
+    value: teeny-weeny:satellite
+  text: What is a synonym for "okay"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "apace" is a synonym for "rapidly".
+    value: speedily
+  - correct: false
+    detail: Incorrect, "pendulous:satellite" is not a synonym for "rapidly".
+    value: pendulous:satellite
+  - correct: false
+    detail: Incorrect, "genus tripleurospermum:noun" is not a synonym for "rapidly".
+    value: genus tripleurospermum:noun
+  - correct: false
+    detail: Incorrect, "exchequer:noun" is not a synonym for "rapidly".
+    value: exchequer:noun
+  text: What is a synonym for "rapidly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "up" is a synonym for "upwards".
+    value: up
+  - correct: false
+    detail: Incorrect, "missy:noun" is not a synonym for "upwards".
+    value: missy:noun
+  - correct: false
+    detail: Incorrect, "alcoholic:satellite" is not a synonym for "upwards".
+    value: alcoholic:satellite
+  - correct: false
+    detail: Incorrect, "family oxalidaceae:noun" is not a synonym for "upwards".
+    value: family oxalidaceae:noun
+  text: What is a synonym for "upwards"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "bitterly" is a synonym for "bitingly".
+    value: piercingly
+  - correct: false
+    detail: Incorrect, "united methodist church:noun" is not a synonym for "bitingly".
+    value: united methodist church:noun
+  - correct: false
+    detail: Incorrect, "argus-eyed:satellite" is not a synonym for "bitingly".
+    value: argus-eyed:satellite
+  - correct: false
+    detail: Incorrect, "west indian smallpox:noun" is not a synonym for "bitingly".
+    value: west indian smallpox:noun
+  text: What is a synonym for "bitingly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "for each one" is a synonym for "each".
+    value: apiece
+  - correct: false
+    detail: Incorrect, "ablism:noun" is not a synonym for "each".
+    value: ablism:noun
+  - correct: false
+    detail: Incorrect, "hippotragus:noun" is not a synonym for "each".
+    value: hippotragus:noun
+  - correct: false
+    detail: Incorrect, "tetracycline:noun" is not a synonym for "each".
+    value: tetracycline:noun
+  text: What is a synonym for "each"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "cussedly" is a synonym for "mulishly".
+    value: obstinately
+  - correct: false
+    detail: Incorrect, "anchor:verb" is not a synonym for "mulishly".
+    value: anchor:verb
+  - correct: false
+    detail: Incorrect, "zoological garden:noun" is not a synonym for "mulishly".
+    value: zoological garden:noun
+  - correct: false
+    detail: Incorrect, "bluethroat pikeblenny:noun" is not a synonym for "mulishly".
+    value: bluethroat pikeblenny:noun
+  text: What is a synonym for "mulishly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "in brief" is a synonym for "briefly".
+    value: in short
+  - correct: false
+    detail: Incorrect, "night:noun" is not a synonym for "briefly".
+    value: night:noun
+  - correct: false
+    detail: Incorrect, "flaviviridae:noun" is not a synonym for "briefly".
+    value: flaviviridae:noun
+  - correct: false
+    detail: Incorrect, "circuit board:noun" is not a synonym for "briefly".
+    value: circuit board:noun
+  text: What is a synonym for "briefly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "suddenly" is a synonym for "abruptly".
+    value: dead
+  - correct: false
+    detail: Incorrect, "peppercorn:noun" is not a synonym for "abruptly".
+    value: peppercorn:noun
+  - correct: false
+    detail: Incorrect, "self-important:satellite" is not a synonym for "abruptly".
+    value: self-important:satellite
+  - correct: false
+    detail: Incorrect, "sipuncula:noun" is not a synonym for "abruptly".
+    value: sipuncula:noun
+  text: What is a synonym for "abruptly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "backwards" is a synonym for "back".
+    value: rearwards|backward
+  - correct: false
+    detail: Incorrect, "real ira:noun" is not a synonym for "back".
+    value: real ira:noun
+  - correct: false
+    detail: Incorrect, "afp:noun" is not a synonym for "back".
+    value: afp:noun
+  - correct: false
+    detail: Incorrect, "multi-coloured:satellite" is not a synonym for "back".
+    value: multi-coloured:satellite
+  text: What is a synonym for "back"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "a lot" is a synonym for "much".
+    value: a great deal
+  - correct: false
+    detail: Incorrect, "botany bay fig:noun" is not a synonym for "much".
+    value: botany bay fig:noun
+  - correct: false
+    detail: Incorrect, "disembodied:verb" is not a synonym for "much".
+    value: disembodied:verb
+  - correct: false
+    detail: Incorrect, "sextuple:satellite" is not a synonym for "much".
+    value: sextuple:satellite
+  text: What is a synonym for "much"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "at random" is a synonym for "randomly".
+    value: willy-nilly
+  - correct: false
+    detail: Incorrect, "bank:noun" is not a synonym for "randomly".
+    value: bank:noun
+  - correct: false
+    detail: Incorrect, "uropsilus:noun" is not a synonym for "randomly".
+    value: uropsilus:noun
+  - correct: false
+    detail: Incorrect, "genus mastodon:noun" is not a synonym for "randomly".
+    value: genus mastodon:noun
+  text: What is a synonym for "randomly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "right" is a synonym for "mighty".
+    value: right
+  - correct: false
+    detail: Incorrect, "shockley:noun" is not a synonym for "mighty".
+    value: shockley:noun
+  - correct: false
+    detail: Incorrect, "wooing:noun" is not a synonym for "mighty".
+    value: wooing:noun
+  - correct: false
+    detail: Incorrect, "american redstart:noun" is not a synonym for "mighty".
+    value: american redstart:noun
+  text: What is a synonym for "mighty"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "possibly" is a synonym for "maybe".
+    value: perchance
+  - correct: false
+    detail: Incorrect, "patras:noun" is not a synonym for "maybe".
+    value: patras:noun
+  - correct: false
+    detail: Incorrect, "haematemesis:noun" is not a synonym for "maybe".
+    value: haematemesis:noun
+  - correct: false
+    detail: Incorrect, "bluethroat:noun" is not a synonym for "maybe".
+    value: bluethroat:noun
+  text: What is a synonym for "maybe"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fresh" is a synonym for "new".
+    value: fresh
+  - correct: false
+    detail: Incorrect, "misanthropic:satellite" is not a synonym for "new".
+    value: misanthropic:satellite
+  - correct: false
+    detail: Incorrect, "chicory escarole:noun" is not a synonym for "new".
+    value: chicory escarole:noun
+  - correct: false
+    detail: Incorrect, "joseph eggleston johnston:noun" is not a synonym for "new".
+    value: joseph eggleston johnston:noun
+  text: What is a synonym for "new"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "unwaveringly|securely|hard" is a synonym for "firmly".
+    value: unwaveringly|securely|hard
+  - correct: false
+    detail: Incorrect, "misconduct:noun" is not a synonym for "firmly".
+    value: misconduct:noun
+  - correct: false
+    detail: Incorrect, "cavitied:satellite" is not a synonym for "firmly".
+    value: cavitied:satellite
+  - correct: false
+    detail: Incorrect, "wilt:verb" is not a synonym for "firmly".
+    value: wilt:verb
+  text: What is a synonym for "firmly"?

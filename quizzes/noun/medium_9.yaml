@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "excavator" is a synonym for "digger".
+    value: excavator
+  - correct: false
+    detail: Incorrect, "deary:noun" is not a synonym for "digger".
+    value: deary:noun
+  - correct: false
+    detail: Incorrect, "cereal grass:noun" is not a synonym for "digger".
+    value: cereal grass:noun
+  - correct: false
+    detail: Incorrect, "bird's eye view:noun" is not a synonym for "digger".
+    value: bird's eye view:noun
+  text: What is a synonym for "digger"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "bear's ear" is a synonym for "auricula".
+    value: bear's ear
+  - correct: false
+    detail: Incorrect, "europol:noun" is not a synonym for "auricula".
+    value: europol:noun
+  - correct: false
+    detail: Incorrect, "northeaster:noun" is not a synonym for "auricula".
+    value: northeaster:noun
+  - correct: false
+    detail: Incorrect, "periodontic:adjective" is not a synonym for "auricula".
+    value: periodontic:adjective
+  text: What is a synonym for "auricula"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Flo Ziegfeld" is a synonym for "ziegfeld".
+    value: Ziegfeld
+  - correct: false
+    detail: Incorrect, "sasquatch:noun" is not a synonym for "ziegfeld".
+    value: sasquatch:noun
+  - correct: false
+    detail: Incorrect, "liquified:adjective" is not a synonym for "ziegfeld".
+    value: liquified:adjective
+  - correct: false
+    detail: Incorrect, "stocktaker:noun" is not a synonym for "ziegfeld".
+    value: stocktaker:noun
+  text: What is a synonym for "ziegfeld"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "tranquility" is a synonym for "quietude".
+    value: quietness
+  - correct: false
+    detail: Incorrect, "unarguable:satellite" is not a synonym for "quietude".
+    value: unarguable:satellite
+  - correct: false
+    detail: Incorrect, "muggy:satellite" is not a synonym for "quietude".
+    value: muggy:satellite
+  - correct: false
+    detail: Incorrect, "sweating:noun" is not a synonym for "quietude".
+    value: sweating:noun
+  text: What is a synonym for "quietude"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Bokmal" is a synonym for "bokmal".
+    value: Bokmal
+  - correct: false
+    detail: Incorrect, "stupa:noun" is not a synonym for "bokmal".
+    value: stupa:noun
+  - correct: false
+    detail: Incorrect, "enchantingly:adverb" is not a synonym for "bokmal".
+    value: enchantingly:adverb
+  - correct: false
+    detail: Incorrect, "falderol:noun" is not a synonym for "bokmal".
+    value: falderol:noun
+  text: What is a synonym for "bokmal"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "scintilla" is a synonym for "smidgeon".
+    value: smidgin
+  - correct: false
+    detail: Incorrect, "cypriniformes:noun" is not a synonym for "smidgeon".
+    value: cypriniformes:noun
+  - correct: false
+    detail: Incorrect, "delibes:noun" is not a synonym for "smidgeon".
+    value: delibes:noun
+  - correct: false
+    detail: Incorrect, "lease:noun" is not a synonym for "smidgeon".
+    value: lease:noun
+  text: What is a synonym for "smidgeon"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "all-day sucker" is a synonym for "sucker".
+    value: fool
+  - correct: false
+    detail: Incorrect, "nopalea:noun" is not a synonym for "sucker".
+    value: nopalea:noun
+  - correct: false
+    detail: Incorrect, "gastrolobium:noun" is not a synonym for "sucker".
+    value: gastrolobium:noun
+  - correct: false
+    detail: Incorrect, "bangor:noun" is not a synonym for "sucker".
+    value: bangor:noun
+  text: What is a synonym for "sucker"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "collaborator" is a synonym for "henchman".
+    value: partner in crime
+  - correct: false
+    detail: Incorrect, "heresy:noun" is not a synonym for "henchman".
+    value: heresy:noun
+  - correct: false
+    detail: Incorrect, "genus bloomeria:noun" is not a synonym for "henchman".
+    value: genus bloomeria:noun
+  - correct: false
+    detail: Incorrect, "bad hat:noun" is not a synonym for "henchman".
+    value: bad hat:noun
+  text: What is a synonym for "henchman"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "dustbin" is a synonym for "ash bin".
+    value: trash barrel
+  - correct: false
+    detail: Incorrect, "longsighted:satellite" is not a synonym for "ash bin".
+    value: longsighted:satellite
+  - correct: false
+    detail: Incorrect, "restructure:verb" is not a synonym for "ash bin".
+    value: restructure:verb
+  - correct: false
+    detail: Incorrect, "lazio:noun" is not a synonym for "ash bin".
+    value: lazio:noun
+  text: What is a synonym for "ash bin"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "marge" is a synonym for "oleo".
+    value: marge
+  - correct: false
+    detail: Incorrect, "augmentative:satellite" is not a synonym for "oleo".
+    value: augmentative:satellite
+  - correct: false
+    detail: Incorrect, "kuznets:noun" is not a synonym for "oleo".
+    value: kuznets:noun
+  - correct: false
+    detail: Incorrect, "clanging:verb" is not a synonym for "oleo".
+    value: clanging:verb
+  text: What is a synonym for "oleo"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Asimina triloba|pawpaw" is a synonym for "papaw".
+    value: pawpaw
+  - correct: false
+    detail: Incorrect, "prone:satellite" is not a synonym for "papaw".
+    value: prone:satellite
+  - correct: false
+    detail: Incorrect, "eyes:verb" is not a synonym for "papaw".
+    value: eyes:verb
+  - correct: false
+    detail: Incorrect, "fascinated:verb" is not a synonym for "papaw".
+    value: fascinated:verb
+  text: What is a synonym for "papaw"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "coil" is a synonym for "scroll".
+    value: curl
+  - correct: false
+    detail: Incorrect, "aculeate:adjective" is not a synonym for "scroll".
+    value: aculeate:adjective
+  - correct: false
+    detail: Incorrect, "notch:noun" is not a synonym for "scroll".
+    value: notch:noun
+  - correct: false
+    detail: Incorrect, "sphyrapicus varius ruber:noun" is not a synonym for "scroll".
+    value: sphyrapicus varius ruber:noun
+  text: What is a synonym for "scroll"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "line-shooter" is a synonym for "braggart".
+    value: line-shooter
+  - correct: false
+    detail: Incorrect, "variegated scouring rush:noun" is not a synonym for "braggart".
+    value: variegated scouring rush:noun
+  - correct: false
+    detail: Incorrect, "dash:noun" is not a synonym for "braggart".
+    value: dash:noun
+  - correct: false
+    detail: Incorrect, "grenoble:noun" is not a synonym for "braggart".
+    value: grenoble:noun
+  text: What is a synonym for "braggart"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "squealer" is a synonym for "hog".
+    value: Sus scrofa
+  - correct: false
+    detail: Incorrect, "iris persica:noun" is not a synonym for "hog".
+    value: iris persica:noun
+  - correct: false
+    detail: Incorrect, "15th:satellite" is not a synonym for "hog".
+    value: 15th:satellite
+  - correct: false
+    detail: Incorrect, "sledge:verb" is not a synonym for "hog".
+    value: sledge:verb
+  text: What is a synonym for "hog"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "CEO" is a synonym for "ceo".
+    value: CEO
+  - correct: false
+    detail: Incorrect, "smoke bush:noun" is not a synonym for "ceo".
+    value: smoke bush:noun
+  - correct: false
+    detail: Incorrect, "wooly:satellite" is not a synonym for "ceo".
+    value: wooly:satellite
+  - correct: false
+    detail: Incorrect, "grownup:satellite" is not a synonym for "ceo".
+    value: grownup:satellite
+  text: What is a synonym for "ceo"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Paddy" is a synonym for "paddy".
+    value: rice paddy
+  - correct: false
+    detail: Incorrect, "clasp knife:noun" is not a synonym for "paddy".
+    value: clasp knife:noun
+  - correct: false
+    detail: Incorrect, "vinblastine:noun" is not a synonym for "paddy".
+    value: vinblastine:noun
+  - correct: false
+    detail: Incorrect, "releasing factor:noun" is not a synonym for "paddy".
+    value: releasing factor:noun
+  text: What is a synonym for "paddy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "kink" is a synonym for "crick".
+    value: wrick|Crick
+  - correct: false
+    detail: Incorrect, "dissolving agent:noun" is not a synonym for "crick".
+    value: dissolving agent:noun
+  - correct: false
+    detail: Incorrect, "wad:verb" is not a synonym for "crick".
+    value: wad:verb
+  - correct: false
+    detail: Incorrect, "charles proteus steinmetz:noun" is not a synonym for "crick".
+    value: charles proteus steinmetz:noun
+  text: What is a synonym for "crick"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "hurry" is a synonym for "rushing".
+    value: rush|haste
+  - correct: false
+    detail: Incorrect, "unwearied:satellite" is not a synonym for "rushing".
+    value: unwearied:satellite
+  - correct: false
+    detail: Incorrect, "laius:noun" is not a synonym for "rushing".
+    value: laius:noun
+  - correct: false
+    detail: Incorrect, "methenamine:noun" is not a synonym for "rushing".
+    value: methenamine:noun
+  text: What is a synonym for "rushing"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "common scold" is a synonym for "scolder".
+    value: scold
+  - correct: false
+    detail: Incorrect, "waggle:noun" is not a synonym for "scolder".
+    value: waggle:noun
+  - correct: false
+    detail: Incorrect, "antonin dvorak:noun" is not a synonym for "scolder".
+    value: antonin dvorak:noun
+  - correct: false
+    detail: Incorrect, "quamoclit pennata:noun" is not a synonym for "scolder".
+    value: quamoclit pennata:noun
+  text: What is a synonym for "scolder"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "human chorionic gonadotropin" is a synonym for "hcg".
+    value: human chorionic gonadotropin
+  - correct: false
+    detail: Incorrect, "cecum:noun" is not a synonym for "hcg".
+    value: cecum:noun
+  - correct: false
+    detail: Incorrect, "genus templetonia:noun" is not a synonym for "hcg".
+    value: genus templetonia:noun
+  - correct: false
+    detail: Incorrect, "ottoman:noun" is not a synonym for "hcg".
+    value: ottoman:noun
+  text: What is a synonym for "hcg"?

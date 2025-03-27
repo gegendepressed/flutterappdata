@@ -1,0 +1,302 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "bouldery" is a synonym for "rocky".
+    value: bouldered
+  - correct: false
+    detail: Incorrect, "unbolted:satellite" is not a synonym for "rocky".
+    value: unbolted:satellite
+  - correct: false
+    detail: Incorrect, "leaf node:noun" is not a synonym for "rocky".
+    value: leaf node:noun
+  - correct: false
+    detail: Incorrect, "scripted:verb" is not a synonym for "rocky".
+    value: scripted:verb
+  text: What is a synonym for "rocky"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "moss-grown" is a synonym for "fogyish".
+    value: stodgy
+  - correct: false
+    detail: Incorrect, "vocational education:noun" is not a synonym for "fogyish".
+    value: vocational education:noun
+  - correct: false
+    detail: Incorrect, "rozelle:noun" is not a synonym for "fogyish".
+    value: rozelle:noun
+  - correct: false
+    detail: Incorrect, "glochidium:noun" is not a synonym for "fogyish".
+    value: glochidium:noun
+  text: What is a synonym for "fogyish"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "drunken" is a synonym for "sottish".
+    value: boozy
+  - correct: false
+    detail: Incorrect, "ward-heeler:noun" is not a synonym for "sottish".
+    value: ward-heeler:noun
+  - correct: false
+    detail: Incorrect, "alpine besseya:noun" is not a synonym for "sottish".
+    value: alpine besseya:noun
+  - correct: false
+    detail: Incorrect, "doppler effect:noun" is not a synonym for "sottish".
+    value: doppler effect:noun
+  text: What is a synonym for "sottish"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "toilsome" is a synonym for "grueling".
+    value: punishing
+  - correct: false
+    detail: Incorrect, "trump up:verb" is not a synonym for "grueling".
+    value: trump up:verb
+  - correct: false
+    detail: Incorrect, "trichoglossus:noun" is not a synonym for "grueling".
+    value: trichoglossus:noun
+  - correct: false
+    detail: Incorrect, "montia perfoliata:noun" is not a synonym for "grueling".
+    value: montia perfoliata:noun
+  text: What is a synonym for "grueling"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "plushy" is a synonym for "plush".
+    value: lush
+  - correct: false
+    detail: Incorrect, "boletus frostii:noun" is not a synonym for "plush".
+    value: boletus frostii:noun
+  - correct: false
+    detail: Incorrect, "forficulidae:noun" is not a synonym for "plush".
+    value: forficulidae:noun
+  - correct: false
+    detail: Incorrect, "spear carrier:noun" is not a synonym for "plush".
+    value: spear carrier:noun
+  text: What is a synonym for "plush"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "adored" is a synonym for "idolised".
+    value: adored
+  - correct: false
+    detail: Incorrect, "genus lambis:noun" is not a synonym for "idolised".
+    value: genus lambis:noun
+  - correct: false
+    detail: Incorrect, "celestial body:noun" is not a synonym for "idolised".
+    value: celestial body:noun
+  - correct: false
+    detail: Incorrect, "ceding:verb" is not a synonym for "idolised".
+    value: ceding:verb
+  text: What is a synonym for "idolised"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "glum" is a synonym for "sour".
+    value: rancid|off
+  - correct: false
+    detail: Incorrect, "cattle guard:noun" is not a synonym for "sour".
+    value: cattle guard:noun
+  - correct: false
+    detail: Incorrect, "scatty:satellite" is not a synonym for "sour".
+    value: scatty:satellite
+  - correct: false
+    detail: Incorrect, "leiden:noun" is not a synonym for "sour".
+    value: leiden:noun
+  text: What is a synonym for "sour"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "pokey|jerkwater" is a synonym for "poky".
+    value: one-horse
+  - correct: false
+    detail: Incorrect, "publius cornelius tacitus:noun" is not a synonym for "poky".
+    value: publius cornelius tacitus:noun
+  - correct: false
+    detail: Incorrect, "bengal bean:noun" is not a synonym for "poky".
+    value: bengal bean:noun
+  - correct: false
+    detail: Incorrect, "graphic:noun" is not a synonym for "poky".
+    value: graphic:noun
+  text: What is a synonym for "poky"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "plain" is a synonym for "evident".
+    value: observable
+  - correct: false
+    detail: Incorrect, "doorstop:noun" is not a synonym for "evident".
+    value: doorstop:noun
+  - correct: false
+    detail: Incorrect, "capital of pakistan:noun" is not a synonym for "evident".
+    value: capital of pakistan:noun
+  - correct: false
+    detail: Incorrect, "musical harmony:noun" is not a synonym for "evident".
+    value: musical harmony:noun
+  text: What is a synonym for "evident"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "steamed" is a synonym for "nettled".
+    value: steamed
+  - correct: false
+    detail: Incorrect, "quadruped:adjective" is not a synonym for "nettled".
+    value: quadruped:adjective
+  - correct: false
+    detail: Incorrect, "bankbook:noun" is not a synonym for "nettled".
+    value: bankbook:noun
+  - correct: false
+    detail: Incorrect, "creese:noun" is not a synonym for "nettled".
+    value: creese:noun
+  text: What is a synonym for "nettled"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fictitious" is a synonym for "put on".
+    value: fictive
+  - correct: false
+    detail: Incorrect, "in your birthday suit:satellite" is not a synonym for "put
+      on".
+    value: in your birthday suit:satellite
+  - correct: false
+    detail: Incorrect, "splinter:verb" is not a synonym for "put on".
+    value: splinter:verb
+  - correct: false
+    detail: Incorrect, "meditate:verb" is not a synonym for "put on".
+    value: meditate:verb
+  text: What is a synonym for "put on"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "slipshod" is a synonym for "slapdash".
+    value: haphazard
+  - correct: false
+    detail: Incorrect, "melanotis caerulescens:noun" is not a synonym for "slapdash".
+    value: melanotis caerulescens:noun
+  - correct: false
+    detail: Incorrect, "brainpan:noun" is not a synonym for "slapdash".
+    value: brainpan:noun
+  - correct: false
+    detail: Incorrect, "derisory:satellite" is not a synonym for "slapdash".
+    value: derisory:satellite
+  text: What is a synonym for "slapdash"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "diametric" is a synonym for "opposite".
+    value: polar
+  - correct: false
+    detail: Incorrect, "prolixness:noun" is not a synonym for "opposite".
+    value: prolixness:noun
+  - correct: false
+    detail: Incorrect, "hitting average:noun" is not a synonym for "opposite".
+    value: hitting average:noun
+  - correct: false
+    detail: Incorrect, "acanthopterygian:noun" is not a synonym for "opposite".
+    value: acanthopterygian:noun
+  text: What is a synonym for "opposite"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "silvern|silver" is a synonym for "silvery".
+    value: silvern|argent
+  - correct: false
+    detail: Incorrect, "tidal flow:noun" is not a synonym for "silvery".
+    value: tidal flow:noun
+  - correct: false
+    detail: Incorrect, "room:verb" is not a synonym for "silvery".
+    value: room:verb
+  - correct: false
+    detail: Incorrect, "deltoid:noun" is not a synonym for "silvery".
+    value: deltoid:noun
+  text: What is a synonym for "silvery"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "profligate" is a synonym for "degraded".
+    value: dissolute
+  - correct: false
+    detail: Incorrect, "genus herrerasaurus:noun" is not a synonym for "degraded".
+    value: genus herrerasaurus:noun
+  - correct: false
+    detail: Incorrect, "new flower:noun" is not a synonym for "degraded".
+    value: new flower:noun
+  - correct: false
+    detail: Incorrect, "hypophysis:noun" is not a synonym for "degraded".
+    value: hypophysis:noun
+  text: What is a synonym for "degraded"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "bountiful" is a synonym for "liberal".
+    value: tolerant|big
+  - correct: false
+    detail: Incorrect, "zalophus lobatus:noun" is not a synonym for "liberal".
+    value: zalophus lobatus:noun
+  - correct: false
+    detail: Incorrect, "dalmatian pyrethrum:noun" is not a synonym for "liberal".
+    value: dalmatian pyrethrum:noun
+  - correct: false
+    detail: Incorrect, "baccharis pilularis:noun" is not a synonym for "liberal".
+    value: baccharis pilularis:noun
+  text: What is a synonym for "liberal"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "unwashed|coarse" is a synonym for "commoner".
+    value: mutual|common
+  - correct: false
+    detail: Incorrect, "scrub up:verb" is not a synonym for "commoner".
+    value: scrub up:verb
+  - correct: false
+    detail: Incorrect, "lonicera dioica:noun" is not a synonym for "commoner".
+    value: lonicera dioica:noun
+  - correct: false
+    detail: Incorrect, "optimise:verb" is not a synonym for "commoner".
+    value: optimise:verb
+  text: What is a synonym for "commoner"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "weakly" is a synonym for "infirm".
+    value: decrepit
+  - correct: false
+    detail: Incorrect, "non-ionic detergent:noun" is not a synonym for "infirm".
+    value: non-ionic detergent:noun
+  - correct: false
+    detail: Incorrect, "iodized:adjective" is not a synonym for "infirm".
+    value: iodized:adjective
+  - correct: false
+    detail: Incorrect, "legal assistant:noun" is not a synonym for "infirm".
+    value: legal assistant:noun
+  text: What is a synonym for "infirm"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "muddy" is a synonym for "murky".
+    value: muddy
+  - correct: false
+    detail: Incorrect, "pelt:noun" is not a synonym for "murky".
+    value: pelt:noun
+  - correct: false
+    detail: Incorrect, "two-piece suit:noun" is not a synonym for "murky".
+    value: two-piece suit:noun
+  - correct: false
+    detail: Incorrect, "genus ceratostomella:noun" is not a synonym for "murky".
+    value: genus ceratostomella:noun
+  text: What is a synonym for "murky"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "in question" is a synonym for "dubious".
+    value: dubitable
+  - correct: false
+    detail: Incorrect, "alfresco:adverb" is not a synonym for "dubious".
+    value: alfresco:adverb
+  - correct: false
+    detail: Incorrect, "tenderised:satellite" is not a synonym for "dubious".
+    value: tenderised:satellite
+  - correct: false
+    detail: Incorrect, "syrian arab republic:noun" is not a synonym for "dubious".
+    value: syrian arab republic:noun
+  text: What is a synonym for "dubious"?

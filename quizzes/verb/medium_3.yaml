@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "get" is a synonym for "incur".
+    value: get
+  - correct: false
+    detail: Incorrect, "kegel exercises:noun" is not a synonym for "incur".
+    value: kegel exercises:noun
+  - correct: false
+    detail: Incorrect, "train:verb" is not a synonym for "incur".
+    value: train:verb
+  - correct: false
+    detail: Incorrect, "hypericum virginianum:noun" is not a synonym for "incur".
+    value: hypericum virginianum:noun
+  text: What is a synonym for "incur"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "separate" is a synonym for "branch".
+    value: fork
+  - correct: false
+    detail: Incorrect, "social intercourse:noun" is not a synonym for "branch".
+    value: social intercourse:noun
+  - correct: false
+    detail: Incorrect, "ungoverned:satellite" is not a synonym for "branch".
+    value: ungoverned:satellite
+  - correct: false
+    detail: Incorrect, "quechuan language:noun" is not a synonym for "branch".
+    value: quechuan language:noun
+  text: What is a synonym for "branch"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "speak" is a synonym for "mouth".
+    value: verbalise
+  - correct: false
+    detail: Incorrect, "smoked:verb" is not a synonym for "mouth".
+    value: smoked:verb
+  - correct: false
+    detail: Incorrect, "abductor:noun" is not a synonym for "mouth".
+    value: abductor:noun
+  - correct: false
+    detail: Incorrect, "subclass branchiopoda:noun" is not a synonym for "mouth".
+    value: subclass branchiopoda:noun
+  text: What is a synonym for "mouth"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "give care|wish" is a synonym for "care".
+    value: like|manage
+  - correct: false
+    detail: Incorrect, "canadian river:noun" is not a synonym for "care".
+    value: canadian river:noun
+  - correct: false
+    detail: Incorrect, "pyrrophyta:noun" is not a synonym for "care".
+    value: pyrrophyta:noun
+  - correct: false
+    detail: Incorrect, "announced:satellite" is not a synonym for "care".
+    value: announced:satellite
+  text: What is a synonym for "care"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "press" is a synonym for "entreat".
+    value: conjure
+  - correct: false
+    detail: Incorrect, "dalbergia stevensonii:noun" is not a synonym for "entreat".
+    value: dalbergia stevensonii:noun
+  - correct: false
+    detail: Incorrect, "endwise:adverb" is not a synonym for "entreat".
+    value: endwise:adverb
+  - correct: false
+    detail: Incorrect, "black-stemmed spleenwort:noun" is not a synonym for "entreat".
+    value: black-stemmed spleenwort:noun
+  text: What is a synonym for "entreat"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "sleep together" is a synonym for "eff".
+    value: lie with
+  - correct: false
+    detail: Incorrect, "brethren:noun" is not a synonym for "eff".
+    value: brethren:noun
+  - correct: false
+    detail: Incorrect, "overseas:adverb" is not a synonym for "eff".
+    value: overseas:adverb
+  - correct: false
+    detail: Incorrect, "mytilus:noun" is not a synonym for "eff".
+    value: mytilus:noun
+  text: What is a synonym for "eff"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "look upon" is a synonym for "repute".
+    value: esteem
+  - correct: false
+    detail: Incorrect, "towel rack:noun" is not a synonym for "repute".
+    value: towel rack:noun
+  - correct: false
+    detail: Incorrect, "butt on:verb" is not a synonym for "repute".
+    value: butt on:verb
+  - correct: false
+    detail: Incorrect, "ecclesiastes:noun" is not a synonym for "repute".
+    value: ecclesiastes:noun
+  text: What is a synonym for "repute"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "down|round" is a synonym for "polish".
+    value: round off
+  - correct: false
+    detail: Incorrect, "european water ouzel:noun" is not a synonym for "polish".
+    value: european water ouzel:noun
+  - correct: false
+    detail: Incorrect, "william bligh:noun" is not a synonym for "polish".
+    value: william bligh:noun
+  - correct: false
+    detail: Incorrect, "suborder lacertilia:noun" is not a synonym for "polish".
+    value: suborder lacertilia:noun
+  text: What is a synonym for "polish"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "forgo" is a synonym for "predate".
+    value: forego
+  - correct: false
+    detail: Incorrect, "genus alopius:noun" is not a synonym for "predate".
+    value: genus alopius:noun
+  - correct: false
+    detail: Incorrect, "sweat suit:noun" is not a synonym for "predate".
+    value: sweat suit:noun
+  - correct: false
+    detail: Incorrect, "titillating:satellite" is not a synonym for "predate".
+    value: titillating:satellite
+  text: What is a synonym for "predate"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "gleam" is a synonym for "glisten".
+    value: glint
+  - correct: false
+    detail: Incorrect, "mad:satellite" is not a synonym for "glisten".
+    value: mad:satellite
+  - correct: false
+    detail: Incorrect, "perspire:verb" is not a synonym for "glisten".
+    value: perspire:verb
+  - correct: false
+    detail: Incorrect, "splenic:adjective" is not a synonym for "glisten".
+    value: splenic:adjective
+  text: What is a synonym for "glisten"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "embellish" is a synonym for "prettify".
+    value: fancify
+  - correct: false
+    detail: Incorrect, "euphemize:verb" is not a synonym for "prettify".
+    value: euphemize:verb
+  - correct: false
+    detail: Incorrect, "al tawhid:noun" is not a synonym for "prettify".
+    value: al tawhid:noun
+  - correct: false
+    detail: Incorrect, "brain:noun" is not a synonym for "prettify".
+    value: brain:noun
+  text: What is a synonym for "prettify"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "assault" is a synonym for "snipe".
+    value: assault
+  - correct: false
+    detail: Incorrect, "millenarian:noun" is not a synonym for "snipe".
+    value: millenarian:noun
+  - correct: false
+    detail: Incorrect, "genus lambis:noun" is not a synonym for "snipe".
+    value: genus lambis:noun
+  - correct: false
+    detail: Incorrect, "blackcap raspberry:noun" is not a synonym for "snipe".
+    value: blackcap raspberry:noun
+  text: What is a synonym for "snipe"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "plane|skim over|scan" is a synonym for "skim".
+    value: cream off
+  - correct: false
+    detail: Incorrect, "innominate vein:noun" is not a synonym for "skim".
+    value: innominate vein:noun
+  - correct: false
+    detail: Incorrect, "make full:verb" is not a synonym for "skim".
+    value: make full:verb
+  - correct: false
+    detail: Incorrect, "barn spider:noun" is not a synonym for "skim".
+    value: barn spider:noun
+  text: What is a synonym for "skim"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "oil|anoint" is a synonym for "oiled".
+    value: embrocate
+  - correct: false
+    detail: Incorrect, "musical theme:noun" is not a synonym for "oiled".
+    value: musical theme:noun
+  - correct: false
+    detail: Incorrect, "green woodpecker:noun" is not a synonym for "oiled".
+    value: green woodpecker:noun
+  - correct: false
+    detail: Incorrect, "sculptured:satellite" is not a synonym for "oiled".
+    value: sculptured:satellite
+  text: What is a synonym for "oiled"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "beat" is a synonym for "quiver".
+    value: palpitate|flicker
+  - correct: false
+    detail: Incorrect, "vii:satellite" is not a synonym for "quiver".
+    value: vii:satellite
+  - correct: false
+    detail: Incorrect, "stp:noun" is not a synonym for "quiver".
+    value: stp:noun
+  - correct: false
+    detail: Incorrect, "malaxis:noun" is not a synonym for "quiver".
+    value: malaxis:noun
+  text: What is a synonym for "quiver"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "snivel|squeak" is a synonym for "whine".
+    value: yammer
+  - correct: false
+    detail: Incorrect, "bilaterality:noun" is not a synonym for "whine".
+    value: bilaterality:noun
+  - correct: false
+    detail: Incorrect, "genus agelaius:noun" is not a synonym for "whine".
+    value: genus agelaius:noun
+  - correct: false
+    detail: Incorrect, "harm:noun" is not a synonym for "whine".
+    value: harm:noun
+  text: What is a synonym for "whine"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "maculate" is a synonym for "foul".
+    value: choke off
+  - correct: false
+    detail: Incorrect, "comanche:noun" is not a synonym for "foul".
+    value: comanche:noun
+  - correct: false
+    detail: Incorrect, "isolating:verb" is not a synonym for "foul".
+    value: isolating:verb
+  - correct: false
+    detail: Incorrect, "yelping:noun" is not a synonym for "foul".
+    value: yelping:noun
+  text: What is a synonym for "foul"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "cover" is a synonym for "incubate".
+    value: cover
+  - correct: false
+    detail: Incorrect, "actinic ray:noun" is not a synonym for "incubate".
+    value: actinic ray:noun
+  - correct: false
+    detail: Incorrect, "hairsbreadth:noun" is not a synonym for "incubate".
+    value: hairsbreadth:noun
+  - correct: false
+    detail: Incorrect, "in vogue:satellite" is not a synonym for "incubate".
+    value: in vogue:satellite
+  text: What is a synonym for "incubate"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rally|mobilise|mobilise" is a synonym for "mobilize".
+    value: circulate
+  - correct: false
+    detail: Incorrect, "mellow:verb" is not a synonym for "mobilize".
+    value: mellow:verb
+  - correct: false
+    detail: Incorrect, "licenced:satellite" is not a synonym for "mobilize".
+    value: licenced:satellite
+  - correct: false
+    detail: Incorrect, "cirripede:noun" is not a synonym for "mobilize".
+    value: cirripede:noun
+  text: What is a synonym for "mobilize"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "make" is a synonym for "pee-pee".
+    value: take a leak
+  - correct: false
+    detail: Incorrect, "amazed:satellite" is not a synonym for "pee-pee".
+    value: amazed:satellite
+  - correct: false
+    detail: Incorrect, "half-slip:noun" is not a synonym for "pee-pee".
+    value: half-slip:noun
+  - correct: false
+    detail: Incorrect, "wrinkle:verb" is not a synonym for "pee-pee".
+    value: wrinkle:verb
+  text: What is a synonym for "pee-pee"?

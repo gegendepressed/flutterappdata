@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "glary" is a synonym for "fulgent".
+    value: blazing
+  - correct: false
+    detail: Incorrect, "australian heath:noun" is not a synonym for "fulgent".
+    value: australian heath:noun
+  - correct: false
+    detail: Incorrect, "unfeelingly:adverb" is not a synonym for "fulgent".
+    value: unfeelingly:adverb
+  - correct: false
+    detail: Incorrect, "maglev:noun" is not a synonym for "fulgent".
+    value: maglev:noun
+  text: What is a synonym for "fulgent"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "halting" is a synonym for "lame".
+    value: halting
+  - correct: false
+    detail: Incorrect, "tripleurospermum inodorum:noun" is not a synonym for "lame".
+    value: tripleurospermum inodorum:noun
+  - correct: false
+    detail: Incorrect, "osmanthus:noun" is not a synonym for "lame".
+    value: osmanthus:noun
+  - correct: false
+    detail: Incorrect, "supplier:noun" is not a synonym for "lame".
+    value: supplier:noun
+  text: What is a synonym for "lame"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "oversize" is a synonym for "outsized".
+    value: oversize
+  - correct: false
+    detail: Incorrect, "make headway:verb" is not a synonym for "outsized".
+    value: make headway:verb
+  - correct: false
+    detail: Incorrect, "slither:verb" is not a synonym for "outsized".
+    value: slither:verb
+  - correct: false
+    detail: Incorrect, "mary ii:noun" is not a synonym for "outsized".
+    value: mary ii:noun
+  text: What is a synonym for "outsized"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "effervescing" is a synonym for "spumy".
+    value: foamy
+  - correct: false
+    detail: Incorrect, "cascara sagrada:noun" is not a synonym for "spumy".
+    value: cascara sagrada:noun
+  - correct: false
+    detail: Incorrect, "monogynic:satellite" is not a synonym for "spumy".
+    value: monogynic:satellite
+  - correct: false
+    detail: Incorrect, "gleichenia flabellata:noun" is not a synonym for "spumy".
+    value: gleichenia flabellata:noun
+  text: What is a synonym for "spumy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "off guard" is a synonym for "napping".
+    value: off one's guard
+  - correct: false
+    detail: Incorrect, "linkup:noun" is not a synonym for "napping".
+    value: linkup:noun
+  - correct: false
+    detail: Incorrect, "gel:noun" is not a synonym for "napping".
+    value: gel:noun
+  - correct: false
+    detail: Incorrect, "meadow buttercup:noun" is not a synonym for "napping".
+    value: meadow buttercup:noun
+  text: What is a synonym for "napping"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "slow" is a synonym for "ho-hum".
+    value: tedious
+  - correct: false
+    detail: Incorrect, "peltandra virginica:noun" is not a synonym for "ho-hum".
+    value: peltandra virginica:noun
+  - correct: false
+    detail: Incorrect, "homarus vulgaris:noun" is not a synonym for "ho-hum".
+    value: homarus vulgaris:noun
+  - correct: false
+    detail: Incorrect, "robert nesta marley:noun" is not a synonym for "ho-hum".
+    value: robert nesta marley:noun
+  text: What is a synonym for "ho-hum"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "jolly" is a synonym for "mirthful".
+    value: laughable
+  - correct: false
+    detail: Incorrect, "will:noun" is not a synonym for "mirthful".
+    value: will:noun
+  - correct: false
+    detail: Incorrect, "arboreous:satellite" is not a synonym for "mirthful".
+    value: arboreous:satellite
+  - correct: false
+    detail: Incorrect, "black hawk:noun" is not a synonym for "mirthful".
+    value: black hawk:noun
+  text: What is a synonym for "mirthful"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "jewelled" is a synonym for "sequined".
+    value: jeweled
+  - correct: false
+    detail: Incorrect, "pencilled:adjective" is not a synonym for "sequined".
+    value: pencilled:adjective
+  - correct: false
+    detail: Incorrect, "subscribe to:verb" is not a synonym for "sequined".
+    value: subscribe to:verb
+  - correct: false
+    detail: Incorrect, "spoonbill catfish:noun" is not a synonym for "sequined".
+    value: spoonbill catfish:noun
+  text: What is a synonym for "sequined"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rightful|legitimate" is a synonym for "lawful".
+    value: rightful|legitimate
+  - correct: false
+    detail: Incorrect, "encapsulate:verb" is not a synonym for "lawful".
+    value: encapsulate:verb
+  - correct: false
+    detail: Incorrect, "lay claim:verb" is not a synonym for "lawful".
+    value: lay claim:verb
+  - correct: false
+    detail: Incorrect, "separate off:verb" is not a synonym for "lawful".
+    value: separate off:verb
+  text: What is a synonym for "lawful"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "floating" is a synonym for "vagabond".
+    value: rootless|aimless
+  - correct: false
+    detail: Incorrect, "recency:noun" is not a synonym for "vagabond".
+    value: recency:noun
+  - correct: false
+    detail: Incorrect, "rub:noun" is not a synonym for "vagabond".
+    value: rub:noun
+  - correct: false
+    detail: Incorrect, "handmaid:noun" is not a synonym for "vagabond".
+    value: handmaid:noun
+  text: What is a synonym for "vagabond"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "alert" is a synonym for "zippy".
+    value: merry
+  - correct: false
+    detail: Incorrect, "aby:verb" is not a synonym for "zippy".
+    value: aby:verb
+  - correct: false
+    detail: Incorrect, "monotony:noun" is not a synonym for "zippy".
+    value: monotony:noun
+  - correct: false
+    detail: Incorrect, "accusive:satellite" is not a synonym for "zippy".
+    value: accusive:satellite
+  text: What is a synonym for "zippy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fearless" is a synonym for "brave".
+    value: intrepid
+  - correct: false
+    detail: Incorrect, "frill:noun" is not a synonym for "brave".
+    value: frill:noun
+  - correct: false
+    detail: Incorrect, "iris florentina:noun" is not a synonym for "brave".
+    value: iris florentina:noun
+  - correct: false
+    detail: Incorrect, "gyps fulvus:noun" is not a synonym for "brave".
+    value: gyps fulvus:noun
+  text: What is a synonym for "brave"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "out to" is a synonym for "dead set".
+    value: bent on
+  - correct: false
+    detail: Incorrect, "impostor:noun" is not a synonym for "dead set".
+    value: impostor:noun
+  - correct: false
+    detail: Incorrect, "capital of rwanda:noun" is not a synonym for "dead set".
+    value: capital of rwanda:noun
+  - correct: false
+    detail: Incorrect, "vegetative:adjective" is not a synonym for "dead set".
+    value: vegetative:adjective
+  text: What is a synonym for "dead set"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "whiskered" is a synonym for "barbate".
+    value: whiskery
+  - correct: false
+    detail: Incorrect, "dipped:satellite" is not a synonym for "barbate".
+    value: dipped:satellite
+  - correct: false
+    detail: Incorrect, "florida strap fern:noun" is not a synonym for "barbate".
+    value: florida strap fern:noun
+  - correct: false
+    detail: Incorrect, "vamp:verb" is not a synonym for "barbate".
+    value: vamp:verb
+  text: What is a synonym for "barbate"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "inclined" is a synonym for "prepared".
+    value: fain
+  - correct: false
+    detail: Incorrect, "kept:verb" is not a synonym for "prepared".
+    value: kept:verb
+  - correct: false
+    detail: Incorrect, "oscine bird:noun" is not a synonym for "prepared".
+    value: oscine bird:noun
+  - correct: false
+    detail: Incorrect, "faultlessness:noun" is not a synonym for "prepared".
+    value: faultlessness:noun
+  text: What is a synonym for "prepared"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "unvalued" is a synonym for "unsung".
+    value: unvalued
+  - correct: false
+    detail: Incorrect, "gelidity:noun" is not a synonym for "unsung".
+    value: gelidity:noun
+  - correct: false
+    detail: Incorrect, "tonic solfa:noun" is not a synonym for "unsung".
+    value: tonic solfa:noun
+  - correct: false
+    detail: Incorrect, "demoralisation:noun" is not a synonym for "unsung".
+    value: demoralisation:noun
+  text: What is a synonym for "unsung"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "plainspoken" is a synonym for "blunt".
+    value: forthright
+  - correct: false
+    detail: Incorrect, "consolidated:satellite" is not a synonym for "blunt".
+    value: consolidated:satellite
+  - correct: false
+    detail: Incorrect, "styler:noun" is not a synonym for "blunt".
+    value: styler:noun
+  - correct: false
+    detail: Incorrect, "byplay:noun" is not a synonym for "blunt".
+    value: byplay:noun
+  text: What is a synonym for "blunt"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fractious" is a synonym for "techy".
+    value: pettish
+  - correct: false
+    detail: Incorrect, "colorado river:noun" is not a synonym for "techy".
+    value: colorado river:noun
+  - correct: false
+    detail: Incorrect, "aidoneus:noun" is not a synonym for "techy".
+    value: aidoneus:noun
+  - correct: false
+    detail: Incorrect, "j. craig ventner:noun" is not a synonym for "techy".
+    value: j. craig ventner:noun
+  text: What is a synonym for "techy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "lousy" is a synonym for "icky".
+    value: rotten
+  - correct: false
+    detail: Incorrect, "marshals:verb" is not a synonym for "icky".
+    value: marshals:verb
+  - correct: false
+    detail: Incorrect, "melodize:verb" is not a synonym for "icky".
+    value: melodize:verb
+  - correct: false
+    detail: Incorrect, "bacteriacide:noun" is not a synonym for "icky".
+    value: bacteriacide:noun
+  text: What is a synonym for "icky"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "hundred and one" is a synonym for "ci".
+    value: hundred and one
+  - correct: false
+    detail: Incorrect, "airtight:satellite" is not a synonym for "ci".
+    value: airtight:satellite
+  - correct: false
+    detail: Incorrect, "wall rocket:noun" is not a synonym for "ci".
+    value: wall rocket:noun
+  - correct: false
+    detail: Incorrect, "sea wormwood:noun" is not a synonym for "ci".
+    value: sea wormwood:noun
+  text: What is a synonym for "ci"?

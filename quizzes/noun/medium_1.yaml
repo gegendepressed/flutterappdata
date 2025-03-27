@@ -1,0 +1,302 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "red pine" is a synonym for "rimu".
+    value: imou pine
+  - correct: false
+    detail: Incorrect, "convoke:verb" is not a synonym for "rimu".
+    value: convoke:verb
+  - correct: false
+    detail: Incorrect, "foot-lambert:noun" is not a synonym for "rimu".
+    value: foot-lambert:noun
+  - correct: false
+    detail: Incorrect, "john hoyer updike:noun" is not a synonym for "rimu".
+    value: john hoyer updike:noun
+  text: What is a synonym for "rimu"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "shock|jerk" is a synonym for "jolt".
+    value: saccade
+  - correct: false
+    detail: Incorrect, "gat:noun" is not a synonym for "jolt".
+    value: gat:noun
+  - correct: false
+    detail: Incorrect, "associate in nursing:noun" is not a synonym for "jolt".
+    value: associate in nursing:noun
+  - correct: false
+    detail: Incorrect, "brigantine:noun" is not a synonym for "jolt".
+    value: brigantine:noun
+  text: What is a synonym for "jolt"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Cashmere" is a synonym for "cashmere".
+    value: Kashmir
+  - correct: false
+    detail: Incorrect, "demonic:satellite" is not a synonym for "cashmere".
+    value: demonic:satellite
+  - correct: false
+    detail: Incorrect, "honey berry:noun" is not a synonym for "cashmere".
+    value: honey berry:noun
+  - correct: false
+    detail: Incorrect, "oedogoniales:noun" is not a synonym for "cashmere".
+    value: oedogoniales:noun
+  text: What is a synonym for "cashmere"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Sir Terence Mervyn Rattigan" is a synonym for "rattigan".
+    value: Terence Rattigan
+  - correct: false
+    detail: Incorrect, "waste basket:noun" is not a synonym for "rattigan".
+    value: waste basket:noun
+  - correct: false
+    detail: Incorrect, "bangui:noun" is not a synonym for "rattigan".
+    value: bangui:noun
+  - correct: false
+    detail: Incorrect, "mary wollstonecraft godwin:noun" is not a synonym for "rattigan".
+    value: mary wollstonecraft godwin:noun
+  text: What is a synonym for "rattigan"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ministration" is a synonym for "succor".
+    value: relief
+  - correct: false
+    detail: Incorrect, "protirelin:noun" is not a synonym for "succor".
+    value: protirelin:noun
+  - correct: false
+    detail: Incorrect, "tea service:noun" is not a synonym for "succor".
+    value: tea service:noun
+  - correct: false
+    detail: Incorrect, "pterocarya fraxinifolia:noun" is not a synonym for "succor".
+    value: pterocarya fraxinifolia:noun
+  text: What is a synonym for "succor"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "knot" is a synonym for "air mile".
+    value: nautical mile
+  - correct: false
+    detail: Incorrect, "six-lined racerunner:noun" is not a synonym for "air mile".
+    value: six-lined racerunner:noun
+  - correct: false
+    detail: Incorrect, "mental hygiene:noun" is not a synonym for "air mile".
+    value: mental hygiene:noun
+  - correct: false
+    detail: Incorrect, "hawking:verb" is not a synonym for "air mile".
+    value: hawking:verb
+  text: What is a synonym for "air mile"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "replication" is a synonym for "comeback".
+    value: return
+  - correct: false
+    detail: Incorrect, "order siphonaptera:noun" is not a synonym for "comeback".
+    value: order siphonaptera:noun
+  - correct: false
+    detail: Incorrect, "biweekly:adverb" is not a synonym for "comeback".
+    value: biweekly:adverb
+  - correct: false
+    detail: Incorrect, "spotted crake:noun" is not a synonym for "comeback".
+    value: spotted crake:noun
+  text: What is a synonym for "comeback"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "splatter" is a synonym for "splutter".
+    value: spatter
+  - correct: false
+    detail: Incorrect, "sri lankan:noun" is not a synonym for "splutter".
+    value: sri lankan:noun
+  - correct: false
+    detail: Incorrect, "iron-storage disease:noun" is not a synonym for "splutter".
+    value: iron-storage disease:noun
+  - correct: false
+    detail: Incorrect, "wei:noun" is not a synonym for "splutter".
+    value: wei:noun
+  text: What is a synonym for "splutter"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "iron boot" is a synonym for "boot".
+    value: charge
+  - correct: false
+    detail: Incorrect, "caspar bartholin:noun" is not a synonym for "boot".
+    value: caspar bartholin:noun
+  - correct: false
+    detail: Incorrect, "antique:verb" is not a synonym for "boot".
+    value: antique:verb
+  - correct: false
+    detail: Incorrect, "diminished arch:noun" is not a synonym for "boot".
+    value: diminished arch:noun
+  text: What is a synonym for "boot"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Robert Peary" is a synonym for "peary".
+    value: Robert Edwin Peary
+  - correct: false
+    detail: Incorrect, "congruent:adjective" is not a synonym for "peary".
+    value: congruent:adjective
+  - correct: false
+    detail: Incorrect, "confrontation:noun" is not a synonym for "peary".
+    value: confrontation:noun
+  - correct: false
+    detail: Incorrect, "peppermint candy:noun" is not a synonym for "peary".
+    value: peppermint candy:noun
+  text: What is a synonym for "peary"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "designing|plan|blueprint" is a synonym for "design".
+    value: innovation
+  - correct: false
+    detail: Incorrect, "forename:noun" is not a synonym for "design".
+    value: forename:noun
+  - correct: false
+    detail: Incorrect, "alcohol amnestic disorder:noun" is not a synonym for "design".
+    value: alcohol amnestic disorder:noun
+  - correct: false
+    detail: Incorrect, "noncombustible:adjective" is not a synonym for "design".
+    value: noncombustible:adjective
+  text: What is a synonym for "design"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "knob" is a synonym for "node".
+    value: knob
+  - correct: false
+    detail: Incorrect, "abstrusity:noun" is not a synonym for "node".
+    value: abstrusity:noun
+  - correct: false
+    detail: Incorrect, "capital letter:noun" is not a synonym for "node".
+    value: capital letter:noun
+  - correct: false
+    detail: Incorrect, "seventh:satellite" is not a synonym for "node".
+    value: seventh:satellite
+  text: What is a synonym for "node"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "titty|doorknocker" is a synonym for "knocker".
+    value: boob
+  - correct: false
+    detail: Incorrect, "offsaddle:verb" is not a synonym for "knocker".
+    value: offsaddle:verb
+  - correct: false
+    detail: Incorrect, "austrian monetary unit:noun" is not a synonym for "knocker".
+    value: austrian monetary unit:noun
+  - correct: false
+    detail: Incorrect, "jugful:noun" is not a synonym for "knocker".
+    value: jugful:noun
+  text: What is a synonym for "knocker"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "working girl" is a synonym for "cyprian".
+    value: cocotte
+  - correct: false
+    detail: Incorrect, "vena epigastrica superficialis:noun" is not a synonym for
+      "cyprian".
+    value: vena epigastrica superficialis:noun
+  - correct: false
+    detail: Incorrect, "shipping:noun" is not a synonym for "cyprian".
+    value: shipping:noun
+  - correct: false
+    detail: Incorrect, "oral fissure:noun" is not a synonym for "cyprian".
+    value: oral fissure:noun
+  text: What is a synonym for "cyprian"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "bola tie" is a synonym for "bola".
+    value: bola tie
+  - correct: false
+    detail: Incorrect, "nuclear weapon:noun" is not a synonym for "bola".
+    value: nuclear weapon:noun
+  - correct: false
+    detail: Incorrect, "pavage:noun" is not a synonym for "bola".
+    value: pavage:noun
+  - correct: false
+    detail: Incorrect, "comma butterfly:noun" is not a synonym for "bola".
+    value: comma butterfly:noun
+  text: What is a synonym for "bola"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "pliantness" is a synonym for "pliancy".
+    value: suppleness|pliability
+  - correct: false
+    detail: Incorrect, "horatian ode:noun" is not a synonym for "pliancy".
+    value: horatian ode:noun
+  - correct: false
+    detail: Incorrect, "thirty-second note:noun" is not a synonym for "pliancy".
+    value: thirty-second note:noun
+  - correct: false
+    detail: Incorrect, "luigi galvani:noun" is not a synonym for "pliancy".
+    value: luigi galvani:noun
+  text: What is a synonym for "pliancy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "grandmother" is a synonym for "grannie".
+    value: gran
+  - correct: false
+    detail: Incorrect, "unassisted:satellite" is not a synonym for "grannie".
+    value: unassisted:satellite
+  - correct: false
+    detail: Incorrect, "chondrus crispus:noun" is not a synonym for "grannie".
+    value: chondrus crispus:noun
+  - correct: false
+    detail: Incorrect, "galilaean:noun" is not a synonym for "grannie".
+    value: galilaean:noun
+  text: What is a synonym for "grannie"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Stalino" is a synonym for "donetske".
+    value: Donetsk
+  - correct: false
+    detail: Incorrect, "willy-nilly:adverb" is not a synonym for "donetske".
+    value: willy-nilly:adverb
+  - correct: false
+    detail: Incorrect, "limonium:noun" is not a synonym for "donetske".
+    value: limonium:noun
+  - correct: false
+    detail: Incorrect, "parking zone:noun" is not a synonym for "donetske".
+    value: parking zone:noun
+  text: What is a synonym for "donetske"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "torpedo" is a synonym for "numbfish".
+    value: electric ray
+  - correct: false
+    detail: Incorrect, "eastern chimpanzee:noun" is not a synonym for "numbfish".
+    value: eastern chimpanzee:noun
+  - correct: false
+    detail: Incorrect, "garden violet:noun" is not a synonym for "numbfish".
+    value: garden violet:noun
+  - correct: false
+    detail: Incorrect, "venting:verb" is not a synonym for "numbfish".
+    value: venting:verb
+  text: What is a synonym for "numbfish"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "coil" is a synonym for "curlicue".
+    value: curl
+  - correct: false
+    detail: Incorrect, "dah:noun" is not a synonym for "curlicue".
+    value: dah:noun
+  - correct: false
+    detail: Incorrect, "draconian:adjective" is not a synonym for "curlicue".
+    value: draconian:adjective
+  - correct: false
+    detail: Incorrect, "spinal anaesthetic:noun" is not a synonym for "curlicue".
+    value: spinal anaesthetic:noun
+  text: What is a synonym for "curlicue"?

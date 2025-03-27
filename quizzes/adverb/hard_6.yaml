@@ -1,0 +1,304 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "from way back" is a synonym for "since a long time ago".
+    value: from way back
+  - correct: false
+    detail: Incorrect, "profaned:verb" is not a synonym for "since a long time ago".
+    value: profaned:verb
+  - correct: false
+    detail: Incorrect, "determinant:noun" is not a synonym for "since a long time
+      ago".
+    value: determinant:noun
+  - correct: false
+    detail: Incorrect, "dirca:noun" is not a synonym for "since a long time ago".
+    value: dirca:noun
+  text: What is a synonym for "since a long time ago"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "not to mention" is a synonym for "let alone".
+    value: not to mention
+  - correct: false
+    detail: Incorrect, "montmartre:noun" is not a synonym for "let alone".
+    value: montmartre:noun
+  - correct: false
+    detail: Incorrect, "castrated:adjective" is not a synonym for "let alone".
+    value: castrated:adjective
+  - correct: false
+    detail: Incorrect, "physiological anatomy:noun" is not a synonym for "let alone".
+    value: physiological anatomy:noun
+  text: What is a synonym for "let alone"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "tunefully" is a synonym for "melodiously".
+    value: tunefully
+  - correct: false
+    detail: Incorrect, "smash:noun" is not a synonym for "melodiously".
+    value: smash:noun
+  - correct: false
+    detail: Incorrect, "inkpad:noun" is not a synonym for "melodiously".
+    value: inkpad:noun
+  - correct: false
+    detail: Incorrect, "accomplished:satellite" is not a synonym for "melodiously".
+    value: accomplished:satellite
+  text: What is a synonym for "melodiously"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "ahorse" is a synonym for "horseback".
+    value: ahorseback
+  - correct: false
+    detail: Incorrect, "family psophiidae:noun" is not a synonym for "horseback".
+    value: family psophiidae:noun
+  - correct: false
+    detail: Incorrect, "purple virgin's bower:noun" is not a synonym for "horseback".
+    value: purple virgin's bower:noun
+  - correct: false
+    detail: Incorrect, "collins:noun" is not a synonym for "horseback".
+    value: collins:noun
+  text: What is a synonym for "horseback"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "offensively" is a synonym for "objectionably".
+    value: obnoxiously
+  - correct: false
+    detail: Incorrect, "mya:noun" is not a synonym for "objectionably".
+    value: mya:noun
+  - correct: false
+    detail: Incorrect, "clematis ochreleuca:noun" is not a synonym for "objectionably".
+    value: clematis ochreleuca:noun
+  - correct: false
+    detail: Incorrect, "pub:noun" is not a synonym for "objectionably".
+    value: pub:noun
+  text: What is a synonym for "objectionably"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "mockingly" is a synonym for "scoffingly".
+    value: mockingly
+  - correct: false
+    detail: Incorrect, "genus naias:noun" is not a synonym for "scoffingly".
+    value: genus naias:noun
+  - correct: false
+    detail: Incorrect, "columbia river:noun" is not a synonym for "scoffingly".
+    value: columbia river:noun
+  - correct: false
+    detail: Incorrect, "step to the fore:verb" is not a synonym for "scoffingly".
+    value: step to the fore:verb
+  text: What is a synonym for "scoffingly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "sou'-east" is a synonym for "south-east".
+    value: southeast
+  - correct: false
+    detail: Incorrect, "baby's room:noun" is not a synonym for "south-east".
+    value: baby's room:noun
+  - correct: false
+    detail: Incorrect, "ovrette:noun" is not a synonym for "south-east".
+    value: ovrette:noun
+  - correct: false
+    detail: Incorrect, "fresh water:noun" is not a synonym for "south-east".
+    value: fresh water:noun
+  text: What is a synonym for "south-east"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "for each person" is a synonym for "per capita".
+    value: of each person
+  - correct: false
+    detail: Incorrect, "bosnia and herzegovina:noun" is not a synonym for "per capita".
+    value: bosnia and herzegovina:noun
+  - correct: false
+    detail: Incorrect, "lens implant:noun" is not a synonym for "per capita".
+    value: lens implant:noun
+  - correct: false
+    detail: Incorrect, "ungracefully:adverb" is not a synonym for "per capita".
+    value: ungracefully:adverb
+  text: What is a synonym for "per capita"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "eagerly" is a synonym for "thirstily".
+    value: eagerly
+  - correct: false
+    detail: Incorrect, "family pelobatidae:noun" is not a synonym for "thirstily".
+    value: family pelobatidae:noun
+  - correct: false
+    detail: Incorrect, "genus meniscium:noun" is not a synonym for "thirstily".
+    value: genus meniscium:noun
+  - correct: false
+    detail: Incorrect, "report:noun" is not a synonym for "thirstily".
+    value: report:noun
+  text: What is a synonym for "thirstily"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "most" is a synonym for "to the highest degree".
+    value: most
+  - correct: false
+    detail: Incorrect, "expressionistic:adjective" is not a synonym for "to the highest
+      degree".
+    value: expressionistic:adjective
+  - correct: false
+    detail: Incorrect, "aeonium haworthii:noun" is not a synonym for "to the highest
+      degree".
+    value: aeonium haworthii:noun
+  - correct: false
+    detail: Incorrect, "algophilia:noun" is not a synonym for "to the highest degree".
+    value: algophilia:noun
+  text: What is a synonym for "to the highest degree"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "above all" is a synonym for "most importantly".
+    value: above all
+  - correct: false
+    detail: Incorrect, "graves:verb" is not a synonym for "most importantly".
+    value: graves:verb
+  - correct: false
+    detail: Incorrect, "black sea bass:noun" is not a synonym for "most importantly".
+    value: black sea bass:noun
+  - correct: false
+    detail: Incorrect, "pierre:noun" is not a synonym for "most importantly".
+    value: pierre:noun
+  text: What is a synonym for "most importantly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "squarely" is a synonym for "forthright".
+    value: squarely
+  - correct: false
+    detail: Incorrect, "lycian:noun" is not a synonym for "forthright".
+    value: lycian:noun
+  - correct: false
+    detail: Incorrect, "victimisation:noun" is not a synonym for "forthright".
+    value: victimisation:noun
+  - correct: false
+    detail: Incorrect, "mustafa kemal:noun" is not a synonym for "forthright".
+    value: mustafa kemal:noun
+  text: What is a synonym for "forthright"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "ungratefully" is a synonym for "unappreciatively".
+    value: ungratefully
+  - correct: false
+    detail: Incorrect, "neutral:satellite" is not a synonym for "unappreciatively".
+    value: neutral:satellite
+  - correct: false
+    detail: Incorrect, "son of a bitch:noun" is not a synonym for "unappreciatively".
+    value: son of a bitch:noun
+  - correct: false
+    detail: Incorrect, "promenade:verb" is not a synonym for "unappreciatively".
+    value: promenade:verb
+  text: What is a synonym for "unappreciatively"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "talkily" is a synonym for "loquaciously".
+    value: talkily
+  - correct: false
+    detail: Incorrect, "demerit:noun" is not a synonym for "loquaciously".
+    value: demerit:noun
+  - correct: false
+    detail: Incorrect, "systematically:adverb" is not a synonym for "loquaciously".
+    value: systematically:adverb
+  - correct: false
+    detail: Incorrect, "adonic:adjective" is not a synonym for "loquaciously".
+    value: adonic:adjective
+  text: What is a synonym for "loquaciously"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "well" is a synonym for "considerably".
+    value: substantially
+  - correct: false
+    detail: Incorrect, "sailboat:noun" is not a synonym for "considerably".
+    value: sailboat:noun
+  - correct: false
+    detail: Incorrect, "brachycome:noun" is not a synonym for "considerably".
+    value: brachycome:noun
+  - correct: false
+    detail: Incorrect, "northern phalarope:noun" is not a synonym for "considerably".
+    value: northern phalarope:noun
+  text: What is a synonym for "considerably"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "ib." is a synonym for "ibid.".
+    value: ibidem
+  - correct: false
+    detail: Incorrect, "100000:noun" is not a synonym for "ibid.".
+    value: 100000:noun
+  - correct: false
+    detail: Incorrect, "didactically:adverb" is not a synonym for "ibid.".
+    value: didactically:adverb
+  - correct: false
+    detail: Incorrect, "house of hanover:noun" is not a synonym for "ibid.".
+    value: house of hanover:noun
+  text: What is a synonym for "ibid."?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "this evening" is a synonym for "tonight".
+    value: this night
+  - correct: false
+    detail: Incorrect, "brioschi:noun" is not a synonym for "tonight".
+    value: brioschi:noun
+  - correct: false
+    detail: Incorrect, "grind:noun" is not a synonym for "tonight".
+    value: grind:noun
+  - correct: false
+    detail: Incorrect, "athenian:adjective" is not a synonym for "tonight".
+    value: athenian:adjective
+  text: What is a synonym for "tonight"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "cautiously" is a synonym for "carefully".
+    value: cautiously
+  - correct: false
+    detail: Incorrect, "cognisant:adjective" is not a synonym for "carefully".
+    value: cognisant:adjective
+  - correct: false
+    detail: Incorrect, "authorised:adjective" is not a synonym for "carefully".
+    value: authorised:adjective
+  - correct: false
+    detail: Incorrect, "beatified:satellite" is not a synonym for "carefully".
+    value: beatified:satellite
+  text: What is a synonym for "carefully"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "harshly" is a synonym for "raspingly".
+    value: gratingly
+  - correct: false
+    detail: Incorrect, "glacier lily:noun" is not a synonym for "raspingly".
+    value: glacier lily:noun
+  - correct: false
+    detail: Incorrect, "flim-flam:verb" is not a synonym for "raspingly".
+    value: flim-flam:verb
+  - correct: false
+    detail: Incorrect, "farm horse:noun" is not a synonym for "raspingly".
+    value: farm horse:noun
+  text: What is a synonym for "raspingly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "very loudly" is a synonym for "fortissimo".
+    value: very loudly
+  - correct: false
+    detail: Incorrect, "tapis:noun" is not a synonym for "fortissimo".
+    value: tapis:noun
+  - correct: false
+    detail: Incorrect, "caddish:satellite" is not a synonym for "fortissimo".
+    value: caddish:satellite
+  - correct: false
+    detail: Incorrect, "john william strutt:noun" is not a synonym for "fortissimo".
+    value: john william strutt:noun
+  text: What is a synonym for "fortissimo"?

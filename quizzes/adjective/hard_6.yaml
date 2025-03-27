@@ -1,0 +1,301 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Carthusian" is a synonym for "carthusian".
+    value: Carthusian
+  - correct: false
+    detail: Incorrect, "sinistrorsal:satellite" is not a synonym for "carthusian".
+    value: sinistrorsal:satellite
+  - correct: false
+    detail: Incorrect, "insulate:verb" is not a synonym for "carthusian".
+    value: insulate:verb
+  - correct: false
+    detail: Incorrect, "banker's acceptance:noun" is not a synonym for "carthusian".
+    value: banker's acceptance:noun
+  text: What is a synonym for "carthusian"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "sitting" is a synonym for "seated".
+    value: sitting
+  - correct: false
+    detail: Incorrect, "claptrap:noun" is not a synonym for "seated".
+    value: claptrap:noun
+  - correct: false
+    detail: Incorrect, "ivan iii:noun" is not a synonym for "seated".
+    value: ivan iii:noun
+  - correct: false
+    detail: Incorrect, "corbel:noun" is not a synonym for "seated".
+    value: corbel:noun
+  text: What is a synonym for "seated"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "cubic" is a synonym for "three-dimensional".
+    value: cubic
+  - correct: false
+    detail: Incorrect, "monarda didyma:noun" is not a synonym for "three-dimensional".
+    value: monarda didyma:noun
+  - correct: false
+    detail: Incorrect, "battle of the ardennes bulge:noun" is not a synonym for "three-dimensional".
+    value: battle of the ardennes bulge:noun
+  - correct: false
+    detail: Incorrect, "epilator:noun" is not a synonym for "three-dimensional".
+    value: epilator:noun
+  text: What is a synonym for "three-dimensional"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "cytogenetic" is a synonym for "cytogenetical".
+    value: cytogenetic
+  - correct: false
+    detail: Incorrect, "supervise:verb" is not a synonym for "cytogenetical".
+    value: supervise:verb
+  - correct: false
+    detail: Incorrect, "congealment:noun" is not a synonym for "cytogenetical".
+    value: congealment:noun
+  - correct: false
+    detail: Incorrect, "death adder:noun" is not a synonym for "cytogenetical".
+    value: death adder:noun
+  text: What is a synonym for "cytogenetical"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "transmontane" is a synonym for "tramontane".
+    value: transmontane
+  - correct: false
+    detail: Incorrect, "unit of measurement:noun" is not a synonym for "tramontane".
+    value: unit of measurement:noun
+  - correct: false
+    detail: Incorrect, "fauvist:noun" is not a synonym for "tramontane".
+    value: fauvist:noun
+  - correct: false
+    detail: Incorrect, "hindemith:noun" is not a synonym for "tramontane".
+    value: hindemith:noun
+  text: What is a synonym for "tramontane"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Egyptian" is a synonym for "egyptian".
+    value: Egyptian
+  - correct: false
+    detail: Incorrect, "square foot:noun" is not a synonym for "egyptian".
+    value: square foot:noun
+  - correct: false
+    detail: Incorrect, "eroticize:verb" is not a synonym for "egyptian".
+    value: eroticize:verb
+  - correct: false
+    detail: Incorrect, "broached:verb" is not a synonym for "egyptian".
+    value: broached:verb
+  text: What is a synonym for "egyptian"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "uniovulate" is a synonym for "uniovular".
+    value: uniovulate
+  - correct: false
+    detail: Incorrect, "shan:noun" is not a synonym for "uniovular".
+    value: shan:noun
+  - correct: false
+    detail: Incorrect, "cezanne:noun" is not a synonym for "uniovular".
+    value: cezanne:noun
+  - correct: false
+    detail: Incorrect, "ndebele:noun" is not a synonym for "uniovular".
+    value: ndebele:noun
+  text: What is a synonym for "uniovular"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "undesirable" is a synonym for "unwanted".
+    value: undesirable
+  - correct: false
+    detail: Incorrect, "hinayana:noun" is not a synonym for "unwanted".
+    value: hinayana:noun
+  - correct: false
+    detail: Incorrect, "cbc:noun" is not a synonym for "unwanted".
+    value: cbc:noun
+  - correct: false
+    detail: Incorrect, "panama redwood tree:noun" is not a synonym for "unwanted".
+    value: panama redwood tree:noun
+  text: What is a synonym for "unwanted"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "aerophilic" is a synonym for "aerobic".
+    value: aerophilous
+  - correct: false
+    detail: Incorrect, "understudy:noun" is not a synonym for "aerobic".
+    value: understudy:noun
+  - correct: false
+    detail: Incorrect, "tranquility:noun" is not a synonym for "aerobic".
+    value: tranquility:noun
+  - correct: false
+    detail: Incorrect, "zosteraceae:noun" is not a synonym for "aerobic".
+    value: zosteraceae:noun
+  text: What is a synonym for "aerobic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "custom" is a synonym for "custom-made".
+    value: custom
+  - correct: false
+    detail: Incorrect, "tonka bean tree:noun" is not a synonym for "custom-made".
+    value: tonka bean tree:noun
+  - correct: false
+    detail: Incorrect, "sida:noun" is not a synonym for "custom-made".
+    value: sida:noun
+  - correct: false
+    detail: Incorrect, "nutriment:noun" is not a synonym for "custom-made".
+    value: nutriment:noun
+  text: What is a synonym for "custom-made"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "acaulescent" is a synonym for "stemless".
+    value: acaulescent
+  - correct: false
+    detail: Incorrect, "japanese varnish tree:noun" is not a synonym for "stemless".
+    value: japanese varnish tree:noun
+  - correct: false
+    detail: Incorrect, "automatic pilot:noun" is not a synonym for "stemless".
+    value: automatic pilot:noun
+  - correct: false
+    detail: Incorrect, "raptores:noun" is not a synonym for "stemless".
+    value: raptores:noun
+  text: What is a synonym for "stemless"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "generative" is a synonym for "productive".
+    value: generative
+  - correct: false
+    detail: Incorrect, "dna polymerase:noun" is not a synonym for "productive".
+    value: dna polymerase:noun
+  - correct: false
+    detail: Incorrect, "garter snake:noun" is not a synonym for "productive".
+    value: garter snake:noun
+  - correct: false
+    detail: Incorrect, "bilobed:satellite" is not a synonym for "productive".
+    value: bilobed:satellite
+  text: What is a synonym for "productive"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "temporary" is a synonym for "impermanent".
+    value: temporary
+  - correct: false
+    detail: Incorrect, "x-radiation:noun" is not a synonym for "impermanent".
+    value: x-radiation:noun
+  - correct: false
+    detail: Incorrect, "stateless person:noun" is not a synonym for "impermanent".
+    value: stateless person:noun
+  - correct: false
+    detail: Incorrect, "abruptly:adverb" is not a synonym for "impermanent".
+    value: abruptly:adverb
+  text: What is a synonym for "impermanent"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "extraversive" is a synonym for "extroversive".
+    value: extraversive
+  - correct: false
+    detail: Incorrect, "sexual perversion:noun" is not a synonym for "extroversive".
+    value: sexual perversion:noun
+  - correct: false
+    detail: Incorrect, "motorise:verb" is not a synonym for "extroversive".
+    value: motorise:verb
+  - correct: false
+    detail: Incorrect, "hirundo nigricans:noun" is not a synonym for "extroversive".
+    value: hirundo nigricans:noun
+  text: What is a synonym for "extroversive"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "deficient" is a synonym for "insufficient".
+    value: deficient
+  - correct: false
+    detail: Incorrect, "genus melicoccus:noun" is not a synonym for "insufficient".
+    value: genus melicoccus:noun
+  - correct: false
+    detail: Incorrect, "amish:noun" is not a synonym for "insufficient".
+    value: amish:noun
+  - correct: false
+    detail: Incorrect, "taoist trinity:noun" is not a synonym for "insufficient".
+    value: taoist trinity:noun
+  text: What is a synonym for "insufficient"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "uveous" is a synonym for "uveal".
+    value: uveous
+  - correct: false
+    detail: Incorrect, "will power:noun" is not a synonym for "uveal".
+    value: will power:noun
+  - correct: false
+    detail: Incorrect, "epstein:noun" is not a synonym for "uveal".
+    value: epstein:noun
+  - correct: false
+    detail: Incorrect, "common unicorn plant:noun" is not a synonym for "uveal".
+    value: common unicorn plant:noun
+  text: What is a synonym for "uveal"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "credible" is a synonym for "believable".
+    value: credible
+  - correct: false
+    detail: Incorrect, "fatherly:satellite" is not a synonym for "believable".
+    value: fatherly:satellite
+  - correct: false
+    detail: Incorrect, "rusty:satellite" is not a synonym for "believable".
+    value: rusty:satellite
+  - correct: false
+    detail: Incorrect, "skirmish:noun" is not a synonym for "believable".
+    value: skirmish:noun
+  text: What is a synonym for "believable"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "waxy" is a synonym for "waxen".
+    value: waxy
+  - correct: false
+    detail: Incorrect, "caucasus mountains:noun" is not a synonym for "waxen".
+    value: caucasus mountains:noun
+  - correct: false
+    detail: Incorrect, "peaky:satellite" is not a synonym for "waxen".
+    value: peaky:satellite
+  - correct: false
+    detail: Incorrect, "fasciolosis:noun" is not a synonym for "waxen".
+    value: fasciolosis:noun
+  text: What is a synonym for "waxen"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hex" is a synonym for "hexadecimal".
+    value: hex
+  - correct: false
+    detail: Incorrect, "practiced:satellite" is not a synonym for "hexadecimal".
+    value: practiced:satellite
+  - correct: false
+    detail: Incorrect, "accelerated:verb" is not a synonym for "hexadecimal".
+    value: accelerated:verb
+  - correct: false
+    detail: Incorrect, "accredited:satellite" is not a synonym for "hexadecimal".
+    value: accredited:satellite
+  text: What is a synonym for "hexadecimal"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "colorimetrical" is a synonym for "colorimetric".
+    value: colorimetrical
+  - correct: false
+    detail: Incorrect, "bedlington terrier:noun" is not a synonym for "colorimetric".
+    value: bedlington terrier:noun
+  - correct: false
+    detail: Incorrect, "icarus:noun" is not a synonym for "colorimetric".
+    value: icarus:noun
+  - correct: false
+    detail: Incorrect, "oregon holly grape:noun" is not a synonym for "colorimetric".
+    value: oregon holly grape:noun
+  text: What is a synonym for "colorimetric"?

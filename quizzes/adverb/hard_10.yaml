@@ -1,0 +1,304 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "there" is a synonym for "on that point".
+    value: in that respect
+  - correct: false
+    detail: Incorrect, "widely distributed:adjective" is not a synonym for "on that
+      point".
+    value: widely distributed:adjective
+  - correct: false
+    detail: Incorrect, "family kalotermitidae:noun" is not a synonym for "on that
+      point".
+    value: family kalotermitidae:noun
+  - correct: false
+    detail: Incorrect, "supersede:verb" is not a synonym for "on that point".
+    value: supersede:verb
+  text: What is a synonym for "on that point"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "stupidly" is a synonym for "doltishly".
+    value: stupidly
+  - correct: false
+    detail: Incorrect, "exfoliation:noun" is not a synonym for "doltishly".
+    value: exfoliation:noun
+  - correct: false
+    detail: Incorrect, "profits:verb" is not a synonym for "doltishly".
+    value: profits:verb
+  - correct: false
+    detail: Incorrect, "butt:verb" is not a synonym for "doltishly".
+    value: butt:verb
+  text: What is a synonym for "doltishly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "overpoweringly" is a synonym for "overwhelmingly".
+    value: overpoweringly
+  - correct: false
+    detail: Incorrect, "family entomophthoraceae:noun" is not a synonym for "overwhelmingly".
+    value: family entomophthoraceae:noun
+  - correct: false
+    detail: Incorrect, "deposit:noun" is not a synonym for "overwhelmingly".
+    value: deposit:noun
+  - correct: false
+    detail: Incorrect, "table lifting:noun" is not a synonym for "overwhelmingly".
+    value: table lifting:noun
+  text: What is a synonym for "overwhelmingly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "ex tempore" is a synonym for "off-hand".
+    value: ex tempore
+  - correct: false
+    detail: Incorrect, "swabbing:verb" is not a synonym for "off-hand".
+    value: swabbing:verb
+  - correct: false
+    detail: Incorrect, "rigour:noun" is not a synonym for "off-hand".
+    value: rigour:noun
+  - correct: false
+    detail: Incorrect, "lake geneva:noun" is not a synonym for "off-hand".
+    value: lake geneva:noun
+  text: What is a synonym for "off-hand"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "illicitly|out of wedlock" is a synonym for "illegitimately".
+    value: illicitly|out of wedlock
+  - correct: false
+    detail: Incorrect, "ragtime:noun" is not a synonym for "illegitimately".
+    value: ragtime:noun
+  - correct: false
+    detail: Incorrect, "black and tan:noun" is not a synonym for "illegitimately".
+    value: black and tan:noun
+  - correct: false
+    detail: Incorrect, "zigzag:satellite" is not a synonym for "illegitimately".
+    value: zigzag:satellite
+  text: What is a synonym for "illegitimately"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "gratifyingly" is a synonym for "satisfyingly".
+    value: gratifyingly
+  - correct: false
+    detail: Incorrect, "true:adverb" is not a synonym for "satisfyingly".
+    value: true:adverb
+  - correct: false
+    detail: Incorrect, "mitomycin:noun" is not a synonym for "satisfyingly".
+    value: mitomycin:noun
+  - correct: false
+    detail: Incorrect, "supposed:satellite" is not a synonym for "satisfyingly".
+    value: supposed:satellite
+  text: What is a synonym for "satisfyingly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "avowedly" is a synonym for "confessedly".
+    value: avowedly
+  - correct: false
+    detail: Incorrect, "desmanthus:noun" is not a synonym for "confessedly".
+    value: desmanthus:noun
+  - correct: false
+    detail: Incorrect, "kubrick:noun" is not a synonym for "confessedly".
+    value: kubrick:noun
+  - correct: false
+    detail: Incorrect, "outride:verb" is not a synonym for "confessedly".
+    value: outride:verb
+  text: What is a synonym for "confessedly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "in a similar way" is a synonym for "in kind".
+    value: in a similar way
+  - correct: false
+    detail: Incorrect, "busted:verb" is not a synonym for "in kind".
+    value: busted:verb
+  - correct: false
+    detail: Incorrect, "games-master:noun" is not a synonym for "in kind".
+    value: games-master:noun
+  - correct: false
+    detail: Incorrect, "closer:adverb" is not a synonym for "in kind".
+    value: closer:adverb
+  text: What is a synonym for "in kind"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "for free" is a synonym for "free of charge".
+    value: gratis
+  - correct: false
+    detail: Incorrect, "carbon dioxide:noun" is not a synonym for "free of charge".
+    value: carbon dioxide:noun
+  - correct: false
+    detail: Incorrect, "off-white:satellite" is not a synonym for "free of charge".
+    value: off-white:satellite
+  - correct: false
+    detail: Incorrect, "incontestible:adjective" is not a synonym for "free of charge".
+    value: incontestible:adjective
+  text: What is a synonym for "free of charge"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "nervily" is a synonym for "cheekily".
+    value: brashly
+  - correct: false
+    detail: Incorrect, "by inches:adverb" is not a synonym for "cheekily".
+    value: by inches:adverb
+  - correct: false
+    detail: Incorrect, "somnambulist:noun" is not a synonym for "cheekily".
+    value: somnambulist:noun
+  - correct: false
+    detail: Incorrect, "sound:noun" is not a synonym for "cheekily".
+    value: sound:noun
+  text: What is a synonym for "cheekily"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "post-paid" is a synonym for "post-free".
+    value: post-paid
+  - correct: false
+    detail: Incorrect, "pimp:noun" is not a synonym for "post-free".
+    value: pimp:noun
+  - correct: false
+    detail: Incorrect, "hasty:satellite" is not a synonym for "post-free".
+    value: hasty:satellite
+  - correct: false
+    detail: Incorrect, "partridgeberry:noun" is not a synonym for "post-free".
+    value: partridgeberry:noun
+  text: What is a synonym for "post-free"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "in everyone's thoughts" is a synonym for "in the air".
+    value: in everyone's thoughts
+  - correct: false
+    detail: Incorrect, "sceptred:satellite" is not a synonym for "in the air".
+    value: sceptred:satellite
+  - correct: false
+    detail: Incorrect, "carangid:noun" is not a synonym for "in the air".
+    value: carangid:noun
+  - correct: false
+    detail: Incorrect, "powder compact:noun" is not a synonym for "in the air".
+    value: powder compact:noun
+  text: What is a synonym for "in the air"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "in due season" is a synonym for "when the time comes".
+    value: in good time
+  - correct: false
+    detail: Incorrect, "genus rhynia:noun" is not a synonym for "when the time comes".
+    value: genus rhynia:noun
+  - correct: false
+    detail: Incorrect, "collegial:adjective" is not a synonym for "when the time comes".
+    value: collegial:adjective
+  - correct: false
+    detail: Incorrect, "supporters of islam:noun" is not a synonym for "when the time
+      comes".
+    value: supporters of islam:noun
+  text: What is a synonym for "when the time comes"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "second" is a synonym for "secondly".
+    value: second
+  - correct: false
+    detail: Incorrect, "dumpiness:noun" is not a synonym for "secondly".
+    value: dumpiness:noun
+  - correct: false
+    detail: Incorrect, "genus austrotaxus:noun" is not a synonym for "secondly".
+    value: genus austrotaxus:noun
+  - correct: false
+    detail: Incorrect, "spotted weakfish:noun" is not a synonym for "secondly".
+    value: spotted weakfish:noun
+  text: What is a synonym for "secondly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "successively" is a synonym for "in turn".
+    value: successively
+  - correct: false
+    detail: Incorrect, "kei apple bush:noun" is not a synonym for "in turn".
+    value: kei apple bush:noun
+  - correct: false
+    detail: Incorrect, "eskimo dog:noun" is not a synonym for "in turn".
+    value: eskimo dog:noun
+  - correct: false
+    detail: Incorrect, "pavilion:noun" is not a synonym for "in turn".
+    value: pavilion:noun
+  text: What is a synonym for "in turn"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "in good spirits" is a synonym for "in stride".
+    value: in good spirits
+  - correct: false
+    detail: Incorrect, "family glareolidae:noun" is not a synonym for "in stride".
+    value: family glareolidae:noun
+  - correct: false
+    detail: Incorrect, "civil list:noun" is not a synonym for "in stride".
+    value: civil list:noun
+  - correct: false
+    detail: Incorrect, "goniff:noun" is not a synonym for "in stride".
+    value: goniff:noun
+  text: What is a synonym for "in stride"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "six times" is a synonym for "sixfold".
+    value: six times
+  - correct: false
+    detail: Incorrect, "ism:noun" is not a synonym for "sixfold".
+    value: ism:noun
+  - correct: false
+    detail: Incorrect, "high holiday:noun" is not a synonym for "sixfold".
+    value: high holiday:noun
+  - correct: false
+    detail: Incorrect, "burhinus oedicnemus:noun" is not a synonym for "sixfold".
+    value: burhinus oedicnemus:noun
+  text: What is a synonym for "sixfold"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "practicably" is a synonym for "feasibly".
+    value: practicably
+  - correct: false
+    detail: Incorrect, "macrotyloma uniflorum:noun" is not a synonym for "feasibly".
+    value: macrotyloma uniflorum:noun
+  - correct: false
+    detail: Incorrect, "style of architecture:noun" is not a synonym for "feasibly".
+    value: style of architecture:noun
+  - correct: false
+    detail: Incorrect, "parvo:noun" is not a synonym for "feasibly".
+    value: parvo:noun
+  text: What is a synonym for "feasibly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unutterably" is a synonym for "indescribably".
+    value: unspeakably
+  - correct: false
+    detail: Incorrect, "axial:adjective" is not a synonym for "indescribably".
+    value: axial:adjective
+  - correct: false
+    detail: Incorrect, "red morning-glory:noun" is not a synonym for "indescribably".
+    value: red morning-glory:noun
+  - correct: false
+    detail: Incorrect, "james k. polk:noun" is not a synonym for "indescribably".
+    value: james k. polk:noun
+  text: What is a synonym for "indescribably"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "squalidly" is a synonym for "sordidly".
+    value: squalidly
+  - correct: false
+    detail: Incorrect, "whitetail deer:noun" is not a synonym for "sordidly".
+    value: whitetail deer:noun
+  - correct: false
+    detail: Incorrect, "predetermined:verb" is not a synonym for "sordidly".
+    value: predetermined:verb
+  - correct: false
+    detail: Incorrect, "crocus sativus:noun" is not a synonym for "sordidly".
+    value: crocus sativus:noun
+  text: What is a synonym for "sordidly"?

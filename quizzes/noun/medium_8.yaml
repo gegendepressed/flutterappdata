@@ -1,0 +1,302 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "time lag" is a synonym for "wait".
+    value: postponement|waiting
+  - correct: false
+    detail: Incorrect, "antonio gaudi i cornet:noun" is not a synonym for "wait".
+    value: antonio gaudi i cornet:noun
+  - correct: false
+    detail: Incorrect, "musculus quadriceps femoris:noun" is not a synonym for "wait".
+    value: musculus quadriceps femoris:noun
+  - correct: false
+    detail: Incorrect, "mesmeric:satellite" is not a synonym for "wait".
+    value: mesmeric:satellite
+  text: What is a synonym for "wait"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "flurry" is a synonym for "fuss".
+    value: stir
+  - correct: false
+    detail: Incorrect, "agrostis:noun" is not a synonym for "fuss".
+    value: agrostis:noun
+  - correct: false
+    detail: Incorrect, "hollywood:satellite" is not a synonym for "fuss".
+    value: hollywood:satellite
+  - correct: false
+    detail: Incorrect, "cottontail rabbit:noun" is not a synonym for "fuss".
+    value: cottontail rabbit:noun
+  text: What is a synonym for "fuss"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "panda bear" is a synonym for "panda".
+    value: coon bear
+  - correct: false
+    detail: Incorrect, "trablous:noun" is not a synonym for "panda".
+    value: trablous:noun
+  - correct: false
+    detail: Incorrect, "discourtesy:noun" is not a synonym for "panda".
+    value: discourtesy:noun
+  - correct: false
+    detail: Incorrect, "family anguidae:noun" is not a synonym for "panda".
+    value: family anguidae:noun
+  text: What is a synonym for "panda"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rapidness" is a synonym for "rapidity".
+    value: speediness
+  - correct: false
+    detail: Incorrect, "polyvalent:adjective" is not a synonym for "rapidity".
+    value: polyvalent:adjective
+  - correct: false
+    detail: Incorrect, "makaira mazara:noun" is not a synonym for "rapidity".
+    value: makaira mazara:noun
+  - correct: false
+    detail: Incorrect, "rasht:noun" is not a synonym for "rapidity".
+    value: rasht:noun
+  text: What is a synonym for "rapidity"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "I. F. Stone" is a synonym for "stone".
+    value: Edward Durell Stone
+  - correct: false
+    detail: Incorrect, "regiomontanus:noun" is not a synonym for "stone".
+    value: regiomontanus:noun
+  - correct: false
+    detail: Incorrect, "island dispenser:noun" is not a synonym for "stone".
+    value: island dispenser:noun
+  - correct: false
+    detail: Incorrect, "dovetail:noun" is not a synonym for "stone".
+    value: dovetail:noun
+  text: What is a synonym for "stone"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "poke" is a synonym for "lagger".
+    value: laggard
+  - correct: false
+    detail: Incorrect, "ernestine schumann-heink:noun" is not a synonym for "lagger".
+    value: ernestine schumann-heink:noun
+  - correct: false
+    detail: Incorrect, "abies:verb" is not a synonym for "lagger".
+    value: abies:verb
+  - correct: false
+    detail: Incorrect, "cabal:noun" is not a synonym for "lagger".
+    value: cabal:noun
+  text: What is a synonym for "lagger"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Giambattista Marini" is a synonym for "marini".
+    value: Marino
+  - correct: false
+    detail: Incorrect, "symbolic logic:noun" is not a synonym for "marini".
+    value: symbolic logic:noun
+  - correct: false
+    detail: Incorrect, "stinting:satellite" is not a synonym for "marini".
+    value: stinting:satellite
+  - correct: false
+    detail: Incorrect, "osmanli:noun" is not a synonym for "marini".
+    value: osmanli:noun
+  text: What is a synonym for "marini"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "surface" is a synonym for "aerofoil".
+    value: airfoil
+  - correct: false
+    detail: Incorrect, "moro islamic liberation front:noun" is not a synonym for "aerofoil".
+    value: moro islamic liberation front:noun
+  - correct: false
+    detail: Incorrect, "noah:noun" is not a synonym for "aerofoil".
+    value: noah:noun
+  - correct: false
+    detail: Incorrect, "tagus:noun" is not a synonym for "aerofoil".
+    value: tagus:noun
+  text: What is a synonym for "aerofoil"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "atomic number 9|farad" is a synonym for "f".
+    value: F|fluorine
+  - correct: false
+    detail: Incorrect, "bit by bit:adverb" is not a synonym for "f".
+    value: bit by bit:adverb
+  - correct: false
+    detail: Incorrect, "black music:noun" is not a synonym for "f".
+    value: black music:noun
+  - correct: false
+    detail: Incorrect, "kumasi:noun" is not a synonym for "f".
+    value: kumasi:noun
+  text: What is a synonym for "f"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "true sparrow|hedge sparrow" is a synonym for "sparrow".
+    value: true sparrow|hedge sparrow
+  - correct: false
+    detail: Incorrect, "numbers:verb" is not a synonym for "sparrow".
+    value: numbers:verb
+  - correct: false
+    detail: Incorrect, "louis pasteur:noun" is not a synonym for "sparrow".
+    value: louis pasteur:noun
+  - correct: false
+    detail: Incorrect, "equisetaceae:noun" is not a synonym for "sparrow".
+    value: equisetaceae:noun
+  text: What is a synonym for "sparrow"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "issue" is a synonym for "payoff".
+    value: reward
+  - correct: false
+    detail: Incorrect, "effectualness:noun" is not a synonym for "payoff".
+    value: effectualness:noun
+  - correct: false
+    detail: Incorrect, "em:noun" is not a synonym for "payoff".
+    value: em:noun
+  - correct: false
+    detail: Incorrect, "frantically:adverb" is not a synonym for "payoff".
+    value: frantically:adverb
+  text: What is a synonym for "payoff"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Canadian fleabane" is a synonym for "fleabane".
+    value: Canadian fleabane
+  - correct: false
+    detail: Incorrect, "coccothraustes:noun" is not a synonym for "fleabane".
+    value: coccothraustes:noun
+  - correct: false
+    detail: Incorrect, "mimic:noun" is not a synonym for "fleabane".
+    value: mimic:noun
+  - correct: false
+    detail: Incorrect, "factor analytical:adjective" is not a synonym for "fleabane".
+    value: factor analytical:adjective
+  text: What is a synonym for "fleabane"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "swindler" is a synonym for "chiseler".
+    value: chiseller
+  - correct: false
+    detail: Incorrect, "firing:verb" is not a synonym for "chiseler".
+    value: firing:verb
+  - correct: false
+    detail: Incorrect, "clement attlee:noun" is not a synonym for "chiseler".
+    value: clement attlee:noun
+  - correct: false
+    detail: Incorrect, "unshakably:adverb" is not a synonym for "chiseler".
+    value: unshakably:adverb
+  text: What is a synonym for "chiseler"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "poke" is a synonym for "jabbing".
+    value: thrust
+  - correct: false
+    detail: Incorrect, "juvenile delinquency:noun" is not a synonym for "jabbing".
+    value: juvenile delinquency:noun
+  - correct: false
+    detail: Incorrect, "lascaux:noun" is not a synonym for "jabbing".
+    value: lascaux:noun
+  - correct: false
+    detail: Incorrect, "verdun:noun" is not a synonym for "jabbing".
+    value: verdun:noun
+  text: What is a synonym for "jabbing"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "IRA" is a synonym for "provos".
+    value: Irish Republican Army
+  - correct: false
+    detail: Incorrect, "good-for-nothing:satellite" is not a synonym for "provos".
+    value: good-for-nothing:satellite
+  - correct: false
+    detail: Incorrect, "brand:noun" is not a synonym for "provos".
+    value: brand:noun
+  - correct: false
+    detail: Incorrect, "stogie:noun" is not a synonym for "provos".
+    value: stogie:noun
+  text: What is a synonym for "provos"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Paddy" is a synonym for "mick".
+    value: Mick
+  - correct: false
+    detail: Incorrect, "fork up:verb" is not a synonym for "mick".
+    value: fork up:verb
+  - correct: false
+    detail: Incorrect, "stereotyped:satellite" is not a synonym for "mick".
+    value: stereotyped:satellite
+  - correct: false
+    detail: Incorrect, "whistling:noun" is not a synonym for "mick".
+    value: whistling:noun
+  text: What is a synonym for "mick"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "judgement" is a synonym for "sagacity".
+    value: judgement
+  - correct: false
+    detail: Incorrect, "racketeer influenced and corrupt organizations act:noun" is
+      not a synonym for "sagacity".
+    value: racketeer influenced and corrupt organizations act:noun
+  - correct: false
+    detail: Incorrect, "sweet wattle:noun" is not a synonym for "sagacity".
+    value: sweet wattle:noun
+  - correct: false
+    detail: Incorrect, "special jury:noun" is not a synonym for "sagacity".
+    value: special jury:noun
+  text: What is a synonym for "sagacity"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "so long" is a synonym for "good day".
+    value: good-by
+  - correct: false
+    detail: Incorrect, "petiteness:noun" is not a synonym for "good day".
+    value: petiteness:noun
+  - correct: false
+    detail: Incorrect, "reinforced concrete:noun" is not a synonym for "good day".
+    value: reinforced concrete:noun
+  - correct: false
+    detail: Incorrect, "buggery:noun" is not a synonym for "good day".
+    value: buggery:noun
+  text: What is a synonym for "good day"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "couplet" is a synonym for "brace".
+    value: couplet
+  - correct: false
+    detail: Incorrect, "chemistry laboratory:noun" is not a synonym for "brace".
+    value: chemistry laboratory:noun
+  - correct: false
+    detail: Incorrect, "crown imperial:noun" is not a synonym for "brace".
+    value: crown imperial:noun
+  - correct: false
+    detail: Incorrect, "candidature:noun" is not a synonym for "brace".
+    value: candidature:noun
+  text: What is a synonym for "brace"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "million" is a synonym for "meg".
+    value: million
+  - correct: false
+    detail: Incorrect, "functionary:noun" is not a synonym for "meg".
+    value: functionary:noun
+  - correct: false
+    detail: Incorrect, "stendhal:noun" is not a synonym for "meg".
+    value: stendhal:noun
+  - correct: false
+    detail: Incorrect, "clammy chickweed:noun" is not a synonym for "meg".
+    value: clammy chickweed:noun
+  text: What is a synonym for "meg"?

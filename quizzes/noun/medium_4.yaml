@@ -1,0 +1,302 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "kinfolk" is a synonym for "kinsfolk".
+    value: kinfolk
+  - correct: false
+    detail: Incorrect, "antifungal:adjective" is not a synonym for "kinsfolk".
+    value: antifungal:adjective
+  - correct: false
+    detail: Incorrect, "collision:noun" is not a synonym for "kinsfolk".
+    value: collision:noun
+  - correct: false
+    detail: Incorrect, "acyl:noun" is not a synonym for "kinsfolk".
+    value: acyl:noun
+  text: What is a synonym for "kinsfolk"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "laugh" is a synonym for "gag".
+    value: laugh
+  - correct: false
+    detail: Incorrect, "atomic number 54:noun" is not a synonym for "gag".
+    value: atomic number 54:noun
+  - correct: false
+    detail: Incorrect, "lactate:verb" is not a synonym for "gag".
+    value: lactate:verb
+  - correct: false
+    detail: Incorrect, "arboreous:satellite" is not a synonym for "gag".
+    value: arboreous:satellite
+  text: What is a synonym for "gag"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "doll" is a synonym for "skirt".
+    value: annulus|dame
+  - correct: false
+    detail: Incorrect, "gopherus agassizii:noun" is not a synonym for "skirt".
+    value: gopherus agassizii:noun
+  - correct: false
+    detail: Incorrect, "rainbow runner:noun" is not a synonym for "skirt".
+    value: rainbow runner:noun
+  - correct: false
+    detail: Incorrect, "caryocar:noun" is not a synonym for "skirt".
+    value: caryocar:noun
+  text: What is a synonym for "skirt"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "spiral|coil" is a synonym for "volute".
+    value: helix
+  - correct: false
+    detail: Incorrect, "genus loligo:noun" is not a synonym for "volute".
+    value: genus loligo:noun
+  - correct: false
+    detail: Incorrect, "soft rush:noun" is not a synonym for "volute".
+    value: soft rush:noun
+  - correct: false
+    detail: Incorrect, "dalton:noun" is not a synonym for "volute".
+    value: dalton:noun
+  text: What is a synonym for "volute"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Prunella modularis" is a synonym for "dunnock".
+    value: sparrow
+  - correct: false
+    detail: Incorrect, "nw:noun" is not a synonym for "dunnock".
+    value: nw:noun
+  - correct: false
+    detail: Incorrect, "long-beard:noun" is not a synonym for "dunnock".
+    value: long-beard:noun
+  - correct: false
+    detail: Incorrect, "new zealand mountain pine:noun" is not a synonym for "dunnock".
+    value: new zealand mountain pine:noun
+  text: What is a synonym for "dunnock"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "baulk" is a synonym for "handicap".
+    value: baulk
+  - correct: false
+    detail: Incorrect, "chalons-sur-marne:noun" is not a synonym for "handicap".
+    value: chalons-sur-marne:noun
+  - correct: false
+    detail: Incorrect, "disastrous:satellite" is not a synonym for "handicap".
+    value: disastrous:satellite
+  - correct: false
+    detail: Incorrect, "indistinctly:adverb" is not a synonym for "handicap".
+    value: indistinctly:adverb
+  text: What is a synonym for "handicap"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Hedera helix" is a synonym for "ivy".
+    value: English ivy
+  - correct: false
+    detail: Incorrect, "b:noun" is not a synonym for "ivy".
+    value: b:noun
+  - correct: false
+    detail: Incorrect, "conscription:noun" is not a synonym for "ivy".
+    value: conscription:noun
+  - correct: false
+    detail: Incorrect, "tinge:verb" is not a synonym for "ivy".
+    value: tinge:verb
+  text: What is a synonym for "ivy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "gas" is a synonym for "throttle".
+    value: accelerator pedal
+  - correct: false
+    detail: Incorrect, "aristarchus of samos:noun" is not a synonym for "throttle".
+    value: aristarchus of samos:noun
+  - correct: false
+    detail: Incorrect, "lepechinia calycina:noun" is not a synonym for "throttle".
+    value: lepechinia calycina:noun
+  - correct: false
+    detail: Incorrect, "creep up:verb" is not a synonym for "throttle".
+    value: creep up:verb
+  text: What is a synonym for "throttle"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "heroism" is a synonym for "valor".
+    value: valiance
+  - correct: false
+    detail: Incorrect, "bridle:noun" is not a synonym for "valor".
+    value: bridle:noun
+  - correct: false
+    detail: Incorrect, "landry's paralysis:noun" is not a synonym for "valor".
+    value: landry's paralysis:noun
+  - correct: false
+    detail: Incorrect, "fallot's tetralogy:noun" is not a synonym for "valor".
+    value: fallot's tetralogy:noun
+  text: What is a synonym for "valor"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "touchstone|criterion|monetary standard|banner" is a synonym
+      for "standard".
+    value: criterion
+  - correct: false
+    detail: Incorrect, "general practitioner:noun" is not a synonym for "standard".
+    value: general practitioner:noun
+  - correct: false
+    detail: Incorrect, "richard errett smalley:noun" is not a synonym for "standard".
+    value: richard errett smalley:noun
+  - correct: false
+    detail: Incorrect, "bemisia tabaci:noun" is not a synonym for "standard".
+    value: bemisia tabaci:noun
+  text: What is a synonym for "standard"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "berth" is a synonym for "moorage".
+    value: berth
+  - correct: false
+    detail: Incorrect, "idiot:noun" is not a synonym for "moorage".
+    value: idiot:noun
+  - correct: false
+    detail: Incorrect, "the three estates:noun" is not a synonym for "moorage".
+    value: the three estates:noun
+  - correct: false
+    detail: Incorrect, "family burmanniaceae:noun" is not a synonym for "moorage".
+    value: family burmanniaceae:noun
+  text: What is a synonym for "moorage"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Bernd Heinrich Wilhelm von Kleist" is a synonym for "kleist".
+    value: Bernd Heinrich Wilhelm von Kleist
+  - correct: false
+    detail: Incorrect, "ofo:noun" is not a synonym for "kleist".
+    value: ofo:noun
+  - correct: false
+    detail: Incorrect, "transmutability:noun" is not a synonym for "kleist".
+    value: transmutability:noun
+  - correct: false
+    detail: Incorrect, "kentuckian:noun" is not a synonym for "kleist".
+    value: kentuckian:noun
+  text: What is a synonym for "kleist"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Industrial Workers of the World" is a synonym for "i.w.w.".
+    value: Industrial Workers of the World
+  - correct: false
+    detail: Incorrect, "scrupulousness:noun" is not a synonym for "i.w.w.".
+    value: scrupulousness:noun
+  - correct: false
+    detail: Incorrect, "william nunn lipscom jr.:noun" is not a synonym for "i.w.w.".
+    value: william nunn lipscom jr.:noun
+  - correct: false
+    detail: Incorrect, "rhabdosarcoma:noun" is not a synonym for "i.w.w.".
+    value: rhabdosarcoma:noun
+  text: What is a synonym for "i.w.w."?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ginkgo" is a synonym for "gingko".
+    value: Ginkgo biloba
+  - correct: false
+    detail: Incorrect, "eubryales:noun" is not a synonym for "gingko".
+    value: eubryales:noun
+  - correct: false
+    detail: Incorrect, "prickle-weed:noun" is not a synonym for "gingko".
+    value: prickle-weed:noun
+  - correct: false
+    detail: Incorrect, "athwart:adverb" is not a synonym for "gingko".
+    value: athwart:adverb
+  text: What is a synonym for "gingko"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "sheeny" is a synonym for "hymie".
+    value: yid
+  - correct: false
+    detail: Incorrect, "kalapooian:noun" is not a synonym for "hymie".
+    value: kalapooian:noun
+  - correct: false
+    detail: Incorrect, "frequenter:satellite" is not a synonym for "hymie".
+    value: frequenter:satellite
+  - correct: false
+    detail: Incorrect, "vanquish:verb" is not a synonym for "hymie".
+    value: vanquish:verb
+  text: What is a synonym for "hymie"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ammonium alum|potassium alum" is a synonym for "alum".
+    value: ammonia alum
+  - correct: false
+    detail: Incorrect, "music paper:noun" is not a synonym for "alum".
+    value: music paper:noun
+  - correct: false
+    detail: Incorrect, "crawler:noun" is not a synonym for "alum".
+    value: crawler:noun
+  - correct: false
+    detail: Incorrect, "loosestrife family:noun" is not a synonym for "alum".
+    value: loosestrife family:noun
+  text: What is a synonym for "alum"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "type I allergic reaction" is a synonym for "atopy".
+    value: type I allergic reaction
+  - correct: false
+    detail: Incorrect, "genus pituophis:noun" is not a synonym for "atopy".
+    value: genus pituophis:noun
+  - correct: false
+    detail: Incorrect, "syncategorem:noun" is not a synonym for "atopy".
+    value: syncategorem:noun
+  - correct: false
+    detail: Incorrect, "elucidative:satellite" is not a synonym for "atopy".
+    value: elucidative:satellite
+  text: What is a synonym for "atopy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "kerosine" is a synonym for "coal oil".
+    value: lamp oil
+  - correct: false
+    detail: Incorrect, "loony:noun" is not a synonym for "coal oil".
+    value: loony:noun
+  - correct: false
+    detail: Incorrect, "infernal:satellite" is not a synonym for "coal oil".
+    value: infernal:satellite
+  - correct: false
+    detail: Incorrect, "hymnbook:noun" is not a synonym for "coal oil".
+    value: hymnbook:noun
+  text: What is a synonym for "coal oil"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Thailand" is a synonym for "thailand".
+    value: Siam
+  - correct: false
+    detail: Incorrect, "old line state:noun" is not a synonym for "thailand".
+    value: old line state:noun
+  - correct: false
+    detail: Incorrect, "gall gnat:noun" is not a synonym for "thailand".
+    value: gall gnat:noun
+  - correct: false
+    detail: Incorrect, "kirgizstan:noun" is not a synonym for "thailand".
+    value: kirgizstan:noun
+  text: What is a synonym for "thailand"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "durability" is a synonym for "strength".
+    value: military capability
+  - correct: false
+    detail: Incorrect, "civic spirit:noun" is not a synonym for "strength".
+    value: civic spirit:noun
+  - correct: false
+    detail: Incorrect, "hemp agrimony:noun" is not a synonym for "strength".
+    value: hemp agrimony:noun
+  - correct: false
+    detail: Incorrect, "sibilate:verb" is not a synonym for "strength".
+    value: sibilate:verb
+  text: What is a synonym for "strength"?

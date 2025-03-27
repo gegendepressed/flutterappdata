@@ -1,0 +1,13 @@
+id: adverb
+img: adverb.png
+quizzes:
+- description: Synonyms for Adverb (Easy)
+  id: adverb-easy
+  title: Adverb - Easy
+- description: Synonyms for Adverb (Medium)
+  id: adverb-medium
+  title: Adverb - Medium
+- description: Synonyms for Adverb (Hard)
+  id: adverb-hard
+  title: Adverb - Hard
+title: Adverb Synonyms

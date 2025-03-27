@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "toughened" is a synonym for "hardened".
+    value: toughened
+  - correct: false
+    detail: Incorrect, "combustible:noun" is not a synonym for "hardened".
+    value: combustible:noun
+  - correct: false
+    detail: Incorrect, "mohs scale:noun" is not a synonym for "hardened".
+    value: mohs scale:noun
+  - correct: false
+    detail: Incorrect, "hypsometry:noun" is not a synonym for "hardened".
+    value: hypsometry:noun
+  text: What is a synonym for "hardened"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "cyclonical" is a synonym for "cyclonal".
+    value: cyclonical|cyclonic
+  - correct: false
+    detail: Incorrect, "diethyl ether:noun" is not a synonym for "cyclonal".
+    value: diethyl ether:noun
+  - correct: false
+    detail: Incorrect, "minibike:noun" is not a synonym for "cyclonal".
+    value: minibike:noun
+  - correct: false
+    detail: Incorrect, "eminent:satellite" is not a synonym for "cyclonal".
+    value: eminent:satellite
+  text: What is a synonym for "cyclonal"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "papistical" is a synonym for "papist".
+    value: Romanist
+  - correct: false
+    detail: Incorrect, "doubler:satellite" is not a synonym for "papist".
+    value: doubler:satellite
+  - correct: false
+    detail: Incorrect, "melange:noun" is not a synonym for "papist".
+    value: melange:noun
+  - correct: false
+    detail: Incorrect, "cirriped:noun" is not a synonym for "papist".
+    value: cirriped:noun
+  text: What is a synonym for "papist"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "diffident" is a synonym for "unsure".
+    value: shy
+  - correct: false
+    detail: Incorrect, "dust mop:noun" is not a synonym for "unsure".
+    value: dust mop:noun
+  - correct: false
+    detail: Incorrect, "dushanbe:noun" is not a synonym for "unsure".
+    value: dushanbe:noun
+  - correct: false
+    detail: Incorrect, "broad beech fern:noun" is not a synonym for "unsure".
+    value: broad beech fern:noun
+  text: What is a synonym for "unsure"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "amebic" is a synonym for "amebous".
+    value: amoebous
+  - correct: false
+    detail: Incorrect, "family cobitidae:noun" is not a synonym for "amebous".
+    value: family cobitidae:noun
+  - correct: false
+    detail: Incorrect, "compilation:noun" is not a synonym for "amebous".
+    value: compilation:noun
+  - correct: false
+    detail: Incorrect, "validness:noun" is not a synonym for "amebous".
+    value: validness:noun
+  text: What is a synonym for "amebous"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Jesuit" is a synonym for "jesuitic".
+    value: Jesuitical
+  - correct: false
+    detail: Incorrect, "william crawford gorgas:noun" is not a synonym for "jesuitic".
+    value: william crawford gorgas:noun
+  - correct: false
+    detail: Incorrect, "pepper pot:noun" is not a synonym for "jesuitic".
+    value: pepper pot:noun
+  - correct: false
+    detail: Incorrect, "cloy:verb" is not a synonym for "jesuitic".
+    value: cloy:verb
+  text: What is a synonym for "jesuitic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "amebic" is a synonym for "ameban".
+    value: amebic
+  - correct: false
+    detail: Incorrect, "expenditure:noun" is not a synonym for "ameban".
+    value: expenditure:noun
+  - correct: false
+    detail: Incorrect, "principle of superposition:noun" is not a synonym for "ameban".
+    value: principle of superposition:noun
+  - correct: false
+    detail: Incorrect, "chain mail:noun" is not a synonym for "ameban".
+    value: chain mail:noun
+  text: What is a synonym for "ameban"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "close" is a synonym for "closer".
+    value: close
+  - correct: false
+    detail: Incorrect, "rate of growth:noun" is not a synonym for "closer".
+    value: rate of growth:noun
+  - correct: false
+    detail: Incorrect, "civet bean:noun" is not a synonym for "closer".
+    value: civet bean:noun
+  - correct: false
+    detail: Incorrect, "strain gage:noun" is not a synonym for "closer".
+    value: strain gage:noun
+  text: What is a synonym for "closer"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Moslem" is a synonym for "moslem".
+    value: Islamic
+  - correct: false
+    detail: Incorrect, "mordvinian:noun" is not a synonym for "moslem".
+    value: mordvinian:noun
+  - correct: false
+    detail: Incorrect, "rbc:noun" is not a synonym for "moslem".
+    value: rbc:noun
+  - correct: false
+    detail: Incorrect, "trustingly:adverb" is not a synonym for "moslem".
+    value: trustingly:adverb
+  text: What is a synonym for "moslem"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "amebous" is a synonym for "amebic".
+    value: amoeban
+  - correct: false
+    detail: Incorrect, "terence rattigan:noun" is not a synonym for "amebic".
+    value: terence rattigan:noun
+  - correct: false
+    detail: Incorrect, "icelandic:noun" is not a synonym for "amebic".
+    value: icelandic:noun
+  - correct: false
+    detail: Incorrect, "german rampion:noun" is not a synonym for "amebic".
+    value: german rampion:noun
+  text: What is a synonym for "amebic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Afghan" is a synonym for "afghan".
+    value: Afghanistani
+  - correct: false
+    detail: Incorrect, "sheep dog:noun" is not a synonym for "afghan".
+    value: sheep dog:noun
+  - correct: false
+    detail: Incorrect, "at the worst:adverb" is not a synonym for "afghan".
+    value: at the worst:adverb
+  - correct: false
+    detail: Incorrect, "calypso:noun" is not a synonym for "afghan".
+    value: calypso:noun
+  text: What is a synonym for "afghan"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Siamese|Thai" is a synonym for "tai".
+    value: Thai
+  - correct: false
+    detail: Incorrect, "shibah:noun" is not a synonym for "tai".
+    value: shibah:noun
+  - correct: false
+    detail: Incorrect, "ferret:verb" is not a synonym for "tai".
+    value: ferret:verb
+  - correct: false
+    detail: Incorrect, "take chances:verb" is not a synonym for "tai".
+    value: take chances:verb
+  text: What is a synonym for "tai"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "hemal" is a synonym for "hematal".
+    value: haemal
+  - correct: false
+    detail: Incorrect, "siberian larch:noun" is not a synonym for "hematal".
+    value: siberian larch:noun
+  - correct: false
+    detail: Incorrect, "english lavender:noun" is not a synonym for "hematal".
+    value: english lavender:noun
+  - correct: false
+    detail: Incorrect, "halophile:noun" is not a synonym for "hematal".
+    value: halophile:noun
+  text: What is a synonym for "hematal"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Scots" is a synonym for "scottish".
+    value: Scottish
+  - correct: false
+    detail: Incorrect, "gubbins:noun" is not a synonym for "scottish".
+    value: gubbins:noun
+  - correct: false
+    detail: Incorrect, "robert wilhelm bunsen:noun" is not a synonym for "scottish".
+    value: robert wilhelm bunsen:noun
+  - correct: false
+    detail: Incorrect, "break dance:noun" is not a synonym for "scottish".
+    value: break dance:noun
+  text: What is a synonym for "scottish"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "epidermal" is a synonym for "dermal".
+    value: epidermal
+  - correct: false
+    detail: Incorrect, "rung:noun" is not a synonym for "dermal".
+    value: rung:noun
+  - correct: false
+    detail: Incorrect, "purple-brown:satellite" is not a synonym for "dermal".
+    value: purple-brown:satellite
+  - correct: false
+    detail: Incorrect, "red-blooded:satellite" is not a synonym for "dermal".
+    value: red-blooded:satellite
+  text: What is a synonym for "dermal"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "breathless" is a synonym for "dyspneic".
+    value: dyspneal
+  - correct: false
+    detail: Incorrect, "spell-bound:satellite" is not a synonym for "dyspneic".
+    value: spell-bound:satellite
+  - correct: false
+    detail: Incorrect, "foster-brother:noun" is not a synonym for "dyspneic".
+    value: foster-brother:noun
+  - correct: false
+    detail: Incorrect, "bilobate:satellite" is not a synonym for "dyspneic".
+    value: bilobate:satellite
+  text: What is a synonym for "dyspneic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Jesuit" is a synonym for "jesuit".
+    value: Jesuitical
+  - correct: false
+    detail: Incorrect, "pitcher's mound:noun" is not a synonym for "jesuit".
+    value: pitcher's mound:noun
+  - correct: false
+    detail: Incorrect, "dockworker:noun" is not a synonym for "jesuit".
+    value: dockworker:noun
+  - correct: false
+    detail: Incorrect, "measure up:verb" is not a synonym for "jesuit".
+    value: measure up:verb
+  text: What is a synonym for "jesuit"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "jolting" is a synonym for "rocky".
+    value: rough
+  - correct: false
+    detail: Incorrect, "pine hyacinth:noun" is not a synonym for "rocky".
+    value: pine hyacinth:noun
+  - correct: false
+    detail: Incorrect, "veneering:verb" is not a synonym for "rocky".
+    value: veneering:verb
+  - correct: false
+    detail: Incorrect, "geranium viscosissimum:noun" is not a synonym for "rocky".
+    value: geranium viscosissimum:noun
+  text: What is a synonym for "rocky"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "haematic" is a synonym for "hematic".
+    value: haemic
+  - correct: false
+    detail: Incorrect, "categorize:verb" is not a synonym for "hematic".
+    value: categorize:verb
+  - correct: false
+    detail: Incorrect, "schmuck:noun" is not a synonym for "hematic".
+    value: schmuck:noun
+  - correct: false
+    detail: Incorrect, "unitize:verb" is not a synonym for "hematic".
+    value: unitize:verb
+  text: What is a synonym for "hematic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "nonionized" is a synonym for "nonionic".
+    value: nonionised
+  - correct: false
+    detail: Incorrect, "scutcheon:noun" is not a synonym for "nonionic".
+    value: scutcheon:noun
+  - correct: false
+    detail: Incorrect, "case law:noun" is not a synonym for "nonionic".
+    value: case law:noun
+  - correct: false
+    detail: Incorrect, "inaccessible:adjective" is not a synonym for "nonionic".
+    value: inaccessible:adjective
+  text: What is a synonym for "nonionic"?

@@ -1,0 +1,302 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "brooch|buckle" is a synonym for "clasp".
+    value: brooch|buckle
+  - correct: false
+    detail: Incorrect, "cerebral death:noun" is not a synonym for "clasp".
+    value: cerebral death:noun
+  - correct: false
+    detail: Incorrect, "sheepskin:noun" is not a synonym for "clasp".
+    value: sheepskin:noun
+  - correct: false
+    detail: Incorrect, "poor fish:noun" is not a synonym for "clasp".
+    value: poor fish:noun
+  text: What is a synonym for "clasp"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "comprehend" is a synonym for "perceive".
+    value: comprehend
+  - correct: false
+    detail: Incorrect, "unelaborated:satellite" is not a synonym for "perceive".
+    value: unelaborated:satellite
+  - correct: false
+    detail: Incorrect, "confucian:adjective" is not a synonym for "perceive".
+    value: confucian:adjective
+  - correct: false
+    detail: Incorrect, "interpretive dance:noun" is not a synonym for "perceive".
+    value: interpretive dance:noun
+  text: What is a synonym for "perceive"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "carry-the can" is a synonym for "face the music".
+    value: carry-the can
+  - correct: false
+    detail: Incorrect, "self-conceitedly:adverb" is not a synonym for "face the music".
+    value: self-conceitedly:adverb
+  - correct: false
+    detail: Incorrect, "diamond wedding anniversary:noun" is not a synonym for "face
+      the music".
+    value: diamond wedding anniversary:noun
+  - correct: false
+    detail: Incorrect, "comer vann woodward:noun" is not a synonym for "face the music".
+    value: comer vann woodward:noun
+  text: What is a synonym for "face the music"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "copolymerise" is a synonym for "copolymerize".
+    value: copolymerise
+  - correct: false
+    detail: Incorrect, "propellent:satellite" is not a synonym for "copolymerize".
+    value: propellent:satellite
+  - correct: false
+    detail: Incorrect, "family aloeaceae:noun" is not a synonym for "copolymerize".
+    value: family aloeaceae:noun
+  - correct: false
+    detail: Incorrect, "pridefulness:noun" is not a synonym for "copolymerize".
+    value: pridefulness:noun
+  text: What is a synonym for "copolymerize"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "clerk" is a synonym for "clerking".
+    value: clerk
+  - correct: false
+    detail: Incorrect, "neurohypophysis:noun" is not a synonym for "clerking".
+    value: neurohypophysis:noun
+  - correct: false
+    detail: Incorrect, "conglomeration:noun" is not a synonym for "clerking".
+    value: conglomeration:noun
+  - correct: false
+    detail: Incorrect, "ooze:noun" is not a synonym for "clerking".
+    value: ooze:noun
+  text: What is a synonym for "clerking"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "footnote|gloss" is a synonym for "annotate".
+    value: footnote|gloss
+  - correct: false
+    detail: Incorrect, "munich:noun" is not a synonym for "annotate".
+    value: munich:noun
+  - correct: false
+    detail: Incorrect, "menispermum:noun" is not a synonym for "annotate".
+    value: menispermum:noun
+  - correct: false
+    detail: Incorrect, "numbers racket:noun" is not a synonym for "annotate".
+    value: numbers racket:noun
+  text: What is a synonym for "annotate"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "flurry" is a synonym for "disconcerting".
+    value: discompose
+  - correct: false
+    detail: Incorrect, "becalm:verb" is not a synonym for "disconcerting".
+    value: becalm:verb
+  - correct: false
+    detail: Incorrect, "kalpac:noun" is not a synonym for "disconcerting".
+    value: kalpac:noun
+  - correct: false
+    detail: Incorrect, "agitation:noun" is not a synonym for "disconcerting".
+    value: agitation:noun
+  text: What is a synonym for "disconcerting"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hose" is a synonym for "hose down".
+    value: hose
+  - correct: false
+    detail: Incorrect, "dehumanised:verb" is not a synonym for "hose down".
+    value: dehumanised:verb
+  - correct: false
+    detail: Incorrect, "fantasize:verb" is not a synonym for "hose down".
+    value: fantasize:verb
+  - correct: false
+    detail: Incorrect, "strip steak:noun" is not a synonym for "hose down".
+    value: strip steak:noun
+  text: What is a synonym for "hose down"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "articulate" is a synonym for "sound out".
+    value: enounce
+  - correct: false
+    detail: Incorrect, "facia:noun" is not a synonym for "sound out".
+    value: facia:noun
+  - correct: false
+    detail: Incorrect, "assist:noun" is not a synonym for "sound out".
+    value: assist:noun
+  - correct: false
+    detail: Incorrect, "cyclops:noun" is not a synonym for "sound out".
+    value: cyclops:noun
+  text: What is a synonym for "sound out"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "collectivize" is a synonym for "collectivised".
+    value: collectivise
+  - correct: false
+    detail: Incorrect, "hypopitys:noun" is not a synonym for "collectivised".
+    value: hypopitys:noun
+  - correct: false
+    detail: Incorrect, "ordinarily:adverb" is not a synonym for "collectivised".
+    value: ordinarily:adverb
+  - correct: false
+    detail: Incorrect, "hackney coach:noun" is not a synonym for "collectivised".
+    value: hackney coach:noun
+  text: What is a synonym for "collectivised"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hoard|collect" is a synonym for "collected".
+    value: hoard|collect
+  - correct: false
+    detail: Incorrect, "sailor king:noun" is not a synonym for "collected".
+    value: sailor king:noun
+  - correct: false
+    detail: Incorrect, "painted cup:noun" is not a synonym for "collected".
+    value: painted cup:noun
+  - correct: false
+    detail: Incorrect, "tap-off:noun" is not a synonym for "collected".
+    value: tap-off:noun
+  text: What is a synonym for "collected"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "cannibalize|cannibalize" is a synonym for "cannibalise".
+    value: cannibalize|cannibalize
+  - correct: false
+    detail: Incorrect, "wage:verb" is not a synonym for "cannibalise".
+    value: wage:verb
+  - correct: false
+    detail: Incorrect, "stick insect:noun" is not a synonym for "cannibalise".
+    value: stick insect:noun
+  - correct: false
+    detail: Incorrect, "programming:noun" is not a synonym for "cannibalise".
+    value: programming:noun
+  text: What is a synonym for "cannibalise"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "tear into" is a synonym for "pitch into".
+    value: lace into
+  - correct: false
+    detail: Incorrect, "cynipid gall wasp:noun" is not a synonym for "pitch into".
+    value: cynipid gall wasp:noun
+  - correct: false
+    detail: Incorrect, "mankind:noun" is not a synonym for "pitch into".
+    value: mankind:noun
+  - correct: false
+    detail: Incorrect, "annexa:noun" is not a synonym for "pitch into".
+    value: annexa:noun
+  text: What is a synonym for "pitch into"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "acquaint" is a synonym for "familiarised".
+    value: familiarise
+  - correct: false
+    detail: Incorrect, "publius terentius afer:noun" is not a synonym for "familiarised".
+    value: publius terentius afer:noun
+  - correct: false
+    detail: Incorrect, "sward:noun" is not a synonym for "familiarised".
+    value: sward:noun
+  - correct: false
+    detail: Incorrect, "credit rating:noun" is not a synonym for "familiarised".
+    value: credit rating:noun
+  text: What is a synonym for "familiarised"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "acclimatise" is a synonym for "acclimatize".
+    value: acclimate
+  - correct: false
+    detail: Incorrect, "prunus cerasus austera:noun" is not a synonym for "acclimatize".
+    value: prunus cerasus austera:noun
+  - correct: false
+    detail: Incorrect, "peking:noun" is not a synonym for "acclimatize".
+    value: peking:noun
+  - correct: false
+    detail: Incorrect, "capital of maryland:noun" is not a synonym for "acclimatize".
+    value: capital of maryland:noun
+  text: What is a synonym for "acclimatize"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "scald" is a synonym for "blistering".
+    value: vesicate|blister
+  - correct: false
+    detail: Incorrect, "nicola amati:noun" is not a synonym for "blistering".
+    value: nicola amati:noun
+  - correct: false
+    detail: Incorrect, "impression:noun" is not a synonym for "blistering".
+    value: impression:noun
+  - correct: false
+    detail: Incorrect, "cladrastis:noun" is not a synonym for "blistering".
+    value: cladrastis:noun
+  text: What is a synonym for "blistering"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "invest" is a synonym for "empowered".
+    value: authorize|endow
+  - correct: false
+    detail: Incorrect, "day care center:noun" is not a synonym for "empowered".
+    value: day care center:noun
+  - correct: false
+    detail: Incorrect, "resubmit:verb" is not a synonym for "empowered".
+    value: resubmit:verb
+  - correct: false
+    detail: Incorrect, "fibre optic cable:noun" is not a synonym for "empowered".
+    value: fibre optic cable:noun
+  text: What is a synonym for "empowered"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "weave" is a synonym for "interwoven".
+    value: weave
+  - correct: false
+    detail: Incorrect, "hooker:noun" is not a synonym for "interwoven".
+    value: hooker:noun
+  - correct: false
+    detail: Incorrect, "pulverised:satellite" is not a synonym for "interwoven".
+    value: pulverised:satellite
+  - correct: false
+    detail: Incorrect, "clomid:noun" is not a synonym for "interwoven".
+    value: clomid:noun
+  text: What is a synonym for "interwoven"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "gladden" is a synonym for "gladdened".
+    value: joy|gladden
+  - correct: false
+    detail: Incorrect, "german lesson:noun" is not a synonym for "gladdened".
+    value: german lesson:noun
+  - correct: false
+    detail: Incorrect, "gross:satellite" is not a synonym for "gladdened".
+    value: gross:satellite
+  - correct: false
+    detail: Incorrect, "horseback rider:noun" is not a synonym for "gladdened".
+    value: horseback rider:noun
+  text: What is a synonym for "gladdened"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "faggot" is a synonym for "faggot up".
+    value: faggot
+  - correct: false
+    detail: Incorrect, "lipophilic:satellite" is not a synonym for "faggot up".
+    value: lipophilic:satellite
+  - correct: false
+    detail: Incorrect, "unnameable:satellite" is not a synonym for "faggot up".
+    value: unnameable:satellite
+  - correct: false
+    detail: Incorrect, "accepted:satellite" is not a synonym for "faggot up".
+    value: accepted:satellite
+  text: What is a synonym for "faggot up"?

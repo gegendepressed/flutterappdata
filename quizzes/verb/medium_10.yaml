@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "grapple" is a synonym for "dealing".
+    value: divvy up
+  - correct: false
+    detail: Incorrect, "potawatomi:noun" is not a synonym for "dealing".
+    value: potawatomi:noun
+  - correct: false
+    detail: Incorrect, "lean:adjective" is not a synonym for "dealing".
+    value: lean:adjective
+  - correct: false
+    detail: Incorrect, "japanese cherry:noun" is not a synonym for "dealing".
+    value: japanese cherry:noun
+  text: What is a synonym for "dealing"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "add" is a synonym for "bestow".
+    value: impart
+  - correct: false
+    detail: Incorrect, "sallet:noun" is not a synonym for "bestow".
+    value: sallet:noun
+  - correct: false
+    detail: Incorrect, "servant girl:noun" is not a synonym for "bestow".
+    value: servant girl:noun
+  - correct: false
+    detail: Incorrect, "inculpability:noun" is not a synonym for "bestow".
+    value: inculpability:noun
+  text: What is a synonym for "bestow"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "train|dress" is a synonym for "grooming".
+    value: prepare
+  - correct: false
+    detail: Incorrect, "fabian:adjective" is not a synonym for "grooming".
+    value: fabian:adjective
+  - correct: false
+    detail: Incorrect, "alsatian:adjective" is not a synonym for "grooming".
+    value: alsatian:adjective
+  - correct: false
+    detail: Incorrect, "lorenz okenfuss:noun" is not a synonym for "grooming".
+    value: lorenz okenfuss:noun
+  text: What is a synonym for "grooming"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "throw" is a synonym for "bemused".
+    value: throw
+  - correct: false
+    detail: Incorrect, "innocents' day:noun" is not a synonym for "bemused".
+    value: innocents' day:noun
+  - correct: false
+    detail: Incorrect, "honours:verb" is not a synonym for "bemused".
+    value: honours:verb
+  - correct: false
+    detail: Incorrect, "death tax:noun" is not a synonym for "bemused".
+    value: death tax:noun
+  text: What is a synonym for "bemused"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ill-treat|pace" is a synonym for "step".
+    value: maltreat
+  - correct: false
+    detail: Incorrect, "scrubbing brush:noun" is not a synonym for "step".
+    value: scrubbing brush:noun
+  - correct: false
+    detail: Incorrect, "dreaded:satellite" is not a synonym for "step".
+    value: dreaded:satellite
+  - correct: false
+    detail: Incorrect, "himantopus mexicanus:noun" is not a synonym for "step".
+    value: himantopus mexicanus:noun
+  text: What is a synonym for "step"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "placate" is a synonym for "gentle".
+    value: lenify
+  - correct: false
+    detail: Incorrect, "cape hatteras:noun" is not a synonym for "gentle".
+    value: cape hatteras:noun
+  - correct: false
+    detail: Incorrect, "leaf mould:noun" is not a synonym for "gentle".
+    value: leaf mould:noun
+  - correct: false
+    detail: Incorrect, "quark cheese:noun" is not a synonym for "gentle".
+    value: quark cheese:noun
+  text: What is a synonym for "gentle"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "reduce|invalidate" is a synonym for "quash".
+    value: repress
+  - correct: false
+    detail: Incorrect, "upmost:satellite" is not a synonym for "quash".
+    value: upmost:satellite
+  - correct: false
+    detail: Incorrect, "believing:verb" is not a synonym for "quash".
+    value: believing:verb
+  - correct: false
+    detail: Incorrect, "boo-boo:noun" is not a synonym for "quash".
+    value: boo-boo:noun
+  text: What is a synonym for "quash"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "chatter" is a synonym for "palaver".
+    value: twaddle
+  - correct: false
+    detail: Incorrect, "prussian:adjective" is not a synonym for "palaver".
+    value: prussian:adjective
+  - correct: false
+    detail: Incorrect, "parseeism:noun" is not a synonym for "palaver".
+    value: parseeism:noun
+  - correct: false
+    detail: Incorrect, "addictive:adjective" is not a synonym for "palaver".
+    value: addictive:adjective
+  text: What is a synonym for "palaver"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "specify" is a synonym for "assigned".
+    value: attribute|assign
+  - correct: false
+    detail: Incorrect, "hartley:noun" is not a synonym for "assigned".
+    value: hartley:noun
+  - correct: false
+    detail: Incorrect, "just now:adverb" is not a synonym for "assigned".
+    value: just now:adverb
+  - correct: false
+    detail: Incorrect, "immunization:noun" is not a synonym for "assigned".
+    value: immunization:noun
+  text: What is a synonym for "assigned"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "need" is a synonym for "needed".
+    value: require
+  - correct: false
+    detail: Incorrect, "etching:verb" is not a synonym for "needed".
+    value: etching:verb
+  - correct: false
+    detail: Incorrect, "salsola soda:noun" is not a synonym for "needed".
+    value: salsola soda:noun
+  - correct: false
+    detail: Incorrect, "bohme:noun" is not a synonym for "needed".
+    value: bohme:noun
+  text: What is a synonym for "needed"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "hazard" is a synonym for "chance".
+    value: encounter
+  - correct: false
+    detail: Incorrect, "nisei:noun" is not a synonym for "chance".
+    value: nisei:noun
+  - correct: false
+    detail: Incorrect, "stroppy:satellite" is not a synonym for "chance".
+    value: stroppy:satellite
+  - correct: false
+    detail: Incorrect, "psychopsis:noun" is not a synonym for "chance".
+    value: psychopsis:noun
+  text: What is a synonym for "chance"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "weave|weave" is a synonym for "weaving".
+    value: weave
+  - correct: false
+    detail: Incorrect, "genus sequoia:noun" is not a synonym for "weaving".
+    value: genus sequoia:noun
+  - correct: false
+    detail: Incorrect, "rotc:noun" is not a synonym for "weaving".
+    value: rotc:noun
+  - correct: false
+    detail: Incorrect, "in the least:adverb" is not a synonym for "weaving".
+    value: in the least:adverb
+  text: What is a synonym for "weaving"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "lessen" is a synonym for "falls".
+    value: flow|fall|fall|fall|fall|fall|fall|fall
+  - correct: false
+    detail: Incorrect, "partridge pea:noun" is not a synonym for "falls".
+    value: partridge pea:noun
+  - correct: false
+    detail: Incorrect, "nervus spinalis:noun" is not a synonym for "falls".
+    value: nervus spinalis:noun
+  - correct: false
+    detail: Incorrect, "algae:noun" is not a synonym for "falls".
+    value: algae:noun
+  text: What is a synonym for "falls"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "observe" is a synonym for "findings".
+    value: discover
+  - correct: false
+    detail: Incorrect, "capital of saudi arabia:noun" is not a synonym for "findings".
+    value: capital of saudi arabia:noun
+  - correct: false
+    detail: Incorrect, "potto:noun" is not a synonym for "findings".
+    value: potto:noun
+  - correct: false
+    detail: Incorrect, "feudal system:noun" is not a synonym for "findings".
+    value: feudal system:noun
+  text: What is a synonym for "findings"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "hunker" is a synonym for "crouch".
+    value: hunker down
+  - correct: false
+    detail: Incorrect, "family chermidae:noun" is not a synonym for "crouch".
+    value: family chermidae:noun
+  - correct: false
+    detail: Incorrect, "fremontodendron:noun" is not a synonym for "crouch".
+    value: fremontodendron:noun
+  - correct: false
+    detail: Incorrect, "king snake:noun" is not a synonym for "crouch".
+    value: king snake:noun
+  text: What is a synonym for "crouch"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "cypher" is a synonym for "coding".
+    value: write in code|gull
+  - correct: false
+    detail: Incorrect, "cervus unicolor:noun" is not a synonym for "coding".
+    value: cervus unicolor:noun
+  - correct: false
+    detail: Incorrect, "ideologic:satellite" is not a synonym for "coding".
+    value: ideologic:satellite
+  - correct: false
+    detail: Incorrect, "fluency:noun" is not a synonym for "coding".
+    value: fluency:noun
+  text: What is a synonym for "coding"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "set off" is a synonym for "spark".
+    value: trigger off
+  - correct: false
+    detail: Incorrect, "cortinarius armillatus:noun" is not a synonym for "spark".
+    value: cortinarius armillatus:noun
+  - correct: false
+    detail: Incorrect, "lipfern:noun" is not a synonym for "spark".
+    value: lipfern:noun
+  - correct: false
+    detail: Incorrect, "beguine:noun" is not a synonym for "spark".
+    value: beguine:noun
+  text: What is a synonym for "spark"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "scale|scale|scale|scale" is a synonym for "scaled".
+    value: surmount|scale|scale
+  - correct: false
+    detail: Incorrect, "free-base:verb" is not a synonym for "scaled".
+    value: free-base:verb
+  - correct: false
+    detail: Incorrect, "iron collar:noun" is not a synonym for "scaled".
+    value: iron collar:noun
+  - correct: false
+    detail: Incorrect, "enraged:satellite" is not a synonym for "scaled".
+    value: enraged:satellite
+  text: What is a synonym for "scaled"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "shut up" is a synonym for "quieten".
+    value: lull
+  - correct: false
+    detail: Incorrect, "greek fire:noun" is not a synonym for "quieten".
+    value: greek fire:noun
+  - correct: false
+    detail: Incorrect, "formula:noun" is not a synonym for "quieten".
+    value: formula:noun
+  - correct: false
+    detail: Incorrect, "order opuntiales:noun" is not a synonym for "quieten".
+    value: order opuntiales:noun
+  text: What is a synonym for "quieten"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "botch" is a synonym for "botch up".
+    value: bollocks
+  - correct: false
+    detail: Incorrect, "swaggering:verb" is not a synonym for "botch up".
+    value: swaggering:verb
+  - correct: false
+    detail: Incorrect, "skeet:noun" is not a synonym for "botch up".
+    value: skeet:noun
+  - correct: false
+    detail: Incorrect, "french person:noun" is not a synonym for "botch up".
+    value: french person:noun
+  text: What is a synonym for "botch up"?

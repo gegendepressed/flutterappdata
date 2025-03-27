@@ -1,0 +1,303 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "splayfooted" is a synonym for "splayfoot".
+    value: splayfooted
+  - correct: false
+    detail: Incorrect, "jules alfred huot de goncourt:noun" is not a synonym for "splayfoot".
+    value: jules alfred huot de goncourt:noun
+  - correct: false
+    detail: Incorrect, "zoroastrian:noun" is not a synonym for "splayfoot".
+    value: zoroastrian:noun
+  - correct: false
+    detail: Incorrect, "bluish-grey:satellite" is not a synonym for "splayfoot".
+    value: bluish-grey:satellite
+  text: What is a synonym for "splayfoot"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "rough" is a synonym for "unsmooth".
+    value: rough
+  - correct: false
+    detail: Incorrect, "practice:verb" is not a synonym for "unsmooth".
+    value: practice:verb
+  - correct: false
+    detail: Incorrect, "power-assisted steering:noun" is not a synonym for "unsmooth".
+    value: power-assisted steering:noun
+  - correct: false
+    detail: Incorrect, "cucumber:noun" is not a synonym for "unsmooth".
+    value: cucumber:noun
+  text: What is a synonym for "unsmooth"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "millennial" is a synonym for "millennian".
+    value: millennial
+  - correct: false
+    detail: Incorrect, "y:noun" is not a synonym for "millennian".
+    value: y:noun
+  - correct: false
+    detail: Incorrect, "interlacing:satellite" is not a synonym for "millennian".
+    value: interlacing:satellite
+  - correct: false
+    detail: Incorrect, "laney:noun" is not a synonym for "millennian".
+    value: laney:noun
+  text: What is a synonym for "millennian"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unsympathetic" is a synonym for "unlikeable".
+    value: unlikable
+  - correct: false
+    detail: Incorrect, "secular:adjective" is not a synonym for "unlikeable".
+    value: secular:adjective
+  - correct: false
+    detail: Incorrect, "cenozoic:noun" is not a synonym for "unlikeable".
+    value: cenozoic:noun
+  - correct: false
+    detail: Incorrect, "lepanto:noun" is not a synonym for "unlikeable".
+    value: lepanto:noun
+  text: What is a synonym for "unlikeable"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "machine readable" is a synonym for "computer readable".
+    value: machine readable
+  - correct: false
+    detail: Incorrect, "furore:noun" is not a synonym for "computer readable".
+    value: furore:noun
+  - correct: false
+    detail: Incorrect, "manual labor:noun" is not a synonym for "computer readable".
+    value: manual labor:noun
+  - correct: false
+    detail: Incorrect, "arteria temporalis posterior:noun" is not a synonym for "computer
+      readable".
+    value: arteria temporalis posterior:noun
+  text: What is a synonym for "computer readable"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Sotho" is a synonym for "sotho".
+    value: Sotho
+  - correct: false
+    detail: Incorrect, "buxom:satellite" is not a synonym for "sotho".
+    value: buxom:satellite
+  - correct: false
+    detail: Incorrect, "alexander isayevich solzhenitsyn:noun" is not a synonym for
+      "sotho".
+    value: alexander isayevich solzhenitsyn:noun
+  - correct: false
+    detail: Incorrect, "creole-fish:noun" is not a synonym for "sotho".
+    value: creole-fish:noun
+  text: What is a synonym for "sotho"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "coreferential" is a synonym for "co-referent".
+    value: coreferential
+  - correct: false
+    detail: Incorrect, "press on:verb" is not a synonym for "co-referent".
+    value: press on:verb
+  - correct: false
+    detail: Incorrect, "viverrine:noun" is not a synonym for "co-referent".
+    value: viverrine:noun
+  - correct: false
+    detail: Incorrect, "caribbean sea:noun" is not a synonym for "co-referent".
+    value: caribbean sea:noun
+  text: What is a synonym for "co-referent"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "missionary" is a synonym for "missional".
+    value: missionary
+  - correct: false
+    detail: Incorrect, "mulla:noun" is not a synonym for "missional".
+    value: mulla:noun
+  - correct: false
+    detail: Incorrect, "extroverted:satellite" is not a synonym for "missional".
+    value: extroverted:satellite
+  - correct: false
+    detail: Incorrect, "yankee-doodle:noun" is not a synonym for "missional".
+    value: yankee-doodle:noun
+  text: What is a synonym for "missional"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "auric" is a synonym for "aurous".
+    value: auric
+  - correct: false
+    detail: Incorrect, "prevalent:satellite" is not a synonym for "aurous".
+    value: prevalent:satellite
+  - correct: false
+    detail: Incorrect, "reprint:noun" is not a synonym for "aurous".
+    value: reprint:noun
+  - correct: false
+    detail: Incorrect, "reckoning:verb" is not a synonym for "aurous".
+    value: reckoning:verb
+  text: What is a synonym for "aurous"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "crude" is a synonym for "unrefined".
+    value: unprocessed
+  - correct: false
+    detail: Incorrect, "composing:verb" is not a synonym for "unrefined".
+    value: composing:verb
+  - correct: false
+    detail: Incorrect, "genus triturus:noun" is not a synonym for "unrefined".
+    value: genus triturus:noun
+  - correct: false
+    detail: Incorrect, "big h:noun" is not a synonym for "unrefined".
+    value: big h:noun
+  text: What is a synonym for "unrefined"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "womanly" is a synonym for "feminine".
+    value: womanly
+  - correct: false
+    detail: Incorrect, "earthing:verb" is not a synonym for "feminine".
+    value: earthing:verb
+  - correct: false
+    detail: Incorrect, "baroness dudevant:noun" is not a synonym for "feminine".
+    value: baroness dudevant:noun
+  - correct: false
+    detail: Incorrect, "rapacity:noun" is not a synonym for "feminine".
+    value: rapacity:noun
+  text: What is a synonym for "feminine"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "interrogatory" is a synonym for "interrogative".
+    value: interrogatory
+  - correct: false
+    detail: Incorrect, "repairer:noun" is not a synonym for "interrogative".
+    value: repairer:noun
+  - correct: false
+    detail: Incorrect, "garbage collection:noun" is not a synonym for "interrogative".
+    value: garbage collection:noun
+  - correct: false
+    detail: Incorrect, "whorlywort:noun" is not a synonym for "interrogative".
+    value: whorlywort:noun
+  text: What is a synonym for "interrogative"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "lachrymatory" is a synonym for "lacrimatory".
+    value: lachrymatory
+  - correct: false
+    detail: Incorrect, "alveolar process:noun" is not a synonym for "lacrimatory".
+    value: alveolar process:noun
+  - correct: false
+    detail: Incorrect, "disseminate:verb" is not a synonym for "lacrimatory".
+    value: disseminate:verb
+  - correct: false
+    detail: Incorrect, "lamellibranchia:noun" is not a synonym for "lacrimatory".
+    value: lamellibranchia:noun
+  text: What is a synonym for "lacrimatory"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "lexicographic" is a synonym for "lexicographical".
+    value: lexicographic
+  - correct: false
+    detail: Incorrect, "rape:verb" is not a synonym for "lexicographical".
+    value: rape:verb
+  - correct: false
+    detail: Incorrect, "pomaderris apetala:noun" is not a synonym for "lexicographical".
+    value: pomaderris apetala:noun
+  - correct: false
+    detail: Incorrect, "muffled:verb" is not a synonym for "lexicographical".
+    value: muffled:verb
+  text: What is a synonym for "lexicographical"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "decorated" is a synonym for "adorned".
+    value: decorated
+  - correct: false
+    detail: Incorrect, "std:noun" is not a synonym for "adorned".
+    value: std:noun
+  - correct: false
+    detail: Incorrect, "inalterable:adjective" is not a synonym for "adorned".
+    value: inalterable:adjective
+  - correct: false
+    detail: Incorrect, "mandrel:noun" is not a synonym for "adorned".
+    value: mandrel:noun
+  text: What is a synonym for "adorned"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "oxidized" is a synonym for "oxidised".
+    value: oxidized
+  - correct: false
+    detail: Incorrect, "blanc fixe:noun" is not a synonym for "oxidised".
+    value: blanc fixe:noun
+  - correct: false
+    detail: Incorrect, "arctocebus calabarensis:noun" is not a synonym for "oxidised".
+    value: arctocebus calabarensis:noun
+  - correct: false
+    detail: Incorrect, "potamogale velox:noun" is not a synonym for "oxidised".
+    value: potamogale velox:noun
+  text: What is a synonym for "oxidised"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unbelievable" is a synonym for "incredible".
+    value: unbelievable
+  - correct: false
+    detail: Incorrect, "tessellated:verb" is not a synonym for "incredible".
+    value: tessellated:verb
+  - correct: false
+    detail: Incorrect, "soakage:noun" is not a synonym for "incredible".
+    value: soakage:noun
+  - correct: false
+    detail: Incorrect, "reevaluate:verb" is not a synonym for "incredible".
+    value: reevaluate:verb
+  text: What is a synonym for "incredible"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Piagetian" is a synonym for "piagetian".
+    value: Piagetian
+  - correct: false
+    detail: Incorrect, "smarmily:adverb" is not a synonym for "piagetian".
+    value: smarmily:adverb
+  - correct: false
+    detail: Incorrect, "undreamt of:satellite" is not a synonym for "piagetian".
+    value: undreamt of:satellite
+  - correct: false
+    detail: Incorrect, "spark:verb" is not a synonym for "piagetian".
+    value: spark:verb
+  text: What is a synonym for "piagetian"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "parentless" is a synonym for "unparented".
+    value: parentless
+  - correct: false
+    detail: Incorrect, "genus dionaea:noun" is not a synonym for "unparented".
+    value: genus dionaea:noun
+  - correct: false
+    detail: Incorrect, "farrowing:verb" is not a synonym for "unparented".
+    value: farrowing:verb
+  - correct: false
+    detail: Incorrect, "stain:noun" is not a synonym for "unparented".
+    value: stain:noun
+  text: What is a synonym for "unparented"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "potent" is a synonym for "stiff".
+    value: potent
+  - correct: false
+    detail: Incorrect, "separatism:noun" is not a synonym for "stiff".
+    value: separatism:noun
+  - correct: false
+    detail: Incorrect, "anopheles:noun" is not a synonym for "stiff".
+    value: anopheles:noun
+  - correct: false
+    detail: Incorrect, "offensive:adjective" is not a synonym for "stiff".
+    value: offensive:adjective
+  text: What is a synonym for "stiff"?

@@ -1,0 +1,302 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "pontifical" is a synonym for "papal".
+    value: pontifical
+  - correct: false
+    detail: Incorrect, "celosia argentea:noun" is not a synonym for "papal".
+    value: celosia argentea:noun
+  - correct: false
+    detail: Incorrect, "lacepod:noun" is not a synonym for "papal".
+    value: lacepod:noun
+  - correct: false
+    detail: Incorrect, "fosamax:noun" is not a synonym for "papal".
+    value: fosamax:noun
+  text: What is a synonym for "papal"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "tellurian" is a synonym for "terrene".
+    value: telluric
+  - correct: false
+    detail: Incorrect, "secretariat:noun" is not a synonym for "terrene".
+    value: secretariat:noun
+  - correct: false
+    detail: Incorrect, "diospyros kaki:noun" is not a synonym for "terrene".
+    value: diospyros kaki:noun
+  - correct: false
+    detail: Incorrect, "scuttle:verb" is not a synonym for "terrene".
+    value: scuttle:verb
+  text: What is a synonym for "terrene"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "acinous" is a synonym for "acinose".
+    value: acinous
+  - correct: false
+    detail: Incorrect, "hippodamia:noun" is not a synonym for "acinose".
+    value: hippodamia:noun
+  - correct: false
+    detail: Incorrect, "indescribably:adverb" is not a synonym for "acinose".
+    value: indescribably:adverb
+  - correct: false
+    detail: Incorrect, "regulate:verb" is not a synonym for "acinose".
+    value: regulate:verb
+  text: What is a synonym for "acinose"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Amerind" is a synonym for "amerind".
+    value: Indian
+  - correct: false
+    detail: Incorrect, "unplumbed:satellite" is not a synonym for "amerind".
+    value: unplumbed:satellite
+  - correct: false
+    detail: Incorrect, "collar:verb" is not a synonym for "amerind".
+    value: collar:verb
+  - correct: false
+    detail: Incorrect, "disrupt:verb" is not a synonym for "amerind".
+    value: disrupt:verb
+  text: What is a synonym for "amerind"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "czarist" is a synonym for "tzarist".
+    value: czarist
+  - correct: false
+    detail: Incorrect, "due:satellite" is not a synonym for "tzarist".
+    value: due:satellite
+  - correct: false
+    detail: Incorrect, "philosophical:adjective" is not a synonym for "tzarist".
+    value: philosophical:adjective
+  - correct: false
+    detail: Incorrect, "raphe:noun" is not a synonym for "tzarist".
+    value: raphe:noun
+  text: What is a synonym for "tzarist"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "meagre" is a synonym for "stingy".
+    value: ungenerous|meager
+  - correct: false
+    detail: Incorrect, "garden angelica:noun" is not a synonym for "stingy".
+    value: garden angelica:noun
+  - correct: false
+    detail: Incorrect, "marge:noun" is not a synonym for "stingy".
+    value: marge:noun
+  - correct: false
+    detail: Incorrect, "neologism:noun" is not a synonym for "stingy".
+    value: neologism:noun
+  text: What is a synonym for "stingy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Aryan" is a synonym for "aryan".
+    value: Aryan
+  - correct: false
+    detail: Incorrect, "john vanbrugh:noun" is not a synonym for "aryan".
+    value: john vanbrugh:noun
+  - correct: false
+    detail: Incorrect, "furrow:noun" is not a synonym for "aryan".
+    value: furrow:noun
+  - correct: false
+    detail: Incorrect, "scarlet strawberry:noun" is not a synonym for "aryan".
+    value: scarlet strawberry:noun
+  text: What is a synonym for "aryan"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "meagre" is a synonym for "meager".
+    value: scrimpy
+  - correct: false
+    detail: Incorrect, "temple orange tree:noun" is not a synonym for "meager".
+    value: temple orange tree:noun
+  - correct: false
+    detail: Incorrect, "desynchronise:verb" is not a synonym for "meager".
+    value: desynchronise:verb
+  - correct: false
+    detail: Incorrect, "edify:verb" is not a synonym for "meager".
+    value: edify:verb
+  text: What is a synonym for "meager"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "opthalmic|ocular" is a synonym for "optic".
+    value: optical
+  - correct: false
+    detail: Incorrect, "decaliter:noun" is not a synonym for "optic".
+    value: decaliter:noun
+  - correct: false
+    detail: Incorrect, "recessive:adjective" is not a synonym for "optic".
+    value: recessive:adjective
+  - correct: false
+    detail: Incorrect, "threaten:verb" is not a synonym for "optic".
+    value: threaten:verb
+  text: What is a synonym for "optic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "tenacious|long|long" is a synonym for "longest".
+    value: recollective
+  - correct: false
+    detail: Incorrect, "carbon paper:noun" is not a synonym for "longest".
+    value: carbon paper:noun
+  - correct: false
+    detail: Incorrect, "sourpuss:noun" is not a synonym for "longest".
+    value: sourpuss:noun
+  - correct: false
+    detail: Incorrect, "appeasing:verb" is not a synonym for "longest".
+    value: appeasing:verb
+  text: What is a synonym for "longest"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ungulate" is a synonym for "hoofed".
+    value: hooved
+  - correct: false
+    detail: Incorrect, "negro spiritual:noun" is not a synonym for "hoofed".
+    value: negro spiritual:noun
+  - correct: false
+    detail: Incorrect, "promote:verb" is not a synonym for "hoofed".
+    value: promote:verb
+  - correct: false
+    detail: Incorrect, "rain buckets:verb" is not a synonym for "hoofed".
+    value: rain buckets:verb
+  text: What is a synonym for "hoofed"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ungulate" is a synonym for "hooved".
+    value: ungulated
+  - correct: false
+    detail: Incorrect, "east indian rosebay:noun" is not a synonym for "hooved".
+    value: east indian rosebay:noun
+  - correct: false
+    detail: Incorrect, "em:noun" is not a synonym for "hooved".
+    value: em:noun
+  - correct: false
+    detail: Incorrect, "military personnel:noun" is not a synonym for "hooved".
+    value: military personnel:noun
+  text: What is a synonym for "hooved"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "optical" is a synonym for "visual".
+    value: optical
+  - correct: false
+    detail: Incorrect, "wear thin:verb" is not a synonym for "visual".
+    value: wear thin:verb
+  - correct: false
+    detail: Incorrect, "vena cerebri media:noun" is not a synonym for "visual".
+    value: vena cerebri media:noun
+  - correct: false
+    detail: Incorrect, "master of arts:noun" is not a synonym for "visual".
+    value: master of arts:noun
+  text: What is a synonym for "visual"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Grecian" is a synonym for "grecian".
+    value: Hellenic
+  - correct: false
+    detail: Incorrect, "animalculum:noun" is not a synonym for "grecian".
+    value: animalculum:noun
+  - correct: false
+    detail: Incorrect, "wrapping:noun" is not a synonym for "grecian".
+    value: wrapping:noun
+  - correct: false
+    detail: Incorrect, "inhere in:verb" is not a synonym for "grecian".
+    value: inhere in:verb
+  text: What is a synonym for "grecian"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Roumanian" is a synonym for "romanian".
+    value: Romanian
+  - correct: false
+    detail: Incorrect, "joseph lincoln steffens:noun" is not a synonym for "romanian".
+    value: joseph lincoln steffens:noun
+  - correct: false
+    detail: Incorrect, "dwarf maple:noun" is not a synonym for "romanian".
+    value: dwarf maple:noun
+  - correct: false
+    detail: Incorrect, "dismount:verb" is not a synonym for "romanian".
+    value: dismount:verb
+  text: What is a synonym for "romanian"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "secure" is a synonym for "securer".
+    value: untroubled|secure|secure
+  - correct: false
+    detail: Incorrect, "sixty-fourth:noun" is not a synonym for "securer".
+    value: sixty-fourth:noun
+  - correct: false
+    detail: Incorrect, "storm sash:noun" is not a synonym for "securer".
+    value: storm sash:noun
+  - correct: false
+    detail: Incorrect, "family platanaceae:noun" is not a synonym for "securer".
+    value: family platanaceae:noun
+  text: What is a synonym for "securer"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "bionomical" is a synonym for "ecologic".
+    value: bionomical
+  - correct: false
+    detail: Incorrect, "musculus transversalis abdominis:noun" is not a synonym for
+      "ecologic".
+    value: musculus transversalis abdominis:noun
+  - correct: false
+    detail: Incorrect, "crocuta crocuta:noun" is not a synonym for "ecologic".
+    value: crocuta crocuta:noun
+  - correct: false
+    detail: Incorrect, "class charophyceae:noun" is not a synonym for "ecologic".
+    value: class charophyceae:noun
+  text: What is a synonym for "ecologic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "haematic" is a synonym for "hemic".
+    value: hematic
+  - correct: false
+    detail: Incorrect, "gadfly:noun" is not a synonym for "hemic".
+    value: gadfly:noun
+  - correct: false
+    detail: Incorrect, "harlan stone:noun" is not a synonym for "hemic".
+    value: harlan stone:noun
+  - correct: false
+    detail: Incorrect, "coachwhip snake:noun" is not a synonym for "hemic".
+    value: coachwhip snake:noun
+  text: What is a synonym for "hemic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Cyprian" is a synonym for "cyprian".
+    value: Cypriote
+  - correct: false
+    detail: Incorrect, "void:satellite" is not a synonym for "cyprian".
+    value: void:satellite
+  - correct: false
+    detail: Incorrect, "belmont:noun" is not a synonym for "cyprian".
+    value: belmont:noun
+  - correct: false
+    detail: Incorrect, "rubber-base paint:noun" is not a synonym for "cyprian".
+    value: rubber-base paint:noun
+  text: What is a synonym for "cyprian"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Grecian" is a synonym for "hellenic".
+    value: Hellenic
+  - correct: false
+    detail: Incorrect, "punctuation mark:noun" is not a synonym for "hellenic".
+    value: punctuation mark:noun
+  - correct: false
+    detail: Incorrect, "cattle thief:noun" is not a synonym for "hellenic".
+    value: cattle thief:noun
+  - correct: false
+    detail: Incorrect, "republic of djibouti:noun" is not a synonym for "hellenic".
+    value: republic of djibouti:noun
+  text: What is a synonym for "hellenic"?

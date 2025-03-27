@@ -1,0 +1,302 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "focalise" is a synonym for "sharpened".
+    value: point|sharpen
+  - correct: false
+    detail: Incorrect, "containerise:verb" is not a synonym for "sharpened".
+    value: containerise:verb
+  - correct: false
+    detail: Incorrect, "sika:noun" is not a synonym for "sharpened".
+    value: sika:noun
+  - correct: false
+    detail: Incorrect, "gamal abdel nasser:noun" is not a synonym for "sharpened".
+    value: gamal abdel nasser:noun
+  text: What is a synonym for "sharpened"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "shower" is a synonym for "lavish".
+    value: shower
+  - correct: false
+    detail: Incorrect, "wisconsinite:noun" is not a synonym for "lavish".
+    value: wisconsinite:noun
+  - correct: false
+    detail: Incorrect, "bichloride of mercury:noun" is not a synonym for "lavish".
+    value: bichloride of mercury:noun
+  - correct: false
+    detail: Incorrect, "progestin:noun" is not a synonym for "lavish".
+    value: progestin:noun
+  text: What is a synonym for "lavish"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "concretise" is a synonym for "concretize".
+    value: concretise
+  - correct: false
+    detail: Incorrect, "parus caeruleus:noun" is not a synonym for "concretize".
+    value: parus caeruleus:noun
+  - correct: false
+    detail: Incorrect, "mental faculty:noun" is not a synonym for "concretize".
+    value: mental faculty:noun
+  - correct: false
+    detail: Incorrect, "insignificant:adjective" is not a synonym for "concretize".
+    value: insignificant:adjective
+  text: What is a synonym for "concretize"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "peril" is a synonym for "endangered".
+    value: scupper
+  - correct: false
+    detail: Incorrect, "macula lutea:noun" is not a synonym for "endangered".
+    value: macula lutea:noun
+  - correct: false
+    detail: Incorrect, "tractableness:noun" is not a synonym for "endangered".
+    value: tractableness:noun
+  - correct: false
+    detail: Incorrect, "procyon:noun" is not a synonym for "endangered".
+    value: procyon:noun
+  text: What is a synonym for "endangered"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "break off" is a synonym for "break short".
+    value: cut short
+  - correct: false
+    detail: Incorrect, "sadducean:adjective" is not a synonym for "break short".
+    value: sadducean:adjective
+  - correct: false
+    detail: Incorrect, "dah:noun" is not a synonym for "break short".
+    value: dah:noun
+  - correct: false
+    detail: Incorrect, "u. s. army special forces:noun" is not a synonym for "break
+      short".
+    value: u. s. army special forces:noun
+  text: What is a synonym for "break short"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "trounce|strap|strap" is a synonym for "strapping".
+    value: strap|flog
+  - correct: false
+    detail: Incorrect, "surgical:adjective" is not a synonym for "strapping".
+    value: surgical:adjective
+  - correct: false
+    detail: Incorrect, "enough:satellite" is not a synonym for "strapping".
+    value: enough:satellite
+  - correct: false
+    detail: Incorrect, "bog whortleberry:noun" is not a synonym for "strapping".
+    value: bog whortleberry:noun
+  text: What is a synonym for "strapping"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "commit" is a synonym for "institutionalize".
+    value: commit
+  - correct: false
+    detail: Incorrect, "pencil eraser:noun" is not a synonym for "institutionalize".
+    value: pencil eraser:noun
+  - correct: false
+    detail: Incorrect, "pipa:noun" is not a synonym for "institutionalize".
+    value: pipa:noun
+  - correct: false
+    detail: Incorrect, "countenance:noun" is not a synonym for "institutionalize".
+    value: countenance:noun
+  text: What is a synonym for "institutionalize"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "break|transgress" is a synonym for "go against".
+    value: violate
+  - correct: false
+    detail: Incorrect, "giant fulmar:noun" is not a synonym for "go against".
+    value: giant fulmar:noun
+  - correct: false
+    detail: Incorrect, "benefit:noun" is not a synonym for "go against".
+    value: benefit:noun
+  - correct: false
+    detail: Incorrect, "gum olibanum:noun" is not a synonym for "go against".
+    value: gum olibanum:noun
+  text: What is a synonym for "go against"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "plank down" is a synonym for "plonk down".
+    value: plump down
+  - correct: false
+    detail: Incorrect, "brogan:noun" is not a synonym for "plonk down".
+    value: brogan:noun
+  - correct: false
+    detail: Incorrect, "dromaius:noun" is not a synonym for "plonk down".
+    value: dromaius:noun
+  - correct: false
+    detail: Incorrect, "awfulness:noun" is not a synonym for "plonk down".
+    value: awfulness:noun
+  text: What is a synonym for "plonk down"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Frenchify|Frenchify" is a synonym for "frenchify".
+    value: Frenchify|Frenchify
+  - correct: false
+    detail: Incorrect, "fet:noun" is not a synonym for "frenchify".
+    value: fet:noun
+  - correct: false
+    detail: Incorrect, "double:adverb" is not a synonym for "frenchify".
+    value: double:adverb
+  - correct: false
+    detail: Incorrect, "game room:noun" is not a synonym for "frenchify".
+    value: game room:noun
+  text: What is a synonym for "frenchify"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "wolf down" is a synonym for "wolf".
+    value: wolf down
+  - correct: false
+    detail: Incorrect, "air hammer:noun" is not a synonym for "wolf".
+    value: air hammer:noun
+  - correct: false
+    detail: Incorrect, "susceptibleness:noun" is not a synonym for "wolf".
+    value: susceptibleness:noun
+  - correct: false
+    detail: Incorrect, "segway human transporter:noun" is not a synonym for "wolf".
+    value: segway human transporter:noun
+  text: What is a synonym for "wolf"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "euphemise" is a synonym for "euphemize".
+    value: euphemise
+  - correct: false
+    detail: Incorrect, "biometrics:noun" is not a synonym for "euphemize".
+    value: biometrics:noun
+  - correct: false
+    detail: Incorrect, "papaia:noun" is not a synonym for "euphemize".
+    value: papaia:noun
+  - correct: false
+    detail: Incorrect, "vulcanised:verb" is not a synonym for "euphemize".
+    value: vulcanised:verb
+  text: What is a synonym for "euphemize"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "even up|recompense" is a synonym for "compensate".
+    value: make up|recompense
+  - correct: false
+    detail: Incorrect, "maieutic method:noun" is not a synonym for "compensate".
+    value: maieutic method:noun
+  - correct: false
+    detail: Incorrect, "academy:noun" is not a synonym for "compensate".
+    value: academy:noun
+  - correct: false
+    detail: Incorrect, "resubmit:verb" is not a synonym for "compensate".
+    value: resubmit:verb
+  text: What is a synonym for "compensate"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hyphen" is a synonym for "hyphenate".
+    value: hyphen
+  - correct: false
+    detail: Incorrect, "bractlet:noun" is not a synonym for "hyphenate".
+    value: bractlet:noun
+  - correct: false
+    detail: Incorrect, "ricksha:noun" is not a synonym for "hyphenate".
+    value: ricksha:noun
+  - correct: false
+    detail: Incorrect, "sticky bun:noun" is not a synonym for "hyphenate".
+    value: sticky bun:noun
+  text: What is a synonym for "hyphenate"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "tenderise" is a synonym for "tenderize".
+    value: tender
+  - correct: false
+    detail: Incorrect, "nancere:noun" is not a synonym for "tenderize".
+    value: nancere:noun
+  - correct: false
+    detail: Incorrect, "mastery:noun" is not a synonym for "tenderize".
+    value: mastery:noun
+  - correct: false
+    detail: Incorrect, "lair:noun" is not a synonym for "tenderize".
+    value: lair:noun
+  text: What is a synonym for "tenderize"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "homogenize" is a synonym for "homogenized".
+    value: homogenise
+  - correct: false
+    detail: Incorrect, "healthful:adjective" is not a synonym for "homogenized".
+    value: healthful:adjective
+  - correct: false
+    detail: Incorrect, "mercer:noun" is not a synonym for "homogenized".
+    value: mercer:noun
+  - correct: false
+    detail: Incorrect, "genus melophagus:noun" is not a synonym for "homogenized".
+    value: genus melophagus:noun
+  text: What is a synonym for "homogenized"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "taxi" is a synonym for "cab".
+    value: taxi
+  - correct: false
+    detail: Incorrect, "golda meir:noun" is not a synonym for "cab".
+    value: golda meir:noun
+  - correct: false
+    detail: Incorrect, "react:verb" is not a synonym for "cab".
+    value: react:verb
+  - correct: false
+    detail: Incorrect, "middle eastern:adjective" is not a synonym for "cab".
+    value: middle eastern:adjective
+  text: What is a synonym for "cab"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "rattle|rattle" is a synonym for "rattling".
+    value: rattle|rattle
+  - correct: false
+    detail: Incorrect, "lyman frank brown:noun" is not a synonym for "rattling".
+    value: lyman frank brown:noun
+  - correct: false
+    detail: Incorrect, "waxflower:noun" is not a synonym for "rattling".
+    value: waxflower:noun
+  - correct: false
+    detail: Incorrect, "mainframe:noun" is not a synonym for "rattling".
+    value: mainframe:noun
+  text: What is a synonym for "rattling"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "reconnoitre" is a synonym for "reconnoiter".
+    value: scout
+  - correct: false
+    detail: Incorrect, "belt-like:satellite" is not a synonym for "reconnoiter".
+    value: belt-like:satellite
+  - correct: false
+    detail: Incorrect, "taricha torosa:noun" is not a synonym for "reconnoiter".
+    value: taricha torosa:noun
+  - correct: false
+    detail: Incorrect, "cardinal richelieu:noun" is not a synonym for "reconnoiter".
+    value: cardinal richelieu:noun
+  text: What is a synonym for "reconnoiter"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "lumber" is a synonym for "logging".
+    value: log|log
+  - correct: false
+    detail: Incorrect, "baby minder:noun" is not a synonym for "logging".
+    value: baby minder:noun
+  - correct: false
+    detail: Incorrect, "papua:noun" is not a synonym for "logging".
+    value: papua:noun
+  - correct: false
+    detail: Incorrect, "flip over:verb" is not a synonym for "logging".
+    value: flip over:verb
+  text: What is a synonym for "logging"?

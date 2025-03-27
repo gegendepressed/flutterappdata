@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "frontwards" is a synonym for "forward".
+    value: onwards
+  - correct: false
+    detail: Incorrect, "sutura:noun" is not a synonym for "forward".
+    value: sutura:noun
+  - correct: false
+    detail: Incorrect, "caliche:noun" is not a synonym for "forward".
+    value: caliche:noun
+  - correct: false
+    detail: Incorrect, "myocarditis:noun" is not a synonym for "forward".
+    value: myocarditis:noun
+  text: What is a synonym for "forward"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "so|thusly" is a synonym for "thus".
+    value: thence
+  - correct: false
+    detail: Incorrect, "chenfish:noun" is not a synonym for "thus".
+    value: chenfish:noun
+  - correct: false
+    detail: Incorrect, "perniciousness:noun" is not a synonym for "thus".
+    value: perniciousness:noun
+  - correct: false
+    detail: Incorrect, "risk of exposure:noun" is not a synonym for "thus".
+    value: risk of exposure:noun
+  text: What is a synonym for "thus"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "speedily" is a synonym for "apace".
+    value: rapidly
+  - correct: false
+    detail: Incorrect, "double-tongued:satellite" is not a synonym for "apace".
+    value: double-tongued:satellite
+  - correct: false
+    detail: Incorrect, "dempsey:noun" is not a synonym for "apace".
+    value: dempsey:noun
+  - correct: false
+    detail: Incorrect, "misanthropical:satellite" is not a synonym for "apace".
+    value: misanthropical:satellite
+  text: What is a synonym for "apace"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "likewise" is a synonym for "also".
+    value: likewise
+  - correct: false
+    detail: Incorrect, "ramekin:noun" is not a synonym for "also".
+    value: ramekin:noun
+  - correct: false
+    detail: Incorrect, "genus egretta:noun" is not a synonym for "also".
+    value: genus egretta:noun
+  - correct: false
+    detail: Incorrect, "awe:noun" is not a synonym for "also".
+    value: awe:noun
+  text: What is a synonym for "also"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "erstwhile" is a synonym for "formerly".
+    value: erstwhile
+  - correct: false
+    detail: Incorrect, "genus sida:noun" is not a synonym for "formerly".
+    value: genus sida:noun
+  - correct: false
+    detail: Incorrect, "whiz:verb" is not a synonym for "formerly".
+    value: whiz:verb
+  - correct: false
+    detail: Incorrect, "american revised version:noun" is not a synonym for "formerly".
+    value: american revised version:noun
+  text: What is a synonym for "formerly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "entirely" is a synonym for "alone".
+    value: solely
+  - correct: false
+    detail: Incorrect, "navaho:noun" is not a synonym for "alone".
+    value: navaho:noun
+  - correct: false
+    detail: Incorrect, "double-spaced:verb" is not a synonym for "alone".
+    value: double-spaced:verb
+  - correct: false
+    detail: Incorrect, "burying:verb" is not a synonym for "alone".
+    value: burying:verb
+  text: What is a synonym for "alone"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "frontwards" is a synonym for "forrad".
+    value: frontwards
+  - correct: false
+    detail: Incorrect, "thaw:noun" is not a synonym for "forrad".
+    value: thaw:noun
+  - correct: false
+    detail: Incorrect, "patinize:verb" is not a synonym for "forrad".
+    value: patinize:verb
+  - correct: false
+    detail: Incorrect, "order ranunculales:noun" is not a synonym for "forrad".
+    value: order ranunculales:noun
+  text: What is a synonym for "forrad"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "taciturnly" is a synonym for "silently".
+    value: wordlessly
+  - correct: false
+    detail: Incorrect, "step forward:verb" is not a synonym for "silently".
+    value: step forward:verb
+  - correct: false
+    detail: Incorrect, "asdic:noun" is not a synonym for "silently".
+    value: asdic:noun
+  - correct: false
+    detail: Incorrect, "inside:adverb" is not a synonym for "silently".
+    value: inside:adverb
+  text: What is a synonym for "silently"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "very much" is a synonym for "a lot".
+    value: a great deal
+  - correct: false
+    detail: Incorrect, "coffee shop:noun" is not a synonym for "a lot".
+    value: coffee shop:noun
+  - correct: false
+    detail: Incorrect, "kobuk valley national park:noun" is not a synonym for "a lot".
+    value: kobuk valley national park:noun
+  - correct: false
+    detail: Incorrect, "samarang:noun" is not a synonym for "a lot".
+    value: samarang:noun
+  text: What is a synonym for "a lot"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "barely" is a synonym for "scarcely".
+    value: scarce|hardly
+  - correct: false
+    detail: Incorrect, "capacity unit:noun" is not a synonym for "scarcely".
+    value: capacity unit:noun
+  - correct: false
+    detail: Incorrect, "unawareness:noun" is not a synonym for "scarcely".
+    value: unawareness:noun
+  - correct: false
+    detail: Incorrect, "boob:verb" is not a synonym for "scarcely".
+    value: boob:verb
+  text: What is a synonym for "scarcely"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "slow" is a synonym for "easy".
+    value: slow
+  - correct: false
+    detail: Incorrect, "opisthocomus:noun" is not a synonym for "easy".
+    value: opisthocomus:noun
+  - correct: false
+    detail: Incorrect, "flip:noun" is not a synonym for "easy".
+    value: flip:noun
+  - correct: false
+    detail: Incorrect, "ciconia:noun" is not a synonym for "easy".
+    value: ciconia:noun
+  text: What is a synonym for "easy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "offhanded" is a synonym for "offhand".
+    value: offhandedly|offhanded
+  - correct: false
+    detail: Incorrect, "tinker:verb" is not a synonym for "offhand".
+    value: tinker:verb
+  - correct: false
+    detail: Incorrect, "amniotic:adjective" is not a synonym for "offhand".
+    value: amniotic:adjective
+  - correct: false
+    detail: Incorrect, "confirming:adjective" is not a synonym for "offhand".
+    value: confirming:adjective
+  text: What is a synonym for "offhand"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "for certain" is a synonym for "for sure".
+    value: sure enough
+  - correct: false
+    detail: Incorrect, "replete:satellite" is not a synonym for "for sure".
+    value: replete:satellite
+  - correct: false
+    detail: Incorrect, "designing:verb" is not a synonym for "for sure".
+    value: designing:verb
+  - correct: false
+    detail: Incorrect, "heavy metal:noun" is not a synonym for "for sure".
+    value: heavy metal:noun
+  text: What is a synonym for "for sure"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "completely" is a synonym for "all".
+    value: wholly
+  - correct: false
+    detail: Incorrect, "rake:noun" is not a synonym for "all".
+    value: rake:noun
+  - correct: false
+    detail: Incorrect, "classical architecture:noun" is not a synonym for "all".
+    value: classical architecture:noun
+  - correct: false
+    detail: Incorrect, "genus notophthalmus:noun" is not a synonym for "all".
+    value: genus notophthalmus:noun
+  text: What is a synonym for "all"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "COD" is a synonym for "cod".
+    value: COD
+  - correct: false
+    detail: Incorrect, "catarrhine:noun" is not a synonym for "cod".
+    value: catarrhine:noun
+  - correct: false
+    detail: Incorrect, "podocarpus nivalis:noun" is not a synonym for "cod".
+    value: podocarpus nivalis:noun
+  - correct: false
+    detail: Incorrect, "aspalathus linearis:noun" is not a synonym for "cod".
+    value: aspalathus linearis:noun
+  text: What is a synonym for "cod"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "eternally" is a synonym for "evermore".
+    value: forever
+  - correct: false
+    detail: Incorrect, "indian rat snake:noun" is not a synonym for "evermore".
+    value: indian rat snake:noun
+  - correct: false
+    detail: Incorrect, "confederacy:noun" is not a synonym for "evermore".
+    value: confederacy:noun
+  - correct: false
+    detail: Incorrect, "knock back:verb" is not a synonym for "evermore".
+    value: knock back:verb
+  text: What is a synonym for "evermore"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "of late" is a synonym for "recently".
+    value: latterly
+  - correct: false
+    detail: Incorrect, "water yam:noun" is not a synonym for "recently".
+    value: water yam:noun
+  - correct: false
+    detail: Incorrect, "input data:noun" is not a synonym for "recently".
+    value: input data:noun
+  - correct: false
+    detail: Incorrect, "ice hockey rink:noun" is not a synonym for "recently".
+    value: ice hockey rink:noun
+  text: What is a synonym for "recently"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "bluffly" is a synonym for "flat out".
+    value: roundly|like blue murder
+  - correct: false
+    detail: Incorrect, "sir david low:noun" is not a synonym for "flat out".
+    value: sir david low:noun
+  - correct: false
+    detail: Incorrect, "gearshift:noun" is not a synonym for "flat out".
+    value: gearshift:noun
+  - correct: false
+    detail: Incorrect, "north korea:noun" is not a synonym for "flat out".
+    value: north korea:noun
+  text: What is a synonym for "flat out"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "nearly" is a synonym for "most".
+    value: almost
+  - correct: false
+    detail: Incorrect, "snow-in-summer:noun" is not a synonym for "most".
+    value: snow-in-summer:noun
+  - correct: false
+    detail: Incorrect, "spitball:noun" is not a synonym for "most".
+    value: spitball:noun
+  - correct: false
+    detail: Incorrect, "wood's metal:noun" is not a synonym for "most".
+    value: wood's metal:noun
+  text: What is a synonym for "most"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "freshly" is a synonym for "fresh".
+    value: new
+  - correct: false
+    detail: Incorrect, "recidivist:noun" is not a synonym for "fresh".
+    value: recidivist:noun
+  - correct: false
+    detail: Incorrect, "cumulative preferred stock:noun" is not a synonym for "fresh".
+    value: cumulative preferred stock:noun
+  - correct: false
+    detail: Incorrect, "lasciviously:adverb" is not a synonym for "fresh".
+    value: lasciviously:adverb
+  text: What is a synonym for "fresh"?

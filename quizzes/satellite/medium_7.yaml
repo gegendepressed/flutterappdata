@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "healing" is a synonym for "sanative".
+    value: alterative
+  - correct: false
+    detail: Incorrect, "badlands:noun" is not a synonym for "sanative".
+    value: badlands:noun
+  - correct: false
+    detail: Incorrect, "crumpled:satellite" is not a synonym for "sanative".
+    value: crumpled:satellite
+  - correct: false
+    detail: Incorrect, "wankel rotary engine:noun" is not a synonym for "sanative".
+    value: wankel rotary engine:noun
+  text: What is a synonym for "sanative"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "effulgent" is a synonym for "radiant".
+    value: effulgent
+  - correct: false
+    detail: Incorrect, "abut:verb" is not a synonym for "radiant".
+    value: abut:verb
+  - correct: false
+    detail: Incorrect, "arteria ovarica:noun" is not a synonym for "radiant".
+    value: arteria ovarica:noun
+  - correct: false
+    detail: Incorrect, "herb of grace:noun" is not a synonym for "radiant".
+    value: herb of grace:noun
+  text: What is a synonym for "radiant"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "carnal" is a synonym for "animal".
+    value: fleshly
+  - correct: false
+    detail: Incorrect, "rudbeckia laciniata hortensia:noun" is not a synonym for "animal".
+    value: rudbeckia laciniata hortensia:noun
+  - correct: false
+    detail: Incorrect, "durango:noun" is not a synonym for "animal".
+    value: durango:noun
+  - correct: false
+    detail: Incorrect, "spirit off:verb" is not a synonym for "animal".
+    value: spirit off:verb
+  text: What is a synonym for "animal"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "tweedy" is a synonym for "nubbly".
+    value: tweedy
+  - correct: false
+    detail: Incorrect, "palaquium gutta:noun" is not a synonym for "nubbly".
+    value: palaquium gutta:noun
+  - correct: false
+    detail: Incorrect, "arytenoid:noun" is not a synonym for "nubbly".
+    value: arytenoid:noun
+  - correct: false
+    detail: Incorrect, "iceberg:noun" is not a synonym for "nubbly".
+    value: iceberg:noun
+  text: What is a synonym for "nubbly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "left over" is a synonym for "leftover".
+    value: odd
+  - correct: false
+    detail: Incorrect, "new zealand daisybush:noun" is not a synonym for "leftover".
+    value: new zealand daisybush:noun
+  - correct: false
+    detail: Incorrect, "stop dead:verb" is not a synonym for "leftover".
+    value: stop dead:verb
+  - correct: false
+    detail: Incorrect, "frank breech:noun" is not a synonym for "leftover".
+    value: frank breech:noun
+  text: What is a synonym for "leftover"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rapt" is a synonym for "ecstatic".
+    value: rapt
+  - correct: false
+    detail: Incorrect, "naive:satellite" is not a synonym for "ecstatic".
+    value: naive:satellite
+  - correct: false
+    detail: Incorrect, "tanning:verb" is not a synonym for "ecstatic".
+    value: tanning:verb
+  - correct: false
+    detail: Incorrect, "clive sinclair:noun" is not a synonym for "ecstatic".
+    value: clive sinclair:noun
+  text: What is a synonym for "ecstatic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "vivid|natural" is a synonym for "lifelike".
+    value: graphic
+  - correct: false
+    detail: Incorrect, "ulcer diet:noun" is not a synonym for "lifelike".
+    value: ulcer diet:noun
+  - correct: false
+    detail: Incorrect, "resurgence:noun" is not a synonym for "lifelike".
+    value: resurgence:noun
+  - correct: false
+    detail: Incorrect, "harvest time:noun" is not a synonym for "lifelike".
+    value: harvest time:noun
+  text: What is a synonym for "lifelike"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fractious" is a synonym for "testy".
+    value: techy
+  - correct: false
+    detail: Incorrect, "permutation:noun" is not a synonym for "testy".
+    value: permutation:noun
+  - correct: false
+    detail: Incorrect, "genus symplocarpus:noun" is not a synonym for "testy".
+    value: genus symplocarpus:noun
+  - correct: false
+    detail: Incorrect, "liquidambar styraciflua:noun" is not a synonym for "testy".
+    value: liquidambar styraciflua:noun
+  text: What is a synonym for "testy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "nebulous|muddy" is a synonym for "cloudy".
+    value: mirky
+  - correct: false
+    detail: Incorrect, "transparency:noun" is not a synonym for "cloudy".
+    value: transparency:noun
+  - correct: false
+    detail: Incorrect, "conference table:noun" is not a synonym for "cloudy".
+    value: conference table:noun
+  - correct: false
+    detail: Incorrect, "newborn baby:noun" is not a synonym for "cloudy".
+    value: newborn baby:noun
+  text: What is a synonym for "cloudy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "put on" is a synonym for "assumed".
+    value: put on
+  - correct: false
+    detail: Incorrect, "no-hit game:noun" is not a synonym for "assumed".
+    value: no-hit game:noun
+  - correct: false
+    detail: Incorrect, "broth of a boy:noun" is not a synonym for "assumed".
+    value: broth of a boy:noun
+  - correct: false
+    detail: Incorrect, "mutawa:noun" is not a synonym for "assumed".
+    value: mutawa:noun
+  text: What is a synonym for "assumed"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "latticed" is a synonym for "fretted".
+    value: latticed
+  - correct: false
+    detail: Incorrect, "alcaeus:noun" is not a synonym for "fretted".
+    value: alcaeus:noun
+  - correct: false
+    detail: Incorrect, "dardan:noun" is not a synonym for "fretted".
+    value: dardan:noun
+  - correct: false
+    detail: Incorrect, "hellhound:noun" is not a synonym for "fretted".
+    value: hellhound:noun
+  text: What is a synonym for "fretted"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "clumsy" is a synonym for "awkward".
+    value: sticky
+  - correct: false
+    detail: Incorrect, "pisa:noun" is not a synonym for "awkward".
+    value: pisa:noun
+  - correct: false
+    detail: Incorrect, "glaciated:verb" is not a synonym for "awkward".
+    value: glaciated:verb
+  - correct: false
+    detail: Incorrect, "particolored:satellite" is not a synonym for "awkward".
+    value: particolored:satellite
+  text: What is a synonym for "awkward"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "disgusted" is a synonym for "sick of".
+    value: fed up
+  - correct: false
+    detail: Incorrect, "take control:verb" is not a synonym for "sick of".
+    value: take control:verb
+  - correct: false
+    detail: Incorrect, "rhone river:noun" is not a synonym for "sick of".
+    value: rhone river:noun
+  - correct: false
+    detail: Incorrect, "bundle up:verb" is not a synonym for "sick of".
+    value: bundle up:verb
+  text: What is a synonym for "sick of"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fleshly" is a synonym for "carnal".
+    value: sensual
+  - correct: false
+    detail: Incorrect, "place-kicking:verb" is not a synonym for "carnal".
+    value: place-kicking:verb
+  - correct: false
+    detail: Incorrect, "burberry:noun" is not a synonym for "carnal".
+    value: burberry:noun
+  - correct: false
+    detail: Incorrect, "artful:adjective" is not a synonym for "carnal".
+    value: artful:adjective
+  text: What is a synonym for "carnal"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "het up" is a synonym for "heated".
+    value: heated up
+  - correct: false
+    detail: Incorrect, "fo:noun" is not a synonym for "heated".
+    value: fo:noun
+  - correct: false
+    detail: Incorrect, "six-day war:noun" is not a synonym for "heated".
+    value: six-day war:noun
+  - correct: false
+    detail: Incorrect, "quitclaim:noun" is not a synonym for "heated".
+    value: quitclaim:noun
+  text: What is a synonym for "heated"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "parlous" is a synonym for "perilous".
+    value: precarious
+  - correct: false
+    detail: Incorrect, "gossipmonger:noun" is not a synonym for "perilous".
+    value: gossipmonger:noun
+  - correct: false
+    detail: Incorrect, "dart:noun" is not a synonym for "perilous".
+    value: dart:noun
+  - correct: false
+    detail: Incorrect, "kempt:satellite" is not a synonym for "perilous".
+    value: kempt:satellite
+  text: What is a synonym for "perilous"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "profligate" is a synonym for "riotous".
+    value: profuse|disruptive
+  - correct: false
+    detail: Incorrect, "pertusaria:noun" is not a synonym for "riotous".
+    value: pertusaria:noun
+  - correct: false
+    detail: Incorrect, "elaboration:noun" is not a synonym for "riotous".
+    value: elaboration:noun
+  - correct: false
+    detail: Incorrect, "othello:noun" is not a synonym for "riotous".
+    value: othello:noun
+  text: What is a synonym for "riotous"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fuddled" is a synonym for "sloshed".
+    value: wet
+  - correct: false
+    detail: Incorrect, "hookworm:noun" is not a synonym for "sloshed".
+    value: hookworm:noun
+  - correct: false
+    detail: Incorrect, "luxor:noun" is not a synonym for "sloshed".
+    value: luxor:noun
+  - correct: false
+    detail: Incorrect, "self-realisation:noun" is not a synonym for "sloshed".
+    value: self-realisation:noun
+  text: What is a synonym for "sloshed"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "clear|clear" is a synonym for "clean".
+    value: white|sporting
+  - correct: false
+    detail: Incorrect, "apple:noun" is not a synonym for "clean".
+    value: apple:noun
+  - correct: false
+    detail: Incorrect, "social security:noun" is not a synonym for "clean".
+    value: social security:noun
+  - correct: false
+    detail: Incorrect, "stodgy:satellite" is not a synonym for "clean".
+    value: stodgy:satellite
+  text: What is a synonym for "clean"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "impendent" is a synonym for "imminent".
+    value: close at hand
+  - correct: false
+    detail: Incorrect, "fanaloka:noun" is not a synonym for "imminent".
+    value: fanaloka:noun
+  - correct: false
+    detail: Incorrect, "antivert:noun" is not a synonym for "imminent".
+    value: antivert:noun
+  - correct: false
+    detail: Incorrect, "quickness:noun" is not a synonym for "imminent".
+    value: quickness:noun
+  text: What is a synonym for "imminent"?

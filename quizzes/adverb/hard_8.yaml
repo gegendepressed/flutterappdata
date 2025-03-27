@@ -1,0 +1,303 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "inwards|in" is a synonym for "inward".
+    value: inwards
+  - correct: false
+    detail: Incorrect, "single-reed instrument:noun" is not a synonym for "inward".
+    value: single-reed instrument:noun
+  - correct: false
+    detail: Incorrect, "genus lagenaria:noun" is not a synonym for "inward".
+    value: genus lagenaria:noun
+  - correct: false
+    detail: Incorrect, "sweet goldenrod:noun" is not a synonym for "inward".
+    value: sweet goldenrod:noun
+  text: What is a synonym for "inward"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "oddly" is a synonym for "curiously".
+    value: interrogatively
+  - correct: false
+    detail: Incorrect, "jammies:noun" is not a synonym for "curiously".
+    value: jammies:noun
+  - correct: false
+    detail: Incorrect, "acocanthera oppositifolia:noun" is not a synonym for "curiously".
+    value: acocanthera oppositifolia:noun
+  - correct: false
+    detail: Incorrect, "hydathode:noun" is not a synonym for "curiously".
+    value: hydathode:noun
+  text: What is a synonym for "curiously"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "impulsively" is a synonym for "impetuously".
+    value: impulsively
+  - correct: false
+    detail: Incorrect, "pericardial space:noun" is not a synonym for "impetuously".
+    value: pericardial space:noun
+  - correct: false
+    detail: Incorrect, "peduncle:noun" is not a synonym for "impetuously".
+    value: peduncle:noun
+  - correct: false
+    detail: Incorrect, "nigerian:adjective" is not a synonym for "impetuously".
+    value: nigerian:adjective
+  text: What is a synonym for "impetuously"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "incompetently" is a synonym for "displaying incompetence".
+    value: incompetently
+  - correct: false
+    detail: Incorrect, "efficaciously:adverb" is not a synonym for "displaying incompetence".
+    value: efficaciously:adverb
+  - correct: false
+    detail: Incorrect, "fool:verb" is not a synonym for "displaying incompetence".
+    value: fool:verb
+  - correct: false
+    detail: Incorrect, "severn:noun" is not a synonym for "displaying incompetence".
+    value: severn:noun
+  text: What is a synonym for "displaying incompetence"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "uppishly" is a synonym for "snootily".
+    value: snobbishly
+  - correct: false
+    detail: Incorrect, "bahrein:noun" is not a synonym for "snootily".
+    value: bahrein:noun
+  - correct: false
+    detail: Incorrect, "scrimpy:adjective" is not a synonym for "snootily".
+    value: scrimpy:adjective
+  - correct: false
+    detail: Incorrect, "maledict:satellite" is not a synonym for "snootily".
+    value: maledict:satellite
+  text: What is a synonym for "snootily"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "high" is a synonym for "luxuriously".
+    value: richly
+  - correct: false
+    detail: Incorrect, "david o. selznick:noun" is not a synonym for "luxuriously".
+    value: david o. selznick:noun
+  - correct: false
+    detail: Incorrect, "allegation:noun" is not a synonym for "luxuriously".
+    value: allegation:noun
+  - correct: false
+    detail: Incorrect, "aegilops triuncalis:noun" is not a synonym for "luxuriously".
+    value: aegilops triuncalis:noun
+  text: What is a synonym for "luxuriously"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unimpeachably|decidedly" is a synonym for "unquestionably".
+    value: emphatically
+  - correct: false
+    detail: Incorrect, "south america:noun" is not a synonym for "unquestionably".
+    value: south america:noun
+  - correct: false
+    detail: Incorrect, "northern porgy:noun" is not a synonym for "unquestionably".
+    value: northern porgy:noun
+  - correct: false
+    detail: Incorrect, "pouffe:noun" is not a synonym for "unquestionably".
+    value: pouffe:noun
+  text: What is a synonym for "unquestionably"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "imperceptibly" is a synonym for "unnoticeably".
+    value: imperceptibly
+  - correct: false
+    detail: Incorrect, "by word of mouth:adverb" is not a synonym for "unnoticeably".
+    value: by word of mouth:adverb
+  - correct: false
+    detail: Incorrect, "sky pilot:noun" is not a synonym for "unnoticeably".
+    value: sky pilot:noun
+  - correct: false
+    detail: Incorrect, "snap off:verb" is not a synonym for "unnoticeably".
+    value: snap off:verb
+  text: What is a synonym for "unnoticeably"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "diagrammatically" is a synonym for "graphically".
+    value: diagrammatically
+  - correct: false
+    detail: Incorrect, "test instrument vehicle:noun" is not a synonym for "graphically".
+    value: test instrument vehicle:noun
+  - correct: false
+    detail: Incorrect, "golden shiner:noun" is not a synonym for "graphically".
+    value: golden shiner:noun
+  - correct: false
+    detail: Incorrect, "industrial psychology:noun" is not a synonym for "graphically".
+    value: industrial psychology:noun
+  text: What is a synonym for "graphically"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "over and over again" is a synonym for "again and again".
+    value: time and time again
+  - correct: false
+    detail: Incorrect, "modified:satellite" is not a synonym for "again and again".
+    value: modified:satellite
+  - correct: false
+    detail: Incorrect, "hans albrecht bethe:noun" is not a synonym for "again and
+      again".
+    value: hans albrecht bethe:noun
+  - correct: false
+    detail: Incorrect, "painting:noun" is not a synonym for "again and again".
+    value: painting:noun
+  text: What is a synonym for "again and again"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "scrupulously" is a synonym for "conscientiously".
+    value: religiously
+  - correct: false
+    detail: Incorrect, "iguazu:noun" is not a synonym for "conscientiously".
+    value: iguazu:noun
+  - correct: false
+    detail: Incorrect, "bondsman:noun" is not a synonym for "conscientiously".
+    value: bondsman:noun
+  - correct: false
+    detail: Incorrect, "vasoconstrictor:noun" is not a synonym for "conscientiously".
+    value: vasoconstrictor:noun
+  text: What is a synonym for "conscientiously"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "apprehensively" is a synonym for "uneasily".
+    value: apprehensively
+  - correct: false
+    detail: Incorrect, "push out:verb" is not a synonym for "uneasily".
+    value: push out:verb
+  - correct: false
+    detail: Incorrect, "millepede:noun" is not a synonym for "uneasily".
+    value: millepede:noun
+  - correct: false
+    detail: Incorrect, "western tamarack:noun" is not a synonym for "uneasily".
+    value: western tamarack:noun
+  text: What is a synonym for "uneasily"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "traitorously" is a synonym for "faithlessly".
+    value: treasonably
+  - correct: false
+    detail: Incorrect, "dec 24:noun" is not a synonym for "faithlessly".
+    value: dec 24:noun
+  - correct: false
+    detail: Incorrect, "analogue:noun" is not a synonym for "faithlessly".
+    value: analogue:noun
+  - correct: false
+    detail: Incorrect, "bathyergus:noun" is not a synonym for "faithlessly".
+    value: bathyergus:noun
+  text: What is a synonym for "faithlessly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "plaguy" is a synonym for "plaguey".
+    value: plaguily
+  - correct: false
+    detail: Incorrect, "northern scup:noun" is not a synonym for "plaguey".
+    value: northern scup:noun
+  - correct: false
+    detail: Incorrect, "genus zoysia:noun" is not a synonym for "plaguey".
+    value: genus zoysia:noun
+  - correct: false
+    detail: Incorrect, "advertizing:noun" is not a synonym for "plaguey".
+    value: advertizing:noun
+  text: What is a synonym for "plaguey"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "stuffily" is a synonym for "stodgily".
+    value: stuffily
+  - correct: false
+    detail: Incorrect, "editor in chief:noun" is not a synonym for "stodgily".
+    value: editor in chief:noun
+  - correct: false
+    detail: Incorrect, "tufted centaury:noun" is not a synonym for "stodgily".
+    value: tufted centaury:noun
+  - correct: false
+    detail: Incorrect, "old style font:noun" is not a synonym for "stodgily".
+    value: old style font:noun
+  text: What is a synonym for "stodgily"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "time and time again" is a synonym for "over and over again".
+    value: over and over
+  - correct: false
+    detail: Incorrect, "soft palate:noun" is not a synonym for "over and over again".
+    value: soft palate:noun
+  - correct: false
+    detail: Incorrect, "penstemon parryi:noun" is not a synonym for "over and over
+      again".
+    value: penstemon parryi:noun
+  - correct: false
+    detail: Incorrect, "allied:verb" is not a synonym for "over and over again".
+    value: allied:verb
+  text: What is a synonym for "over and over again"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "perfunctorily" is a synonym for "as a formality".
+    value: perfunctorily
+  - correct: false
+    detail: Incorrect, "plimsoll:noun" is not a synonym for "as a formality".
+    value: plimsoll:noun
+  - correct: false
+    detail: Incorrect, "supergrass:noun" is not a synonym for "as a formality".
+    value: supergrass:noun
+  - correct: false
+    detail: Incorrect, "drive line:noun" is not a synonym for "as a formality".
+    value: drive line:noun
+  text: What is a synonym for "as a formality"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "nor'-nor'-west" is a synonym for "north-northwest".
+    value: nor'-nor'-west
+  - correct: false
+    detail: Incorrect, "duc de sully:noun" is not a synonym for "north-northwest".
+    value: duc de sully:noun
+  - correct: false
+    detail: Incorrect, "saussurea:noun" is not a synonym for "north-northwest".
+    value: saussurea:noun
+  - correct: false
+    detail: Incorrect, "accroides:noun" is not a synonym for "north-northwest".
+    value: accroides:noun
+  text: What is a synonym for "north-northwest"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "insofar" is a synonym for "in so far".
+    value: so far
+  - correct: false
+    detail: Incorrect, "arrhenatherum:noun" is not a synonym for "in so far".
+    value: arrhenatherum:noun
+  - correct: false
+    detail: Incorrect, "feosol:noun" is not a synonym for "in so far".
+    value: feosol:noun
+  - correct: false
+    detail: Incorrect, "muscat:noun" is not a synonym for "in so far".
+    value: muscat:noun
+  text: What is a synonym for "in so far"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "yonder" is a synonym for "yon".
+    value: yonder
+  - correct: false
+    detail: Incorrect, "idoliser:noun" is not a synonym for "yon".
+    value: idoliser:noun
+  - correct: false
+    detail: Incorrect, "genus macronectes:noun" is not a synonym for "yon".
+    value: genus macronectes:noun
+  - correct: false
+    detail: Incorrect, "genus frankliniella:noun" is not a synonym for "yon".
+    value: genus frankliniella:noun
+  text: What is a synonym for "yon"?

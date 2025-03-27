@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Kiliwi" is a synonym for "kiliwi".
+    value: Kiliwi|Kiliwa
+  - correct: false
+    detail: Incorrect, "outlast:verb" is not a synonym for "kiliwi".
+    value: outlast:verb
+  - correct: false
+    detail: Incorrect, "exothermic:adjective" is not a synonym for "kiliwi".
+    value: exothermic:adjective
+  - correct: false
+    detail: Incorrect, "gi hormones:noun" is not a synonym for "kiliwi".
+    value: gi hormones:noun
+  text: What is a synonym for "kiliwi"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Louvre Museum|louver" is a synonym for "louvre".
+    value: Louvre Museum|louver
+  - correct: false
+    detail: Incorrect, "drug baron:noun" is not a synonym for "louvre".
+    value: drug baron:noun
+  - correct: false
+    detail: Incorrect, "baking tray:noun" is not a synonym for "louvre".
+    value: baking tray:noun
+  - correct: false
+    detail: Incorrect, "leafage:noun" is not a synonym for "louvre".
+    value: leafage:noun
+  text: What is a synonym for "louvre"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "trouble maker" is a synonym for "troubler".
+    value: trouble maker
+  - correct: false
+    detail: Incorrect, "logistic:adjective" is not a synonym for "troubler".
+    value: logistic:adjective
+  - correct: false
+    detail: Incorrect, "justifiedly:adverb" is not a synonym for "troubler".
+    value: justifiedly:adverb
+  - correct: false
+    detail: Incorrect, "root on:verb" is not a synonym for "troubler".
+    value: root on:verb
+  text: What is a synonym for "troubler"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "shtikl" is a synonym for "schtickl".
+    value: shtikl
+  - correct: false
+    detail: Incorrect, "taos:noun" is not a synonym for "schtickl".
+    value: taos:noun
+  - correct: false
+    detail: Incorrect, "eastman:noun" is not a synonym for "schtickl".
+    value: eastman:noun
+  - correct: false
+    detail: Incorrect, "sir isaac pitman:noun" is not a synonym for "schtickl".
+    value: sir isaac pitman:noun
+  text: What is a synonym for "schtickl"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Oscines" is a synonym for "oscines".
+    value: Passeres
+  - correct: false
+    detail: Incorrect, "pin oak:noun" is not a synonym for "oscines".
+    value: pin oak:noun
+  - correct: false
+    detail: Incorrect, "lump:noun" is not a synonym for "oscines".
+    value: lump:noun
+  - correct: false
+    detail: Incorrect, "pollyfish:noun" is not a synonym for "oscines".
+    value: pollyfish:noun
+  text: What is a synonym for "oscines"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Humphrey Davy" is a synonym for "davy".
+    value: Davy
+  - correct: false
+    detail: Incorrect, "opium taker:noun" is not a synonym for "davy".
+    value: opium taker:noun
+  - correct: false
+    detail: Incorrect, "overpowering:verb" is not a synonym for "davy".
+    value: overpowering:verb
+  - correct: false
+    detail: Incorrect, "levorotatory:satellite" is not a synonym for "davy".
+    value: levorotatory:satellite
+  text: What is a synonym for "davy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "coss|knockout" is a synonym for "kos".
+    value: KO
+  - correct: false
+    detail: Incorrect, "splashiness:noun" is not a synonym for "kos".
+    value: splashiness:noun
+  - correct: false
+    detail: Incorrect, "preteenager:noun" is not a synonym for "kos".
+    value: preteenager:noun
+  - correct: false
+    detail: Incorrect, "baya:noun" is not a synonym for "kos".
+    value: baya:noun
+  text: What is a synonym for "kos"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Jorge Borges" is a synonym for "borges".
+    value: Jorge Luis Borges
+  - correct: false
+    detail: Incorrect, "kenyata:noun" is not a synonym for "borges".
+    value: kenyata:noun
+  - correct: false
+    detail: Incorrect, "rotarian:noun" is not a synonym for "borges".
+    value: rotarian:noun
+  - correct: false
+    detail: Incorrect, "properly speaking:adverb" is not a synonym for "borges".
+    value: properly speaking:adverb
+  text: What is a synonym for "borges"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "sense of humor" is a synonym for "humor".
+    value: humour
+  - correct: false
+    detail: Incorrect, "froth:verb" is not a synonym for "humor".
+    value: froth:verb
+  - correct: false
+    detail: Incorrect, "determinant:satellite" is not a synonym for "humor".
+    value: determinant:satellite
+  - correct: false
+    detail: Incorrect, "won ton:noun" is not a synonym for "humor".
+    value: won ton:noun
+  text: What is a synonym for "humor"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "repentance" is a synonym for "penance".
+    value: self-abasement
+  - correct: false
+    detail: Incorrect, "ad:noun" is not a synonym for "penance".
+    value: ad:noun
+  - correct: false
+    detail: Incorrect, "panic-struck:satellite" is not a synonym for "penance".
+    value: panic-struck:satellite
+  - correct: false
+    detail: Incorrect, "thirty-six:satellite" is not a synonym for "penance".
+    value: thirty-six:satellite
+  text: What is a synonym for "penance"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Ramesses" is a synonym for "rameses".
+    value: Rameses
+  - correct: false
+    detail: Incorrect, "aerosolized:satellite" is not a synonym for "rameses".
+    value: aerosolized:satellite
+  - correct: false
+    detail: Incorrect, "framboise:noun" is not a synonym for "rameses".
+    value: framboise:noun
+  - correct: false
+    detail: Incorrect, "hemophilia:noun" is not a synonym for "rameses".
+    value: hemophilia:noun
+  text: What is a synonym for "rameses"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Tragopogon porrifolius" is a synonym for "salsify".
+    value: vegetable oyster
+  - correct: false
+    detail: Incorrect, "peg down:verb" is not a synonym for "salsify".
+    value: peg down:verb
+  - correct: false
+    detail: Incorrect, "araliaceae:noun" is not a synonym for "salsify".
+    value: araliaceae:noun
+  - correct: false
+    detail: Incorrect, "raffle:verb" is not a synonym for "salsify".
+    value: raffle:verb
+  text: What is a synonym for "salsify"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Mbit" is a synonym for "mbit".
+    value: Mbit
+  - correct: false
+    detail: Incorrect, "thyme camphor:noun" is not a synonym for "mbit".
+    value: thyme camphor:noun
+  - correct: false
+    detail: Incorrect, "gnaphalium sylvaticum:noun" is not a synonym for "mbit".
+    value: gnaphalium sylvaticum:noun
+  - correct: false
+    detail: Incorrect, "annihilating:satellite" is not a synonym for "mbit".
+    value: annihilating:satellite
+  text: What is a synonym for "mbit"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Navaho" is a synonym for "navajo".
+    value: Navajo
+  - correct: false
+    detail: Incorrect, "penetratively:adverb" is not a synonym for "navajo".
+    value: penetratively:adverb
+  - correct: false
+    detail: Incorrect, "diagonalization:noun" is not a synonym for "navajo".
+    value: diagonalization:noun
+  - correct: false
+    detail: Incorrect, "genus megaderma:noun" is not a synonym for "navajo".
+    value: genus megaderma:noun
+  text: What is a synonym for "navajo"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Gent" is a synonym for "ghent".
+    value: Ghent
+  - correct: false
+    detail: Incorrect, "kalumpang:noun" is not a synonym for "ghent".
+    value: kalumpang:noun
+  - correct: false
+    detail: Incorrect, "bed ground:noun" is not a synonym for "ghent".
+    value: bed ground:noun
+  - correct: false
+    detail: Incorrect, "subvention:verb" is not a synonym for "ghent".
+    value: subvention:verb
+  text: What is a synonym for "ghent"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "meprobamate" is a synonym for "meprin".
+    value: Meprin
+  - correct: false
+    detail: Incorrect, "throwaway:noun" is not a synonym for "meprin".
+    value: throwaway:noun
+  - correct: false
+    detail: Incorrect, "cowboy:noun" is not a synonym for "meprin".
+    value: cowboy:noun
+  - correct: false
+    detail: Incorrect, "believability:noun" is not a synonym for "meprin".
+    value: believability:noun
+  text: What is a synonym for "meprin"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "walk|passing play" is a synonym for "pass".
+    value: fling
+  - correct: false
+    detail: Incorrect, "duplicability:noun" is not a synonym for "pass".
+    value: duplicability:noun
+  - correct: false
+    detail: Incorrect, "mishmash:noun" is not a synonym for "pass".
+    value: mishmash:noun
+  - correct: false
+    detail: Incorrect, "natural language:noun" is not a synonym for "pass".
+    value: natural language:noun
+  text: What is a synonym for "pass"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "counter" is a synonym for "buffet".
+    value: counter
+  - correct: false
+    detail: Incorrect, "panama canal:noun" is not a synonym for "buffet".
+    value: panama canal:noun
+  - correct: false
+    detail: Incorrect, "scsi:noun" is not a synonym for "buffet".
+    value: scsi:noun
+  - correct: false
+    detail: Incorrect, "strut:verb" is not a synonym for "buffet".
+    value: strut:verb
+  text: What is a synonym for "buffet"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Gunter Wilhelm Grass|supergrass|eatage" is a synonym for "grass".
+    value: forage
+  - correct: false
+    detail: Incorrect, "constitutionalise:verb" is not a synonym for "grass".
+    value: constitutionalise:verb
+  - correct: false
+    detail: Incorrect, "good-king-henry:noun" is not a synonym for "grass".
+    value: good-king-henry:noun
+  - correct: false
+    detail: Incorrect, "pauperization:noun" is not a synonym for "grass".
+    value: pauperization:noun
+  text: What is a synonym for "grass"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "brawl|doh" is a synonym for "do".
+    value: DO
+  - correct: false
+    detail: Incorrect, "kassite:noun" is not a synonym for "do".
+    value: kassite:noun
+  - correct: false
+    detail: Incorrect, "sclerotic:adjective" is not a synonym for "do".
+    value: sclerotic:adjective
+  - correct: false
+    detail: Incorrect, "muscle tone:noun" is not a synonym for "do".
+    value: muscle tone:noun
+  text: What is a synonym for "do"?

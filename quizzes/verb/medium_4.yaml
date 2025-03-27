@@ -1,0 +1,302 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "expiate" is a synonym for "abye".
+    value: aby
+  - correct: false
+    detail: Incorrect, "residue:noun" is not a synonym for "abye".
+    value: residue:noun
+  - correct: false
+    detail: Incorrect, "wilhelm apollinaris de kostrowitzki:noun" is not a synonym
+      for "abye".
+    value: wilhelm apollinaris de kostrowitzki:noun
+  - correct: false
+    detail: Incorrect, "west africa:noun" is not a synonym for "abye".
+    value: west africa:noun
+  text: What is a synonym for "abye"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "glaze|glass|glass" is a synonym for "glasses".
+    value: glass
+  - correct: false
+    detail: Incorrect, "usda:noun" is not a synonym for "glasses".
+    value: usda:noun
+  - correct: false
+    detail: Incorrect, "fictionalisation:noun" is not a synonym for "glasses".
+    value: fictionalisation:noun
+  - correct: false
+    detail: Incorrect, "coldness:noun" is not a synonym for "glasses".
+    value: coldness:noun
+  text: What is a synonym for "glasses"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "loop" is a synonym for "curled".
+    value: wave|curl
+  - correct: false
+    detail: Incorrect, "iroquoian:noun" is not a synonym for "curled".
+    value: iroquoian:noun
+  - correct: false
+    detail: Incorrect, "dardic:noun" is not a synonym for "curled".
+    value: dardic:noun
+  - correct: false
+    detail: Incorrect, "chartism:noun" is not a synonym for "curled".
+    value: chartism:noun
+  text: What is a synonym for "curled"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "stud" is a synonym for "dot".
+    value: disperse
+  - correct: false
+    detail: Incorrect, "demosthenic:adjective" is not a synonym for "dot".
+    value: demosthenic:adjective
+  - correct: false
+    detail: Incorrect, "pittsfield:noun" is not a synonym for "dot".
+    value: pittsfield:noun
+  - correct: false
+    detail: Incorrect, "timorese:noun" is not a synonym for "dot".
+    value: timorese:noun
+  text: What is a synonym for "dot"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "set up" is a synonym for "arranged".
+    value: coiffure|arrange
+  - correct: false
+    detail: Incorrect, "red bordeaux:noun" is not a synonym for "arranged".
+    value: red bordeaux:noun
+  - correct: false
+    detail: Incorrect, "samoan:noun" is not a synonym for "arranged".
+    value: samoan:noun
+  - correct: false
+    detail: Incorrect, "george michael cohan:noun" is not a synonym for "arranged".
+    value: george michael cohan:noun
+  text: What is a synonym for "arranged"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "give the sack" is a synonym for "sacking".
+    value: dismiss
+  - correct: false
+    detail: Incorrect, "insurmountable:adjective" is not a synonym for "sacking".
+    value: insurmountable:adjective
+  - correct: false
+    detail: Incorrect, "wind up:verb" is not a synonym for "sacking".
+    value: wind up:verb
+  - correct: false
+    detail: Incorrect, "formality:noun" is not a synonym for "sacking".
+    value: formality:noun
+  text: What is a synonym for "sacking"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "allow|bring home the bacon" is a synonym for "provide".
+    value: render
+  - correct: false
+    detail: Incorrect, "visual cortex:noun" is not a synonym for "provide".
+    value: visual cortex:noun
+  - correct: false
+    detail: Incorrect, "chorus line:noun" is not a synonym for "provide".
+    value: chorus line:noun
+  - correct: false
+    detail: Incorrect, "affirm:verb" is not a synonym for "provide".
+    value: affirm:verb
+  text: What is a synonym for "provide"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "hold|guard" is a synonym for "guarded".
+    value: guard|guard
+  - correct: false
+    detail: Incorrect, "plantain lily:noun" is not a synonym for "guarded".
+    value: plantain lily:noun
+  - correct: false
+    detail: Incorrect, "tuna:noun" is not a synonym for "guarded".
+    value: tuna:noun
+  - correct: false
+    detail: Incorrect, "family circle:noun" is not a synonym for "guarded".
+    value: family circle:noun
+  text: What is a synonym for "guarded"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "view" is a synonym for "consider".
+    value: reckon
+  - correct: false
+    detail: Incorrect, "unwind:verb" is not a synonym for "consider".
+    value: unwind:verb
+  - correct: false
+    detail: Incorrect, "typo:noun" is not a synonym for "consider".
+    value: typo:noun
+  - correct: false
+    detail: Incorrect, "slave-making ant:noun" is not a synonym for "consider".
+    value: slave-making ant:noun
+  text: What is a synonym for "consider"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "splash" is a synonym for "slopped".
+    value: swill
+  - correct: false
+    detail: Incorrect, "whole name:noun" is not a synonym for "slopped".
+    value: whole name:noun
+  - correct: false
+    detail: Incorrect, "jaspers:noun" is not a synonym for "slopped".
+    value: jaspers:noun
+  - correct: false
+    detail: Incorrect, "richards:noun" is not a synonym for "slopped".
+    value: richards:noun
+  text: What is a synonym for "slopped"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "blacken" is a synonym for "searing".
+    value: blacken
+  - correct: false
+    detail: Incorrect, "wykeham:noun" is not a synonym for "searing".
+    value: wykeham:noun
+  - correct: false
+    detail: Incorrect, "knotty:satellite" is not a synonym for "searing".
+    value: knotty:satellite
+  - correct: false
+    detail: Incorrect, "infliximab:noun" is not a synonym for "searing".
+    value: infliximab:noun
+  text: What is a synonym for "searing"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "harry" is a synonym for "harassed".
+    value: hassle
+  - correct: false
+    detail: Incorrect, "baccate:adjective" is not a synonym for "harassed".
+    value: baccate:adjective
+  - correct: false
+    detail: Incorrect, "real property:noun" is not a synonym for "harassed".
+    value: real property:noun
+  - correct: false
+    detail: Incorrect, "inquiring:verb" is not a synonym for "harassed".
+    value: inquiring:verb
+  text: What is a synonym for "harassed"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ring" is a synonym for "bordered".
+    value: frame in
+  - correct: false
+    detail: Incorrect, "memphis:noun" is not a synonym for "bordered".
+    value: memphis:noun
+  - correct: false
+    detail: Incorrect, "l. monocytogenes:noun" is not a synonym for "bordered".
+    value: l. monocytogenes:noun
+  - correct: false
+    detail: Incorrect, "red alder:noun" is not a synonym for "bordered".
+    value: red alder:noun
+  text: What is a synonym for "bordered"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "apportion" is a synonym for "divvy up".
+    value: portion out
+  - correct: false
+    detail: Incorrect, "brussels carpet:noun" is not a synonym for "divvy up".
+    value: brussels carpet:noun
+  - correct: false
+    detail: Incorrect, "through:satellite" is not a synonym for "divvy up".
+    value: through:satellite
+  - correct: false
+    detail: Incorrect, "obtuse-angled triangle:noun" is not a synonym for "divvy up".
+    value: obtuse-angled triangle:noun
+  text: What is a synonym for "divvy up"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "aerify|evaporate" is a synonym for "vaporise".
+    value: evaporate|evaporate|gasify
+  - correct: false
+    detail: Incorrect, "kendall:noun" is not a synonym for "vaporise".
+    value: kendall:noun
+  - correct: false
+    detail: Incorrect, "double gold:noun" is not a synonym for "vaporise".
+    value: double gold:noun
+  - correct: false
+    detail: Incorrect, "war advocacy:noun" is not a synonym for "vaporise".
+    value: war advocacy:noun
+  text: What is a synonym for "vaporise"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "soak" is a synonym for "dowse".
+    value: douse|douse|drench
+  - correct: false
+    detail: Incorrect, "times:noun" is not a synonym for "dowse".
+    value: times:noun
+  - correct: false
+    detail: Incorrect, "sharpened:verb" is not a synonym for "dowse".
+    value: sharpened:verb
+  - correct: false
+    detail: Incorrect, "guarneri:noun" is not a synonym for "dowse".
+    value: guarneri:noun
+  text: What is a synonym for "dowse"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "mollycoddle" is a synonym for "baby".
+    value: spoil
+  - correct: false
+    detail: Incorrect, "chromatic color:noun" is not a synonym for "baby".
+    value: chromatic color:noun
+  - correct: false
+    detail: Incorrect, "moeller's glossitis:noun" is not a synonym for "baby".
+    value: moeller's glossitis:noun
+  - correct: false
+    detail: Incorrect, "corrasion:noun" is not a synonym for "baby".
+    value: corrasion:noun
+  text: What is a synonym for "baby"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "foretell" is a synonym for "predict".
+    value: prefigure
+  - correct: false
+    detail: Incorrect, "applicant:noun" is not a synonym for "predict".
+    value: applicant:noun
+  - correct: false
+    detail: Incorrect, "concurrency:noun" is not a synonym for "predict".
+    value: concurrency:noun
+  - correct: false
+    detail: Incorrect, "guardian:noun" is not a synonym for "predict".
+    value: guardian:noun
+  text: What is a synonym for "predict"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "take over" is a synonym for "borrow".
+    value: take up
+  - correct: false
+    detail: Incorrect, "solemn:satellite" is not a synonym for "borrow".
+    value: solemn:satellite
+  - correct: false
+    detail: Incorrect, "john griffith chaney:noun" is not a synonym for "borrow".
+    value: john griffith chaney:noun
+  - correct: false
+    detail: Incorrect, "functioning:verb" is not a synonym for "borrow".
+    value: functioning:verb
+  text: What is a synonym for "borrow"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "set about" is a synonym for "begin".
+    value: set out
+  - correct: false
+    detail: Incorrect, "flora:noun" is not a synonym for "begin".
+    value: flora:noun
+  - correct: false
+    detail: Incorrect, "slut:noun" is not a synonym for "begin".
+    value: slut:noun
+  - correct: false
+    detail: Incorrect, "marine archeology:noun" is not a synonym for "begin".
+    value: marine archeology:noun
+  text: What is a synonym for "begin"?

@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "pad|excavation" is a synonym for "diggings".
+    value: digs|digs
+  - correct: false
+    detail: Incorrect, "sea creature:noun" is not a synonym for "diggings".
+    value: sea creature:noun
+  - correct: false
+    detail: Incorrect, "shakespeare:noun" is not a synonym for "diggings".
+    value: shakespeare:noun
+  - correct: false
+    detail: Incorrect, "counterclockwise:adjective" is not a synonym for "diggings".
+    value: counterclockwise:adjective
+  text: What is a synonym for "diggings"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Mother Teresa" is a synonym for "theresa".
+    value: Theresa
+  - correct: false
+    detail: Incorrect, "bumptious:satellite" is not a synonym for "theresa".
+    value: bumptious:satellite
+  - correct: false
+    detail: Incorrect, "west berliner:noun" is not a synonym for "theresa".
+    value: west berliner:noun
+  - correct: false
+    detail: Incorrect, "monopolize:verb" is not a synonym for "theresa".
+    value: monopolize:verb
+  text: What is a synonym for "theresa"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Moon|Moon" is a synonym for "moon".
+    value: moonshine
+  - correct: false
+    detail: Incorrect, "juglandaceae:noun" is not a synonym for "moon".
+    value: juglandaceae:noun
+  - correct: false
+    detail: Incorrect, "paraphrenic schizophrenia:noun" is not a synonym for "moon".
+    value: paraphrenic schizophrenia:noun
+  - correct: false
+    detail: Incorrect, "genus lagenophera:noun" is not a synonym for "moon".
+    value: genus lagenophera:noun
+  text: What is a synonym for "moon"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "bumbler" is a synonym for "stumbler".
+    value: blunderer
+  - correct: false
+    detail: Incorrect, "northern rhodesia:noun" is not a synonym for "stumbler".
+    value: northern rhodesia:noun
+  - correct: false
+    detail: Incorrect, "climacteric:noun" is not a synonym for "stumbler".
+    value: climacteric:noun
+  - correct: false
+    detail: Incorrect, "radar target:noun" is not a synonym for "stumbler".
+    value: radar target:noun
+  text: What is a synonym for "stumbler"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "abducent" is a synonym for "abducens".
+    value: nervus abducens
+  - correct: false
+    detail: Incorrect, "dissentious:satellite" is not a synonym for "abducens".
+    value: dissentious:satellite
+  - correct: false
+    detail: Incorrect, "wizard:noun" is not a synonym for "abducens".
+    value: wizard:noun
+  - correct: false
+    detail: Incorrect, "moony:satellite" is not a synonym for "abducens".
+    value: moony:satellite
+  text: What is a synonym for "abducens"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "tote" is a synonym for "carryall".
+    value: tote
+  - correct: false
+    detail: Incorrect, "seaborg:noun" is not a synonym for "carryall".
+    value: seaborg:noun
+  - correct: false
+    detail: Incorrect, "gourmet:noun" is not a synonym for "carryall".
+    value: gourmet:noun
+  - correct: false
+    detail: Incorrect, "doze off:verb" is not a synonym for "carryall".
+    value: doze off:verb
+  text: What is a synonym for "carryall"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "milker" is a synonym for "milcher".
+    value: milch cow
+  - correct: false
+    detail: Incorrect, "willa cather:noun" is not a synonym for "milcher".
+    value: willa cather:noun
+  - correct: false
+    detail: Incorrect, "centre of immersion:noun" is not a synonym for "milcher".
+    value: centre of immersion:noun
+  - correct: false
+    detail: Incorrect, "decayable:satellite" is not a synonym for "milcher".
+    value: decayable:satellite
+  text: What is a synonym for "milcher"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "weirdie" is a synonym for "weirdy".
+    value: spook
+  - correct: false
+    detail: Incorrect, "lanthanoid:noun" is not a synonym for "weirdy".
+    value: lanthanoid:noun
+  - correct: false
+    detail: Incorrect, "glum:satellite" is not a synonym for "weirdy".
+    value: glum:satellite
+  - correct: false
+    detail: Incorrect, "tabernaemontana divaricate:noun" is not a synonym for "weirdy".
+    value: tabernaemontana divaricate:noun
+  text: What is a synonym for "weirdy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Republic of Zimbabwe" is a synonym for "zimbabwe".
+    value: Southern Rhodesia
+  - correct: false
+    detail: Incorrect, "genus tulostoma:noun" is not a synonym for "zimbabwe".
+    value: genus tulostoma:noun
+  - correct: false
+    detail: Incorrect, "zoophilia:noun" is not a synonym for "zimbabwe".
+    value: zoophilia:noun
+  - correct: false
+    detail: Incorrect, "glaucous bristlegrass:noun" is not a synonym for "zimbabwe".
+    value: glaucous bristlegrass:noun
+  text: What is a synonym for "zimbabwe"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ack-ack gun" is a synonym for "ack-ack".
+    value: pom-pom
+  - correct: false
+    detail: Incorrect, "riksmaal:noun" is not a synonym for "ack-ack".
+    value: riksmaal:noun
+  - correct: false
+    detail: Incorrect, "george gershwin:noun" is not a synonym for "ack-ack".
+    value: george gershwin:noun
+  - correct: false
+    detail: Incorrect, "blood fluke:noun" is not a synonym for "ack-ack".
+    value: blood fluke:noun
+  text: What is a synonym for "ack-ack"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "exbibyte" is a synonym for "eb".
+    value: Ebit
+  - correct: false
+    detail: Incorrect, "disafforest:verb" is not a synonym for "eb".
+    value: disafforest:verb
+  - correct: false
+    detail: Incorrect, "embodied:satellite" is not a synonym for "eb".
+    value: embodied:satellite
+  - correct: false
+    detail: Incorrect, "consenting:verb" is not a synonym for "eb".
+    value: consenting:verb
+  text: What is a synonym for "eb"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "AC" is a synonym for "ac".
+    value: Ac
+  - correct: false
+    detail: Incorrect, "wrinkle-resistant:adjective" is not a synonym for "ac".
+    value: wrinkle-resistant:adjective
+  - correct: false
+    detail: Incorrect, "anaesthetic:satellite" is not a synonym for "ac".
+    value: anaesthetic:satellite
+  - correct: false
+    detail: Incorrect, "tantalizingly:adverb" is not a synonym for "ac".
+    value: tantalizingly:adverb
+  text: What is a synonym for "ac"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "mass murder" is a synonym for "massacre".
+    value: carnage
+  - correct: false
+    detail: Incorrect, "georgia:noun" is not a synonym for "massacre".
+    value: georgia:noun
+  - correct: false
+    detail: Incorrect, "balanidae:noun" is not a synonym for "massacre".
+    value: balanidae:noun
+  - correct: false
+    detail: Incorrect, "interview:verb" is not a synonym for "massacre".
+    value: interview:verb
+  text: What is a synonym for "massacre"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "routine" is a synonym for "bit".
+    value: number
+  - correct: false
+    detail: Incorrect, "scott's spleenwort:noun" is not a synonym for "bit".
+    value: scott's spleenwort:noun
+  - correct: false
+    detail: Incorrect, "pictor:noun" is not a synonym for "bit".
+    value: pictor:noun
+  - correct: false
+    detail: Incorrect, "frankfurt on the main:noun" is not a synonym for "bit".
+    value: frankfurt on the main:noun
+  text: What is a synonym for "bit"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "brag" is a synonym for "crowing".
+    value: brag
+  - correct: false
+    detail: Incorrect, "retroflexed:verb" is not a synonym for "crowing".
+    value: retroflexed:verb
+  - correct: false
+    detail: Incorrect, "dylan thomas:noun" is not a synonym for "crowing".
+    value: dylan thomas:noun
+  - correct: false
+    detail: Incorrect, "titi family:noun" is not a synonym for "crowing".
+    value: titi family:noun
+  text: What is a synonym for "crowing"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Edwin DuBois Hayward" is a synonym for "heyward".
+    value: Edwin DuBois Hayward
+  - correct: false
+    detail: Incorrect, "tissue:verb" is not a synonym for "heyward".
+    value: tissue:verb
+  - correct: false
+    detail: Incorrect, "garbageman:noun" is not a synonym for "heyward".
+    value: garbageman:noun
+  - correct: false
+    detail: Incorrect, "considerateness:noun" is not a synonym for "heyward".
+    value: considerateness:noun
+  text: What is a synonym for "heyward"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "jibe" is a synonym for "slam".
+    value: sweep|shot
+  - correct: false
+    detail: Incorrect, "gloria may josephine svensson:noun" is not a synonym for "slam".
+    value: gloria may josephine svensson:noun
+  - correct: false
+    detail: Incorrect, "maidenhair:noun" is not a synonym for "slam".
+    value: maidenhair:noun
+  - correct: false
+    detail: Incorrect, "paltering:verb" is not a synonym for "slam".
+    value: paltering:verb
+  text: What is a synonym for "slam"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "coconut" is a synonym for "coco".
+    value: Cocos nucifera
+  - correct: false
+    detail: Incorrect, "wave front:noun" is not a synonym for "coco".
+    value: wave front:noun
+  - correct: false
+    detail: Incorrect, "proterozoic:noun" is not a synonym for "coco".
+    value: proterozoic:noun
+  - correct: false
+    detail: Incorrect, "colored person:noun" is not a synonym for "coco".
+    value: colored person:noun
+  text: What is a synonym for "coco"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "hurly burly" is a synonym for "hoo-hah".
+    value: commotion
+  - correct: false
+    detail: Incorrect, "great salt lake:noun" is not a synonym for "hoo-hah".
+    value: great salt lake:noun
+  - correct: false
+    detail: Incorrect, "mortimer:noun" is not a synonym for "hoo-hah".
+    value: mortimer:noun
+  - correct: false
+    detail: Incorrect, "premature baby:noun" is not a synonym for "hoo-hah".
+    value: premature baby:noun
+  text: What is a synonym for "hoo-hah"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "sleeper" is a synonym for "tie".
+    value: standoff|railroad tie
+  - correct: false
+    detail: Incorrect, "doll's house:noun" is not a synonym for "tie".
+    value: doll's house:noun
+  - correct: false
+    detail: Incorrect, "cover song:noun" is not a synonym for "tie".
+    value: cover song:noun
+  - correct: false
+    detail: Incorrect, "skinnerian:adjective" is not a synonym for "tie".
+    value: skinnerian:adjective
+  text: What is a synonym for "tie"?

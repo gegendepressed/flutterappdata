@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "nigh" is a synonym for "nearer".
+    value: near
+  - correct: false
+    detail: Incorrect, "steatocystoma:noun" is not a synonym for "nearer".
+    value: steatocystoma:noun
+  - correct: false
+    detail: Incorrect, "kirghiz:noun" is not a synonym for "nearer".
+    value: kirghiz:noun
+  - correct: false
+    detail: Incorrect, "brassica kaber:noun" is not a synonym for "nearer".
+    value: brassica kaber:noun
+  text: What is a synonym for "nearer"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "optical" is a synonym for "ocular".
+    value: opthalmic|optic
+  - correct: false
+    detail: Incorrect, "hijinks:noun" is not a synonym for "ocular".
+    value: hijinks:noun
+  - correct: false
+    detail: Incorrect, "potato mold:noun" is not a synonym for "ocular".
+    value: potato mold:noun
+  - correct: false
+    detail: Incorrect, "gopher:noun" is not a synonym for "ocular".
+    value: gopher:noun
+  text: What is a synonym for "ocular"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "egocentric" is a synonym for "egoistic".
+    value: self-centred
+  - correct: false
+    detail: Incorrect, "indian buffalo:noun" is not a synonym for "egoistic".
+    value: indian buffalo:noun
+  - correct: false
+    detail: Incorrect, "yellow jasmine:noun" is not a synonym for "egoistic".
+    value: yellow jasmine:noun
+  - correct: false
+    detail: Incorrect, "rightness:noun" is not a synonym for "egoistic".
+    value: rightness:noun
+  text: What is a synonym for "egoistic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "tzarist" is a synonym for "czarist".
+    value: tsaristic
+  - correct: false
+    detail: Incorrect, "provider:noun" is not a synonym for "czarist".
+    value: provider:noun
+  - correct: false
+    detail: Incorrect, "autosomal dominant disease:noun" is not a synonym for "czarist".
+    value: autosomal dominant disease:noun
+  - correct: false
+    detail: Incorrect, "railroad siding:noun" is not a synonym for "czarist".
+    value: railroad siding:noun
+  text: What is a synonym for "czarist"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Hasidic" is a synonym for "chasidic".
+    value: Chasidic
+  - correct: false
+    detail: Incorrect, "scombroid fish:noun" is not a synonym for "chasidic".
+    value: scombroid fish:noun
+  - correct: false
+    detail: Incorrect, "ill luck:noun" is not a synonym for "chasidic".
+    value: ill luck:noun
+  - correct: false
+    detail: Incorrect, "put across:verb" is not a synonym for "chasidic".
+    value: put across:verb
+  text: What is a synonym for "chasidic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "hemal" is a synonym for "haematal".
+    value: haemal
+  - correct: false
+    detail: Incorrect, "magazine publisher:noun" is not a synonym for "haematal".
+    value: magazine publisher:noun
+  - correct: false
+    detail: Incorrect, "refilling:verb" is not a synonym for "haematal".
+    value: refilling:verb
+  - correct: false
+    detail: Incorrect, "doctor of optometry:noun" is not a synonym for "haematal".
+    value: doctor of optometry:noun
+  text: What is a synonym for "haematal"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "acinous" is a synonym for "acinic".
+    value: acinous
+  - correct: false
+    detail: Incorrect, "thoughtless:satellite" is not a synonym for "acinic".
+    value: thoughtless:satellite
+  - correct: false
+    detail: Incorrect, "hemoptysis:noun" is not a synonym for "acinic".
+    value: hemoptysis:noun
+  - correct: false
+    detail: Incorrect, "metrication:noun" is not a synonym for "acinic".
+    value: metrication:noun
+  text: What is a synonym for "acinic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "albinotic" is a synonym for "albinic".
+    value: albinotic
+  - correct: false
+    detail: Incorrect, "frothy:satellite" is not a synonym for "albinic".
+    value: frothy:satellite
+  - correct: false
+    detail: Incorrect, "infirmity:noun" is not a synonym for "albinic".
+    value: infirmity:noun
+  - correct: false
+    detail: Incorrect, "woolly indris:noun" is not a synonym for "albinic".
+    value: woolly indris:noun
+  text: What is a synonym for "albinic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "arboreal" is a synonym for "arborary".
+    value: arboreal
+  - correct: false
+    detail: Incorrect, "postilion:noun" is not a synonym for "arborary".
+    value: postilion:noun
+  - correct: false
+    detail: Incorrect, "systematizer:noun" is not a synonym for "arborary".
+    value: systematizer:noun
+  - correct: false
+    detail: Incorrect, "pigman:noun" is not a synonym for "arborary".
+    value: pigman:noun
+  text: What is a synonym for "arborary"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Orthodox" is a synonym for "orthodox".
+    value: Jewish-Orthodox|Orthodox
+  - correct: false
+    detail: Incorrect, "australian sumac:noun" is not a synonym for "orthodox".
+    value: australian sumac:noun
+  - correct: false
+    detail: Incorrect, "saint francis xavier:noun" is not a synonym for "orthodox".
+    value: saint francis xavier:noun
+  - correct: false
+    detail: Incorrect, "bradawl:noun" is not a synonym for "orthodox".
+    value: bradawl:noun
+  text: What is a synonym for "orthodox"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "conical" is a synonym for "conic".
+    value: cone-shaped
+  - correct: false
+    detail: Incorrect, "leander:noun" is not a synonym for "conic".
+    value: leander:noun
+  - correct: false
+    detail: Incorrect, "atelier:noun" is not a synonym for "conic".
+    value: atelier:noun
+  - correct: false
+    detail: Incorrect, "unenviable:satellite" is not a synonym for "conic".
+    value: unenviable:satellite
+  text: What is a synonym for "conic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "caesarian" is a synonym for "cesarean".
+    value: cesarian
+  - correct: false
+    detail: Incorrect, "instruction execution:noun" is not a synonym for "cesarean".
+    value: instruction execution:noun
+  - correct: false
+    detail: Incorrect, "licorice:noun" is not a synonym for "cesarean".
+    value: licorice:noun
+  - correct: false
+    detail: Incorrect, "goofball:noun" is not a synonym for "cesarean".
+    value: goofball:noun
+  text: What is a synonym for "cesarean"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Roumanian" is a synonym for "rumanian".
+    value: Romanian
+  - correct: false
+    detail: Incorrect, "aluminum hydroxide:noun" is not a synonym for "rumanian".
+    value: aluminum hydroxide:noun
+  - correct: false
+    detail: Incorrect, "autochthonic:satellite" is not a synonym for "rumanian".
+    value: autochthonic:satellite
+  - correct: false
+    detail: Incorrect, "theme song:noun" is not a synonym for "rumanian".
+    value: theme song:noun
+  text: What is a synonym for "rumanian"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "papistical" is a synonym for "papistic".
+    value: R.C.
+  - correct: false
+    detail: Incorrect, "eastern church:noun" is not a synonym for "papistic".
+    value: eastern church:noun
+  - correct: false
+    detail: Incorrect, "rose geranium:noun" is not a synonym for "papistic".
+    value: rose geranium:noun
+  - correct: false
+    detail: Incorrect, "genus microcentrum:noun" is not a synonym for "papistic".
+    value: genus microcentrum:noun
+  text: What is a synonym for "papistic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Ghanian" is a synonym for "ghanese".
+    value: Ghanaian
+  - correct: false
+    detail: Incorrect, "kirkuk:noun" is not a synonym for "ghanese".
+    value: kirkuk:noun
+  - correct: false
+    detail: Incorrect, "turpin:noun" is not a synonym for "ghanese".
+    value: turpin:noun
+  - correct: false
+    detail: Incorrect, "fetal age:noun" is not a synonym for "ghanese".
+    value: fetal age:noun
+  text: What is a synonym for "ghanese"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Ghanian" is a synonym for "ghanian".
+    value: Ghanaian
+  - correct: false
+    detail: Incorrect, "foil:noun" is not a synonym for "ghanian".
+    value: foil:noun
+  - correct: false
+    detail: Incorrect, "fleece:verb" is not a synonym for "ghanian".
+    value: fleece:verb
+  - correct: false
+    detail: Incorrect, "monochromous:satellite" is not a synonym for "ghanian".
+    value: monochromous:satellite
+  text: What is a synonym for "ghanian"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "haematic" is a synonym for "haemic".
+    value: hematic
+  - correct: false
+    detail: Incorrect, "terrestrial time:noun" is not a synonym for "haemic".
+    value: terrestrial time:noun
+  - correct: false
+    detail: Incorrect, "hypoplastic dwarf:noun" is not a synonym for "haemic".
+    value: hypoplastic dwarf:noun
+  - correct: false
+    detail: Incorrect, "130:satellite" is not a synonym for "haemic".
+    value: 130:satellite
+  text: What is a synonym for "haemic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Taiwanese" is a synonym for "formosan".
+    value: Taiwanese
+  - correct: false
+    detail: Incorrect, "afferent fiber:noun" is not a synonym for "formosan".
+    value: afferent fiber:noun
+  - correct: false
+    detail: Incorrect, "effeminateness:noun" is not a synonym for "formosan".
+    value: effeminateness:noun
+  - correct: false
+    detail: Incorrect, "love-song:noun" is not a synonym for "formosan".
+    value: love-song:noun
+  text: What is a synonym for "formosan"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Romanic|Roman|Roman" is a synonym for "roman".
+    value: papistical
+  - correct: false
+    detail: Incorrect, "gondang wax:noun" is not a synonym for "roman".
+    value: gondang wax:noun
+  - correct: false
+    detail: Incorrect, "wordy:satellite" is not a synonym for "roman".
+    value: wordy:satellite
+  - correct: false
+    detail: Incorrect, "telecommunication:noun" is not a synonym for "roman".
+    value: telecommunication:noun
+  text: What is a synonym for "roman"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "unripe" is a synonym for "green".
+    value: immature
+  - correct: false
+    detail: Incorrect, "cistercian:noun" is not a synonym for "green".
+    value: cistercian:noun
+  - correct: false
+    detail: Incorrect, "wisdom literature:noun" is not a synonym for "green".
+    value: wisdom literature:noun
+  - correct: false
+    detail: Incorrect, "suffering:satellite" is not a synonym for "green".
+    value: suffering:satellite
+  text: What is a synonym for "green"?

@@ -1,0 +1,302 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "disheveled" is a synonym for "tousled".
+    value: frowzled
+  - correct: false
+    detail: Incorrect, "aum:noun" is not a synonym for "tousled".
+    value: aum:noun
+  - correct: false
+    detail: Incorrect, "tabooli:noun" is not a synonym for "tousled".
+    value: tabooli:noun
+  - correct: false
+    detail: Incorrect, "philophylla:noun" is not a synonym for "tousled".
+    value: philophylla:noun
+  text: What is a synonym for "tousled"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "apt" is a synonym for "tending".
+    value: minded
+  - correct: false
+    detail: Incorrect, "gallop:verb" is not a synonym for "tending".
+    value: gallop:verb
+  - correct: false
+    detail: Incorrect, "authoritarianism:noun" is not a synonym for "tending".
+    value: authoritarianism:noun
+  - correct: false
+    detail: Incorrect, "myosotis:noun" is not a synonym for "tending".
+    value: myosotis:noun
+  text: What is a synonym for "tending"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "placed" is a synonym for "set".
+    value: situated|laid|determined
+  - correct: false
+    detail: Incorrect, "aralia stipulata:noun" is not a synonym for "set".
+    value: aralia stipulata:noun
+  - correct: false
+    detail: Incorrect, "close:satellite" is not a synonym for "set".
+    value: close:satellite
+  - correct: false
+    detail: Incorrect, "primate:noun" is not a synonym for "set".
+    value: primate:noun
+  text: What is a synonym for "set"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "gimcrack" is a synonym for "tawdry".
+    value: meretricious
+  - correct: false
+    detail: Incorrect, "scrub brush:noun" is not a synonym for "tawdry".
+    value: scrub brush:noun
+  - correct: false
+    detail: Incorrect, "inopportuneness:noun" is not a synonym for "tawdry".
+    value: inopportuneness:noun
+  - correct: false
+    detail: Incorrect, "aquamarine:noun" is not a synonym for "tawdry".
+    value: aquamarine:noun
+  text: What is a synonym for "tawdry"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fake" is a synonym for "bastard".
+    value: phoney
+  - correct: false
+    detail: Incorrect, "outlawry:noun" is not a synonym for "bastard".
+    value: outlawry:noun
+  - correct: false
+    detail: Incorrect, "ventriloquism:noun" is not a synonym for "bastard".
+    value: ventriloquism:noun
+  - correct: false
+    detail: Incorrect, "abreast:satellite" is not a synonym for "bastard".
+    value: abreast:satellite
+  text: What is a synonym for "bastard"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "continuant" is a synonym for "sibilant".
+    value: strident
+  - correct: false
+    detail: Incorrect, "transmission control protocol:noun" is not a synonym for "sibilant".
+    value: transmission control protocol:noun
+  - correct: false
+    detail: Incorrect, "exchanged:verb" is not a synonym for "sibilant".
+    value: exchanged:verb
+  - correct: false
+    detail: Incorrect, "syrian desert:noun" is not a synonym for "sibilant".
+    value: syrian desert:noun
+  text: What is a synonym for "sibilant"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "two-a-penny" is a synonym for "twopenny".
+    value: twopenny-halfpenny
+  - correct: false
+    detail: Incorrect, "farmland:noun" is not a synonym for "twopenny".
+    value: farmland:noun
+  - correct: false
+    detail: Incorrect, "pinus aristata:noun" is not a synonym for "twopenny".
+    value: pinus aristata:noun
+  - correct: false
+    detail: Incorrect, "full:verb" is not a synonym for "twopenny".
+    value: full:verb
+  text: What is a synonym for "twopenny"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "nourishing" is a synonym for "nutrient".
+    value: alimental
+  - correct: false
+    detail: Incorrect, "hydnoraceae:noun" is not a synonym for "nutrient".
+    value: hydnoraceae:noun
+  - correct: false
+    detail: Incorrect, "lag bolt:noun" is not a synonym for "nutrient".
+    value: lag bolt:noun
+  - correct: false
+    detail: Incorrect, "ballota:noun" is not a synonym for "nutrient".
+    value: ballota:noun
+  text: What is a synonym for "nutrient"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "guilty" is a synonym for "hangdog".
+    value: shamed
+  - correct: false
+    detail: Incorrect, "slate-grey:satellite" is not a synonym for "hangdog".
+    value: slate-grey:satellite
+  - correct: false
+    detail: Incorrect, "megaera:noun" is not a synonym for "hangdog".
+    value: megaera:noun
+  - correct: false
+    detail: Incorrect, "genus castanopsis:noun" is not a synonym for "hangdog".
+    value: genus castanopsis:noun
+  text: What is a synonym for "hangdog"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "unaired|stodgy" is a synonym for "stuffy".
+    value: close
+  - correct: false
+    detail: Incorrect, "aery:satellite" is not a synonym for "stuffy".
+    value: aery:satellite
+  - correct: false
+    detail: Incorrect, "measuring unit:noun" is not a synonym for "stuffy".
+    value: measuring unit:noun
+  - correct: false
+    detail: Incorrect, "metasequoia:noun" is not a synonym for "stuffy".
+    value: metasequoia:noun
+  text: What is a synonym for "stuffy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "prospicient" is a synonym for "long".
+    value: prospicient
+  - correct: false
+    detail: Incorrect, "tillage:noun" is not a synonym for "long".
+    value: tillage:noun
+  - correct: false
+    detail: Incorrect, "fumaria:noun" is not a synonym for "long".
+    value: fumaria:noun
+  - correct: false
+    detail: Incorrect, "toasting:verb" is not a synonym for "long".
+    value: toasting:verb
+  text: What is a synonym for "long"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "homophile" is a synonym for "queer".
+    value: funny
+  - correct: false
+    detail: Incorrect, "communications security establishment:noun" is not a synonym
+      for "queer".
+    value: communications security establishment:noun
+  - correct: false
+    detail: Incorrect, "sep:noun" is not a synonym for "queer".
+    value: sep:noun
+  - correct: false
+    detail: Incorrect, "cacuminal:satellite" is not a synonym for "queer".
+    value: cacuminal:satellite
+  text: What is a synonym for "queer"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "slender" is a synonym for "slim".
+    value: slender
+  - correct: false
+    detail: Incorrect, "reducing diet:noun" is not a synonym for "slim".
+    value: reducing diet:noun
+  - correct: false
+    detail: Incorrect, "little potato:noun" is not a synonym for "slim".
+    value: little potato:noun
+  - correct: false
+    detail: Incorrect, "leucanthemum maximum:noun" is not a synonym for "slim".
+    value: leucanthemum maximum:noun
+  text: What is a synonym for "slim"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "au courant" is a synonym for "up on".
+    value: au courant
+  - correct: false
+    detail: Incorrect, "cardamine rotundifolia:noun" is not a synonym for "up on".
+    value: cardamine rotundifolia:noun
+  - correct: false
+    detail: Incorrect, "practician:noun" is not a synonym for "up on".
+    value: practician:noun
+  - correct: false
+    detail: Incorrect, "betel:noun" is not a synonym for "up on".
+    value: betel:noun
+  text: What is a synonym for "up on"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "effervescing" is a synonym for "foamy".
+    value: frothy
+  - correct: false
+    detail: Incorrect, "bopeep:noun" is not a synonym for "foamy".
+    value: bopeep:noun
+  - correct: false
+    detail: Incorrect, "maximilian's sunflower:noun" is not a synonym for "foamy".
+    value: maximilian's sunflower:noun
+  - correct: false
+    detail: Incorrect, "genus ensis:noun" is not a synonym for "foamy".
+    value: genus ensis:noun
+  text: What is a synonym for "foamy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "accustomed" is a synonym for "wonted".
+    value: customary
+  - correct: false
+    detail: Incorrect, "order mucorales:noun" is not a synonym for "wonted".
+    value: order mucorales:noun
+  - correct: false
+    detail: Incorrect, "prostate cancer:noun" is not a synonym for "wonted".
+    value: prostate cancer:noun
+  - correct: false
+    detail: Incorrect, "valuator:noun" is not a synonym for "wonted".
+    value: valuator:noun
+  text: What is a synonym for "wonted"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "patched" is a synonym for "spotty".
+    value: patched
+  - correct: false
+    detail: Incorrect, "shattered:satellite" is not a synonym for "spotty".
+    value: shattered:satellite
+  - correct: false
+    detail: Incorrect, "lowering:verb" is not a synonym for "spotty".
+    value: lowering:verb
+  - correct: false
+    detail: Incorrect, "yellow lady's slipper:noun" is not a synonym for "spotty".
+    value: yellow lady's slipper:noun
+  text: What is a synonym for "spotty"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "prominent" is a synonym for "salient".
+    value: prominent
+  - correct: false
+    detail: Incorrect, "monroe doctrine:noun" is not a synonym for "salient".
+    value: monroe doctrine:noun
+  - correct: false
+    detail: Incorrect, "liquid assets:noun" is not a synonym for "salient".
+    value: liquid assets:noun
+  - correct: false
+    detail: Incorrect, "screechy:satellite" is not a synonym for "salient".
+    value: screechy:satellite
+  text: What is a synonym for "salient"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "awful" is a synonym for "fearful".
+    value: awful
+  - correct: false
+    detail: Incorrect, "hypogastric artery:noun" is not a synonym for "fearful".
+    value: hypogastric artery:noun
+  - correct: false
+    detail: Incorrect, "omphalos:noun" is not a synonym for "fearful".
+    value: omphalos:noun
+  - correct: false
+    detail: Incorrect, "avow:verb" is not a synonym for "fearful".
+    value: avow:verb
+  text: What is a synonym for "fearful"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "squint-eyed" is a synonym for "sidelong".
+    value: squint
+  - correct: false
+    detail: Incorrect, "yon:adverb" is not a synonym for "sidelong".
+    value: yon:adverb
+  - correct: false
+    detail: Incorrect, "brushing:verb" is not a synonym for "sidelong".
+    value: brushing:verb
+  - correct: false
+    detail: Incorrect, "ortolan:noun" is not a synonym for "sidelong".
+    value: ortolan:noun
+  text: What is a synonym for "sidelong"?

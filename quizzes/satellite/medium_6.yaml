@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "plainspoken" is a synonym for "frank".
+    value: point-blank
+  - correct: false
+    detail: Incorrect, "bevel square:noun" is not a synonym for "frank".
+    value: bevel square:noun
+  - correct: false
+    detail: Incorrect, "ovibos:noun" is not a synonym for "frank".
+    value: ovibos:noun
+  - correct: false
+    detail: Incorrect, "race:verb" is not a synonym for "frank".
+    value: race:verb
+  text: What is a synonym for "frank"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "treed" is a synonym for "trapped".
+    value: treed
+  - correct: false
+    detail: Incorrect, "graphic:satellite" is not a synonym for "trapped".
+    value: graphic:satellite
+  - correct: false
+    detail: Incorrect, "giddiness:noun" is not a synonym for "trapped".
+    value: giddiness:noun
+  - correct: false
+    detail: Incorrect, "illumination:noun" is not a synonym for "trapped".
+    value: illumination:noun
+  text: What is a synonym for "trapped"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fast|agile" is a synonym for "quick".
+    value: fast|agile
+  - correct: false
+    detail: Incorrect, "hypocalcaemia:noun" is not a synonym for "quick".
+    value: hypocalcaemia:noun
+  - correct: false
+    detail: Incorrect, "fashionmonger:noun" is not a synonym for "quick".
+    value: fashionmonger:noun
+  - correct: false
+    detail: Incorrect, "verbaliser:noun" is not a synonym for "quick".
+    value: verbaliser:noun
+  text: What is a synonym for "quick"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "sign-language" is a synonym for "signed".
+    value: gestural
+  - correct: false
+    detail: Incorrect, "culicidae:noun" is not a synonym for "signed".
+    value: culicidae:noun
+  - correct: false
+    detail: Incorrect, "grounds:verb" is not a synonym for "signed".
+    value: grounds:verb
+  - correct: false
+    detail: Incorrect, "cynara scolymus:noun" is not a synonym for "signed".
+    value: cynara scolymus:noun
+  text: What is a synonym for "signed"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "frothy" is a synonym for "sparkly".
+    value: effervescent
+  - correct: false
+    detail: Incorrect, "go through:verb" is not a synonym for "sparkly".
+    value: go through:verb
+  - correct: false
+    detail: Incorrect, "clap:verb" is not a synonym for "sparkly".
+    value: clap:verb
+  - correct: false
+    detail: Incorrect, "stereotyped:satellite" is not a synonym for "sparkly".
+    value: stereotyped:satellite
+  text: What is a synonym for "sparkly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "cliquish" is a synonym for "clannish".
+    value: snobbish
+  - correct: false
+    detail: Incorrect, "julian:noun" is not a synonym for "clannish".
+    value: julian:noun
+  - correct: false
+    detail: Incorrect, "camping bus:noun" is not a synonym for "clannish".
+    value: camping bus:noun
+  - correct: false
+    detail: Incorrect, "vacuum:noun" is not a synonym for "clannish".
+    value: vacuum:noun
+  text: What is a synonym for "clannish"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rose-colored|flushed" is a synonym for "rosy".
+    value: rose-colored|flushed
+  - correct: false
+    detail: Incorrect, "minus:noun" is not a synonym for "rosy".
+    value: minus:noun
+  - correct: false
+    detail: Incorrect, "stock farmer:noun" is not a synonym for "rosy".
+    value: stock farmer:noun
+  - correct: false
+    detail: Incorrect, "curvilinear correlation:noun" is not a synonym for "rosy".
+    value: curvilinear correlation:noun
+  text: What is a synonym for "rosy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "consummate" is a synonym for "masterly".
+    value: masterful
+  - correct: false
+    detail: Incorrect, "hyla:noun" is not a synonym for "masterly".
+    value: hyla:noun
+  - correct: false
+    detail: Incorrect, "genus aldrovanda:noun" is not a synonym for "masterly".
+    value: genus aldrovanda:noun
+  - correct: false
+    detail: Incorrect, "afars and issas:noun" is not a synonym for "masterly".
+    value: afars and issas:noun
+  text: What is a synonym for "masterly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "grey" is a synonym for "gray".
+    value: grayish|grey
+  - correct: false
+    detail: Incorrect, "counterbalance:verb" is not a synonym for "gray".
+    value: counterbalance:verb
+  - correct: false
+    detail: Incorrect, "victoria falls:noun" is not a synonym for "gray".
+    value: victoria falls:noun
+  - correct: false
+    detail: Incorrect, "prairia sabbatia:noun" is not a synonym for "gray".
+    value: prairia sabbatia:noun
+  text: What is a synonym for "gray"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "peremptory" is a synonym for "bossy".
+    value: magisterial
+  - correct: false
+    detail: Incorrect, "annona glabra:noun" is not a synonym for "bossy".
+    value: annona glabra:noun
+  - correct: false
+    detail: Incorrect, "suasion:noun" is not a synonym for "bossy".
+    value: suasion:noun
+  - correct: false
+    detail: Incorrect, "cut-in:noun" is not a synonym for "bossy".
+    value: cut-in:noun
+  text: What is a synonym for "bossy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "pied" is a synonym for "calico".
+    value: motley
+  - correct: false
+    detail: Incorrect, "fifteenth:satellite" is not a synonym for "calico".
+    value: fifteenth:satellite
+  - correct: false
+    detail: Incorrect, "genus cornus:noun" is not a synonym for "calico".
+    value: genus cornus:noun
+  - correct: false
+    detail: Incorrect, "family ziphiidae:noun" is not a synonym for "calico".
+    value: family ziphiidae:noun
+  text: What is a synonym for "calico"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "disc-shaped" is a synonym for "disklike".
+    value: discoid
+  - correct: false
+    detail: Incorrect, "tit:noun" is not a synonym for "disklike".
+    value: tit:noun
+  - correct: false
+    detail: Incorrect, "garden webworm:noun" is not a synonym for "disklike".
+    value: garden webworm:noun
+  - correct: false
+    detail: Incorrect, "adulthood:noun" is not a synonym for "disklike".
+    value: adulthood:noun
+  text: What is a synonym for "disklike"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "lurid|disgraceful" is a synonym for "shocking".
+    value: lurid|disgraceful
+  - correct: false
+    detail: Incorrect, "unlocked:satellite" is not a synonym for "shocking".
+    value: unlocked:satellite
+  - correct: false
+    detail: Incorrect, "freshwater clam:noun" is not a synonym for "shocking".
+    value: freshwater clam:noun
+  - correct: false
+    detail: Incorrect, "glittery:satellite" is not a synonym for "shocking".
+    value: glittery:satellite
+  text: What is a synonym for "shocking"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "cryptical" is a synonym for "cryptic".
+    value: mystifying|cabalistic
+  - correct: false
+    detail: Incorrect, "marry:verb" is not a synonym for "cryptic".
+    value: marry:verb
+  - correct: false
+    detail: Incorrect, "stop consonant:noun" is not a synonym for "cryptic".
+    value: stop consonant:noun
+  - correct: false
+    detail: Incorrect, "dominated:satellite" is not a synonym for "cryptic".
+    value: dominated:satellite
+  text: What is a synonym for "cryptic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "upright|adept" is a synonym for "best".
+    value: skilful|good|dear
+  - correct: false
+    detail: Incorrect, "verrazano-narrows bridge:noun" is not a synonym for "best".
+    value: verrazano-narrows bridge:noun
+  - correct: false
+    detail: Incorrect, "true bacteria:noun" is not a synonym for "best".
+    value: true bacteria:noun
+  - correct: false
+    detail: Incorrect, "tainted:satellite" is not a synonym for "best".
+    value: tainted:satellite
+  text: What is a synonym for "best"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "dichromatic" is a synonym for "bicolor".
+    value: bicolour
+  - correct: false
+    detail: Incorrect, "rumor:verb" is not a synonym for "bicolor".
+    value: rumor:verb
+  - correct: false
+    detail: Incorrect, "streisand:noun" is not a synonym for "bicolor".
+    value: streisand:noun
+  - correct: false
+    detail: Incorrect, "storm-tossed:satellite" is not a synonym for "bicolor".
+    value: storm-tossed:satellite
+  text: What is a synonym for "bicolor"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "dotted" is a synonym for "flecked".
+    value: speckled
+  - correct: false
+    detail: Incorrect, "elongate leaf:noun" is not a synonym for "flecked".
+    value: elongate leaf:noun
+  - correct: false
+    detail: Incorrect, "opuntiales:noun" is not a synonym for "flecked".
+    value: opuntiales:noun
+  - correct: false
+    detail: Incorrect, "precognitive:satellite" is not a synonym for "flecked".
+    value: precognitive:satellite
+  text: What is a synonym for "flecked"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "back" is a synonym for "hinder".
+    value: hind
+  - correct: false
+    detail: Incorrect, "opisthocomus:noun" is not a synonym for "hinder".
+    value: opisthocomus:noun
+  - correct: false
+    detail: Incorrect, "column inch:noun" is not a synonym for "hinder".
+    value: column inch:noun
+  - correct: false
+    detail: Incorrect, "excruciating:verb" is not a synonym for "hinder".
+    value: excruciating:verb
+  text: What is a synonym for "hinder"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "obsessed" is a synonym for "haunted".
+    value: preoccupied
+  - correct: false
+    detail: Incorrect, "quest after:verb" is not a synonym for "haunted".
+    value: quest after:verb
+  - correct: false
+    detail: Incorrect, "get the picture:verb" is not a synonym for "haunted".
+    value: get the picture:verb
+  - correct: false
+    detail: Incorrect, "cryptobranchidae:noun" is not a synonym for "haunted".
+    value: cryptobranchidae:noun
+  text: What is a synonym for "haunted"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "shiny" is a synonym for "sheeny".
+    value: glistening
+  - correct: false
+    detail: Incorrect, "bruise:noun" is not a synonym for "sheeny".
+    value: bruise:noun
+  - correct: false
+    detail: Incorrect, "haying:noun" is not a synonym for "sheeny".
+    value: haying:noun
+  - correct: false
+    detail: Incorrect, "workaday:satellite" is not a synonym for "sheeny".
+    value: workaday:satellite
+  text: What is a synonym for "sheeny"?

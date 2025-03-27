@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "affected" is a synonym for "moved".
+    value: stirred
+  - correct: false
+    detail: Incorrect, "anoplophora glabripennis:noun" is not a synonym for "moved".
+    value: anoplophora glabripennis:noun
+  - correct: false
+    detail: Incorrect, "approachable:satellite" is not a synonym for "moved".
+    value: approachable:satellite
+  - correct: false
+    detail: Incorrect, "genus lagothrix:noun" is not a synonym for "moved".
+    value: genus lagothrix:noun
+  text: What is a synonym for "moved"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Hasidic" is a synonym for "hassidic".
+    value: Hasidic
+  - correct: false
+    detail: Incorrect, "peptise:verb" is not a synonym for "hassidic".
+    value: peptise:verb
+  - correct: false
+    detail: Incorrect, "genus spodoptera:noun" is not a synonym for "hassidic".
+    value: genus spodoptera:noun
+  - correct: false
+    detail: Incorrect, "tapirus terrestris:noun" is not a synonym for "hassidic".
+    value: tapirus terrestris:noun
+  text: What is a synonym for "hassidic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Afghan" is a synonym for "afghani".
+    value: Afghanistani
+  - correct: false
+    detail: Incorrect, "weaver's knot:noun" is not a synonym for "afghani".
+    value: weaver's knot:noun
+  - correct: false
+    detail: Incorrect, "accent:verb" is not a synonym for "afghani".
+    value: accent:verb
+  - correct: false
+    detail: Incorrect, "yucca filamentosa:noun" is not a synonym for "afghani".
+    value: yucca filamentosa:noun
+  text: What is a synonym for "afghani"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "papistical" is a synonym for "romish".
+    value: papistical
+  - correct: false
+    detail: Incorrect, "stitching:noun" is not a synonym for "romish".
+    value: stitching:noun
+  - correct: false
+    detail: Incorrect, "physalis ixocarpa:noun" is not a synonym for "romish".
+    value: physalis ixocarpa:noun
+  - correct: false
+    detail: Incorrect, "stalinism:noun" is not a synonym for "romish".
+    value: stalinism:noun
+  text: What is a synonym for "romish"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Siamese|Thai" is a synonym for "thai".
+    value: Siamese|Thai
+  - correct: false
+    detail: Incorrect, "moralist:noun" is not a synonym for "thai".
+    value: moralist:noun
+  - correct: false
+    detail: Incorrect, "steamroller:verb" is not a synonym for "thai".
+    value: steamroller:verb
+  - correct: false
+    detail: Incorrect, "gold rush:noun" is not a synonym for "thai".
+    value: gold rush:noun
+  text: What is a synonym for "thai"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "toughened" is a synonym for "treated".
+    value: hardened
+  - correct: false
+    detail: Incorrect, "gavialis gangeticus:noun" is not a synonym for "treated".
+    value: gavialis gangeticus:noun
+  - correct: false
+    detail: Incorrect, "greek church:noun" is not a synonym for "treated".
+    value: greek church:noun
+  - correct: false
+    detail: Incorrect, "butterfly nut:noun" is not a synonym for "treated".
+    value: butterfly nut:noun
+  text: What is a synonym for "treated"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "acinic" is a synonym for "acinar".
+    value: acinous
+  - correct: false
+    detail: Incorrect, "pediatrist:noun" is not a synonym for "acinar".
+    value: pediatrist:noun
+  - correct: false
+    detail: Incorrect, "pillaged:satellite" is not a synonym for "acinar".
+    value: pillaged:satellite
+  - correct: false
+    detail: Incorrect, "dam:noun" is not a synonym for "acinar".
+    value: dam:noun
+  text: What is a synonym for "acinar"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "arboreal" is a synonym for "arborous".
+    value: arboreal
+  - correct: false
+    detail: Incorrect, "shod:verb" is not a synonym for "arborous".
+    value: shod:verb
+  - correct: false
+    detail: Incorrect, "graphic designer:noun" is not a synonym for "arborous".
+    value: graphic designer:noun
+  - correct: false
+    detail: Incorrect, "gospel:noun" is not a synonym for "arborous".
+    value: gospel:noun
+  text: What is a synonym for "arborous"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "scrimpy" is a synonym for "meagre".
+    value: meager
+  - correct: false
+    detail: Incorrect, "excavate:verb" is not a synonym for "meagre".
+    value: excavate:verb
+  - correct: false
+    detail: Incorrect, "deuteronomy:noun" is not a synonym for "meagre".
+    value: deuteronomy:noun
+  - correct: false
+    detail: Incorrect, "anoa depressicornis:noun" is not a synonym for "meagre".
+    value: anoa depressicornis:noun
+  text: What is a synonym for "meagre"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "diffused" is a synonym for "diffuser".
+    value: soft
+  - correct: false
+    detail: Incorrect, "genus aplectrum:noun" is not a synonym for "diffuser".
+    value: genus aplectrum:noun
+  - correct: false
+    detail: Incorrect, "revolutionist:noun" is not a synonym for "diffuser".
+    value: revolutionist:noun
+  - correct: false
+    detail: Incorrect, "kettle hole:noun" is not a synonym for "diffuser".
+    value: kettle hole:noun
+  text: What is a synonym for "diffuser"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "hooved" is a synonym for "ungulate".
+    value: hoofed
+  - correct: false
+    detail: Incorrect, "regress:noun" is not a synonym for "ungulate".
+    value: regress:noun
+  - correct: false
+    detail: Incorrect, "primary coil:noun" is not a synonym for "ungulate".
+    value: primary coil:noun
+  - correct: false
+    detail: Incorrect, "poivrade:noun" is not a synonym for "ungulate".
+    value: poivrade:noun
+  text: What is a synonym for "ungulate"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "tzarist" is a synonym for "tsarist".
+    value: czaristic
+  - correct: false
+    detail: Incorrect, "limulus:noun" is not a synonym for "tsarist".
+    value: limulus:noun
+  - correct: false
+    detail: Incorrect, "methyl salicylate:noun" is not a synonym for "tsarist".
+    value: methyl salicylate:noun
+  - correct: false
+    detail: Incorrect, "blemish:noun" is not a synonym for "tsarist".
+    value: blemish:noun
+  text: What is a synonym for "tsarist"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "haematal" is a synonym for "hemal".
+    value: haematal
+  - correct: false
+    detail: Incorrect, "archive:verb" is not a synonym for "hemal".
+    value: archive:verb
+  - correct: false
+    detail: Incorrect, "error-prone:satellite" is not a synonym for "hemal".
+    value: error-prone:satellite
+  - correct: false
+    detail: Incorrect, "lashkar-e-tayyiba:noun" is not a synonym for "hemal".
+    value: lashkar-e-tayyiba:noun
+  text: What is a synonym for "hemal"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "tenacious" is a synonym for "long".
+    value: retentive
+  - correct: false
+    detail: Incorrect, "appellative:noun" is not a synonym for "long".
+    value: appellative:noun
+  - correct: false
+    detail: Incorrect, "dragon tree:noun" is not a synonym for "long".
+    value: dragon tree:noun
+  - correct: false
+    detail: Incorrect, "humour:noun" is not a synonym for "long".
+    value: humour:noun
+  text: What is a synonym for "long"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Siamese|Thai" is a synonym for "siamese".
+    value: Thai
+  - correct: false
+    detail: Incorrect, "dominus:noun" is not a synonym for "siamese".
+    value: dominus:noun
+  - correct: false
+    detail: Incorrect, "trachipterus arcticus:noun" is not a synonym for "siamese".
+    value: trachipterus arcticus:noun
+  - correct: false
+    detail: Incorrect, "bissextile day:noun" is not a synonym for "siamese".
+    value: bissextile day:noun
+  text: What is a synonym for "siamese"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "amebic" is a synonym for "amoebous".
+    value: amoebic
+  - correct: false
+    detail: Incorrect, "lexicalised:verb" is not a synonym for "amoebous".
+    value: lexicalised:verb
+  - correct: false
+    detail: Incorrect, "pronto:adverb" is not a synonym for "amoebous".
+    value: pronto:adverb
+  - correct: false
+    detail: Incorrect, "undershot:verb" is not a synonym for "amoebous".
+    value: undershot:verb
+  text: What is a synonym for "amoebous"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "avoidable" is a synonym for "evitable".
+    value: avoidable
+  - correct: false
+    detail: Incorrect, "pearmain:noun" is not a synonym for "evitable".
+    value: pearmain:noun
+  - correct: false
+    detail: Incorrect, "kick off:verb" is not a synonym for "evitable".
+    value: kick off:verb
+  - correct: false
+    detail: Incorrect, "progressively:adverb" is not a synonym for "evitable".
+    value: progressively:adverb
+  text: What is a synonym for "evitable"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "meagre" is a synonym for "scrimpy".
+    value: stingy
+  - correct: false
+    detail: Incorrect, "kerr cell:noun" is not a synonym for "scrimpy".
+    value: kerr cell:noun
+  - correct: false
+    detail: Incorrect, "heft:noun" is not a synonym for "scrimpy".
+    value: heft:noun
+  - correct: false
+    detail: Incorrect, "arrivederci:noun" is not a synonym for "scrimpy".
+    value: arrivederci:noun
+  text: What is a synonym for "scrimpy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "papistical" is a synonym for "r.c.".
+    value: papistic
+  - correct: false
+    detail: Incorrect, "philippine monetary unit:noun" is not a synonym for "r.c.".
+    value: philippine monetary unit:noun
+  - correct: false
+    detail: Incorrect, "bohemia:noun" is not a synonym for "r.c.".
+    value: bohemia:noun
+  - correct: false
+    detail: Incorrect, "brazilwood:noun" is not a synonym for "r.c.".
+    value: brazilwood:noun
+  text: What is a synonym for "r.c."?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ecologic" is a synonym for "bionomic".
+    value: bionomical
+  - correct: false
+    detail: Incorrect, "monodical:satellite" is not a synonym for "bionomic".
+    value: monodical:satellite
+  - correct: false
+    detail: Incorrect, "leery:satellite" is not a synonym for "bionomic".
+    value: leery:satellite
+  - correct: false
+    detail: Incorrect, "comandra:noun" is not a synonym for "bionomic".
+    value: comandra:noun
+  text: What is a synonym for "bionomic"?

@@ -1,0 +1,304 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "melodiously" is a synonym for "tunefully".
+    value: melodiously
+  - correct: false
+    detail: Incorrect, "disciplinary:satellite" is not a synonym for "tunefully".
+    value: disciplinary:satellite
+  - correct: false
+    detail: Incorrect, "prejudiced:adjective" is not a synonym for "tunefully".
+    value: prejudiced:adjective
+  - correct: false
+    detail: Incorrect, "phytophthora infestans:noun" is not a synonym for "tunefully".
+    value: phytophthora infestans:noun
+  text: What is a synonym for "tunefully"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "in a broad way" is a synonym for "at large".
+    value: in a broad way
+  - correct: false
+    detail: Incorrect, "biology:noun" is not a synonym for "at large".
+    value: biology:noun
+  - correct: false
+    detail: Incorrect, "family buxaceae:noun" is not a synonym for "at large".
+    value: family buxaceae:noun
+  - correct: false
+    detail: Incorrect, "claw:noun" is not a synonym for "at large".
+    value: claw:noun
+  text: What is a synonym for "at large"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "at worst" is a synonym for "at the worst".
+    value: at worst
+  - correct: false
+    detail: Incorrect, "conical buoy:noun" is not a synonym for "at the worst".
+    value: conical buoy:noun
+  - correct: false
+    detail: Incorrect, "gentianales:noun" is not a synonym for "at the worst".
+    value: gentianales:noun
+  - correct: false
+    detail: Incorrect, "madonna louise ciccone:noun" is not a synonym for "at the
+      worst".
+    value: madonna louise ciccone:noun
+  text: What is a synonym for "at the worst"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "alas" is a synonym for "unfortunately".
+    value: regrettably
+  - correct: false
+    detail: Incorrect, "dantean:adjective" is not a synonym for "unfortunately".
+    value: dantean:adjective
+  - correct: false
+    detail: Incorrect, "sir alec guinness:noun" is not a synonym for "unfortunately".
+    value: sir alec guinness:noun
+  - correct: false
+    detail: Incorrect, "nigroporus:noun" is not a synonym for "unfortunately".
+    value: nigroporus:noun
+  text: What is a synonym for "unfortunately"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "in public" is a synonym for "publically".
+    value: publicly
+  - correct: false
+    detail: Incorrect, "revolutionary armed forces of colombia:noun" is not a synonym
+      for "publically".
+    value: revolutionary armed forces of colombia:noun
+  - correct: false
+    detail: Incorrect, "squint-eye:noun" is not a synonym for "publically".
+    value: squint-eye:noun
+  - correct: false
+    detail: Incorrect, "unequalled:satellite" is not a synonym for "publically".
+    value: unequalled:satellite
+  text: What is a synonym for "publically"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "dazedly" is a synonym for "torpidly".
+    value: dazedly
+  - correct: false
+    detail: Incorrect, "irtish river:noun" is not a synonym for "torpidly".
+    value: irtish river:noun
+  - correct: false
+    detail: Incorrect, "tracer:noun" is not a synonym for "torpidly".
+    value: tracer:noun
+  - correct: false
+    detail: Incorrect, "kosciuszko:noun" is not a synonym for "torpidly".
+    value: kosciuszko:noun
+  text: What is a synonym for "torpidly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "headfirst|precipitately|rashly" is a synonym for "headlong".
+    value: headfirst|precipitately|rashly
+  - correct: false
+    detail: Incorrect, "deserved:adjective" is not a synonym for "headlong".
+    value: deserved:adjective
+  - correct: false
+    detail: Incorrect, "tetrabromo-phenolsulfonephthalein:noun" is not a synonym for
+      "headlong".
+    value: tetrabromo-phenolsulfonephthalein:noun
+  - correct: false
+    detail: Incorrect, "shell:verb" is not a synonym for "headlong".
+    value: shell:verb
+  text: What is a synonym for "headlong"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "heavenwardly" is a synonym for "heavenward".
+    value: heavenwards
+  - correct: false
+    detail: Incorrect, "enervated:satellite" is not a synonym for "heavenward".
+    value: enervated:satellite
+  - correct: false
+    detail: Incorrect, "schubert:noun" is not a synonym for "heavenward".
+    value: schubert:noun
+  - correct: false
+    detail: Incorrect, "alcedinidae:noun" is not a synonym for "heavenward".
+    value: alcedinidae:noun
+  text: What is a synonym for "heavenward"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "thence" is a synonym for "thereof".
+    value: thence
+  - correct: false
+    detail: Incorrect, "undiscipline:noun" is not a synonym for "thereof".
+    value: undiscipline:noun
+  - correct: false
+    detail: Incorrect, "arena theater:noun" is not a synonym for "thereof".
+    value: arena theater:noun
+  - correct: false
+    detail: Incorrect, "welted thistle:noun" is not a synonym for "thereof".
+    value: welted thistle:noun
+  text: What is a synonym for "thereof"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "illicitly" is a synonym for "lawlessly".
+    value: illegally
+  - correct: false
+    detail: Incorrect, "terrorize:verb" is not a synonym for "lawlessly".
+    value: terrorize:verb
+  - correct: false
+    detail: Incorrect, "half step:noun" is not a synonym for "lawlessly".
+    value: half step:noun
+  - correct: false
+    detail: Incorrect, "johnny reb:noun" is not a synonym for "lawlessly".
+    value: johnny reb:noun
+  text: What is a synonym for "lawlessly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "underhand" is a synonym for "underarm".
+    value: underhand
+  - correct: false
+    detail: Incorrect, "ali baba:noun" is not a synonym for "underarm".
+    value: ali baba:noun
+  - correct: false
+    detail: Incorrect, "evoked:verb" is not a synonym for "underarm".
+    value: evoked:verb
+  - correct: false
+    detail: Incorrect, "parapet:noun" is not a synonym for "underarm".
+    value: parapet:noun
+  text: What is a synonym for "underarm"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "befittingly" is a synonym for "appropriately".
+    value: befittingly
+  - correct: false
+    detail: Incorrect, "inheritrix:noun" is not a synonym for "appropriately".
+    value: inheritrix:noun
+  - correct: false
+    detail: Incorrect, "lillian hellman:noun" is not a synonym for "appropriately".
+    value: lillian hellman:noun
+  - correct: false
+    detail: Incorrect, "passerby:noun" is not a synonym for "appropriately".
+    value: passerby:noun
+  text: What is a synonym for "appropriately"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "ad val" is a synonym for "ad valorem".
+    value: ad val
+  - correct: false
+    detail: Incorrect, "thelypteris:noun" is not a synonym for "ad valorem".
+    value: thelypteris:noun
+  - correct: false
+    detail: Incorrect, "u.s. government:noun" is not a synonym for "ad valorem".
+    value: u.s. government:noun
+  - correct: false
+    detail: Incorrect, "evangelista torricelli:noun" is not a synonym for "ad valorem".
+    value: evangelista torricelli:noun
+  text: What is a synonym for "ad valorem"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "two times" is a synonym for "twofold".
+    value: two times
+  - correct: false
+    detail: Incorrect, "king camp gilette:noun" is not a synonym for "twofold".
+    value: king camp gilette:noun
+  - correct: false
+    detail: Incorrect, "hottentot's bread vine:noun" is not a synonym for "twofold".
+    value: hottentot's bread vine:noun
+  - correct: false
+    detail: Incorrect, "executed:verb" is not a synonym for "twofold".
+    value: executed:verb
+  text: What is a synonym for "twofold"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "by" is a synonym for "past".
+    value: by
+  - correct: false
+    detail: Incorrect, "velvet-textured:satellite" is not a synonym for "past".
+    value: velvet-textured:satellite
+  - correct: false
+    detail: Incorrect, "baron:noun" is not a synonym for "past".
+    value: baron:noun
+  - correct: false
+    detail: Incorrect, "carrefour:noun" is not a synonym for "past".
+    value: carrefour:noun
+  text: What is a synonym for "past"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "in any event|at least" is a synonym for "at any rate".
+    value: in any case
+  - correct: false
+    detail: Incorrect, "satisfyingly:adverb" is not a synonym for "at any rate".
+    value: satisfyingly:adverb
+  - correct: false
+    detail: Incorrect, "genus plantago:noun" is not a synonym for "at any rate".
+    value: genus plantago:noun
+  - correct: false
+    detail: Incorrect, "incurved:satellite" is not a synonym for "at any rate".
+    value: incurved:satellite
+  text: What is a synonym for "at any rate"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "efficaciously|in effect" is a synonym for "effectively".
+    value: efficaciously|in effect
+  - correct: false
+    detail: Incorrect, "cupboard:noun" is not a synonym for "effectively".
+    value: cupboard:noun
+  - correct: false
+    detail: Incorrect, "readability:noun" is not a synonym for "effectively".
+    value: readability:noun
+  - correct: false
+    detail: Incorrect, "port jackson heath:noun" is not a synonym for "effectively".
+    value: port jackson heath:noun
+  text: What is a synonym for "effectively"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "preciously" is a synonym for "precious".
+    value: preciously
+  - correct: false
+    detail: Incorrect, "nucleolus:noun" is not a synonym for "precious".
+    value: nucleolus:noun
+  - correct: false
+    detail: Incorrect, "european spider crab:noun" is not a synonym for "precious".
+    value: european spider crab:noun
+  - correct: false
+    detail: Incorrect, "zarpanit:noun" is not a synonym for "precious".
+    value: zarpanit:noun
+  text: What is a synonym for "precious"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "exorbitantly" is a synonym for "extortionately".
+    value: exorbitantly
+  - correct: false
+    detail: Incorrect, "very much:adverb" is not a synonym for "extortionately".
+    value: very much:adverb
+  - correct: false
+    detail: Incorrect, "doddery:satellite" is not a synonym for "extortionately".
+    value: doddery:satellite
+  - correct: false
+    detail: Incorrect, "harvesting:noun" is not a synonym for "extortionately".
+    value: harvesting:noun
+  text: What is a synonym for "extortionately"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "on the other hand" is a synonym for "but then".
+    value: on the other hand
+  - correct: false
+    detail: Incorrect, "chandler:noun" is not a synonym for "but then".
+    value: chandler:noun
+  - correct: false
+    detail: Incorrect, "meticulous:satellite" is not a synonym for "but then".
+    value: meticulous:satellite
+  - correct: false
+    detail: Incorrect, "obtuseness:noun" is not a synonym for "but then".
+    value: obtuseness:noun
+  text: What is a synonym for "but then"?

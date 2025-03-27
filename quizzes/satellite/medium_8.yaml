@@ -1,0 +1,302 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "aflare" is a synonym for "alight".
+    value: ablaze
+  - correct: false
+    detail: Incorrect, "emergence:noun" is not a synonym for "alight".
+    value: emergence:noun
+  - correct: false
+    detail: Incorrect, "remediate:verb" is not a synonym for "alight".
+    value: remediate:verb
+  - correct: false
+    detail: Incorrect, "plot of ground:noun" is not a synonym for "alight".
+    value: plot of ground:noun
+  text: What is a synonym for "alight"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "susurrous" is a synonym for "rustling".
+    value: susurrous
+  - correct: false
+    detail: Incorrect, "elanoides forficatus:noun" is not a synonym for "rustling".
+    value: elanoides forficatus:noun
+  - correct: false
+    detail: Incorrect, "clustered lady's slipper:noun" is not a synonym for "rustling".
+    value: clustered lady's slipper:noun
+  - correct: false
+    detail: Incorrect, "ormosia:noun" is not a synonym for "rustling".
+    value: ormosia:noun
+  text: What is a synonym for "rustling"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "equal to" is a synonym for "capable".
+    value: open
+  - correct: false
+    detail: Incorrect, "verthandi:noun" is not a synonym for "capable".
+    value: verthandi:noun
+  - correct: false
+    detail: Incorrect, "tularemia:noun" is not a synonym for "capable".
+    value: tularemia:noun
+  - correct: false
+    detail: Incorrect, "chauffeur:verb" is not a synonym for "capable".
+    value: chauffeur:verb
+  text: What is a synonym for "capable"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "emasculate" is a synonym for "sissy".
+    value: sissyish
+  - correct: false
+    detail: Incorrect, "goblet:noun" is not a synonym for "sissy".
+    value: goblet:noun
+  - correct: false
+    detail: Incorrect, "mustela:noun" is not a synonym for "sissy".
+    value: mustela:noun
+  - correct: false
+    detail: Incorrect, "culver's root:noun" is not a synonym for "sissy".
+    value: culver's root:noun
+  text: What is a synonym for "sissy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "consecutive" is a synonym for "serial".
+    value: sequential
+  - correct: false
+    detail: Incorrect, "take a powder:verb" is not a synonym for "serial".
+    value: take a powder:verb
+  - correct: false
+    detail: Incorrect, "hue:noun" is not a synonym for "serial".
+    value: hue:noun
+  - correct: false
+    detail: Incorrect, "thelypteris hexagonoptera:noun" is not a synonym for "serial".
+    value: thelypteris hexagonoptera:noun
+  text: What is a synonym for "serial"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "shelfy" is a synonym for "reefy".
+    value: shoaly
+  - correct: false
+    detail: Incorrect, "tanzim:noun" is not a synonym for "reefy".
+    value: tanzim:noun
+  - correct: false
+    detail: Incorrect, "acanthus family:noun" is not a synonym for "reefy".
+    value: acanthus family:noun
+  - correct: false
+    detail: Incorrect, "szechwan:noun" is not a synonym for "reefy".
+    value: szechwan:noun
+  text: What is a synonym for "reefy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "uncanny" is a synonym for "eldritch".
+    value: unearthly
+  - correct: false
+    detail: Incorrect, "analog:adjective" is not a synonym for "eldritch".
+    value: analog:adjective
+  - correct: false
+    detail: Incorrect, "fringilla:noun" is not a synonym for "eldritch".
+    value: fringilla:noun
+  - correct: false
+    detail: Incorrect, "sidonie-gabrielle colette:noun" is not a synonym for "eldritch".
+    value: sidonie-gabrielle colette:noun
+  text: What is a synonym for "eldritch"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "wicked" is a synonym for "skanky".
+    value: loathsome
+  - correct: false
+    detail: Incorrect, "aminopyrine:noun" is not a synonym for "skanky".
+    value: aminopyrine:noun
+  - correct: false
+    detail: Incorrect, "gone:verb" is not a synonym for "skanky".
+    value: gone:verb
+  - correct: false
+    detail: Incorrect, "strong-growing:satellite" is not a synonym for "skanky".
+    value: strong-growing:satellite
+  text: What is a synonym for "skanky"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "emasculate" is a synonym for "cissy".
+    value: epicene
+  - correct: false
+    detail: Incorrect, "undulate:verb" is not a synonym for "cissy".
+    value: undulate:verb
+  - correct: false
+    detail: Incorrect, "preen gland:noun" is not a synonym for "cissy".
+    value: preen gland:noun
+  - correct: false
+    detail: Incorrect, "phrygian:noun" is not a synonym for "cissy".
+    value: phrygian:noun
+  text: What is a synonym for "cissy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "disc-shaped" is a synonym for "disclike".
+    value: disc-shaped
+  - correct: false
+    detail: Incorrect, "state of katar:noun" is not a synonym for "disclike".
+    value: state of katar:noun
+  - correct: false
+    detail: Incorrect, "clog:verb" is not a synonym for "disclike".
+    value: clog:verb
+  - correct: false
+    detail: Incorrect, "berzelius:noun" is not a synonym for "disclike".
+    value: berzelius:noun
+  text: What is a synonym for "disclike"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "admonitory" is a synonym for "monitory".
+    value: cautionary
+  - correct: false
+    detail: Incorrect, "motor nerve:noun" is not a synonym for "monitory".
+    value: motor nerve:noun
+  - correct: false
+    detail: Incorrect, "fiddling:verb" is not a synonym for "monitory".
+    value: fiddling:verb
+  - correct: false
+    detail: Incorrect, "nymphomaniac:satellite" is not a synonym for "monitory".
+    value: nymphomaniac:satellite
+  text: What is a synonym for "monitory"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "sweet-smelling" is a synonym for "perfumed".
+    value: sweet
+  - correct: false
+    detail: Incorrect, "federal official:noun" is not a synonym for "perfumed".
+    value: federal official:noun
+  - correct: false
+    detail: Incorrect, "shelter tent:noun" is not a synonym for "perfumed".
+    value: shelter tent:noun
+  - correct: false
+    detail: Incorrect, "air jacket:noun" is not a synonym for "perfumed".
+    value: air jacket:noun
+  text: What is a synonym for "perfumed"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "slick|glib-tongued" is a synonym for "glib".
+    value: pat
+  - correct: false
+    detail: Incorrect, "bungled:verb" is not a synonym for "glib".
+    value: bungled:verb
+  - correct: false
+    detail: Incorrect, "canella winterana:noun" is not a synonym for "glib".
+    value: canella winterana:noun
+  - correct: false
+    detail: Incorrect, "cryptography:noun" is not a synonym for "glib".
+    value: cryptography:noun
+  text: What is a synonym for "glib"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "crustlike" is a synonym for "crusted".
+    value: crusty
+  - correct: false
+    detail: Incorrect, "downwind:satellite" is not a synonym for "crusted".
+    value: downwind:satellite
+  - correct: false
+    detail: Incorrect, "gypsophila:noun" is not a synonym for "crusted".
+    value: gypsophila:noun
+  - correct: false
+    detail: Incorrect, "yellow bunting:noun" is not a synonym for "crusted".
+    value: yellow bunting:noun
+  text: What is a synonym for "crusted"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "epic" is a synonym for "heroic".
+    value: epic
+  - correct: false
+    detail: Incorrect, "cervantes:noun" is not a synonym for "heroic".
+    value: cervantes:noun
+  - correct: false
+    detail: Incorrect, "highlight:noun" is not a synonym for "heroic".
+    value: highlight:noun
+  - correct: false
+    detail: Incorrect, "mathematics:noun" is not a synonym for "heroic".
+    value: mathematics:noun
+  text: What is a synonym for "heroic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "old" is a synonym for "former".
+    value: one-time
+  - correct: false
+    detail: Incorrect, "amygdaloid nucleus:noun" is not a synonym for "former".
+    value: amygdaloid nucleus:noun
+  - correct: false
+    detail: Incorrect, "lamium amplexicaule:noun" is not a synonym for "former".
+    value: lamium amplexicaule:noun
+  - correct: false
+    detail: Incorrect, "captain bligh:noun" is not a synonym for "former".
+    value: captain bligh:noun
+  text: What is a synonym for "former"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "vendable" is a synonym for "sellable".
+    value: merchantable
+  - correct: false
+    detail: Incorrect, "windbag:noun" is not a synonym for "sellable".
+    value: windbag:noun
+  - correct: false
+    detail: Incorrect, "changelessness:noun" is not a synonym for "sellable".
+    value: changelessness:noun
+  - correct: false
+    detail: Incorrect, "acoustic impedance:noun" is not a synonym for "sellable".
+    value: acoustic impedance:noun
+  text: What is a synonym for "sellable"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "whiskered" is a synonym for "whiskery".
+    value: bearded
+  - correct: false
+    detail: Incorrect, "razzle:noun" is not a synonym for "whiskery".
+    value: razzle:noun
+  - correct: false
+    detail: Incorrect, "carfare:noun" is not a synonym for "whiskery".
+    value: carfare:noun
+  - correct: false
+    detail: Incorrect, "alpine gold:noun" is not a synonym for "whiskery".
+    value: alpine gold:noun
+  text: What is a synonym for "whiskery"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "blanched" is a synonym for "livid".
+    value: bloodless
+  - correct: false
+    detail: Incorrect, "chukaku-ha:noun" is not a synonym for "livid".
+    value: chukaku-ha:noun
+  - correct: false
+    detail: Incorrect, "pleurisy root:noun" is not a synonym for "livid".
+    value: pleurisy root:noun
+  - correct: false
+    detail: Incorrect, "absolvitory:satellite" is not a synonym for "livid".
+    value: absolvitory:satellite
+  text: What is a synonym for "livid"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "trivial" is a synonym for "picayune".
+    value: niggling
+  - correct: false
+    detail: Incorrect, "rust-brown:satellite" is not a synonym for "picayune".
+    value: rust-brown:satellite
+  - correct: false
+    detail: Incorrect, "francoise-athenais de rochechouart:noun" is not a synonym
+      for "picayune".
+    value: francoise-athenais de rochechouart:noun
+  - correct: false
+    detail: Incorrect, "gnaeus julius agricola:noun" is not a synonym for "picayune".
+    value: gnaeus julius agricola:noun
+  text: What is a synonym for "picayune"?

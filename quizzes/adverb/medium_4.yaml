@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "at once" is a synonym for "now".
+    value: straight off
+  - correct: false
+    detail: Incorrect, "tampa:noun" is not a synonym for "now".
+    value: tampa:noun
+  - correct: false
+    detail: Incorrect, "siwan:noun" is not a synonym for "now".
+    value: siwan:noun
+  - correct: false
+    detail: Incorrect, "david hume:noun" is not a synonym for "now".
+    value: david hume:noun
+  text: What is a synonym for "now"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "etc." is a synonym for "etcetera".
+    value: and so forth
+  - correct: false
+    detail: Incorrect, "sun city:noun" is not a synonym for "etcetera".
+    value: sun city:noun
+  - correct: false
+    detail: Incorrect, "leppy:noun" is not a synonym for "etcetera".
+    value: leppy:noun
+  - correct: false
+    detail: Incorrect, "lombard street:noun" is not a synonym for "etcetera".
+    value: lombard street:noun
+  text: What is a synonym for "etcetera"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "daftly" is a synonym for "wackily".
+    value: daftly
+  - correct: false
+    detail: Incorrect, "ibota privet:noun" is not a synonym for "wackily".
+    value: ibota privet:noun
+  - correct: false
+    detail: Incorrect, "dollarfish:noun" is not a synonym for "wackily".
+    value: dollarfish:noun
+  - correct: false
+    detail: Incorrect, "promontory:noun" is not a synonym for "wackily".
+    value: promontory:noun
+  text: What is a synonym for "wackily"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "frequently" is a synonym for "oft".
+    value: often
+  - correct: false
+    detail: Incorrect, "digoxin:noun" is not a synonym for "oft".
+    value: digoxin:noun
+  - correct: false
+    detail: Incorrect, "postal clerk:noun" is not a synonym for "oft".
+    value: postal clerk:noun
+  - correct: false
+    detail: Incorrect, "juvenile delinquent:noun" is not a synonym for "oft".
+    value: juvenile delinquent:noun
+  text: What is a synonym for "oft"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "so" is a synonym for "and so".
+    value: then
+  - correct: false
+    detail: Incorrect, "thc:noun" is not a synonym for "and so".
+    value: thc:noun
+  - correct: false
+    detail: Incorrect, "genus cathartes:noun" is not a synonym for "and so".
+    value: genus cathartes:noun
+  - correct: false
+    detail: Incorrect, "silver tree:noun" is not a synonym for "and so".
+    value: silver tree:noun
+  text: What is a synonym for "and so"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "terribly" is a synonym for "awful".
+    value: frightfully
+  - correct: false
+    detail: Incorrect, "maltese cat:noun" is not a synonym for "awful".
+    value: maltese cat:noun
+  - correct: false
+    detail: Incorrect, "fontanne:noun" is not a synonym for "awful".
+    value: fontanne:noun
+  - correct: false
+    detail: Incorrect, "menagerie:noun" is not a synonym for "awful".
+    value: menagerie:noun
+  text: What is a synonym for "awful"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "exquisitely" is a synonym for "fine".
+    value: all right
+  - correct: false
+    detail: Incorrect, "crappy:satellite" is not a synonym for "fine".
+    value: crappy:satellite
+  - correct: false
+    detail: Incorrect, "araucaria columnaris:noun" is not a synonym for "fine".
+    value: araucaria columnaris:noun
+  - correct: false
+    detail: Incorrect, "melchite:noun" is not a synonym for "fine".
+    value: melchite:noun
+  text: What is a synonym for "fine"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "collectively" is a synonym for "jointly".
+    value: together with
+  - correct: false
+    detail: Incorrect, "lateralization:noun" is not a synonym for "jointly".
+    value: lateralization:noun
+  - correct: false
+    detail: Incorrect, "sunni:noun" is not a synonym for "jointly".
+    value: sunni:noun
+  - correct: false
+    detail: Incorrect, "irreplaceable:adjective" is not a synonym for "jointly".
+    value: irreplaceable:adjective
+  text: What is a synonym for "jointly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "on an individual basis" is a synonym for "singly".
+    value: separately
+  - correct: false
+    detail: Incorrect, "pat:verb" is not a synonym for "singly".
+    value: pat:verb
+  - correct: false
+    detail: Incorrect, "nutritious:satellite" is not a synonym for "singly".
+    value: nutritious:satellite
+  - correct: false
+    detail: Incorrect, "tragicomic:satellite" is not a synonym for "singly".
+    value: tragicomic:satellite
+  text: What is a synonym for "singly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "very much" is a synonym for "lots".
+    value: a lot
+  - correct: false
+    detail: Incorrect, "hollywood:satellite" is not a synonym for "lots".
+    value: hollywood:satellite
+  - correct: false
+    detail: Incorrect, "pricelessness:noun" is not a synonym for "lots".
+    value: pricelessness:noun
+  - correct: false
+    detail: Incorrect, "henri matisse:noun" is not a synonym for "lots".
+    value: henri matisse:noun
+  text: What is a synonym for "lots"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "slenderly" is a synonym for "meagerly".
+    value: meagrely
+  - correct: false
+    detail: Incorrect, "neutral-colored:satellite" is not a synonym for "meagerly".
+    value: neutral-colored:satellite
+  - correct: false
+    detail: Incorrect, "scarcity:noun" is not a synonym for "meagerly".
+    value: scarcity:noun
+  - correct: false
+    detail: Incorrect, "bobby jones:noun" is not a synonym for "meagerly".
+    value: bobby jones:noun
+  text: What is a synonym for "meagerly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "believably" is a synonym for "probably".
+    value: plausibly
+  - correct: false
+    detail: Incorrect, "unblock:verb" is not a synonym for "probably".
+    value: unblock:verb
+  - correct: false
+    detail: Incorrect, "camelina sativa:noun" is not a synonym for "probably".
+    value: camelina sativa:noun
+  - correct: false
+    detail: Incorrect, "cub shark:noun" is not a synonym for "probably".
+    value: cub shark:noun
+  text: What is a synonym for "probably"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "sideway|sideways" is a synonym for "sidewise".
+    value: sideways
+  - correct: false
+    detail: Incorrect, "consanguine:satellite" is not a synonym for "sidewise".
+    value: consanguine:satellite
+  - correct: false
+    detail: Incorrect, "herpes encephalitis:noun" is not a synonym for "sidewise".
+    value: herpes encephalitis:noun
+  - correct: false
+    detail: Incorrect, "rocky mountain jay:noun" is not a synonym for "sidewise".
+    value: rocky mountain jay:noun
+  text: What is a synonym for "sidewise"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "and then|therefore" is a synonym for "so".
+    value: thus
+  - correct: false
+    detail: Incorrect, "facade:noun" is not a synonym for "so".
+    value: facade:noun
+  - correct: false
+    detail: Incorrect, "birthrate:noun" is not a synonym for "so".
+    value: birthrate:noun
+  - correct: false
+    detail: Incorrect, "jerk:noun" is not a synonym for "so".
+    value: jerk:noun
+  text: What is a synonym for "so"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "all of a sudden" is a synonym for "suddenly".
+    value: all of a sudden
+  - correct: false
+    detail: Incorrect, "crosshatched:verb" is not a synonym for "suddenly".
+    value: crosshatched:verb
+  - correct: false
+    detail: Incorrect, "lookout:noun" is not a synonym for "suddenly".
+    value: lookout:noun
+  - correct: false
+    detail: Incorrect, "prunus laurocerasus:noun" is not a synonym for "suddenly".
+    value: prunus laurocerasus:noun
+  text: What is a synonym for "suddenly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "jolly" is a synonym for "somewhat".
+    value: fairly
+  - correct: false
+    detail: Incorrect, "polysemy:noun" is not a synonym for "somewhat".
+    value: polysemy:noun
+  - correct: false
+    detail: Incorrect, "trephine:noun" is not a synonym for "somewhat".
+    value: trephine:noun
+  - correct: false
+    detail: Incorrect, "consciousness-altering drug:noun" is not a synonym for "somewhat".
+    value: consciousness-altering drug:noun
+  text: What is a synonym for "somewhat"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "B.C." is a synonym for "b.c.".
+    value: BC
+  - correct: false
+    detail: Incorrect, "at random:adverb" is not a synonym for "b.c.".
+    value: at random:adverb
+  - correct: false
+    detail: Incorrect, "logical quantifier:noun" is not a synonym for "b.c.".
+    value: logical quantifier:noun
+  - correct: false
+    detail: Incorrect, "gosan-chiku:noun" is not a synonym for "b.c.".
+    value: gosan-chiku:noun
+  text: What is a synonym for "b.c."?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "likewise" is a synonym for "as well".
+    value: too
+  - correct: false
+    detail: Incorrect, "oceanic:noun" is not a synonym for "as well".
+    value: oceanic:noun
+  - correct: false
+    detail: Incorrect, "zapodidae:noun" is not a synonym for "as well".
+    value: zapodidae:noun
+  - correct: false
+    detail: Incorrect, "scale:verb" is not a synonym for "as well".
+    value: scale:verb
+  text: What is a synonym for "as well"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "deucedly" is a synonym for "madly".
+    value: deadly
+  - correct: false
+    detail: Incorrect, "fucaceae:noun" is not a synonym for "madly".
+    value: fucaceae:noun
+  - correct: false
+    detail: Incorrect, "projective test:noun" is not a synonym for "madly".
+    value: projective test:noun
+  - correct: false
+    detail: Incorrect, "danton:noun" is not a synonym for "madly".
+    value: danton:noun
+  text: What is a synonym for "madly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "videlicet" is a synonym for "namely".
+    value: to wit
+  - correct: false
+    detail: Incorrect, "tearfulness:noun" is not a synonym for "namely".
+    value: tearfulness:noun
+  - correct: false
+    detail: Incorrect, "conopodium:noun" is not a synonym for "namely".
+    value: conopodium:noun
+  - correct: false
+    detail: Incorrect, "buckthorn berry:noun" is not a synonym for "namely".
+    value: buckthorn berry:noun
+  text: What is a synonym for "namely"?

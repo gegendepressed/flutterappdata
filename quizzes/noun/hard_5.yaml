@@ -1,0 +1,303 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "singultus" is a synonym for "hiccough".
+    value: singultus
+  - correct: false
+    detail: Incorrect, "purple virgin's bower:noun" is not a synonym for "hiccough".
+    value: purple virgin's bower:noun
+  - correct: false
+    detail: Incorrect, "sump:noun" is not a synonym for "hiccough".
+    value: sump:noun
+  - correct: false
+    detail: Incorrect, "minsk:noun" is not a synonym for "hiccough".
+    value: minsk:noun
+  text: What is a synonym for "hiccough"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Reiter" is a synonym for "reiter".
+    value: Reiter
+  - correct: false
+    detail: Incorrect, "hesitance:noun" is not a synonym for "reiter".
+    value: hesitance:noun
+  - correct: false
+    detail: Incorrect, "bestride:verb" is not a synonym for "reiter".
+    value: bestride:verb
+  - correct: false
+    detail: Incorrect, "wirehaired terrier:noun" is not a synonym for "reiter".
+    value: wirehaired terrier:noun
+  text: What is a synonym for "reiter"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "vena cutanea" is a synonym for "cutaneous vein".
+    value: vena cutanea
+  - correct: false
+    detail: Incorrect, "metier:noun" is not a synonym for "cutaneous vein".
+    value: metier:noun
+  - correct: false
+    detail: Incorrect, "menura:noun" is not a synonym for "cutaneous vein".
+    value: menura:noun
+  - correct: false
+    detail: Incorrect, "foliate:adjective" is not a synonym for "cutaneous vein".
+    value: foliate:adjective
+  text: What is a synonym for "cutaneous vein"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "sweatpants" is a synonym for "sweat pants".
+    value: sweatpants
+  - correct: false
+    detail: Incorrect, "francis crick:noun" is not a synonym for "sweat pants".
+    value: francis crick:noun
+  - correct: false
+    detail: Incorrect, "genus catalpa:noun" is not a synonym for "sweat pants".
+    value: genus catalpa:noun
+  - correct: false
+    detail: Incorrect, "by the bye:adverb" is not a synonym for "sweat pants".
+    value: by the bye:adverb
+  text: What is a synonym for "sweat pants"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "daycare" is a synonym for "day care".
+    value: daycare
+  - correct: false
+    detail: Incorrect, "iron-gray:noun" is not a synonym for "day care".
+    value: iron-gray:noun
+  - correct: false
+    detail: Incorrect, "alpine fir:noun" is not a synonym for "day care".
+    value: alpine fir:noun
+  - correct: false
+    detail: Incorrect, "wrong:noun" is not a synonym for "day care".
+    value: wrong:noun
+  text: What is a synonym for "day care"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "genus Grewia" is a synonym for "genus grewia".
+    value: Grewia
+  - correct: false
+    detail: Incorrect, "pancreatic fibrosis:noun" is not a synonym for "genus grewia".
+    value: pancreatic fibrosis:noun
+  - correct: false
+    detail: Incorrect, "baptisia australis:noun" is not a synonym for "genus grewia".
+    value: baptisia australis:noun
+  - correct: false
+    detail: Incorrect, "unsown:satellite" is not a synonym for "genus grewia".
+    value: unsown:satellite
+  text: What is a synonym for "genus grewia"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Ribes sanguineum" is a synonym for "winter currant".
+    value: Ribes sanguineum
+  - correct: false
+    detail: Incorrect, "abolitionist:noun" is not a synonym for "winter currant".
+    value: abolitionist:noun
+  - correct: false
+    detail: Incorrect, "peony:noun" is not a synonym for "winter currant".
+    value: peony:noun
+  - correct: false
+    detail: Incorrect, "german pancake:noun" is not a synonym for "winter currant".
+    value: german pancake:noun
+  text: What is a synonym for "winter currant"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "dependance" is a synonym for "addiction".
+    value: habituation
+  - correct: false
+    detail: Incorrect, "get together:noun" is not a synonym for "addiction".
+    value: get together:noun
+  - correct: false
+    detail: Incorrect, "arteria basilaris:noun" is not a synonym for "addiction".
+    value: arteria basilaris:noun
+  - correct: false
+    detail: Incorrect, "face lifting:noun" is not a synonym for "addiction".
+    value: face lifting:noun
+  text: What is a synonym for "addiction"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Dumetella" is a synonym for "genus dumetella".
+    value: Dumetella
+  - correct: false
+    detail: Incorrect, "adulterating:adjective" is not a synonym for "genus dumetella".
+    value: adulterating:adjective
+  - correct: false
+    detail: Incorrect, "reburying:verb" is not a synonym for "genus dumetella".
+    value: reburying:verb
+  - correct: false
+    detail: Incorrect, "measuring unit:noun" is not a synonym for "genus dumetella".
+    value: measuring unit:noun
+  text: What is a synonym for "genus dumetella"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "reservoir" is a synonym for "artificial lake".
+    value: reservoir
+  - correct: false
+    detail: Incorrect, "purple velvet plant:noun" is not a synonym for "artificial
+      lake".
+    value: purple velvet plant:noun
+  - correct: false
+    detail: Incorrect, "red-violet:satellite" is not a synonym for "artificial lake".
+    value: red-violet:satellite
+  - correct: false
+    detail: Incorrect, "asplenium platyneuron:noun" is not a synonym for "artificial
+      lake".
+    value: asplenium platyneuron:noun
+  text: What is a synonym for "artificial lake"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Paraguay" is a synonym for "paraguay".
+    value: Paraguay
+  - correct: false
+    detail: Incorrect, "caustic remark:noun" is not a synonym for "paraguay".
+    value: caustic remark:noun
+  - correct: false
+    detail: Incorrect, "bracelet wood:noun" is not a synonym for "paraguay".
+    value: bracelet wood:noun
+  - correct: false
+    detail: Incorrect, "elbow:noun" is not a synonym for "paraguay".
+    value: elbow:noun
+  text: What is a synonym for "paraguay"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "china" is a synonym for "chinaware".
+    value: china
+  - correct: false
+    detail: Incorrect, "symplocaceae:noun" is not a synonym for "chinaware".
+    value: symplocaceae:noun
+  - correct: false
+    detail: Incorrect, "anglophilic:adjective" is not a synonym for "chinaware".
+    value: anglophilic:adjective
+  - correct: false
+    detail: Incorrect, "flip:satellite" is not a synonym for "chinaware".
+    value: flip:satellite
+  text: What is a synonym for "chinaware"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "4-hitter" is a synonym for "four-hitter".
+    value: 4-hitter
+  - correct: false
+    detail: Incorrect, "surrenderer:noun" is not a synonym for "four-hitter".
+    value: surrenderer:noun
+  - correct: false
+    detail: Incorrect, "crap game:noun" is not a synonym for "four-hitter".
+    value: crap game:noun
+  - correct: false
+    detail: Incorrect, "kanchenjunga:noun" is not a synonym for "four-hitter".
+    value: kanchenjunga:noun
+  text: What is a synonym for "four-hitter"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "family Priacanthidae" is a synonym for "family priacanthidae".
+    value: family Priacanthidae
+  - correct: false
+    detail: Incorrect, "intensifier:noun" is not a synonym for "family priacanthidae".
+    value: intensifier:noun
+  - correct: false
+    detail: Incorrect, "guaiacum officinale:noun" is not a synonym for "family priacanthidae".
+    value: guaiacum officinale:noun
+  - correct: false
+    detail: Incorrect, "lasciviously:adverb" is not a synonym for "family priacanthidae".
+    value: lasciviously:adverb
+  text: What is a synonym for "family priacanthidae"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "trichloromethane" is a synonym for "chloroform".
+    value: trichloromethane
+  - correct: false
+    detail: Incorrect, "satire:noun" is not a synonym for "chloroform".
+    value: satire:noun
+  - correct: false
+    detail: Incorrect, "whispering bells:noun" is not a synonym for "chloroform".
+    value: whispering bells:noun
+  - correct: false
+    detail: Incorrect, "canadian maritime provinces:noun" is not a synonym for "chloroform".
+    value: canadian maritime provinces:noun
+  text: What is a synonym for "chloroform"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "library" is a synonym for "program library".
+    value: subroutine library
+  - correct: false
+    detail: Incorrect, "drift apart:verb" is not a synonym for "program library".
+    value: drift apart:verb
+  - correct: false
+    detail: Incorrect, "natural state:noun" is not a synonym for "program library".
+    value: natural state:noun
+  - correct: false
+    detail: Incorrect, "algarroba bean:noun" is not a synonym for "program library".
+    value: algarroba bean:noun
+  text: What is a synonym for "program library"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "senior citizen" is a synonym for "old person".
+    value: senior citizen
+  - correct: false
+    detail: Incorrect, "decreed:verb" is not a synonym for "old person".
+    value: decreed:verb
+  - correct: false
+    detail: Incorrect, "carangid fish:noun" is not a synonym for "old person".
+    value: carangid fish:noun
+  - correct: false
+    detail: Incorrect, "light-tight:satellite" is not a synonym for "old person".
+    value: light-tight:satellite
+  text: What is a synonym for "old person"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "cannonade" is a synonym for "drumfire".
+    value: cannonade
+  - correct: false
+    detail: Incorrect, "aeschynanthus radicans:noun" is not a synonym for "drumfire".
+    value: aeschynanthus radicans:noun
+  - correct: false
+    detail: Incorrect, "gayly:adverb" is not a synonym for "drumfire".
+    value: gayly:adverb
+  - correct: false
+    detail: Incorrect, "enlarged:adjective" is not a synonym for "drumfire".
+    value: enlarged:adjective
+  text: What is a synonym for "drumfire"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Balsaminaceae" is a synonym for "family balsaminaceae".
+    value: balsam family
+  - correct: false
+    detail: Incorrect, "american red squirrel:noun" is not a synonym for "family balsaminaceae".
+    value: american red squirrel:noun
+  - correct: false
+    detail: Incorrect, "edified:verb" is not a synonym for "family balsaminaceae".
+    value: edified:verb
+  - correct: false
+    detail: Incorrect, "shot:noun" is not a synonym for "family balsaminaceae".
+    value: shot:noun
+  text: What is a synonym for "family balsaminaceae"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "P/E ratio" is a synonym for "p/e ratio".
+    value: price-to-earnings ratio
+  - correct: false
+    detail: Incorrect, "open account:noun" is not a synonym for "p/e ratio".
+    value: open account:noun
+  - correct: false
+    detail: Incorrect, "duma:noun" is not a synonym for "p/e ratio".
+    value: duma:noun
+  - correct: false
+    detail: Incorrect, "cyber-terrorist:noun" is not a synonym for "p/e ratio".
+    value: cyber-terrorist:noun
+  text: What is a synonym for "p/e ratio"?

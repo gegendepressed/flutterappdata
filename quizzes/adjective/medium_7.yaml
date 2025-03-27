@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Moslem" is a synonym for "islamic".
+    value: Islamic
+  - correct: false
+    detail: Incorrect, "savory:satellite" is not a synonym for "islamic".
+    value: savory:satellite
+  - correct: false
+    detail: Incorrect, "intriguing:satellite" is not a synonym for "islamic".
+    value: intriguing:satellite
+  - correct: false
+    detail: Incorrect, "shut away:verb" is not a synonym for "islamic".
+    value: shut away:verb
+  text: What is a synonym for "islamic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "carinate" is a synonym for "keeled".
+    value: carinate
+  - correct: false
+    detail: Incorrect, "pentagon gang:noun" is not a synonym for "keeled".
+    value: pentagon gang:noun
+  - correct: false
+    detail: Incorrect, "agrippa:noun" is not a synonym for "keeled".
+    value: agrippa:noun
+  - correct: false
+    detail: Incorrect, "spanish-speaking:satellite" is not a synonym for "keeled".
+    value: spanish-speaking:satellite
+  text: What is a synonym for "keeled"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Hasidic" is a synonym for "hasidic".
+    value: Hasidic
+  - correct: false
+    detail: Incorrect, "genus prociphilus:noun" is not a synonym for "hasidic".
+    value: genus prociphilus:noun
+  - correct: false
+    detail: Incorrect, "boggle:verb" is not a synonym for "hasidic".
+    value: boggle:verb
+  - correct: false
+    detail: Incorrect, "wagner:noun" is not a synonym for "hasidic".
+    value: wagner:noun
+  text: What is a synonym for "hasidic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "arachnidian" is a synonym for "spidery".
+    value: arachnidian
+  - correct: false
+    detail: Incorrect, "transvestism:noun" is not a synonym for "spidery".
+    value: transvestism:noun
+  - correct: false
+    detail: Incorrect, "cloisonne:satellite" is not a synonym for "spidery".
+    value: cloisonne:satellite
+  - correct: false
+    detail: Incorrect, "plasma cell:noun" is not a synonym for "spidery".
+    value: plasma cell:noun
+  text: What is a synonym for "spidery"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "priestly" is a synonym for "hieratic".
+    value: priestly
+  - correct: false
+    detail: Incorrect, "bye-election:noun" is not a synonym for "hieratic".
+    value: bye-election:noun
+  - correct: false
+    detail: Incorrect, "liquified:adjective" is not a synonym for "hieratic".
+    value: liquified:adjective
+  - correct: false
+    detail: Incorrect, "ferroconcrete:noun" is not a synonym for "hieratic".
+    value: ferroconcrete:noun
+  text: What is a synonym for "hieratic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "inshore" is a synonym for "onshore".
+    value: shoreward
+  - correct: false
+    detail: Incorrect, "family ericaceae:noun" is not a synonym for "onshore".
+    value: family ericaceae:noun
+  - correct: false
+    detail: Incorrect, "63:satellite" is not a synonym for "onshore".
+    value: 63:satellite
+  - correct: false
+    detail: Incorrect, "dos:noun" is not a synonym for "onshore".
+    value: dos:noun
+  text: What is a synonym for "onshore"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Moslem" is a synonym for "muslim".
+    value: Moslem
+  - correct: false
+    detail: Incorrect, "congo:noun" is not a synonym for "muslim".
+    value: congo:noun
+  - correct: false
+    detail: Incorrect, "scottie:noun" is not a synonym for "muslim".
+    value: scottie:noun
+  - correct: false
+    detail: Incorrect, "corsica:noun" is not a synonym for "muslim".
+    value: corsica:noun
+  text: What is a synonym for "muslim"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Hebraic" is a synonym for "hebraic".
+    value: Hebrew
+  - correct: false
+    detail: Incorrect, "headphone:noun" is not a synonym for "hebraic".
+    value: headphone:noun
+  - correct: false
+    detail: Incorrect, "birthing:verb" is not a synonym for "hebraic".
+    value: birthing:verb
+  - correct: false
+    detail: Incorrect, "luck:noun" is not a synonym for "hebraic".
+    value: luck:noun
+  text: What is a synonym for "hebraic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "tenacious|long|long" is a synonym for "longer".
+    value: tenacious|long|long
+  - correct: false
+    detail: Incorrect, "brabble:verb" is not a synonym for "longer".
+    value: brabble:verb
+  - correct: false
+    detail: Incorrect, "fazed:verb" is not a synonym for "longer".
+    value: fazed:verb
+  - correct: false
+    detail: Incorrect, "hypertension:noun" is not a synonym for "longer".
+    value: hypertension:noun
+  text: What is a synonym for "longer"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Chaldaean" is a synonym for "chaldee".
+    value: Chaldee
+  - correct: false
+    detail: Incorrect, "happen:verb" is not a synonym for "chaldee".
+    value: happen:verb
+  - correct: false
+    detail: Incorrect, "canted:verb" is not a synonym for "chaldee".
+    value: canted:verb
+  - correct: false
+    detail: Incorrect, "alcoholism:noun" is not a synonym for "chaldee".
+    value: alcoholism:noun
+  text: What is a synonym for "chaldee"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "arborous|arboreous" is a synonym for "arboreal".
+    value: arborical
+  - correct: false
+    detail: Incorrect, "guaiacum wood:noun" is not a synonym for "arboreal".
+    value: guaiacum wood:noun
+  - correct: false
+    detail: Incorrect, "half sister:noun" is not a synonym for "arboreal".
+    value: half sister:noun
+  - correct: false
+    detail: Incorrect, "agave family:noun" is not a synonym for "arboreal".
+    value: agave family:noun
+  text: What is a synonym for "arboreal"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "nigh" is a synonym for "nighest".
+    value: nigh
+  - correct: false
+    detail: Incorrect, "refutation:noun" is not a synonym for "nighest".
+    value: refutation:noun
+  - correct: false
+    detail: Incorrect, "family ginkgoaceae:noun" is not a synonym for "nighest".
+    value: family ginkgoaceae:noun
+  - correct: false
+    detail: Incorrect, "illicium anisatum:noun" is not a synonym for "nighest".
+    value: illicium anisatum:noun
+  text: What is a synonym for "nighest"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "bumpy" is a synonym for "jolting".
+    value: jumpy
+  - correct: false
+    detail: Incorrect, "pkd:noun" is not a synonym for "jolting".
+    value: pkd:noun
+  - correct: false
+    detail: Incorrect, "spiff up:verb" is not a synonym for "jolting".
+    value: spiff up:verb
+  - correct: false
+    detail: Incorrect, "lavishly:adverb" is not a synonym for "jolting".
+    value: lavishly:adverb
+  text: What is a synonym for "jolting"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "amebic" is a synonym for "amoebic".
+    value: amoeban
+  - correct: false
+    detail: Incorrect, "jacquard loom:noun" is not a synonym for "amoebic".
+    value: jacquard loom:noun
+  - correct: false
+    detail: Incorrect, "six-pack:noun" is not a synonym for "amoebic".
+    value: six-pack:noun
+  - correct: false
+    detail: Incorrect, "hand-down:satellite" is not a synonym for "amoebic".
+    value: hand-down:satellite
+  text: What is a synonym for "amoebic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "aesthetic" is a synonym for "esthetic".
+    value: aesthetic
+  - correct: false
+    detail: Incorrect, "deoxycytidine:noun" is not a synonym for "esthetic".
+    value: deoxycytidine:noun
+  - correct: false
+    detail: Incorrect, "pilchard:noun" is not a synonym for "esthetic".
+    value: pilchard:noun
+  - correct: false
+    detail: Incorrect, "european fire salamander:noun" is not a synonym for "esthetic".
+    value: european fire salamander:noun
+  text: What is a synonym for "esthetic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "opthalmic" is a synonym for "optical".
+    value: opthalmic
+  - correct: false
+    detail: Incorrect, "makeup:noun" is not a synonym for "optical".
+    value: makeup:noun
+  - correct: false
+    detail: Incorrect, "genus prociphilus:noun" is not a synonym for "optical".
+    value: genus prociphilus:noun
+  - correct: false
+    detail: Incorrect, "cockatoo parrot:noun" is not a synonym for "optical".
+    value: cockatoo parrot:noun
+  text: What is a synonym for "optical"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "breathless" is a synonym for "dyspneal".
+    value: dyspnoeic
+  - correct: false
+    detail: Incorrect, "mid-march:noun" is not a synonym for "dyspneal".
+    value: mid-march:noun
+  - correct: false
+    detail: Incorrect, "cracker-barrel:satellite" is not a synonym for "dyspneal".
+    value: cracker-barrel:satellite
+  - correct: false
+    detail: Incorrect, "en passant:adverb" is not a synonym for "dyspneal".
+    value: en passant:adverb
+  text: What is a synonym for "dyspneal"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Malayan" is a synonym for "malayan".
+    value: Malaysian
+  - correct: false
+    detail: Incorrect, "second council of nicaea:noun" is not a synonym for "malayan".
+    value: second council of nicaea:noun
+  - correct: false
+    detail: Incorrect, "streptococcus:noun" is not a synonym for "malayan".
+    value: streptococcus:noun
+  - correct: false
+    detail: Incorrect, "water-shield:noun" is not a synonym for "malayan".
+    value: water-shield:noun
+  text: What is a synonym for "malayan"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "likeable" is a synonym for "likable".
+    value: appealing
+  - correct: false
+    detail: Incorrect, "st. basil:noun" is not a synonym for "likable".
+    value: st. basil:noun
+  - correct: false
+    detail: Incorrect, "clot:noun" is not a synonym for "likable".
+    value: clot:noun
+  - correct: false
+    detail: Incorrect, "pearl diver:noun" is not a synonym for "likable".
+    value: pearl diver:noun
+  text: What is a synonym for "likable"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "jolting" is a synonym for "jolty".
+    value: rough
+  - correct: false
+    detail: Incorrect, "persevere:verb" is not a synonym for "jolty".
+    value: persevere:verb
+  - correct: false
+    detail: Incorrect, "social:adjective" is not a synonym for "jolty".
+    value: social:adjective
+  - correct: false
+    detail: Incorrect, "mitrula elegans:noun" is not a synonym for "jolty".
+    value: mitrula elegans:noun
+  text: What is a synonym for "jolty"?

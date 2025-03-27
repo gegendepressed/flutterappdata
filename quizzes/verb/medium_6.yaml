@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "accumulate" is a synonym for "cumulate".
+    value: accumulate
+  - correct: false
+    detail: Incorrect, "lily turf:noun" is not a synonym for "cumulate".
+    value: lily turf:noun
+  - correct: false
+    detail: Incorrect, "principality of andorra:noun" is not a synonym for "cumulate".
+    value: principality of andorra:noun
+  - correct: false
+    detail: Incorrect, "military plane:noun" is not a synonym for "cumulate".
+    value: military plane:noun
+  text: What is a synonym for "cumulate"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "snort|take a hit" is a synonym for "snorting".
+    value: snort|take a hit
+  - correct: false
+    detail: Incorrect, "remediate:verb" is not a synonym for "snorting".
+    value: remediate:verb
+  - correct: false
+    detail: Incorrect, "smother:verb" is not a synonym for "snorting".
+    value: smother:verb
+  - correct: false
+    detail: Incorrect, "fever:noun" is not a synonym for "snorting".
+    value: fever:noun
+  text: What is a synonym for "snorting"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "assess" is a synonym for "appraise".
+    value: valuate
+  - correct: false
+    detail: Incorrect, "stopper:noun" is not a synonym for "appraise".
+    value: stopper:noun
+  - correct: false
+    detail: Incorrect, "rappel:verb" is not a synonym for "appraise".
+    value: rappel:verb
+  - correct: false
+    detail: Incorrect, "claude debussey:noun" is not a synonym for "appraise".
+    value: claude debussey:noun
+  text: What is a synonym for "appraise"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "cover" is a synonym for "hatch".
+    value: think of
+  - correct: false
+    detail: Incorrect, "metier:noun" is not a synonym for "hatch".
+    value: metier:noun
+  - correct: false
+    detail: Incorrect, "hulking:satellite" is not a synonym for "hatch".
+    value: hulking:satellite
+  - correct: false
+    detail: Incorrect, "tiptoe:verb" is not a synonym for "hatch".
+    value: tiptoe:verb
+  text: What is a synonym for "hatch"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "plait|braid|braid" is a synonym for "braided".
+    value: pleach
+  - correct: false
+    detail: Incorrect, "benjamin kubelsky:noun" is not a synonym for "braided".
+    value: benjamin kubelsky:noun
+  - correct: false
+    detail: Incorrect, "bilirubin:noun" is not a synonym for "braided".
+    value: bilirubin:noun
+  - correct: false
+    detail: Incorrect, "lead-acid accumulator:noun" is not a synonym for "braided".
+    value: lead-acid accumulator:noun
+  text: What is a synonym for "braided"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "wad" is a synonym for "pack".
+    value: mob
+  - correct: false
+    detail: Incorrect, "sinus cavernosus:noun" is not a synonym for "pack".
+    value: sinus cavernosus:noun
+  - correct: false
+    detail: Incorrect, "aquanaut:noun" is not a synonym for "pack".
+    value: aquanaut:noun
+  - correct: false
+    detail: Incorrect, "low-lying:satellite" is not a synonym for "pack".
+    value: low-lying:satellite
+  text: What is a synonym for "pack"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "invert|overrule" is a synonym for "reverse".
+    value: override
+  - correct: false
+    detail: Incorrect, "caeciliidae:noun" is not a synonym for "reverse".
+    value: caeciliidae:noun
+  - correct: false
+    detail: Incorrect, "nonviolent resistance:noun" is not a synonym for "reverse".
+    value: nonviolent resistance:noun
+  - correct: false
+    detail: Incorrect, "hurdling:verb" is not a synonym for "reverse".
+    value: hurdling:verb
+  text: What is a synonym for "reverse"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "portion out" is a synonym for "shared".
+    value: share
+  - correct: false
+    detail: Incorrect, "cardamum:noun" is not a synonym for "shared".
+    value: cardamum:noun
+  - correct: false
+    detail: Incorrect, "anguillidae:noun" is not a synonym for "shared".
+    value: anguillidae:noun
+  - correct: false
+    detail: Incorrect, "musculus teres major:noun" is not a synonym for "shared".
+    value: musculus teres major:noun
+  text: What is a synonym for "shared"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ramble" is a synonym for "swan".
+    value: roam
+  - correct: false
+    detail: Incorrect, "nonelective:satellite" is not a synonym for "swan".
+    value: nonelective:satellite
+  - correct: false
+    detail: Incorrect, "madame de stael:noun" is not a synonym for "swan".
+    value: madame de stael:noun
+  - correct: false
+    detail: Incorrect, "mitigation:noun" is not a synonym for "swan".
+    value: mitigation:noun
+  text: What is a synonym for "swan"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "bother" is a synonym for "trouble".
+    value: distract
+  - correct: false
+    detail: Incorrect, "extensible:adjective" is not a synonym for "trouble".
+    value: extensible:adjective
+  - correct: false
+    detail: Incorrect, "camellia state:noun" is not a synonym for "trouble".
+    value: camellia state:noun
+  - correct: false
+    detail: Incorrect, "out of true:satellite" is not a synonym for "trouble".
+    value: out of true:satellite
+  text: What is a synonym for "trouble"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "cloud|infect" is a synonym for "tainted".
+    value: taint
+  - correct: false
+    detail: Incorrect, "edible:adjective" is not a synonym for "tainted".
+    value: edible:adjective
+  - correct: false
+    detail: Incorrect, "ill-breeding:noun" is not a synonym for "tainted".
+    value: ill-breeding:noun
+  - correct: false
+    detail: Incorrect, "hypoglossal nerve:noun" is not a synonym for "tainted".
+    value: hypoglossal nerve:noun
+  text: What is a synonym for "tainted"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "yap" is a synonym for "yips".
+    value: yelp
+  - correct: false
+    detail: Incorrect, "gall:noun" is not a synonym for "yips".
+    value: gall:noun
+  - correct: false
+    detail: Incorrect, "alma-ata:noun" is not a synonym for "yips".
+    value: alma-ata:noun
+  - correct: false
+    detail: Incorrect, "blatta:noun" is not a synonym for "yips".
+    value: blatta:noun
+  text: What is a synonym for "yips"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "premise" is a synonym for "premises".
+    value: premise|precede
+  - correct: false
+    detail: Incorrect, "fissure of sylvius:noun" is not a synonym for "premises".
+    value: fissure of sylvius:noun
+  - correct: false
+    detail: Incorrect, "lusterlessness:noun" is not a synonym for "premises".
+    value: lusterlessness:noun
+  - correct: false
+    detail: Incorrect, "bracket fungus:noun" is not a synonym for "premises".
+    value: bracket fungus:noun
+  text: What is a synonym for "premises"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "care|care" is a synonym for "caring".
+    value: care|care
+  - correct: false
+    detail: Incorrect, "heavenly city:noun" is not a synonym for "caring".
+    value: heavenly city:noun
+  - correct: false
+    detail: Incorrect, "nouveau-riche:satellite" is not a synonym for "caring".
+    value: nouveau-riche:satellite
+  - correct: false
+    detail: Incorrect, "eighty:noun" is not a synonym for "caring".
+    value: eighty:noun
+  text: What is a synonym for "caring"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "schnorr" is a synonym for "shnorr".
+    value: cadge
+  - correct: false
+    detail: Incorrect, "woolf:noun" is not a synonym for "shnorr".
+    value: woolf:noun
+  - correct: false
+    detail: Incorrect, "benny goodman:noun" is not a synonym for "shnorr".
+    value: benny goodman:noun
+  - correct: false
+    detail: Incorrect, "monstrously:adverb" is not a synonym for "shnorr".
+    value: monstrously:adverb
+  text: What is a synonym for "shnorr"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "spit" is a synonym for "ptyalize".
+    value: spue
+  - correct: false
+    detail: Incorrect, "association football:noun" is not a synonym for "ptyalize".
+    value: association football:noun
+  - correct: false
+    detail: Incorrect, "genital wart:noun" is not a synonym for "ptyalize".
+    value: genital wart:noun
+  - correct: false
+    detail: Incorrect, "marzipan:noun" is not a synonym for "ptyalize".
+    value: marzipan:noun
+  text: What is a synonym for "ptyalize"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "botch" is a synonym for "bungling".
+    value: bungle
+  - correct: false
+    detail: Incorrect, "atp:noun" is not a synonym for "bungling".
+    value: atp:noun
+  - correct: false
+    detail: Incorrect, "untune:verb" is not a synonym for "bungling".
+    value: untune:verb
+  - correct: false
+    detail: Incorrect, "amharic:adjective" is not a synonym for "bungling".
+    value: amharic:adjective
+  text: What is a synonym for "bungling"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "support|back|second" is a synonym for "backing".
+    value: game
+  - correct: false
+    detail: Incorrect, "retro:satellite" is not a synonym for "backing".
+    value: retro:satellite
+  - correct: false
+    detail: Incorrect, "lymphangiectasia:noun" is not a synonym for "backing".
+    value: lymphangiectasia:noun
+  - correct: false
+    detail: Incorrect, "forgiveness:noun" is not a synonym for "backing".
+    value: forgiveness:noun
+  text: What is a synonym for "backing"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "glaze|glaze" is a synonym for "glazed".
+    value: glaze|glaze
+  - correct: false
+    detail: Incorrect, "shakespearean:adjective" is not a synonym for "glazed".
+    value: shakespearean:adjective
+  - correct: false
+    detail: Incorrect, "magnolia grandiflora:noun" is not a synonym for "glazed".
+    value: magnolia grandiflora:noun
+  - correct: false
+    detail: Incorrect, "barricade:verb" is not a synonym for "glazed".
+    value: barricade:verb
+  text: What is a synonym for "glazed"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "adorn|clothe" is a synonym for "clad".
+    value: garment
+  - correct: false
+    detail: Incorrect, "unsubmissive:adjective" is not a synonym for "clad".
+    value: unsubmissive:adjective
+  - correct: false
+    detail: Incorrect, "oncorhynchus nerka:noun" is not a synonym for "clad".
+    value: oncorhynchus nerka:noun
+  - correct: false
+    detail: Incorrect, "vermilion:satellite" is not a synonym for "clad".
+    value: vermilion:satellite
+  text: What is a synonym for "clad"?

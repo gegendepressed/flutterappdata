@@ -1,0 +1,305 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Hylocichla" is a synonym for "genus hylocichla".
+    value: genus Hylocichla
+  - correct: false
+    detail: Incorrect, "obliterated:satellite" is not a synonym for "genus hylocichla".
+    value: obliterated:satellite
+  - correct: false
+    detail: Incorrect, "lathyrus vernus:noun" is not a synonym for "genus hylocichla".
+    value: lathyrus vernus:noun
+  - correct: false
+    detail: Incorrect, "lady's leek:noun" is not a synonym for "genus hylocichla".
+    value: lady's leek:noun
+  text: What is a synonym for "genus hylocichla"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "arteria communicans" is a synonym for "communicating artery".
+    value: arteria communicans
+  - correct: false
+    detail: Incorrect, "churchill downs:noun" is not a synonym for "communicating
+      artery".
+    value: churchill downs:noun
+  - correct: false
+    detail: Incorrect, "junin virus:noun" is not a synonym for "communicating artery".
+    value: junin virus:noun
+  - correct: false
+    detail: Incorrect, "noah:noun" is not a synonym for "communicating artery".
+    value: noah:noun
+  text: What is a synonym for "communicating artery"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Monodon monoceros" is a synonym for "monodon monoceros".
+    value: narwhale
+  - correct: false
+    detail: Incorrect, "one-quadrillionth:noun" is not a synonym for "monodon monoceros".
+    value: one-quadrillionth:noun
+  - correct: false
+    detail: Incorrect, "self-disciplined:satellite" is not a synonym for "monodon
+      monoceros".
+    value: self-disciplined:satellite
+  - correct: false
+    detail: Incorrect, "pibit:noun" is not a synonym for "monodon monoceros".
+    value: pibit:noun
+  text: What is a synonym for "monodon monoceros"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "witches' Sabbath" is a synonym for "sabbat".
+    value: witches' Sabbath
+  - correct: false
+    detail: Incorrect, "insecta:noun" is not a synonym for "sabbat".
+    value: insecta:noun
+  - correct: false
+    detail: Incorrect, "turn in:verb" is not a synonym for "sabbat".
+    value: turn in:verb
+  - correct: false
+    detail: Incorrect, "order musales:noun" is not a synonym for "sabbat".
+    value: order musales:noun
+  text: What is a synonym for "sabbat"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "genus Maxillaria" is a synonym for "genus maxillaria".
+    value: genus Maxillaria
+  - correct: false
+    detail: Incorrect, "incompleteness:noun" is not a synonym for "genus maxillaria".
+    value: incompleteness:noun
+  - correct: false
+    detail: Incorrect, "action mechanism:noun" is not a synonym for "genus maxillaria".
+    value: action mechanism:noun
+  - correct: false
+    detail: Incorrect, "nutrient:satellite" is not a synonym for "genus maxillaria".
+    value: nutrient:satellite
+  text: What is a synonym for "genus maxillaria"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "pasang" is a synonym for "bezoar goat".
+    value: Capra aegagrus
+  - correct: false
+    detail: Incorrect, "thespesia populnea:noun" is not a synonym for "bezoar goat".
+    value: thespesia populnea:noun
+  - correct: false
+    detail: Incorrect, "detribalization:noun" is not a synonym for "bezoar goat".
+    value: detribalization:noun
+  - correct: false
+    detail: Incorrect, "seminole:noun" is not a synonym for "bezoar goat".
+    value: seminole:noun
+  text: What is a synonym for "bezoar goat"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "tach" is a synonym for "tachometer".
+    value: tach
+  - correct: false
+    detail: Incorrect, "hold open:verb" is not a synonym for "tachometer".
+    value: hold open:verb
+  - correct: false
+    detail: Incorrect, "gi series:noun" is not a synonym for "tachometer".
+    value: gi series:noun
+  - correct: false
+    detail: Incorrect, "napier's rods:noun" is not a synonym for "tachometer".
+    value: napier's rods:noun
+  text: What is a synonym for "tachometer"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "James Agee" is a synonym for "james agee".
+    value: James Agee
+  - correct: false
+    detail: Incorrect, "waterlessness:noun" is not a synonym for "james agee".
+    value: waterlessness:noun
+  - correct: false
+    detail: Incorrect, "natter:verb" is not a synonym for "james agee".
+    value: natter:verb
+  - correct: false
+    detail: Incorrect, "transient:adjective" is not a synonym for "james agee".
+    value: transient:adjective
+  text: What is a synonym for "james agee"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Raja laevis" is a synonym for "raja laevis".
+    value: barndoor skate
+  - correct: false
+    detail: Incorrect, "beef cattle:noun" is not a synonym for "raja laevis".
+    value: beef cattle:noun
+  - correct: false
+    detail: Incorrect, "bunch grass:noun" is not a synonym for "raja laevis".
+    value: bunch grass:noun
+  - correct: false
+    detail: Incorrect, "book fair:noun" is not a synonym for "raja laevis".
+    value: book fair:noun
+  text: What is a synonym for "raja laevis"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Lake Tsana" is a synonym for "lake tsana".
+    value: Lake Tana
+  - correct: false
+    detail: Incorrect, "thermoelectric:adjective" is not a synonym for "lake tsana".
+    value: thermoelectric:adjective
+  - correct: false
+    detail: Incorrect, "stretch:noun" is not a synonym for "lake tsana".
+    value: stretch:noun
+  - correct: false
+    detail: Incorrect, "kingdom of nepal:noun" is not a synonym for "lake tsana".
+    value: kingdom of nepal:noun
+  text: What is a synonym for "lake tsana"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Allegheny chinkapin" is a synonym for "dwarf chestnut".
+    value: eastern chinquapin
+  - correct: false
+    detail: Incorrect, "pelagius:noun" is not a synonym for "dwarf chestnut".
+    value: pelagius:noun
+  - correct: false
+    detail: Incorrect, "genus colutea:noun" is not a synonym for "dwarf chestnut".
+    value: genus colutea:noun
+  - correct: false
+    detail: Incorrect, "18:noun" is not a synonym for "dwarf chestnut".
+    value: 18:noun
+  text: What is a synonym for "dwarf chestnut"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "genus Neolentinus" is a synonym for "genus neolentinus".
+    value: Neolentinus
+  - correct: false
+    detail: Incorrect, "order hymenogastrales:noun" is not a synonym for "genus neolentinus".
+    value: order hymenogastrales:noun
+  - correct: false
+    detail: Incorrect, "tenuous:satellite" is not a synonym for "genus neolentinus".
+    value: tenuous:satellite
+  - correct: false
+    detail: Incorrect, "colocasia:noun" is not a synonym for "genus neolentinus".
+    value: colocasia:noun
+  text: What is a synonym for "genus neolentinus"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "lawn chair" is a synonym for "garden chair".
+    value: lawn chair
+  - correct: false
+    detail: Incorrect, "sea hare:noun" is not a synonym for "garden chair".
+    value: sea hare:noun
+  - correct: false
+    detail: Incorrect, "scissortail:noun" is not a synonym for "garden chair".
+    value: scissortail:noun
+  - correct: false
+    detail: Incorrect, "nsa:noun" is not a synonym for "garden chair".
+    value: nsa:noun
+  text: What is a synonym for "garden chair"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Saint Nick" is a synonym for "father christmas".
+    value: Father Christmas
+  - correct: false
+    detail: Incorrect, "be with it:verb" is not a synonym for "father christmas".
+    value: be with it:verb
+  - correct: false
+    detail: Incorrect, "phallus impudicus:noun" is not a synonym for "father christmas".
+    value: phallus impudicus:noun
+  - correct: false
+    detail: Incorrect, "squareflipper square flipper:noun" is not a synonym for "father
+      christmas".
+    value: squareflipper square flipper:noun
+  text: What is a synonym for "father christmas"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "2-hitter" is a synonym for "two-hitter".
+    value: 2-hitter
+  - correct: false
+    detail: Incorrect, "balloonfish:noun" is not a synonym for "two-hitter".
+    value: balloonfish:noun
+  - correct: false
+    detail: Incorrect, "caudal vertebra:noun" is not a synonym for "two-hitter".
+    value: caudal vertebra:noun
+  - correct: false
+    detail: Incorrect, "long-fin tunny:noun" is not a synonym for "two-hitter".
+    value: long-fin tunny:noun
+  text: What is a synonym for "two-hitter"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Texas chachalaca" is a synonym for "ortilis vetula macalli".
+    value: Texas chachalaca
+  - correct: false
+    detail: Incorrect, "hymenomycetes:noun" is not a synonym for "ortilis vetula macalli".
+    value: hymenomycetes:noun
+  - correct: false
+    detail: Incorrect, "grain alcohol:noun" is not a synonym for "ortilis vetula macalli".
+    value: grain alcohol:noun
+  - correct: false
+    detail: Incorrect, "soh:noun" is not a synonym for "ortilis vetula macalli".
+    value: soh:noun
+  text: What is a synonym for "ortilis vetula macalli"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Rosa multiflora" is a synonym for "multiflora".
+    value: Japanese rose
+  - correct: false
+    detail: Incorrect, "emmett kelly:noun" is not a synonym for "multiflora".
+    value: emmett kelly:noun
+  - correct: false
+    detail: Incorrect, "hymenoxys grandiflora:noun" is not a synonym for "multiflora".
+    value: hymenoxys grandiflora:noun
+  - correct: false
+    detail: Incorrect, "politico:noun" is not a synonym for "multiflora".
+    value: politico:noun
+  text: What is a synonym for "multiflora"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Gog and Magog" is a synonym for "gog and magog".
+    value: Gog and Magog
+  - correct: false
+    detail: Incorrect, "evangelical united brethren church:noun" is not a synonym
+      for "gog and magog".
+    value: evangelical united brethren church:noun
+  - correct: false
+    detail: Incorrect, "blue pickerel:noun" is not a synonym for "gog and magog".
+    value: blue pickerel:noun
+  - correct: false
+    detail: Incorrect, "complexness:noun" is not a synonym for "gog and magog".
+    value: complexness:noun
+  text: What is a synonym for "gog and magog"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "jar" is a synonym for "jarful".
+    value: jar
+  - correct: false
+    detail: Incorrect, "virgo the virgin:noun" is not a synonym for "jarful".
+    value: virgo the virgin:noun
+  - correct: false
+    detail: Incorrect, "chain pike:noun" is not a synonym for "jarful".
+    value: chain pike:noun
+  - correct: false
+    detail: Incorrect, "huff:noun" is not a synonym for "jarful".
+    value: huff:noun
+  text: What is a synonym for "jarful"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "beard moss" is a synonym for "usnea barbata".
+    value: Usnea barbata
+  - correct: false
+    detail: Incorrect, "tisha b'av:noun" is not a synonym for "usnea barbata".
+    value: tisha b'av:noun
+  - correct: false
+    detail: Incorrect, "express joy:verb" is not a synonym for "usnea barbata".
+    value: express joy:verb
+  - correct: false
+    detail: Incorrect, "rasping:noun" is not a synonym for "usnea barbata".
+    value: rasping:noun
+  text: What is a synonym for "usnea barbata"?

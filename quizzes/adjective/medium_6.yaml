@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "paying attention" is a synonym for "heedful".
+    value: thoughtful
+  - correct: false
+    detail: Incorrect, "new world opah:noun" is not a synonym for "heedful".
+    value: new world opah:noun
+  - correct: false
+    detail: Incorrect, "industrialized:verb" is not a synonym for "heedful".
+    value: industrialized:verb
+  - correct: false
+    detail: Incorrect, "sinlessness:noun" is not a synonym for "heedful".
+    value: sinlessness:noun
+  text: What is a synonym for "heedful"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Hebraic" is a synonym for "hebrew".
+    value: Hebrew
+  - correct: false
+    detail: Incorrect, "rag:verb" is not a synonym for "hebrew".
+    value: rag:verb
+  - correct: false
+    detail: Incorrect, "central park:noun" is not a synonym for "hebrew".
+    value: central park:noun
+  - correct: false
+    detail: Incorrect, "bushman:noun" is not a synonym for "hebrew".
+    value: bushman:noun
+  text: What is a synonym for "hebrew"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "unnatural|moved" is a synonym for "affected".
+    value: stirred
+  - correct: false
+    detail: Incorrect, "moor-bird:noun" is not a synonym for "affected".
+    value: moor-bird:noun
+  - correct: false
+    detail: Incorrect, "apery:noun" is not a synonym for "affected".
+    value: apery:noun
+  - correct: false
+    detail: Incorrect, "declaim:verb" is not a synonym for "affected".
+    value: declaim:verb
+  text: What is a synonym for "affected"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Ghanian" is a synonym for "ghanaian".
+    value: Ghanese
+  - correct: false
+    detail: Incorrect, "niceness:noun" is not a synonym for "ghanaian".
+    value: niceness:noun
+  - correct: false
+    detail: Incorrect, "faustian:adjective" is not a synonym for "ghanaian".
+    value: faustian:adjective
+  - correct: false
+    detail: Incorrect, "clangoring:verb" is not a synonym for "ghanaian".
+    value: clangoring:verb
+  text: What is a synonym for "ghanaian"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "maltreated" is a synonym for "abused".
+    value: mistreated
+  - correct: false
+    detail: Incorrect, "boston baked beans:noun" is not a synonym for "abused".
+    value: boston baked beans:noun
+  - correct: false
+    detail: Incorrect, "innominate bone:noun" is not a synonym for "abused".
+    value: innominate bone:noun
+  - correct: false
+    detail: Incorrect, "dendroidal:satellite" is not a synonym for "abused".
+    value: dendroidal:satellite
+  text: What is a synonym for "abused"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "diffused" is a synonym for "soft".
+    value: sonant|piano|diffuse
+  - correct: false
+    detail: Incorrect, "meadow vole:noun" is not a synonym for "soft".
+    value: meadow vole:noun
+  - correct: false
+    detail: Incorrect, "downing:noun" is not a synonym for "soft".
+    value: downing:noun
+  - correct: false
+    detail: Incorrect, "pancreatic fibrosis:noun" is not a synonym for "soft".
+    value: pancreatic fibrosis:noun
+  text: What is a synonym for "soft"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "little|little" is a synonym for "littler".
+    value: small
+  - correct: false
+    detail: Incorrect, "swing music:noun" is not a synonym for "littler".
+    value: swing music:noun
+  - correct: false
+    detail: Incorrect, "ping-pong table:noun" is not a synonym for "littler".
+    value: ping-pong table:noun
+  - correct: false
+    detail: Incorrect, "climax:noun" is not a synonym for "littler".
+    value: climax:noun
+  text: What is a synonym for "littler"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "consistent" is a synonym for "ordered".
+    value: logical
+  - correct: false
+    detail: Incorrect, "threadfish:noun" is not a synonym for "ordered".
+    value: threadfish:noun
+  - correct: false
+    detail: Incorrect, "open frame:noun" is not a synonym for "ordered".
+    value: open frame:noun
+  - correct: false
+    detail: Incorrect, "crystalline:satellite" is not a synonym for "ordered".
+    value: crystalline:satellite
+  text: What is a synonym for "ordered"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "caesarian" is a synonym for "cesarian".
+    value: caesarean
+  - correct: false
+    detail: Incorrect, "pigeonhole:noun" is not a synonym for "cesarian".
+    value: pigeonhole:noun
+  - correct: false
+    detail: Incorrect, "upper paleolithic:noun" is not a synonym for "cesarian".
+    value: upper paleolithic:noun
+  - correct: false
+    detail: Incorrect, "interspecific:adjective" is not a synonym for "cesarian".
+    value: interspecific:adjective
+  text: What is a synonym for "cesarian"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rimeless" is a synonym for "unrhymed".
+    value: rhymeless
+  - correct: false
+    detail: Incorrect, "taleban:noun" is not a synonym for "unrhymed".
+    value: taleban:noun
+  - correct: false
+    detail: Incorrect, "ecclesiastic:adjective" is not a synonym for "unrhymed".
+    value: ecclesiastic:adjective
+  - correct: false
+    detail: Incorrect, "rocket cress:noun" is not a synonym for "unrhymed".
+    value: rocket cress:noun
+  text: What is a synonym for "unrhymed"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "diffident" is a synonym for "shy".
+    value: diffident
+  - correct: false
+    detail: Incorrect, "fracture:verb" is not a synonym for "shy".
+    value: fracture:verb
+  - correct: false
+    detail: Incorrect, "incautiousness:noun" is not a synonym for "shy".
+    value: incautiousness:noun
+  - correct: false
+    detail: Incorrect, "wild lily of the valley:noun" is not a synonym for "shy".
+    value: wild lily of the valley:noun
+  text: What is a synonym for "shy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "amebic" is a synonym for "amoeban".
+    value: amoebic
+  - correct: false
+    detail: Incorrect, "dphil:noun" is not a synonym for "amoeban".
+    value: dphil:noun
+  - correct: false
+    detail: Incorrect, "imprimatur:noun" is not a synonym for "amoeban".
+    value: imprimatur:noun
+  - correct: false
+    detail: Incorrect, "epistle to the galatians:noun" is not a synonym for "amoeban".
+    value: epistle to the galatians:noun
+  text: What is a synonym for "amoeban"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "papistical" is a synonym for "popish".
+    value: Roman Catholic
+  - correct: false
+    detail: Incorrect, "dodecanoic acid:noun" is not a synonym for "popish".
+    value: dodecanoic acid:noun
+  - correct: false
+    detail: Incorrect, "deep-seated:satellite" is not a synonym for "popish".
+    value: deep-seated:satellite
+  - correct: false
+    detail: Incorrect, "the other way around:adverb" is not a synonym for "popish".
+    value: the other way around:adverb
+  text: What is a synonym for "popish"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "conic" is a synonym for "conical".
+    value: conic
+  - correct: false
+    detail: Incorrect, "vague:satellite" is not a synonym for "conical".
+    value: vague:satellite
+  - correct: false
+    detail: Incorrect, "bard:verb" is not a synonym for "conical".
+    value: bard:verb
+  - correct: false
+    detail: Incorrect, "poke out:verb" is not a synonym for "conical".
+    value: poke out:verb
+  text: What is a synonym for "conical"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "voiceless" is a synonym for "hard".
+    value: surd|concentrated
+  - correct: false
+    detail: Incorrect, "iron out:verb" is not a synonym for "hard".
+    value: iron out:verb
+  - correct: false
+    detail: Incorrect, "trematode worm:noun" is not a synonym for "hard".
+    value: trematode worm:noun
+  - correct: false
+    detail: Incorrect, "grapnel:noun" is not a synonym for "hard".
+    value: grapnel:noun
+  text: What is a synonym for "hard"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "carinated" is a synonym for "carinate".
+    value: ridged
+  - correct: false
+    detail: Incorrect, "atlantic city:noun" is not a synonym for "carinate".
+    value: atlantic city:noun
+  - correct: false
+    detail: Incorrect, "one-sided:adjective" is not a synonym for "carinate".
+    value: one-sided:adjective
+  - correct: false
+    detail: Incorrect, "declaim:verb" is not a synonym for "carinate".
+    value: declaim:verb
+  text: What is a synonym for "carinate"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "hemal" is a synonym for "haemal".
+    value: hematal
+  - correct: false
+    detail: Incorrect, "fingered:verb" is not a synonym for "haemal".
+    value: fingered:verb
+  - correct: false
+    detail: Incorrect, "genus phrynosoma:noun" is not a synonym for "haemal".
+    value: genus phrynosoma:noun
+  - correct: false
+    detail: Incorrect, "tactless:adjective" is not a synonym for "haemal".
+    value: tactless:adjective
+  text: What is a synonym for "haemal"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ordered" is a synonym for "logical".
+    value: consistent
+  - correct: false
+    detail: Incorrect, "donato bramante:noun" is not a synonym for "logical".
+    value: donato bramante:noun
+  - correct: false
+    detail: Incorrect, "sloshed:verb" is not a synonym for "logical".
+    value: sloshed:verb
+  - correct: false
+    detail: Incorrect, "greek church:noun" is not a synonym for "logical".
+    value: greek church:noun
+  text: What is a synonym for "logical"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Norse" is a synonym for "norse".
+    value: Norse
+  - correct: false
+    detail: Incorrect, "olefine:noun" is not a synonym for "norse".
+    value: olefine:noun
+  - correct: false
+    detail: Incorrect, "arcellidae:noun" is not a synonym for "norse".
+    value: arcellidae:noun
+  - correct: false
+    detail: Incorrect, "yard:noun" is not a synonym for "norse".
+    value: yard:noun
+  text: What is a synonym for "norse"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "conical" is a synonym for "conelike".
+    value: cone-shaped
+  - correct: false
+    detail: Incorrect, "invariable:noun" is not a synonym for "conelike".
+    value: invariable:noun
+  - correct: false
+    detail: Incorrect, "breakfast nook:noun" is not a synonym for "conelike".
+    value: breakfast nook:noun
+  - correct: false
+    detail: Incorrect, "christmas star:noun" is not a synonym for "conelike".
+    value: christmas star:noun
+  text: What is a synonym for "conelike"?

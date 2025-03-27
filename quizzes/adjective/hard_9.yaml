@@ -1,0 +1,302 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "wintery" is a synonym for "wintry".
+    value: wintery
+  - correct: false
+    detail: Incorrect, "bypass capacitor:noun" is not a synonym for "wintry".
+    value: bypass capacitor:noun
+  - correct: false
+    detail: Incorrect, "long-billed marsh wren:noun" is not a synonym for "wintry".
+    value: long-billed marsh wren:noun
+  - correct: false
+    detail: Incorrect, "residual clay:noun" is not a synonym for "wintry".
+    value: residual clay:noun
+  text: What is a synonym for "wintry"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Orphic" is a synonym for "orphic".
+    value: Orphic
+  - correct: false
+    detail: Incorrect, "pot-trained:satellite" is not a synonym for "orphic".
+    value: pot-trained:satellite
+  - correct: false
+    detail: Incorrect, "haemangioma:noun" is not a synonym for "orphic".
+    value: haemangioma:noun
+  - correct: false
+    detail: Incorrect, "cosmic microwave background:noun" is not a synonym for "orphic".
+    value: cosmic microwave background:noun
+  text: What is a synonym for "orphic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "theist" is a synonym for "theistic".
+    value: theistical
+  - correct: false
+    detail: Incorrect, "mary wollstonecraft shelley:noun" is not a synonym for "theistic".
+    value: mary wollstonecraft shelley:noun
+  - correct: false
+    detail: Incorrect, "pplo:noun" is not a synonym for "theistic".
+    value: pplo:noun
+  - correct: false
+    detail: Incorrect, "pedagog:noun" is not a synonym for "theistic".
+    value: pedagog:noun
+  text: What is a synonym for "theistic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "superlunary" is a synonym for "translunar".
+    value: translunary
+  - correct: false
+    detail: Incorrect, "clyde tombaugh:noun" is not a synonym for "translunar".
+    value: clyde tombaugh:noun
+  - correct: false
+    detail: Incorrect, "rive:verb" is not a synonym for "translunar".
+    value: rive:verb
+  - correct: false
+    detail: Incorrect, "genus mikania:noun" is not a synonym for "translunar".
+    value: genus mikania:noun
+  text: What is a synonym for "translunar"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "behaviouristic" is a synonym for "behaviourist".
+    value: behavioristic
+  - correct: false
+    detail: Incorrect, "procrustean:adjective" is not a synonym for "behaviourist".
+    value: procrustean:adjective
+  - correct: false
+    detail: Incorrect, "hazel mouse:noun" is not a synonym for "behaviourist".
+    value: hazel mouse:noun
+  - correct: false
+    detail: Incorrect, "gunrunner:noun" is not a synonym for "behaviourist".
+    value: gunrunner:noun
+  text: What is a synonym for "behaviourist"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "apomictical" is a synonym for "apomictic".
+    value: apomictical
+  - correct: false
+    detail: Incorrect, "gondolier:noun" is not a synonym for "apomictic".
+    value: gondolier:noun
+  - correct: false
+    detail: Incorrect, "gallicanism:noun" is not a synonym for "apomictic".
+    value: gallicanism:noun
+  - correct: false
+    detail: Incorrect, "page:verb" is not a synonym for "apomictic".
+    value: page:verb
+  text: What is a synonym for "apomictic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "insurrectional" is a synonym for "insurrectionary".
+    value: insurrectional
+  - correct: false
+    detail: Incorrect, "si system:noun" is not a synonym for "insurrectionary".
+    value: si system:noun
+  - correct: false
+    detail: Incorrect, "windsor chair:noun" is not a synonym for "insurrectionary".
+    value: windsor chair:noun
+  - correct: false
+    detail: Incorrect, "brassaia actinophylla:noun" is not a synonym for "insurrectionary".
+    value: brassaia actinophylla:noun
+  text: What is a synonym for "insurrectionary"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "pachydermic" is a synonym for "pachydermous".
+    value: pachydermic
+  - correct: false
+    detail: Incorrect, "lady beetle:noun" is not a synonym for "pachydermous".
+    value: lady beetle:noun
+  - correct: false
+    detail: Incorrect, "ultrasuede:noun" is not a synonym for "pachydermous".
+    value: ultrasuede:noun
+  - correct: false
+    detail: Incorrect, "msec:noun" is not a synonym for "pachydermous".
+    value: msec:noun
+  text: What is a synonym for "pachydermous"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "splintery" is a synonym for "slivery".
+    value: splintery
+  - correct: false
+    detail: Incorrect, "decarburise:verb" is not a synonym for "slivery".
+    value: decarburise:verb
+  - correct: false
+    detail: Incorrect, "lacerta viridis:noun" is not a synonym for "slivery".
+    value: lacerta viridis:noun
+  - correct: false
+    detail: Incorrect, "stomachache:noun" is not a synonym for "slivery".
+    value: stomachache:noun
+  text: What is a synonym for "slivery"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "saturated" is a synonym for "pure".
+    value: saturated
+  - correct: false
+    detail: Incorrect, "old style calendar:noun" is not a synonym for "pure".
+    value: old style calendar:noun
+  - correct: false
+    detail: Incorrect, "cider:noun" is not a synonym for "pure".
+    value: cider:noun
+  - correct: false
+    detail: Incorrect, "leather flower:noun" is not a synonym for "pure".
+    value: leather flower:noun
+  text: What is a synonym for "pure"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hand-held" is a synonym for "handheld".
+    value: hand-held
+  - correct: false
+    detail: Incorrect, "wild fig:noun" is not a synonym for "handheld".
+    value: wild fig:noun
+  - correct: false
+    detail: Incorrect, "tattered:satellite" is not a synonym for "handheld".
+    value: tattered:satellite
+  - correct: false
+    detail: Incorrect, "cancellate:satellite" is not a synonym for "handheld".
+    value: cancellate:satellite
+  text: What is a synonym for "handheld"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "alexic" is a synonym for "word-blind".
+    value: alexic
+  - correct: false
+    detail: Incorrect, "tappan zee bridge:noun" is not a synonym for "word-blind".
+    value: tappan zee bridge:noun
+  - correct: false
+    detail: Incorrect, "energizer:noun" is not a synonym for "word-blind".
+    value: energizer:noun
+  - correct: false
+    detail: Incorrect, "dentist's drill:noun" is not a synonym for "word-blind".
+    value: dentist's drill:noun
+  text: What is a synonym for "word-blind"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "amphitheatric" is a synonym for "amphitheatrical".
+    value: amphitheatric
+  - correct: false
+    detail: Incorrect, "wiley post:noun" is not a synonym for "amphitheatrical".
+    value: wiley post:noun
+  - correct: false
+    detail: Incorrect, "tupinambis:noun" is not a synonym for "amphitheatrical".
+    value: tupinambis:noun
+  - correct: false
+    detail: Incorrect, "announcement:noun" is not a synonym for "amphitheatrical".
+    value: announcement:noun
+  text: What is a synonym for "amphitheatrical"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "ascetical" is a synonym for "ascetic".
+    value: ascetical
+  - correct: false
+    detail: Incorrect, "dicynodontia:noun" is not a synonym for "ascetic".
+    value: dicynodontia:noun
+  - correct: false
+    detail: Incorrect, "podiatry:noun" is not a synonym for "ascetic".
+    value: podiatry:noun
+  - correct: false
+    detail: Incorrect, "invention:noun" is not a synonym for "ascetic".
+    value: invention:noun
+  text: What is a synonym for "ascetic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "positivistic" is a synonym for "positive".
+    value: confirming|positivist
+  - correct: false
+    detail: Incorrect, "food and agriculture organization:noun" is not a synonym for
+      "positive".
+    value: food and agriculture organization:noun
+  - correct: false
+    detail: Incorrect, "vd:noun" is not a synonym for "positive".
+    value: vd:noun
+  - correct: false
+    detail: Incorrect, "sichuan:noun" is not a synonym for "positive".
+    value: sichuan:noun
+  text: What is a synonym for "positive"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "mithraistic" is a synonym for "mithraic".
+    value: mithraistic
+  - correct: false
+    detail: Incorrect, "aged:satellite" is not a synonym for "mithraic".
+    value: aged:satellite
+  - correct: false
+    detail: Incorrect, "dethaw:verb" is not a synonym for "mithraic".
+    value: dethaw:verb
+  - correct: false
+    detail: Incorrect, "bergen:noun" is not a synonym for "mithraic".
+    value: bergen:noun
+  text: What is a synonym for "mithraic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Togolese" is a synonym for "togolese".
+    value: Togolese
+  - correct: false
+    detail: Incorrect, "tracked:verb" is not a synonym for "togolese".
+    value: tracked:verb
+  - correct: false
+    detail: Incorrect, "numbers pool:noun" is not a synonym for "togolese".
+    value: numbers pool:noun
+  - correct: false
+    detail: Incorrect, "successor:noun" is not a synonym for "togolese".
+    value: successor:noun
+  text: What is a synonym for "togolese"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "atmospheric" is a synonym for "atmospherical".
+    value: atmospheric
+  - correct: false
+    detail: Incorrect, "esther:noun" is not a synonym for "atmospherical".
+    value: esther:noun
+  - correct: false
+    detail: Incorrect, "electronic database:noun" is not a synonym for "atmospherical".
+    value: electronic database:noun
+  - correct: false
+    detail: Incorrect, "y-linked gene:noun" is not a synonym for "atmospherical".
+    value: y-linked gene:noun
+  text: What is a synonym for "atmospherical"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "visceral" is a synonym for "splanchnic".
+    value: visceral
+  - correct: false
+    detail: Incorrect, "skullcap:noun" is not a synonym for "splanchnic".
+    value: skullcap:noun
+  - correct: false
+    detail: Incorrect, "black hellebore:noun" is not a synonym for "splanchnic".
+    value: black hellebore:noun
+  - correct: false
+    detail: Incorrect, "family testudinidae:noun" is not a synonym for "splanchnic".
+    value: family testudinidae:noun
+  text: What is a synonym for "splanchnic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "alphabetic|alphabetic" is a synonym for "alphabetical".
+    value: alphabetic|alphabetic
+  - correct: false
+    detail: Incorrect, "genus armoracia:noun" is not a synonym for "alphabetical".
+    value: genus armoracia:noun
+  - correct: false
+    detail: Incorrect, "kuroshio:noun" is not a synonym for "alphabetical".
+    value: kuroshio:noun
+  - correct: false
+    detail: Incorrect, "unobjectionable:satellite" is not a synonym for "alphabetical".
+    value: unobjectionable:satellite
+  text: What is a synonym for "alphabetical"?

@@ -1,0 +1,301 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "astronomic" is a synonym for "astronomical".
+    value: astronomic
+  - correct: false
+    detail: Incorrect, "sensitizing:verb" is not a synonym for "astronomical".
+    value: sensitizing:verb
+  - correct: false
+    detail: Incorrect, "augustinian hermits:noun" is not a synonym for "astronomical".
+    value: augustinian hermits:noun
+  - correct: false
+    detail: Incorrect, "rid:verb" is not a synonym for "astronomical".
+    value: rid:verb
+  text: What is a synonym for "astronomical"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "foliate" is a synonym for "foliated".
+    value: foliate
+  - correct: false
+    detail: Incorrect, "heinrich schliemann:noun" is not a synonym for "foliated".
+    value: heinrich schliemann:noun
+  - correct: false
+    detail: Incorrect, "replete:verb" is not a synonym for "foliated".
+    value: replete:verb
+  - correct: false
+    detail: Incorrect, "allograft:noun" is not a synonym for "foliated".
+    value: allograft:noun
+  text: What is a synonym for "foliated"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unleavened" is a synonym for "unraised".
+    value: unleavened
+  - correct: false
+    detail: Incorrect, "eagerly:adverb" is not a synonym for "unraised".
+    value: eagerly:adverb
+  - correct: false
+    detail: Incorrect, "buena vista:noun" is not a synonym for "unraised".
+    value: buena vista:noun
+  - correct: false
+    detail: Incorrect, "semifinal:noun" is not a synonym for "unraised".
+    value: semifinal:noun
+  text: What is a synonym for "unraised"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "ambidextrous" is a synonym for "two-handed".
+    value: ambidextrous
+  - correct: false
+    detail: Incorrect, "mental disorder:noun" is not a synonym for "two-handed".
+    value: mental disorder:noun
+  - correct: false
+    detail: Incorrect, "braincase:noun" is not a synonym for "two-handed".
+    value: braincase:noun
+  - correct: false
+    detail: Incorrect, "moreau river:noun" is not a synonym for "two-handed".
+    value: moreau river:noun
+  text: What is a synonym for "two-handed"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "autarchical" is a synonym for "autarchic".
+    value: autarchical
+  - correct: false
+    detail: Incorrect, "emda:noun" is not a synonym for "autarchic".
+    value: emda:noun
+  - correct: false
+    detail: Incorrect, "ash:noun" is not a synonym for "autarchic".
+    value: ash:noun
+  - correct: false
+    detail: Incorrect, "canalis vertebralis:noun" is not a synonym for "autarchic".
+    value: canalis vertebralis:noun
+  text: What is a synonym for "autarchic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "octagonal" is a synonym for "octangular".
+    value: octagonal
+  - correct: false
+    detail: Incorrect, "sterilization:noun" is not a synonym for "octangular".
+    value: sterilization:noun
+  - correct: false
+    detail: Incorrect, "gnathostomata:noun" is not a synonym for "octangular".
+    value: gnathostomata:noun
+  - correct: false
+    detail: Incorrect, "ursus:noun" is not a synonym for "octangular".
+    value: ursus:noun
+  text: What is a synonym for "octangular"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unrefined" is a synonym for "unprocessed".
+    value: unrefined
+  - correct: false
+    detail: Incorrect, "missouri goldenrod:noun" is not a synonym for "unprocessed".
+    value: missouri goldenrod:noun
+  - correct: false
+    detail: Incorrect, "electrostatic bond:noun" is not a synonym for "unprocessed".
+    value: electrostatic bond:noun
+  - correct: false
+    detail: Incorrect, "golden syrup:noun" is not a synonym for "unprocessed".
+    value: golden syrup:noun
+  text: What is a synonym for "unprocessed"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "dry-eyed" is a synonym for "tearless".
+    value: dry-eyed
+  - correct: false
+    detail: Incorrect, "evening prayer:noun" is not a synonym for "tearless".
+    value: evening prayer:noun
+  - correct: false
+    detail: Incorrect, "largess:noun" is not a synonym for "tearless".
+    value: largess:noun
+  - correct: false
+    detail: Incorrect, "tidiness:noun" is not a synonym for "tearless".
+    value: tidiness:noun
+  text: What is a synonym for "tearless"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Pacific" is a synonym for "pacific".
+    value: Pacific
+  - correct: false
+    detail: Incorrect, "paumotu archipelago:noun" is not a synonym for "pacific".
+    value: paumotu archipelago:noun
+  - correct: false
+    detail: Incorrect, "ottorino respighi:noun" is not a synonym for "pacific".
+    value: ottorino respighi:noun
+  - correct: false
+    detail: Incorrect, "skittles:verb" is not a synonym for "pacific".
+    value: skittles:verb
+  text: What is a synonym for "pacific"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "adventuresome" is a synonym for "adventurous".
+    value: adventuresome
+  - correct: false
+    detail: Incorrect, "february 29:noun" is not a synonym for "adventurous".
+    value: february 29:noun
+  - correct: false
+    detail: Incorrect, "criminalism:noun" is not a synonym for "adventurous".
+    value: criminalism:noun
+  - correct: false
+    detail: Incorrect, "tnt:noun" is not a synonym for "adventurous".
+    value: tnt:noun
+  text: What is a synonym for "adventurous"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "blastular" is a synonym for "blastospheric".
+    value: blastular
+  - correct: false
+    detail: Incorrect, "louis auchincloss:noun" is not a synonym for "blastospheric".
+    value: louis auchincloss:noun
+  - correct: false
+    detail: Incorrect, "swallow-tailed coat:noun" is not a synonym for "blastospheric".
+    value: swallow-tailed coat:noun
+  - correct: false
+    detail: Incorrect, "closure:verb" is not a synonym for "blastospheric".
+    value: closure:verb
+  text: What is a synonym for "blastospheric"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "colour" is a synonym for "color".
+    value: colour
+  - correct: false
+    detail: Incorrect, "dowding:noun" is not a synonym for "color".
+    value: dowding:noun
+  - correct: false
+    detail: Incorrect, "demagnetization:noun" is not a synonym for "color".
+    value: demagnetization:noun
+  - correct: false
+    detail: Incorrect, "box:verb" is not a synonym for "color".
+    value: box:verb
+  text: What is a synonym for "color"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "clinker-built" is a synonym for "lap-straked".
+    value: lap-streaked
+  - correct: false
+    detail: Incorrect, "st. bruno:noun" is not a synonym for "lap-straked".
+    value: st. bruno:noun
+  - correct: false
+    detail: Incorrect, "yeastlike:adjective" is not a synonym for "lap-straked".
+    value: yeastlike:adjective
+  - correct: false
+    detail: Incorrect, "leafage:noun" is not a synonym for "lap-straked".
+    value: leafage:noun
+  text: What is a synonym for "lap-straked"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Confucian" is a synonym for "confucian".
+    value: Confucian
+  - correct: false
+    detail: Incorrect, "rear:satellite" is not a synonym for "confucian".
+    value: rear:satellite
+  - correct: false
+    detail: Incorrect, "diaphoretic:adjective" is not a synonym for "confucian".
+    value: diaphoretic:adjective
+  - correct: false
+    detail: Incorrect, "worn spot:noun" is not a synonym for "confucian".
+    value: worn spot:noun
+  text: What is a synonym for "confucian"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "asymmetric" is a synonym for "asymmetrical".
+    value: asymmetric
+  - correct: false
+    detail: Incorrect, "new world anteater:noun" is not a synonym for "asymmetrical".
+    value: new world anteater:noun
+  - correct: false
+    detail: Incorrect, "lime:verb" is not a synonym for "asymmetrical".
+    value: lime:verb
+  - correct: false
+    detail: Incorrect, "patronne:noun" is not a synonym for "asymmetrical".
+    value: patronne:noun
+  text: What is a synonym for "asymmetrical"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Masonic" is a synonym for "masonic".
+    value: Masonic
+  - correct: false
+    detail: Incorrect, "anabrus simplex:noun" is not a synonym for "masonic".
+    value: anabrus simplex:noun
+  - correct: false
+    detail: Incorrect, "ejaculation:noun" is not a synonym for "masonic".
+    value: ejaculation:noun
+  - correct: false
+    detail: Incorrect, "ciconiiformes:noun" is not a synonym for "masonic".
+    value: ciconiiformes:noun
+  text: What is a synonym for "masonic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "fungicidal" is a synonym for "antifungal".
+    value: fungicidal
+  - correct: false
+    detail: Incorrect, "sphyraena barracuda:noun" is not a synonym for "antifungal".
+    value: sphyraena barracuda:noun
+  - correct: false
+    detail: Incorrect, "snellen:noun" is not a synonym for "antifungal".
+    value: snellen:noun
+  - correct: false
+    detail: Incorrect, "south pole:noun" is not a synonym for "antifungal".
+    value: south pole:noun
+  text: What is a synonym for "antifungal"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "colorimetric" is a synonym for "colorimetrical".
+    value: colorimetric
+  - correct: false
+    detail: Incorrect, "highjacking:noun" is not a synonym for "colorimetrical".
+    value: highjacking:noun
+  - correct: false
+    detail: Incorrect, "nitrobacter:noun" is not a synonym for "colorimetrical".
+    value: nitrobacter:noun
+  - correct: false
+    detail: Incorrect, "piping:noun" is not a synonym for "colorimetrical".
+    value: piping:noun
+  text: What is a synonym for "colorimetrical"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "galvanic" is a synonym for "voltaic".
+    value: galvanic
+  - correct: false
+    detail: Incorrect, "hemostatic:satellite" is not a synonym for "voltaic".
+    value: hemostatic:satellite
+  - correct: false
+    detail: Incorrect, "hawkins:noun" is not a synonym for "voltaic".
+    value: hawkins:noun
+  - correct: false
+    detail: Incorrect, "boll weevil:noun" is not a synonym for "voltaic".
+    value: boll weevil:noun
+  text: What is a synonym for "voltaic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "bright" is a synonym for "undimmed".
+    value: bright
+  - correct: false
+    detail: Incorrect, "corny:satellite" is not a synonym for "undimmed".
+    value: corny:satellite
+  - correct: false
+    detail: Incorrect, "dentistry:noun" is not a synonym for "undimmed".
+    value: dentistry:noun
+  - correct: false
+    detail: Incorrect, "anestric:adjective" is not a synonym for "undimmed".
+    value: anestric:adjective
+  text: What is a synonym for "undimmed"?

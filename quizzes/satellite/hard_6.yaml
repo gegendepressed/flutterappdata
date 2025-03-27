@@ -1,0 +1,302 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "crooked" is a synonym for "round-backed".
+    value: hunched
+  - correct: false
+    detail: Incorrect, "bantering:verb" is not a synonym for "round-backed".
+    value: bantering:verb
+  - correct: false
+    detail: Incorrect, "california tree poppy:noun" is not a synonym for "round-backed".
+    value: california tree poppy:noun
+  - correct: false
+    detail: Incorrect, "open:noun" is not a synonym for "round-backed".
+    value: open:noun
+  text: What is a synonym for "round-backed"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "eighteenth" is a synonym for "18th".
+    value: eighteenth
+  - correct: false
+    detail: Incorrect, "knife edge:noun" is not a synonym for "18th".
+    value: knife edge:noun
+  - correct: false
+    detail: Incorrect, "naupathia:noun" is not a synonym for "18th".
+    value: naupathia:noun
+  - correct: false
+    detail: Incorrect, "january 6:noun" is not a synonym for "18th".
+    value: january 6:noun
+  text: What is a synonym for "18th"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "9-membered" is a synonym for "nine-membered".
+    value: 9-membered
+  - correct: false
+    detail: Incorrect, "organic fertiliser:noun" is not a synonym for "nine-membered".
+    value: organic fertiliser:noun
+  - correct: false
+    detail: Incorrect, "conniving:satellite" is not a synonym for "nine-membered".
+    value: conniving:satellite
+  - correct: false
+    detail: Incorrect, "mesophytic plant:noun" is not a synonym for "nine-membered".
+    value: mesophytic plant:noun
+  text: What is a synonym for "nine-membered"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "improbable" is a synonym for "unconvincing".
+    value: improbable
+  - correct: false
+    detail: Incorrect, "canon law:noun" is not a synonym for "unconvincing".
+    value: canon law:noun
+  - correct: false
+    detail: Incorrect, "glasshouse:noun" is not a synonym for "unconvincing".
+    value: glasshouse:noun
+  - correct: false
+    detail: Incorrect, "graphical:adjective" is not a synonym for "unconvincing".
+    value: graphical:adjective
+  text: What is a synonym for "unconvincing"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "prophylactic|admonitory" is a synonym for "cautionary".
+    value: monitory
+  - correct: false
+    detail: Incorrect, "tag on:verb" is not a synonym for "cautionary".
+    value: tag on:verb
+  - correct: false
+    detail: Incorrect, "inconsistency:noun" is not a synonym for "cautionary".
+    value: inconsistency:noun
+  - correct: false
+    detail: Incorrect, "decanedioic acid:noun" is not a synonym for "cautionary".
+    value: decanedioic acid:noun
+  text: What is a synonym for "cautionary"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "everlasting" is a synonym for "thoroughgoing".
+    value: pure
+  - correct: false
+    detail: Incorrect, "sanctum sanctorum:noun" is not a synonym for "thoroughgoing".
+    value: sanctum sanctorum:noun
+  - correct: false
+    detail: Incorrect, "pickup arm:noun" is not a synonym for "thoroughgoing".
+    value: pickup arm:noun
+  - correct: false
+    detail: Incorrect, "skeletal frame:noun" is not a synonym for "thoroughgoing".
+    value: skeletal frame:noun
+  text: What is a synonym for "thoroughgoing"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "nontransferable" is a synonym for "unassignable".
+    value: nontransferable
+  - correct: false
+    detail: Incorrect, "pellitory:noun" is not a synonym for "unassignable".
+    value: pellitory:noun
+  - correct: false
+    detail: Incorrect, "fritillaria pluriflora:noun" is not a synonym for "unassignable".
+    value: fritillaria pluriflora:noun
+  - correct: false
+    detail: Incorrect, "lentiform:satellite" is not a synonym for "unassignable".
+    value: lentiform:satellite
+  text: What is a synonym for "unassignable"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "deep" is a synonym for "recondite".
+    value: abstruse
+  - correct: false
+    detail: Incorrect, "eptesicus:noun" is not a synonym for "recondite".
+    value: eptesicus:noun
+  - correct: false
+    detail: Incorrect, "by no means:adverb" is not a synonym for "recondite".
+    value: by no means:adverb
+  - correct: false
+    detail: Incorrect, "c major:noun" is not a synonym for "recondite".
+    value: c major:noun
+  text: What is a synonym for "recondite"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "obscene" is a synonym for "abhorrent".
+    value: detestable
+  - correct: false
+    detail: Incorrect, "pelecanus erythrorhynchos:noun" is not a synonym for "abhorrent".
+    value: pelecanus erythrorhynchos:noun
+  - correct: false
+    detail: Incorrect, "rameau:noun" is not a synonym for "abhorrent".
+    value: rameau:noun
+  - correct: false
+    detail: Incorrect, "mute:noun" is not a synonym for "abhorrent".
+    value: mute:noun
+  text: What is a synonym for "abhorrent"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "clanging" is a synonym for "clangorous".
+    value: clanging
+  - correct: false
+    detail: Incorrect, "unwished-for:satellite" is not a synonym for "clangorous".
+    value: unwished-for:satellite
+  - correct: false
+    detail: Incorrect, "fin whale:noun" is not a synonym for "clangorous".
+    value: fin whale:noun
+  - correct: false
+    detail: Incorrect, "ketchup bottle:noun" is not a synonym for "clangorous".
+    value: ketchup bottle:noun
+  text: What is a synonym for "clangorous"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "daily" is a synonym for "day-after-day".
+    value: day-to-day
+  - correct: false
+    detail: Incorrect, "foeniculum vulgare:noun" is not a synonym for "day-after-day".
+    value: foeniculum vulgare:noun
+  - correct: false
+    detail: Incorrect, "cornstarch:noun" is not a synonym for "day-after-day".
+    value: cornstarch:noun
+  - correct: false
+    detail: Incorrect, "forgotten:satellite" is not a synonym for "day-after-day".
+    value: forgotten:satellite
+  text: What is a synonym for "day-after-day"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "forty-two" is a synonym for "xlii".
+    value: '42'
+  - correct: false
+    detail: Incorrect, "music:noun" is not a synonym for "xlii".
+    value: music:noun
+  - correct: false
+    detail: Incorrect, "onega:noun" is not a synonym for "xlii".
+    value: onega:noun
+  - correct: false
+    detail: Incorrect, "backtrack:verb" is not a synonym for "xlii".
+    value: backtrack:verb
+  text: What is a synonym for "xlii"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "long-shanked" is a synonym for "long-legged".
+    value: leggy
+  - correct: false
+    detail: Incorrect, "apocrypha:noun" is not a synonym for "long-legged".
+    value: apocrypha:noun
+  - correct: false
+    detail: Incorrect, "gentiana crinita:noun" is not a synonym for "long-legged".
+    value: gentiana crinita:noun
+  - correct: false
+    detail: Incorrect, "fowl:noun" is not a synonym for "long-legged".
+    value: fowl:noun
+  text: What is a synonym for "long-legged"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "recovering" is a synonym for "convalescent".
+    value: recovering
+  - correct: false
+    detail: Incorrect, "crew cut:noun" is not a synonym for "convalescent".
+    value: crew cut:noun
+  - correct: false
+    detail: Incorrect, "hooray:noun" is not a synonym for "convalescent".
+    value: hooray:noun
+  - correct: false
+    detail: Incorrect, "rana sylvatica:noun" is not a synonym for "convalescent".
+    value: rana sylvatica:noun
+  text: What is a synonym for "convalescent"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "semiaquatic" is a synonym for "amphibiotic".
+    value: semiaquatic
+  - correct: false
+    detail: Incorrect, "guesstimate:noun" is not a synonym for "amphibiotic".
+    value: guesstimate:noun
+  - correct: false
+    detail: Incorrect, "ophiophagus:noun" is not a synonym for "amphibiotic".
+    value: ophiophagus:noun
+  - correct: false
+    detail: Incorrect, "dorothy hodgkin:noun" is not a synonym for "amphibiotic".
+    value: dorothy hodgkin:noun
+  text: What is a synonym for "amphibiotic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "bodiless" is a synonym for "bodyless".
+    value: bodiless
+  - correct: false
+    detail: Incorrect, "genus dolichonyx:noun" is not a synonym for "bodyless".
+    value: genus dolichonyx:noun
+  - correct: false
+    detail: Incorrect, "medina:noun" is not a synonym for "bodyless".
+    value: medina:noun
+  - correct: false
+    detail: Incorrect, "leontodon:noun" is not a synonym for "bodyless".
+    value: leontodon:noun
+  text: What is a synonym for "bodyless"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "changeable" is a synonym for "iridescent".
+    value: changeable
+  - correct: false
+    detail: Incorrect, "depolarise:verb" is not a synonym for "iridescent".
+    value: depolarise:verb
+  - correct: false
+    detail: Incorrect, "uracil:noun" is not a synonym for "iridescent".
+    value: uracil:noun
+  - correct: false
+    detail: Incorrect, "genus pitymys:noun" is not a synonym for "iridescent".
+    value: genus pitymys:noun
+  text: What is a synonym for "iridescent"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "moonstruck" is a synonym for "lunatic".
+    value: moonstruck
+  - correct: false
+    detail: Incorrect, "iz al-din al-qassam battalions:noun" is not a synonym for
+      "lunatic".
+    value: iz al-din al-qassam battalions:noun
+  - correct: false
+    detail: Incorrect, "fuji-san:noun" is not a synonym for "lunatic".
+    value: fuji-san:noun
+  - correct: false
+    detail: Incorrect, "eumycetes:noun" is not a synonym for "lunatic".
+    value: eumycetes:noun
+  text: What is a synonym for "lunatic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "reverberating" is a synonym for "resounding".
+    value: resonant
+  - correct: false
+    detail: Incorrect, "paving material:noun" is not a synonym for "resounding".
+    value: paving material:noun
+  - correct: false
+    detail: Incorrect, "close:satellite" is not a synonym for "resounding".
+    value: close:satellite
+  - correct: false
+    detail: Incorrect, "mental case:noun" is not a synonym for "resounding".
+    value: mental case:noun
+  text: What is a synonym for "resounding"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "stipendiary" is a synonym for "compensated".
+    value: stipendiary
+  - correct: false
+    detail: Incorrect, "crystal oscillator:noun" is not a synonym for "compensated".
+    value: crystal oscillator:noun
+  - correct: false
+    detail: Incorrect, "family anacardiaceae:noun" is not a synonym for "compensated".
+    value: family anacardiaceae:noun
+  - correct: false
+    detail: Incorrect, "bright's disease:noun" is not a synonym for "compensated".
+    value: bright's disease:noun
+  text: What is a synonym for "compensated"?

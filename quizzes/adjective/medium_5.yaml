@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "seaward" is a synonym for "inshore".
+    value: seaward
+  - correct: false
+    detail: Incorrect, "disenchanting:satellite" is not a synonym for "inshore".
+    value: disenchanting:satellite
+  - correct: false
+    detail: Incorrect, "mendelianism:noun" is not a synonym for "inshore".
+    value: mendelianism:noun
+  - correct: false
+    detail: Incorrect, "lily of the incas:noun" is not a synonym for "inshore".
+    value: lily of the incas:noun
+  text: What is a synonym for "inshore"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "carinate" is a synonym for "ridged".
+    value: carinate
+  - correct: false
+    detail: Incorrect, "beebread:noun" is not a synonym for "ridged".
+    value: beebread:noun
+  - correct: false
+    detail: Incorrect, "serape:noun" is not a synonym for "ridged".
+    value: serape:noun
+  - correct: false
+    detail: Incorrect, "capriciously:adverb" is not a synonym for "ridged".
+    value: capriciously:adverb
+  text: What is a synonym for "ridged"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "haemic" is a synonym for "haematic".
+    value: haemic
+  - correct: false
+    detail: Incorrect, "conidiospore:noun" is not a synonym for "haematic".
+    value: conidiospore:noun
+  - correct: false
+    detail: Incorrect, "erie:noun" is not a synonym for "haematic".
+    value: erie:noun
+  - correct: false
+    detail: Incorrect, "inferior court:noun" is not a synonym for "haematic".
+    value: inferior court:noun
+  text: What is a synonym for "haematic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Scots" is a synonym for "scots".
+    value: Scottish
+  - correct: false
+    detail: Incorrect, "superfamily tyrannidae:noun" is not a synonym for "scots".
+    value: superfamily tyrannidae:noun
+  - correct: false
+    detail: Incorrect, "antipathetic:satellite" is not a synonym for "scots".
+    value: antipathetic:satellite
+  - correct: false
+    detail: Incorrect, "genus agama:noun" is not a synonym for "scots".
+    value: genus agama:noun
+  text: What is a synonym for "scots"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "malodourous" is a synonym for "stinky".
+    value: malodorous
+  - correct: false
+    detail: Incorrect, "staten island:noun" is not a synonym for "stinky".
+    value: staten island:noun
+  - correct: false
+    detail: Incorrect, "clown:verb" is not a synonym for "stinky".
+    value: clown:verb
+  - correct: false
+    detail: Incorrect, "leatherleaf fern:noun" is not a synonym for "stinky".
+    value: leatherleaf fern:noun
+  text: What is a synonym for "stinky"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "immature" is a synonym for "unripe".
+    value: green
+  - correct: false
+    detail: Incorrect, "mack sennett:noun" is not a synonym for "unripe".
+    value: mack sennett:noun
+  - correct: false
+    detail: Incorrect, "official:satellite" is not a synonym for "unripe".
+    value: official:satellite
+  - correct: false
+    detail: Incorrect, "mop up:noun" is not a synonym for "unripe".
+    value: mop up:noun
+  text: What is a synonym for "unripe"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "meagre" is a synonym for "meagerly".
+    value: meagre
+  - correct: false
+    detail: Incorrect, "synthesiser:noun" is not a synonym for "meagerly".
+    value: synthesiser:noun
+  - correct: false
+    detail: Incorrect, "panther lily:noun" is not a synonym for "meagerly".
+    value: panther lily:noun
+  - correct: false
+    detail: Incorrect, "disarticulate:verb" is not a synonym for "meagerly".
+    value: disarticulate:verb
+  text: What is a synonym for "meagerly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "jolting" is a synonym for "jumpy".
+    value: jolting
+  - correct: false
+    detail: Incorrect, "nonconforming:satellite" is not a synonym for "jumpy".
+    value: nonconforming:satellite
+  - correct: false
+    detail: Incorrect, "boon:noun" is not a synonym for "jumpy".
+    value: boon:noun
+  - correct: false
+    detail: Incorrect, "health and human services:noun" is not a synonym for "jumpy".
+    value: health and human services:noun
+  text: What is a synonym for "jumpy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Hindu" is a synonym for "hindi".
+    value: Hindoo
+  - correct: false
+    detail: Incorrect, "stigma:noun" is not a synonym for "hindi".
+    value: stigma:noun
+  - correct: false
+    detail: Incorrect, "hard-boiled:satellite" is not a synonym for "hindi".
+    value: hard-boiled:satellite
+  - correct: false
+    detail: Incorrect, "brush down:verb" is not a synonym for "hindi".
+    value: brush down:verb
+  text: What is a synonym for "hindi"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "nigh" is a synonym for "nigher".
+    value: close
+  - correct: false
+    detail: Incorrect, "piperales:noun" is not a synonym for "nigher".
+    value: piperales:noun
+  - correct: false
+    detail: Incorrect, "battalion:noun" is not a synonym for "nigher".
+    value: battalion:noun
+  - correct: false
+    detail: Incorrect, "avalanche lily:noun" is not a synonym for "nigher".
+    value: avalanche lily:noun
+  text: What is a synonym for "nigher"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Hindu" is a synonym for "hindoo".
+    value: Hindu
+  - correct: false
+    detail: Incorrect, "david herbert lawrence:noun" is not a synonym for "hindoo".
+    value: david herbert lawrence:noun
+  - correct: false
+    detail: Incorrect, "sweet wattle:noun" is not a synonym for "hindoo".
+    value: sweet wattle:noun
+  - correct: false
+    detail: Incorrect, "empire state:noun" is not a synonym for "hindoo".
+    value: empire state:noun
+  text: What is a synonym for "hindoo"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Cyprian" is a synonym for "cypriot".
+    value: Cypriot
+  - correct: false
+    detail: Incorrect, "tepee:noun" is not a synonym for "cypriot".
+    value: tepee:noun
+  - correct: false
+    detail: Incorrect, "first viscount nuffield:noun" is not a synonym for "cypriot".
+    value: first viscount nuffield:noun
+  - correct: false
+    detail: Incorrect, "six-gun:noun" is not a synonym for "cypriot".
+    value: six-gun:noun
+  text: What is a synonym for "cypriot"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "appealing" is a synonym for "likeable".
+    value: sympathetic
+  - correct: false
+    detail: Incorrect, "ham-fisted:satellite" is not a synonym for "likeable".
+    value: ham-fisted:satellite
+  - correct: false
+    detail: Incorrect, "blowup:noun" is not a synonym for "likeable".
+    value: blowup:noun
+  - correct: false
+    detail: Incorrect, "genus anthemis:noun" is not a synonym for "likeable".
+    value: genus anthemis:noun
+  text: What is a synonym for "likeable"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "close" is a synonym for "closest".
+    value: close|close|near
+  - correct: false
+    detail: Incorrect, "genus macrocephalon:noun" is not a synonym for "closest".
+    value: genus macrocephalon:noun
+  - correct: false
+    detail: Incorrect, "jabbering:verb" is not a synonym for "closest".
+    value: jabbering:verb
+  - correct: false
+    detail: Incorrect, "muckraking:verb" is not a synonym for "closest".
+    value: muckraking:verb
+  text: What is a synonym for "closest"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Sinhala" is a synonym for "sinhala".
+    value: Sinhala
+  - correct: false
+    detail: Incorrect, "background processing:noun" is not a synonym for "sinhala".
+    value: background processing:noun
+  - correct: false
+    detail: Incorrect, "actinomycetous:adjective" is not a synonym for "sinhala".
+    value: actinomycetous:adjective
+  - correct: false
+    detail: Incorrect, "derogation:noun" is not a synonym for "sinhala".
+    value: derogation:noun
+  text: What is a synonym for "sinhala"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "cognisable" is a synonym for "knowable".
+    value: cognizable
+  - correct: false
+    detail: Incorrect, "ballyrag:verb" is not a synonym for "knowable".
+    value: ballyrag:verb
+  - correct: false
+    detail: Incorrect, "ragwort:noun" is not a synonym for "knowable".
+    value: ragwort:noun
+  - correct: false
+    detail: Incorrect, "yea:adverb" is not a synonym for "knowable".
+    value: yea:adverb
+  text: What is a synonym for "knowable"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "toughened" is a synonym for "tempered".
+    value: hardened
+  - correct: false
+    detail: Incorrect, "patroness:noun" is not a synonym for "tempered".
+    value: patroness:noun
+  - correct: false
+    detail: Incorrect, "pirogi:noun" is not a synonym for "tempered".
+    value: pirogi:noun
+  - correct: false
+    detail: Incorrect, "wrapping:noun" is not a synonym for "tempered".
+    value: wrapping:noun
+  text: What is a synonym for "tempered"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "offshore|inshore" is a synonym for "seaward".
+    value: offshore|inshore
+  - correct: false
+    detail: Incorrect, "unconditional:adjective" is not a synonym for "seaward".
+    value: unconditional:adjective
+  - correct: false
+    detail: Incorrect, "gentian family:noun" is not a synonym for "seaward".
+    value: gentian family:noun
+  - correct: false
+    detail: Incorrect, "reap hook:noun" is not a synonym for "seaward".
+    value: reap hook:noun
+  text: What is a synonym for "seaward"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Amerind" is a synonym for "indian".
+    value: Amerindic
+  - correct: false
+    detail: Incorrect, "bouvines:noun" is not a synonym for "indian".
+    value: bouvines:noun
+  - correct: false
+    detail: Incorrect, "red silver fir:noun" is not a synonym for "indian".
+    value: red silver fir:noun
+  - correct: false
+    detail: Incorrect, "myxocephalus aenaeus:noun" is not a synonym for "indian".
+    value: myxocephalus aenaeus:noun
+  text: What is a synonym for "indian"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ordered" is a synonym for "coherent".
+    value: logical
+  - correct: false
+    detail: Incorrect, "brown trout:noun" is not a synonym for "coherent".
+    value: brown trout:noun
+  - correct: false
+    detail: Incorrect, "ripeness:verb" is not a synonym for "coherent".
+    value: ripeness:verb
+  - correct: false
+    detail: Incorrect, "lithology:noun" is not a synonym for "coherent".
+    value: lithology:noun
+  text: What is a synonym for "coherent"?

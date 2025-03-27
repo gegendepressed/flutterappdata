@@ -1,0 +1,13 @@
+id: adjective
+img: adjective.png
+quizzes:
+- description: Synonyms for Adjective (Easy)
+  id: adjective-easy
+  title: Adjective - Easy
+- description: Synonyms for Adjective (Medium)
+  id: adjective-medium
+  title: Adjective - Medium
+- description: Synonyms for Adjective (Hard)
+  id: adjective-hard
+  title: Adjective - Hard
+title: Adjective Synonyms

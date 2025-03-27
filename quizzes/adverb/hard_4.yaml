@@ -1,0 +1,301 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "contrarily" is a synonym for "perversely".
+    value: contrariwise
+  - correct: false
+    detail: Incorrect, "sightread:verb" is not a synonym for "perversely".
+    value: sightread:verb
+  - correct: false
+    detail: Incorrect, "grotto:noun" is not a synonym for "perversely".
+    value: grotto:noun
+  - correct: false
+    detail: Incorrect, "aurous:adjective" is not a synonym for "perversely".
+    value: aurous:adjective
+  text: What is a synonym for "perversely"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "purportedly" is a synonym for "supposedly".
+    value: purportedly
+  - correct: false
+    detail: Incorrect, "isopoda:noun" is not a synonym for "supposedly".
+    value: isopoda:noun
+  - correct: false
+    detail: Incorrect, "matzoh meal:noun" is not a synonym for "supposedly".
+    value: matzoh meal:noun
+  - correct: false
+    detail: Incorrect, "parkinsonism:noun" is not a synonym for "supposedly".
+    value: parkinsonism:noun
+  text: What is a synonym for "supposedly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "excessively" is a synonym for "to a fault".
+    value: excessively
+  - correct: false
+    detail: Incorrect, "arteria colica:noun" is not a synonym for "to a fault".
+    value: arteria colica:noun
+  - correct: false
+    detail: Incorrect, "test instrument vehicle:noun" is not a synonym for "to a fault".
+    value: test instrument vehicle:noun
+  - correct: false
+    detail: Incorrect, "right:noun" is not a synonym for "to a fault".
+    value: right:noun
+  text: What is a synonym for "to a fault"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "by chance" is a synonym for "haply".
+    value: by chance
+  - correct: false
+    detail: Incorrect, "sir noel pierce coward:noun" is not a synonym for "haply".
+    value: sir noel pierce coward:noun
+  - correct: false
+    detail: Incorrect, "wild hyacinth:noun" is not a synonym for "haply".
+    value: wild hyacinth:noun
+  - correct: false
+    detail: Incorrect, "counter:verb" is not a synonym for "haply".
+    value: counter:verb
+  text: What is a synonym for "haply"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "mundanely" is a synonym for "terrestrially".
+    value: mundanely
+  - correct: false
+    detail: Incorrect, "come across:verb" is not a synonym for "terrestrially".
+    value: come across:verb
+  - correct: false
+    detail: Incorrect, "urogenital cleft:noun" is not a synonym for "terrestrially".
+    value: urogenital cleft:noun
+  - correct: false
+    detail: Incorrect, "netherlands antilles:noun" is not a synonym for "terrestrially".
+    value: netherlands antilles:noun
+  text: What is a synonym for "terrestrially"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "astonishingly" is a synonym for "surprisingly".
+    value: amazingly
+  - correct: false
+    detail: Incorrect, "long hundred:noun" is not a synonym for "surprisingly".
+    value: long hundred:noun
+  - correct: false
+    detail: Incorrect, "robert woodward:noun" is not a synonym for "surprisingly".
+    value: robert woodward:noun
+  - correct: false
+    detail: Incorrect, "hydrated oxide:noun" is not a synonym for "surprisingly".
+    value: hydrated oxide:noun
+  text: What is a synonym for "surprisingly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "too much" is a synonym for "overmuch".
+    value: too much
+  - correct: false
+    detail: Incorrect, "tantric:adjective" is not a synonym for "overmuch".
+    value: tantric:adjective
+  - correct: false
+    detail: Incorrect, "family certhiidae:noun" is not a synonym for "overmuch".
+    value: family certhiidae:noun
+  - correct: false
+    detail: Incorrect, "genus simulium:noun" is not a synonym for "overmuch".
+    value: genus simulium:noun
+  text: What is a synonym for "overmuch"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unknowingly" is a synonym for "unwittingly".
+    value: inadvertently
+  - correct: false
+    detail: Incorrect, "wrangle:noun" is not a synonym for "unwittingly".
+    value: wrangle:noun
+  - correct: false
+    detail: Incorrect, "improper:satellite" is not a synonym for "unwittingly".
+    value: improper:satellite
+  - correct: false
+    detail: Incorrect, "creek confederacy:noun" is not a synonym for "unwittingly".
+    value: creek confederacy:noun
+  text: What is a synonym for "unwittingly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "longingly" is a synonym for "yearningly".
+    value: longingly
+  - correct: false
+    detail: Incorrect, "lake powell:noun" is not a synonym for "yearningly".
+    value: lake powell:noun
+  - correct: false
+    detail: Incorrect, "saxe-gothea:noun" is not a synonym for "yearningly".
+    value: saxe-gothea:noun
+  - correct: false
+    detail: Incorrect, "brandenburg:noun" is not a synonym for "yearningly".
+    value: brandenburg:noun
+  text: What is a synonym for "yearningly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unendingly" is a synonym for "continuously".
+    value: endlessly
+  - correct: false
+    detail: Incorrect, "western islands:noun" is not a synonym for "continuously".
+    value: western islands:noun
+  - correct: false
+    detail: Incorrect, "feminism:noun" is not a synonym for "continuously".
+    value: feminism:noun
+  - correct: false
+    detail: Incorrect, "prosperous:satellite" is not a synonym for "continuously".
+    value: prosperous:satellite
+  text: What is a synonym for "continuously"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "conscientiously" is a synonym for "scrupulously".
+    value: religiously
+  - correct: false
+    detail: Incorrect, "take stage:verb" is not a synonym for "scrupulously".
+    value: take stage:verb
+  - correct: false
+    detail: Incorrect, "american merganser:noun" is not a synonym for "scrupulously".
+    value: american merganser:noun
+  - correct: false
+    detail: Incorrect, "world bank:noun" is not a synonym for "scrupulously".
+    value: world bank:noun
+  text: What is a synonym for "scrupulously"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "barely" is a synonym for "scantily".
+    value: barely
+  - correct: false
+    detail: Incorrect, "backdoor:noun" is not a synonym for "scantily".
+    value: backdoor:noun
+  - correct: false
+    detail: Incorrect, "grass tree family:noun" is not a synonym for "scantily".
+    value: grass tree family:noun
+  - correct: false
+    detail: Incorrect, "firstborn:noun" is not a synonym for "scantily".
+    value: firstborn:noun
+  text: What is a synonym for "scantily"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "in the way" is a synonym for "in someone's way".
+    value: in the way
+  - correct: false
+    detail: Incorrect, "picturing:verb" is not a synonym for "in someone's way".
+    value: picturing:verb
+  - correct: false
+    detail: Incorrect, "calceolate:adjective" is not a synonym for "in someone's way".
+    value: calceolate:adjective
+  - correct: false
+    detail: Incorrect, "toupe:noun" is not a synonym for "in someone's way".
+    value: toupe:noun
+  text: What is a synonym for "in someone's way"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "homewards" is a synonym for "homeward".
+    value: homewards
+  - correct: false
+    detail: Incorrect, "leonhard euler:noun" is not a synonym for "homeward".
+    value: leonhard euler:noun
+  - correct: false
+    detail: Incorrect, "ambystoma talpoideum:noun" is not a synonym for "homeward".
+    value: ambystoma talpoideum:noun
+  - correct: false
+    detail: Incorrect, "participation financing:noun" is not a synonym for "homeward".
+    value: participation financing:noun
+  text: What is a synonym for "homeward"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "remorsefully" is a synonym for "ruefully".
+    value: remorsefully
+  - correct: false
+    detail: Incorrect, "prance:verb" is not a synonym for "ruefully".
+    value: prance:verb
+  - correct: false
+    detail: Incorrect, "brownian motion:noun" is not a synonym for "ruefully".
+    value: brownian motion:noun
+  - correct: false
+    detail: Incorrect, "centaurea cyanus:noun" is not a synonym for "ruefully".
+    value: centaurea cyanus:noun
+  text: What is a synonym for "ruefully"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "dejectedly" is a synonym for "in low spirits".
+    value: dejectedly
+  - correct: false
+    detail: Incorrect, "baseball player:noun" is not a synonym for "in low spirits".
+    value: baseball player:noun
+  - correct: false
+    detail: Incorrect, "wild west show:noun" is not a synonym for "in low spirits".
+    value: wild west show:noun
+  - correct: false
+    detail: Incorrect, "saint eustatius:noun" is not a synonym for "in low spirits".
+    value: saint eustatius:noun
+  text: What is a synonym for "in low spirits"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "relentlessly" is a synonym for "unrelentingly".
+    value: relentlessly
+  - correct: false
+    detail: Incorrect, "haversian canal:noun" is not a synonym for "unrelentingly".
+    value: haversian canal:noun
+  - correct: false
+    detail: Incorrect, "theory of indicators:noun" is not a synonym for "unrelentingly".
+    value: theory of indicators:noun
+  - correct: false
+    detail: Incorrect, "fille de chambre:noun" is not a synonym for "unrelentingly".
+    value: fille de chambre:noun
+  text: What is a synonym for "unrelentingly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "in name" is a synonym for "in name only".
+    value: in name
+  - correct: false
+    detail: Incorrect, "fort:noun" is not a synonym for "in name only".
+    value: fort:noun
+  - correct: false
+    detail: Incorrect, "meliorist:noun" is not a synonym for "in name only".
+    value: meliorist:noun
+  - correct: false
+    detail: Incorrect, "eu:noun" is not a synonym for "in name only".
+    value: eu:noun
+  text: What is a synonym for "in name only"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "bestially" is a synonym for "brutishly".
+    value: in a beastly manner
+  - correct: false
+    detail: Incorrect, "snorkel diving:noun" is not a synonym for "brutishly".
+    value: snorkel diving:noun
+  - correct: false
+    detail: Incorrect, "profitability:noun" is not a synonym for "brutishly".
+    value: profitability:noun
+  - correct: false
+    detail: Incorrect, "solitary confinement:noun" is not a synonym for "brutishly".
+    value: solitary confinement:noun
+  text: What is a synonym for "brutishly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "rapturously" is a synonym for "rhapsodically".
+    value: rapturously
+  - correct: false
+    detail: Incorrect, "rhapsodise:verb" is not a synonym for "rhapsodically".
+    value: rhapsodise:verb
+  - correct: false
+    detail: Incorrect, "schematisation:noun" is not a synonym for "rhapsodically".
+    value: schematisation:noun
+  - correct: false
+    detail: Incorrect, "indubitably:adverb" is not a synonym for "rhapsodically".
+    value: indubitably:adverb
+  text: What is a synonym for "rhapsodically"?

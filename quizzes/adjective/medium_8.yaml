@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "disenfranchised" is a synonym for "voteless".
+    value: disfranchised
+  - correct: false
+    detail: Incorrect, "cushioning:noun" is not a synonym for "voteless".
+    value: cushioning:noun
+  - correct: false
+    detail: Incorrect, "genus crataegus:noun" is not a synonym for "voteless".
+    value: genus crataegus:noun
+  - correct: false
+    detail: Incorrect, "juncus tenuis:noun" is not a synonym for "voteless".
+    value: juncus tenuis:noun
+  text: What is a synonym for "voteless"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Chaldaean" is a synonym for "chaldean".
+    value: Chaldee
+  - correct: false
+    detail: Incorrect, "warsaw:noun" is not a synonym for "chaldean".
+    value: warsaw:noun
+  - correct: false
+    detail: Incorrect, "chlorthalidone:noun" is not a synonym for "chaldean".
+    value: chlorthalidone:noun
+  - correct: false
+    detail: Incorrect, "intrench:verb" is not a synonym for "chaldean".
+    value: intrench:verb
+  text: What is a synonym for "chaldean"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "bad" is a synonym for "worse".
+    value: worsened|bad|regretful
+  - correct: false
+    detail: Incorrect, "nevada:noun" is not a synonym for "worse".
+    value: nevada:noun
+  - correct: false
+    detail: Incorrect, "eyepatch:noun" is not a synonym for "worse".
+    value: eyepatch:noun
+  - correct: false
+    detail: Incorrect, "berry fern:noun" is not a synonym for "worse".
+    value: berry fern:noun
+  text: What is a synonym for "worse"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "uncontaminating|clean" is a synonym for "cleaner".
+    value: uncontaminating|clean
+  - correct: false
+    detail: Incorrect, "mali franc:noun" is not a synonym for "cleaner".
+    value: mali franc:noun
+  - correct: false
+    detail: Incorrect, "early purple orchid:noun" is not a synonym for "cleaner".
+    value: early purple orchid:noun
+  - correct: false
+    detail: Incorrect, "saint james:noun" is not a synonym for "cleaner".
+    value: saint james:noun
+  text: What is a synonym for "cleaner"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Cyprian" is a synonym for "cypriote".
+    value: Cyprian
+  - correct: false
+    detail: Incorrect, "new world sparrow:noun" is not a synonym for "cypriote".
+    value: new world sparrow:noun
+  - correct: false
+    detail: Incorrect, "corakan:noun" is not a synonym for "cypriote".
+    value: corakan:noun
+  - correct: false
+    detail: Incorrect, "intolerable:adjective" is not a synonym for "cypriote".
+    value: intolerable:adjective
+  text: What is a synonym for "cypriote"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "affected" is a synonym for "touched".
+    value: stirred
+  - correct: false
+    detail: Incorrect, "naemorhedus goral:noun" is not a synonym for "touched".
+    value: naemorhedus goral:noun
+  - correct: false
+    detail: Incorrect, "sickly:satellite" is not a synonym for "touched".
+    value: sickly:satellite
+  - correct: false
+    detail: Incorrect, "family lanthanotidae:noun" is not a synonym for "touched".
+    value: family lanthanotidae:noun
+  text: What is a synonym for "touched"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Scots" is a synonym for "scotch".
+    value: Scottish
+  - correct: false
+    detail: Incorrect, "home office:noun" is not a synonym for "scotch".
+    value: home office:noun
+  - correct: false
+    detail: Incorrect, "pacifist:noun" is not a synonym for "scotch".
+    value: pacifist:noun
+  - correct: false
+    detail: Incorrect, "mucus:noun" is not a synonym for "scotch".
+    value: mucus:noun
+  text: What is a synonym for "scotch"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "albinotic" is a synonym for "albinal".
+    value: albinotic
+  - correct: false
+    detail: Incorrect, "toetoe:noun" is not a synonym for "albinal".
+    value: toetoe:noun
+  - correct: false
+    detail: Incorrect, "inexterminable:satellite" is not a synonym for "albinal".
+    value: inexterminable:satellite
+  - correct: false
+    detail: Incorrect, "qualified:verb" is not a synonym for "albinal".
+    value: qualified:verb
+  text: What is a synonym for "albinal"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "diffident" is a synonym for "timid".
+    value: unsure
+  - correct: false
+    detail: Incorrect, "copy:noun" is not a synonym for "timid".
+    value: copy:noun
+  - correct: false
+    detail: Incorrect, "railroad train:noun" is not a synonym for "timid".
+    value: railroad train:noun
+  - correct: false
+    detail: Incorrect, "saneness:noun" is not a synonym for "timid".
+    value: saneness:noun
+  text: What is a synonym for "timid"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "unvoiced" is a synonym for "surd".
+    value: voiceless
+  - correct: false
+    detail: Incorrect, "good luck charm:noun" is not a synonym for "surd".
+    value: good luck charm:noun
+  - correct: false
+    detail: Incorrect, "parabolic reflector:noun" is not a synonym for "surd".
+    value: parabolic reflector:noun
+  - correct: false
+    detail: Incorrect, "repositing:verb" is not a synonym for "surd".
+    value: repositing:verb
+  text: What is a synonym for "surd"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Shintoistic" is a synonym for "shinto".
+    value: Shinto
+  - correct: false
+    detail: Incorrect, "magically:adverb" is not a synonym for "shinto".
+    value: magically:adverb
+  - correct: false
+    detail: Incorrect, "claude levi-strauss:noun" is not a synonym for "shinto".
+    value: claude levi-strauss:noun
+  - correct: false
+    detail: Incorrect, "joseph paul dimaggio:noun" is not a synonym for "shinto".
+    value: joseph paul dimaggio:noun
+  text: What is a synonym for "shinto"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rhymeless" is a synonym for "rimeless".
+    value: unrimed
+  - correct: false
+    detail: Incorrect, "unashamedly:adverb" is not a synonym for "rimeless".
+    value: unashamedly:adverb
+  - correct: false
+    detail: Incorrect, "conniving:verb" is not a synonym for "rimeless".
+    value: conniving:verb
+  - correct: false
+    detail: Incorrect, "templetonia retusa:noun" is not a synonym for "rimeless".
+    value: templetonia retusa:noun
+  text: What is a synonym for "rimeless"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "papistical" is a synonym for "romanist".
+    value: R.C.
+  - correct: false
+    detail: Incorrect, "synapsid:noun" is not a synonym for "romanist".
+    value: synapsid:noun
+  - correct: false
+    detail: Incorrect, "peachwood:noun" is not a synonym for "romanist".
+    value: peachwood:noun
+  - correct: false
+    detail: Incorrect, "silvery wormwood:noun" is not a synonym for "romanist".
+    value: silvery wormwood:noun
+  text: What is a synonym for "romanist"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "bad|regretful" is a synonym for "worst".
+    value: sorry
+  - correct: false
+    detail: Incorrect, "family limulidae:noun" is not a synonym for "worst".
+    value: family limulidae:noun
+  - correct: false
+    detail: Incorrect, "compound fracture:noun" is not a synonym for "worst".
+    value: compound fracture:noun
+  - correct: false
+    detail: Incorrect, "scratching:verb" is not a synonym for "worst".
+    value: scratching:verb
+  text: What is a synonym for "worst"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "onomatopoetic" is a synonym for "echoic".
+    value: onomatopoeical
+  - correct: false
+    detail: Incorrect, "vilno:noun" is not a synonym for "echoic".
+    value: vilno:noun
+  - correct: false
+    detail: Incorrect, "cooccurring:satellite" is not a synonym for "echoic".
+    value: cooccurring:satellite
+  - correct: false
+    detail: Incorrect, "excuse:verb" is not a synonym for "echoic".
+    value: excuse:verb
+  text: What is a synonym for "echoic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "flagellate" is a synonym for "whiplike".
+    value: lash-like
+  - correct: false
+    detail: Incorrect, "admission fee:noun" is not a synonym for "whiplike".
+    value: admission fee:noun
+  - correct: false
+    detail: Incorrect, "telecommunication equipment:noun" is not a synonym for "whiplike".
+    value: telecommunication equipment:noun
+  - correct: false
+    detail: Incorrect, "callirhoe digitata:noun" is not a synonym for "whiplike".
+    value: callirhoe digitata:noun
+  text: What is a synonym for "whiplike"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "terrene" is a synonym for "telluric".
+    value: tellurian
+  - correct: false
+    detail: Incorrect, "moving stairway:noun" is not a synonym for "telluric".
+    value: moving stairway:noun
+  - correct: false
+    detail: Incorrect, "pearly:noun" is not a synonym for "telluric".
+    value: pearly:noun
+  - correct: false
+    detail: Incorrect, "grassy death camas:noun" is not a synonym for "telluric".
+    value: grassy death camas:noun
+  text: What is a synonym for "telluric"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "touched" is a synonym for "stirred".
+    value: touched
+  - correct: false
+    detail: Incorrect, "inguen:noun" is not a synonym for "stirred".
+    value: inguen:noun
+  - correct: false
+    detail: Incorrect, "arteria metatarsea:noun" is not a synonym for "stirred".
+    value: arteria metatarsea:noun
+  - correct: false
+    detail: Incorrect, "turkic:noun" is not a synonym for "stirred".
+    value: turkic:noun
+  text: What is a synonym for "stirred"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "carboniferous" is a synonym for "carbonic".
+    value: carbonous
+  - correct: false
+    detail: Incorrect, "piet mondrian:noun" is not a synonym for "carbonic".
+    value: piet mondrian:noun
+  - correct: false
+    detail: Incorrect, "congenator:noun" is not a synonym for "carbonic".
+    value: congenator:noun
+  - correct: false
+    detail: Incorrect, "eleuthera bark:noun" is not a synonym for "carbonic".
+    value: eleuthera bark:noun
+  text: What is a synonym for "carbonic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "jumpy|uncut" is a synonym for "rough".
+    value: jolty
+  - correct: false
+    detail: Incorrect, "order myxosporidia:noun" is not a synonym for "rough".
+    value: order myxosporidia:noun
+  - correct: false
+    detail: Incorrect, "serratus muscles:noun" is not a synonym for "rough".
+    value: serratus muscles:noun
+  - correct: false
+    detail: Incorrect, "capital of kenya:noun" is not a synonym for "rough".
+    value: capital of kenya:noun
+  text: What is a synonym for "rough"?

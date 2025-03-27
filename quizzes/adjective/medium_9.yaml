@@ -1,0 +1,197 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "arachnidian" is a synonym for "spiderly".
+    value: spidery
+  - correct: false
+    detail: Incorrect, "pyriform lobe:noun" is not a synonym for "spiderly".
+    value: pyriform lobe:noun
+  - correct: false
+    detail: Incorrect, "systeme international d'unites:noun" is not a synonym for
+      "spiderly".
+    value: systeme international d'unites:noun
+  - correct: false
+    detail: Incorrect, "psidium cattleianum:noun" is not a synonym for "spiderly".
+    value: psidium cattleianum:noun
+  text: What is a synonym for "spiderly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "unripe" is a synonym for "immature".
+    value: unripened|unfledged
+  - correct: false
+    detail: Incorrect, "reinforcement:noun" is not a synonym for "immature".
+    value: reinforcement:noun
+  - correct: false
+    detail: Incorrect, "valenciennes lace:noun" is not a synonym for "immature".
+    value: valenciennes lace:noun
+  - correct: false
+    detail: Incorrect, "affright:verb" is not a synonym for "immature".
+    value: affright:verb
+  text: What is a synonym for "immature"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Formosan" is a synonym for "chinese".
+    value: Chinese
+  - correct: false
+    detail: Incorrect, "high:satellite" is not a synonym for "chinese".
+    value: high:satellite
+  - correct: false
+    detail: Incorrect, "sidesplitting:satellite" is not a synonym for "chinese".
+    value: sidesplitting:satellite
+  - correct: false
+    detail: Incorrect, "unbowed:satellite" is not a synonym for "chinese".
+    value: unbowed:satellite
+  text: What is a synonym for "chinese"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rimeless" is a synonym for "unrimed".
+    value: unrhymed
+  - correct: false
+    detail: Incorrect, "genus tribolium:noun" is not a synonym for "unrimed".
+    value: genus tribolium:noun
+  - correct: false
+    detail: Incorrect, "oil lamp:noun" is not a synonym for "unrimed".
+    value: oil lamp:noun
+  - correct: false
+    detail: Incorrect, "mid-atlantic ridge:noun" is not a synonym for "unrimed".
+    value: mid-atlantic ridge:noun
+  text: What is a synonym for "unrimed"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "hieratical" is a synonym for "priestly".
+    value: sacerdotal|priestlike
+  - correct: false
+    detail: Incorrect, "bathometer:noun" is not a synonym for "priestly".
+    value: bathometer:noun
+  - correct: false
+    detail: Incorrect, "thusly:adverb" is not a synonym for "priestly".
+    value: thusly:adverb
+  - correct: false
+    detail: Incorrect, "jai alai:noun" is not a synonym for "priestly".
+    value: jai alai:noun
+  text: What is a synonym for "priestly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Manichee" is a synonym for "manichee".
+    value: Manichean
+  - correct: false
+    detail: Incorrect, "diagonalization:noun" is not a synonym for "manichee".
+    value: diagonalization:noun
+  - correct: false
+    detail: Incorrect, "el iskandriyah:noun" is not a synonym for "manichee".
+    value: el iskandriyah:noun
+  - correct: false
+    detail: Incorrect, "sedan chair:noun" is not a synonym for "manichee".
+    value: sedan chair:noun
+  text: What is a synonym for "manichee"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Hindu" is a synonym for "hindu".
+    value: Hindoo
+  - correct: false
+    detail: Incorrect, "change of location:noun" is not a synonym for "hindu".
+    value: change of location:noun
+  - correct: false
+    detail: Incorrect, "bebop:verb" is not a synonym for "hindu".
+    value: bebop:verb
+  - correct: false
+    detail: Incorrect, "flowering ash:noun" is not a synonym for "hindu".
+    value: flowering ash:noun
+  text: What is a synonym for "hindu"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "nigh" is a synonym for "nearest".
+    value: close
+  - correct: false
+    detail: Incorrect, "sales outlet:noun" is not a synonym for "nearest".
+    value: sales outlet:noun
+  - correct: false
+    detail: Incorrect, "tribromoethanol:noun" is not a synonym for "nearest".
+    value: tribromoethanol:noun
+  - correct: false
+    detail: Incorrect, "yerba mansa:noun" is not a synonym for "nearest".
+    value: yerba mansa:noun
+  text: What is a synonym for "nearest"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "acinic" is a synonym for "acinous".
+    value: acinic
+  - correct: false
+    detail: Incorrect, "mental confusion:noun" is not a synonym for "acinous".
+    value: mental confusion:noun
+  - correct: false
+    detail: Incorrect, "conveyance:noun" is not a synonym for "acinous".
+    value: conveyance:noun
+  - correct: false
+    detail: Incorrect, "publican:noun" is not a synonym for "acinous".
+    value: publican:noun
+  text: What is a synonym for "acinous"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "cyclonical|cyclonal" is a synonym for "cyclonic".
+    value: cyclonical
+  - correct: false
+    detail: Incorrect, "cognitive semantics:noun" is not a synonym for "cyclonic".
+    value: cognitive semantics:noun
+  - correct: false
+    detail: Incorrect, "trigonum cerebrale:noun" is not a synonym for "cyclonic".
+    value: trigonum cerebrale:noun
+  - correct: false
+    detail: Incorrect, "doorjamb:noun" is not a synonym for "cyclonic".
+    value: doorjamb:noun
+  text: What is a synonym for "cyclonic"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "surd" is a synonym for "unvoiced".
+    value: surd
+  - correct: false
+    detail: Incorrect, "obligato:noun" is not a synonym for "unvoiced".
+    value: obligato:noun
+  - correct: false
+    detail: Incorrect, "pplo:noun" is not a synonym for "unvoiced".
+    value: pplo:noun
+  - correct: false
+    detail: Incorrect, "adrenergic:adjective" is not a synonym for "unvoiced".
+    value: adrenergic:adjective
+  text: What is a synonym for "unvoiced"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Grecian" is a synonym for "greek".
+    value: Hellenic
+  - correct: false
+    detail: Incorrect, "aleurites:noun" is not a synonym for "greek".
+    value: aleurites:noun
+  - correct: false
+    detail: Incorrect, "fille:noun" is not a synonym for "greek".
+    value: fille:noun
+  - correct: false
+    detail: Incorrect, "fuel indicator:noun" is not a synonym for "greek".
+    value: fuel indicator:noun
+  text: What is a synonym for "greek"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "jolting" is a synonym for "bumpy".
+    value: jolting
+  - correct: false
+    detail: Incorrect, "semisoft:satellite" is not a synonym for "bumpy".
+    value: semisoft:satellite
+  - correct: false
+    detail: Incorrect, "silent person:noun" is not a synonym for "bumpy".
+    value: silent person:noun
+  - correct: false
+    detail: Incorrect, "consolingly:adverb" is not a synonym for "bumpy".
+    value: consolingly:adverb
+  text: What is a synonym for "bumpy"?

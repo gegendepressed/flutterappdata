@@ -1,0 +1,13 @@
+id: verb
+img: verb.png
+quizzes:
+- description: Synonyms for Verb (Easy)
+  id: verb-easy
+  title: Verb - Easy
+- description: Synonyms for Verb (Medium)
+  id: verb-medium
+  title: Verb - Medium
+- description: Synonyms for Verb (Hard)
+  id: verb-hard
+  title: Verb - Hard
+title: Verb Synonyms

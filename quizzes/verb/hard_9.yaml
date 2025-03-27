@@ -1,0 +1,302 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "have" is a synonym for "have got".
+    value: hold
+  - correct: false
+    detail: Incorrect, "goby:noun" is not a synonym for "have got".
+    value: goby:noun
+  - correct: false
+    detail: Incorrect, "hug drug:noun" is not a synonym for "have got".
+    value: hug drug:noun
+  - correct: false
+    detail: Incorrect, "pan american union:noun" is not a synonym for "have got".
+    value: pan american union:noun
+  text: What is a synonym for "have got"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "run down" is a synonym for "glance over".
+    value: scan
+  - correct: false
+    detail: Incorrect, "stay away:verb" is not a synonym for "glance over".
+    value: stay away:verb
+  - correct: false
+    detail: Incorrect, "behavioural:adjective" is not a synonym for "glance over".
+    value: behavioural:adjective
+  - correct: false
+    detail: Incorrect, "empowerment:noun" is not a synonym for "glance over".
+    value: empowerment:noun
+  text: What is a synonym for "glance over"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "mercerise" is a synonym for "mercerized".
+    value: mercerize
+  - correct: false
+    detail: Incorrect, "panicum virgatum:noun" is not a synonym for "mercerized".
+    value: panicum virgatum:noun
+  - correct: false
+    detail: Incorrect, "frankincense:noun" is not a synonym for "mercerized".
+    value: frankincense:noun
+  - correct: false
+    detail: Incorrect, "forces of umar al-mukhtar:noun" is not a synonym for "mercerized".
+    value: forces of umar al-mukhtar:noun
+  text: What is a synonym for "mercerized"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Americanise" is a synonym for "americanize".
+    value: Americanize
+  - correct: false
+    detail: Incorrect, "bachelor of arts in nursing:noun" is not a synonym for "americanize".
+    value: bachelor of arts in nursing:noun
+  - correct: false
+    detail: Incorrect, "sliding keel:noun" is not a synonym for "americanize".
+    value: sliding keel:noun
+  - correct: false
+    detail: Incorrect, "cool:satellite" is not a synonym for "americanize".
+    value: cool:satellite
+  text: What is a synonym for "americanize"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "abound|abound" is a synonym for "abounding".
+    value: abound|abound
+  - correct: false
+    detail: Incorrect, "imu:noun" is not a synonym for "abounding".
+    value: imu:noun
+  - correct: false
+    detail: Incorrect, "stargazing:verb" is not a synonym for "abounding".
+    value: stargazing:verb
+  - correct: false
+    detail: Incorrect, "broom beard grass:noun" is not a synonym for "abounding".
+    value: broom beard grass:noun
+  text: What is a synonym for "abounding"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "indulge|gratify" is a synonym for "indulging".
+    value: cocker
+  - correct: false
+    detail: Incorrect, "negotiation:noun" is not a synonym for "indulging".
+    value: negotiation:noun
+  - correct: false
+    detail: Incorrect, "international development association:noun" is not a synonym
+      for "indulging".
+    value: international development association:noun
+  - correct: false
+    detail: Incorrect, "surviving:verb" is not a synonym for "indulging".
+    value: surviving:verb
+  text: What is a synonym for "indulging"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "guide" is a synonym for "guide on".
+    value: guide
+  - correct: false
+    detail: Incorrect, "peter seeger:noun" is not a synonym for "guide on".
+    value: peter seeger:noun
+  - correct: false
+    detail: Incorrect, "wise:satellite" is not a synonym for "guide on".
+    value: wise:satellite
+  - correct: false
+    detail: Incorrect, "joseph haydn:noun" is not a synonym for "guide on".
+    value: joseph haydn:noun
+  text: What is a synonym for "guide on"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "readjust" is a synonym for "reset".
+    value: readjust
+  - correct: false
+    detail: Incorrect, "family pristidae:noun" is not a synonym for "reset".
+    value: family pristidae:noun
+  - correct: false
+    detail: Incorrect, "trick:verb" is not a synonym for "reset".
+    value: trick:verb
+  - correct: false
+    detail: Incorrect, "henri louis bergson:noun" is not a synonym for "reset".
+    value: henri louis bergson:noun
+  text: What is a synonym for "reset"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "plug|perforate" is a synonym for "punch".
+    value: plug|perforate
+  - correct: false
+    detail: Incorrect, "hotcake:noun" is not a synonym for "punch".
+    value: hotcake:noun
+  - correct: false
+    detail: Incorrect, "navy cross:noun" is not a synonym for "punch".
+    value: navy cross:noun
+  - correct: false
+    detail: Incorrect, "pent-up:satellite" is not a synonym for "punch".
+    value: pent-up:satellite
+  text: What is a synonym for "punch"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "generalize" is a synonym for "vulgarize".
+    value: generalise|vulgarise|vulgarise
+  - correct: false
+    detail: Incorrect, "adsorbate:adjective" is not a synonym for "vulgarize".
+    value: adsorbate:adjective
+  - correct: false
+    detail: Incorrect, "homologic:satellite" is not a synonym for "vulgarize".
+    value: homologic:satellite
+  - correct: false
+    detail: Incorrect, "factor xi:noun" is not a synonym for "vulgarize".
+    value: factor xi:noun
+  text: What is a synonym for "vulgarize"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "grain|impress" is a synonym for "ingrain".
+    value: instill
+  - correct: false
+    detail: Incorrect, "haunting:satellite" is not a synonym for "ingrain".
+    value: haunting:satellite
+  - correct: false
+    detail: Incorrect, "hock-joint:noun" is not a synonym for "ingrain".
+    value: hock-joint:noun
+  - correct: false
+    detail: Incorrect, "hegira:noun" is not a synonym for "ingrain".
+    value: hegira:noun
+  text: What is a synonym for "ingrain"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "forgo" is a synonym for "relinquished".
+    value: foreswear
+  - correct: false
+    detail: Incorrect, "inward:satellite" is not a synonym for "relinquished".
+    value: inward:satellite
+  - correct: false
+    detail: Incorrect, "irena:noun" is not a synonym for "relinquished".
+    value: irena:noun
+  - correct: false
+    detail: Incorrect, "centromere:noun" is not a synonym for "relinquished".
+    value: centromere:noun
+  text: What is a synonym for "relinquished"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "brainwash|brainwash" is a synonym for "brainwashed".
+    value: brainwash|brainwash
+  - correct: false
+    detail: Incorrect, "implode:verb" is not a synonym for "brainwashed".
+    value: implode:verb
+  - correct: false
+    detail: Incorrect, "genus episcia:noun" is not a synonym for "brainwashed".
+    value: genus episcia:noun
+  - correct: false
+    detail: Incorrect, "self-possession:noun" is not a synonym for "brainwashed".
+    value: self-possession:noun
+  text: What is a synonym for "brainwashed"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "take hold" is a synonym for "take charge".
+    value: take control
+  - correct: false
+    detail: Incorrect, "pistachio tree:noun" is not a synonym for "take charge".
+    value: pistachio tree:noun
+  - correct: false
+    detail: Incorrect, "wild calla:noun" is not a synonym for "take charge".
+    value: wild calla:noun
+  - correct: false
+    detail: Incorrect, "genus sobralia:noun" is not a synonym for "take charge".
+    value: genus sobralia:noun
+  text: What is a synonym for "take charge"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "girth" is a synonym for "cinch".
+    value: girth
+  - correct: false
+    detail: Incorrect, "crotalus mitchellii:noun" is not a synonym for "cinch".
+    value: crotalus mitchellii:noun
+  - correct: false
+    detail: Incorrect, "lemnos:noun" is not a synonym for "cinch".
+    value: lemnos:noun
+  - correct: false
+    detail: Incorrect, "resonating:satellite" is not a synonym for "cinch".
+    value: resonating:satellite
+  text: What is a synonym for "cinch"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "clock" is a synonym for "timing".
+    value: clock
+  - correct: false
+    detail: Incorrect, "crossway:noun" is not a synonym for "timing".
+    value: crossway:noun
+  - correct: false
+    detail: Incorrect, "schinus chichita:noun" is not a synonym for "timing".
+    value: schinus chichita:noun
+  - correct: false
+    detail: Incorrect, "u.s. house:noun" is not a synonym for "timing".
+    value: u.s. house:noun
+  text: What is a synonym for "timing"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "take charge" is a synonym for "take hold".
+    value: take control|hold
+  - correct: false
+    detail: Incorrect, "genus alligator:noun" is not a synonym for "take hold".
+    value: genus alligator:noun
+  - correct: false
+    detail: Incorrect, "canadian pondweed:noun" is not a synonym for "take hold".
+    value: canadian pondweed:noun
+  - correct: false
+    detail: Incorrect, "crotalus adamanteus:noun" is not a synonym for "take hold".
+    value: crotalus adamanteus:noun
+  text: What is a synonym for "take hold"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "inscribe" is a synonym for "autograph".
+    value: inscribe
+  - correct: false
+    detail: Incorrect, "therapeutic:adjective" is not a synonym for "autograph".
+    value: therapeutic:adjective
+  - correct: false
+    detail: Incorrect, "sickish:satellite" is not a synonym for "autograph".
+    value: sickish:satellite
+  - correct: false
+    detail: Incorrect, "rejig:verb" is not a synonym for "autograph".
+    value: rejig:verb
+  text: What is a synonym for "autograph"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "paganize" is a synonym for "paganise".
+    value: paganize
+  - correct: false
+    detail: Incorrect, "sawwort:noun" is not a synonym for "paganise".
+    value: sawwort:noun
+  - correct: false
+    detail: Incorrect, "colic:noun" is not a synonym for "paganise".
+    value: colic:noun
+  - correct: false
+    detail: Incorrect, "minsk:noun" is not a synonym for "paganise".
+    value: minsk:noun
+  text: What is a synonym for "paganise"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "process|serve" is a synonym for "processed".
+    value: swear out
+  - correct: false
+    detail: Incorrect, "tamoxifen:noun" is not a synonym for "processed".
+    value: tamoxifen:noun
+  - correct: false
+    detail: Incorrect, "dominican:noun" is not a synonym for "processed".
+    value: dominican:noun
+  - correct: false
+    detail: Incorrect, "ragwort:noun" is not a synonym for "processed".
+    value: ragwort:noun
+  text: What is a synonym for "processed"?

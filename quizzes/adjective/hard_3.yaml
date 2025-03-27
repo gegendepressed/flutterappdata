@@ -1,0 +1,303 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "taxable" is a synonym for "nonexempt".
+    value: taxable
+  - correct: false
+    detail: Incorrect, "ledger line:noun" is not a synonym for "nonexempt".
+    value: ledger line:noun
+  - correct: false
+    detail: Incorrect, "bonelet:noun" is not a synonym for "nonexempt".
+    value: bonelet:noun
+  - correct: false
+    detail: Incorrect, "detest:verb" is not a synonym for "nonexempt".
+    value: detest:verb
+  text: What is a synonym for "nonexempt"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "heedless" is a synonym for "unheeding".
+    value: heedless
+  - correct: false
+    detail: Incorrect, "agriculture secretary:noun" is not a synonym for "unheeding".
+    value: agriculture secretary:noun
+  - correct: false
+    detail: Incorrect, "order aepyorniformes:noun" is not a synonym for "unheeding".
+    value: order aepyorniformes:noun
+  - correct: false
+    detail: Incorrect, "well point:noun" is not a synonym for "unheeding".
+    value: well point:noun
+  text: What is a synonym for "unheeding"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "osteal|boney" is a synonym for "bony".
+    value: osteal|boney
+  - correct: false
+    detail: Incorrect, "encounter:noun" is not a synonym for "bony".
+    value: encounter:noun
+  - correct: false
+    detail: Incorrect, "planchet:noun" is not a synonym for "bony".
+    value: planchet:noun
+  - correct: false
+    detail: Incorrect, "graining:verb" is not a synonym for "bony".
+    value: graining:verb
+  text: What is a synonym for "bony"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "main" is a synonym for "independent".
+    value: main
+  - correct: false
+    detail: Incorrect, "apium graveolens rapaceum:noun" is not a synonym for "independent".
+    value: apium graveolens rapaceum:noun
+  - correct: false
+    detail: Incorrect, "unhappy:satellite" is not a synonym for "independent".
+    value: unhappy:satellite
+  - correct: false
+    detail: Incorrect, "genus makaira:noun" is not a synonym for "independent".
+    value: genus makaira:noun
+  text: What is a synonym for "independent"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Swedish" is a synonym for "swedish".
+    value: Swedish
+  - correct: false
+    detail: Incorrect, "black lovage:noun" is not a synonym for "swedish".
+    value: black lovage:noun
+  - correct: false
+    detail: Incorrect, "aldrovanda vesiculosa:noun" is not a synonym for "swedish".
+    value: aldrovanda vesiculosa:noun
+  - correct: false
+    detail: Incorrect, "daily:satellite" is not a synonym for "swedish".
+    value: daily:satellite
+  text: What is a synonym for "swedish"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "palmar" is a synonym for "volar".
+    value: palmar
+  - correct: false
+    detail: Incorrect, "plasmodial slime mold:noun" is not a synonym for "volar".
+    value: plasmodial slime mold:noun
+  - correct: false
+    detail: Incorrect, "crossbeam:noun" is not a synonym for "volar".
+    value: crossbeam:noun
+  - correct: false
+    detail: Incorrect, "insecure:satellite" is not a synonym for "volar".
+    value: insecure:satellite
+  text: What is a synonym for "volar"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Demotic" is a synonym for "demotic".
+    value: Demotic
+  - correct: false
+    detail: Incorrect, "double-dealing:noun" is not a synonym for "demotic".
+    value: double-dealing:noun
+  - correct: false
+    detail: Incorrect, "order cydippida:noun" is not a synonym for "demotic".
+    value: order cydippida:noun
+  - correct: false
+    detail: Incorrect, "sailplane:verb" is not a synonym for "demotic".
+    value: sailplane:verb
+  text: What is a synonym for "demotic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "phonetic" is a synonym for "phonic".
+    value: phonetic
+  - correct: false
+    detail: Incorrect, "palooka:noun" is not a synonym for "phonic".
+    value: palooka:noun
+  - correct: false
+    detail: Incorrect, "bits per second:noun" is not a synonym for "phonic".
+    value: bits per second:noun
+  - correct: false
+    detail: Incorrect, "gray alder:noun" is not a synonym for "phonic".
+    value: gray alder:noun
+  text: What is a synonym for "phonic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "slivery" is a synonym for "splintery".
+    value: slivery
+  - correct: false
+    detail: Incorrect, "microtus pennsylvaticus:noun" is not a synonym for "splintery".
+    value: microtus pennsylvaticus:noun
+  - correct: false
+    detail: Incorrect, "chess piece:noun" is not a synonym for "splintery".
+    value: chess piece:noun
+  - correct: false
+    detail: Incorrect, "riser:noun" is not a synonym for "splintery".
+    value: riser:noun
+  text: What is a synonym for "splintery"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "cubist" is a synonym for "cubistic".
+    value: cubist
+  - correct: false
+    detail: Incorrect, "congress gaiter:noun" is not a synonym for "cubistic".
+    value: congress gaiter:noun
+  - correct: false
+    detail: Incorrect, "appurtenant:satellite" is not a synonym for "cubistic".
+    value: appurtenant:satellite
+  - correct: false
+    detail: Incorrect, "canute:noun" is not a synonym for "cubistic".
+    value: canute:noun
+  text: What is a synonym for "cubistic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "atheromatic" is a synonym for "atheromatous".
+    value: atheromatic
+  - correct: false
+    detail: Incorrect, "acid halide:noun" is not a synonym for "atheromatous".
+    value: acid halide:noun
+  - correct: false
+    detail: Incorrect, "eriosoma lanigerum:noun" is not a synonym for "atheromatous".
+    value: eriosoma lanigerum:noun
+  - correct: false
+    detail: Incorrect, "rolled oats:noun" is not a synonym for "atheromatous".
+    value: rolled oats:noun
+  text: What is a synonym for "atheromatous"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "permissible" is a synonym for "allowable".
+    value: permissible
+  - correct: false
+    detail: Incorrect, "limousine:noun" is not a synonym for "allowable".
+    value: limousine:noun
+  - correct: false
+    detail: Incorrect, "gondola car:noun" is not a synonym for "allowable".
+    value: gondola car:noun
+  - correct: false
+    detail: Incorrect, "cut-and-dried:satellite" is not a synonym for "allowable".
+    value: cut-and-dried:satellite
+  text: What is a synonym for "allowable"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "disqualifying" is a synonym for "disabling".
+    value: disqualifying
+  - correct: false
+    detail: Incorrect, "agave tequilana:noun" is not a synonym for "disabling".
+    value: agave tequilana:noun
+  - correct: false
+    detail: Incorrect, "vitamin b2:noun" is not a synonym for "disabling".
+    value: vitamin b2:noun
+  - correct: false
+    detail: Incorrect, "teleostan:noun" is not a synonym for "disabling".
+    value: teleostan:noun
+  text: What is a synonym for "disabling"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "upland" is a synonym for "highlander".
+    value: upland
+  - correct: false
+    detail: Incorrect, "blattella:noun" is not a synonym for "highlander".
+    value: blattella:noun
+  - correct: false
+    detail: Incorrect, "tyrannize:verb" is not a synonym for "highlander".
+    value: tyrannize:verb
+  - correct: false
+    detail: Incorrect, "earreach:noun" is not a synonym for "highlander".
+    value: earreach:noun
+  text: What is a synonym for "highlander"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "reposeful" is a synonym for "restful".
+    value: reposeful
+  - correct: false
+    detail: Incorrect, "laocoon:noun" is not a synonym for "restful".
+    value: laocoon:noun
+  - correct: false
+    detail: Incorrect, "deer's-ear:noun" is not a synonym for "restful".
+    value: deer's-ear:noun
+  - correct: false
+    detail: Incorrect, "papoose:noun" is not a synonym for "restful".
+    value: papoose:noun
+  text: What is a synonym for "restful"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "lacertilian" is a synonym for "saurian".
+    value: lacertilian
+  - correct: false
+    detail: Incorrect, "necrobiosis lipoidica diabeticorum:noun" is not a synonym
+      for "saurian".
+    value: necrobiosis lipoidica diabeticorum:noun
+  - correct: false
+    detail: Incorrect, "ubiquitous:satellite" is not a synonym for "saurian".
+    value: ubiquitous:satellite
+  - correct: false
+    detail: Incorrect, "viii:noun" is not a synonym for "saurian".
+    value: viii:noun
+  text: What is a synonym for "saurian"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "endermatic" is a synonym for "endermic".
+    value: endermatic
+  - correct: false
+    detail: Incorrect, "passado:noun" is not a synonym for "endermic".
+    value: passado:noun
+  - correct: false
+    detail: Incorrect, "genus lucilia:noun" is not a synonym for "endermic".
+    value: genus lucilia:noun
+  - correct: false
+    detail: Incorrect, "idaho:noun" is not a synonym for "endermic".
+    value: idaho:noun
+  text: What is a synonym for "endermic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Javanese" is a synonym for "javanese".
+    value: Javanese
+  - correct: false
+    detail: Incorrect, "great wall:noun" is not a synonym for "javanese".
+    value: great wall:noun
+  - correct: false
+    detail: Incorrect, "cucurbita maxima turbaniformis:noun" is not a synonym for
+      "javanese".
+    value: cucurbita maxima turbaniformis:noun
+  - correct: false
+    detail: Incorrect, "potassium hydroxide:noun" is not a synonym for "javanese".
+    value: potassium hydroxide:noun
+  text: What is a synonym for "javanese"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "offensive" is a synonym for "dysphemistic".
+    value: offensive
+  - correct: false
+    detail: Incorrect, "non-resinous:satellite" is not a synonym for "dysphemistic".
+    value: non-resinous:satellite
+  - correct: false
+    detail: Incorrect, "squeezable:satellite" is not a synonym for "dysphemistic".
+    value: squeezable:satellite
+  - correct: false
+    detail: Incorrect, "organ of speech:noun" is not a synonym for "dysphemistic".
+    value: organ of speech:noun
+  text: What is a synonym for "dysphemistic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "genetic|genetic" is a synonym for "genetical".
+    value: genic
+  - correct: false
+    detail: Incorrect, "niobite:noun" is not a synonym for "genetical".
+    value: niobite:noun
+  - correct: false
+    detail: Incorrect, "significant other:noun" is not a synonym for "genetical".
+    value: significant other:noun
+  - correct: false
+    detail: Incorrect, "massachuset:noun" is not a synonym for "genetical".
+    value: massachuset:noun
+  text: What is a synonym for "genetical"?

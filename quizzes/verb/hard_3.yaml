@@ -1,0 +1,303 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "drone|drone" is a synonym for "droning".
+    value: drone|drone
+  - correct: false
+    detail: Incorrect, "genus cattleya:noun" is not a synonym for "droning".
+    value: genus cattleya:noun
+  - correct: false
+    detail: Incorrect, "surprisingly:adverb" is not a synonym for "droning".
+    value: surprisingly:adverb
+  - correct: false
+    detail: Incorrect, "genus aeonium:noun" is not a synonym for "droning".
+    value: genus aeonium:noun
+  text: What is a synonym for "droning"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hedge" is a synonym for "hedge in".
+    value: hedge
+  - correct: false
+    detail: Incorrect, "entreat:verb" is not a synonym for "hedge in".
+    value: entreat:verb
+  - correct: false
+    detail: Incorrect, "metricise:verb" is not a synonym for "hedge in".
+    value: metricise:verb
+  - correct: false
+    detail: Incorrect, "deoxidize:verb" is not a synonym for "hedge in".
+    value: deoxidize:verb
+  text: What is a synonym for "hedge in"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "weigh on|drag down" is a synonym for "weigh down".
+    value: press down on
+  - correct: false
+    detail: Incorrect, "whit leather:noun" is not a synonym for "weigh down".
+    value: whit leather:noun
+  - correct: false
+    detail: Incorrect, "rareness:noun" is not a synonym for "weigh down".
+    value: rareness:noun
+  - correct: false
+    detail: Incorrect, "army of muhammad:noun" is not a synonym for "weigh down".
+    value: army of muhammad:noun
+  text: What is a synonym for "weigh down"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "group|group" is a synonym for "grouping".
+    value: group|group
+  - correct: false
+    detail: Incorrect, "focal ratio:noun" is not a synonym for "grouping".
+    value: focal ratio:noun
+  - correct: false
+    detail: Incorrect, "ionic bond:noun" is not a synonym for "grouping".
+    value: ionic bond:noun
+  - correct: false
+    detail: Incorrect, "swoosh:verb" is not a synonym for "grouping".
+    value: swoosh:verb
+  text: What is a synonym for "grouping"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "transpose" is a synonym for "permute".
+    value: commute
+  - correct: false
+    detail: Incorrect, "naja:noun" is not a synonym for "permute".
+    value: naja:noun
+  - correct: false
+    detail: Incorrect, "second epistle to timothy:noun" is not a synonym for "permute".
+    value: second epistle to timothy:noun
+  - correct: false
+    detail: Incorrect, "camping ground:noun" is not a synonym for "permute".
+    value: camping ground:noun
+  text: What is a synonym for "permute"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "set ablaze" is a synonym for "set aflame".
+    value: set ablaze
+  - correct: false
+    detail: Incorrect, "calochortus amabilis:noun" is not a synonym for "set aflame".
+    value: calochortus amabilis:noun
+  - correct: false
+    detail: Incorrect, "gaius cornelius tacitus:noun" is not a synonym for "set aflame".
+    value: gaius cornelius tacitus:noun
+  - correct: false
+    detail: Incorrect, "postpartum:adjective" is not a synonym for "set aflame".
+    value: postpartum:adjective
+  text: What is a synonym for "set aflame"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "meet" is a synonym for "conform to".
+    value: fit|follow
+  - correct: false
+    detail: Incorrect, "myrica pensylvanica:noun" is not a synonym for "conform to".
+    value: myrica pensylvanica:noun
+  - correct: false
+    detail: Incorrect, "flatbottom:satellite" is not a synonym for "conform to".
+    value: flatbottom:satellite
+  - correct: false
+    detail: Incorrect, "fat:satellite" is not a synonym for "conform to".
+    value: fat:satellite
+  text: What is a synonym for "conform to"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "sandpaper" is a synonym for "sand".
+    value: sandpaper
+  - correct: false
+    detail: Incorrect, "defensive:satellite" is not a synonym for "sand".
+    value: defensive:satellite
+  - correct: false
+    detail: Incorrect, "mongolia:noun" is not a synonym for "sand".
+    value: mongolia:noun
+  - correct: false
+    detail: Incorrect, "hickey:noun" is not a synonym for "sand".
+    value: hickey:noun
+  text: What is a synonym for "sand"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "botch" is a synonym for "bollocks up".
+    value: foul up
+  - correct: false
+    detail: Incorrect, "yellow jasmine:noun" is not a synonym for "bollocks up".
+    value: yellow jasmine:noun
+  - correct: false
+    detail: Incorrect, "hypophosphorous acid:noun" is not a synonym for "bollocks
+      up".
+    value: hypophosphorous acid:noun
+  - correct: false
+    detail: Incorrect, "sukkoth:noun" is not a synonym for "bollocks up".
+    value: sukkoth:noun
+  text: What is a synonym for "bollocks up"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "pressure-wash" is a synonym for "powerwash".
+    value: pressure-wash
+  - correct: false
+    detail: Incorrect, "ameba:noun" is not a synonym for "powerwash".
+    value: ameba:noun
+  - correct: false
+    detail: Incorrect, "fenestella:noun" is not a synonym for "powerwash".
+    value: fenestella:noun
+  - correct: false
+    detail: Incorrect, "muhammadan calendar:noun" is not a synonym for "powerwash".
+    value: muhammadan calendar:noun
+  text: What is a synonym for "powerwash"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "swill" is a synonym for "swill down".
+    value: swill
+  - correct: false
+    detail: Incorrect, "order belemnoidea:noun" is not a synonym for "swill down".
+    value: order belemnoidea:noun
+  - correct: false
+    detail: Incorrect, "bed sheet:noun" is not a synonym for "swill down".
+    value: bed sheet:noun
+  - correct: false
+    detail: Incorrect, "black cottonwood:noun" is not a synonym for "swill down".
+    value: black cottonwood:noun
+  text: What is a synonym for "swill down"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "forswear" is a synonym for "forswearing".
+    value: retract
+  - correct: false
+    detail: Incorrect, "lewiston:noun" is not a synonym for "forswearing".
+    value: lewiston:noun
+  - correct: false
+    detail: Incorrect, "interbreeding:noun" is not a synonym for "forswearing".
+    value: interbreeding:noun
+  - correct: false
+    detail: Incorrect, "sciaenid:noun" is not a synonym for "forswearing".
+    value: sciaenid:noun
+  text: What is a synonym for "forswearing"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "allegorise|allegorise" is a synonym for "allegorize".
+    value: allegorise|allegorise
+  - correct: false
+    detail: Incorrect, "copra oil:noun" is not a synonym for "allegorize".
+    value: copra oil:noun
+  - correct: false
+    detail: Incorrect, "chatroom:noun" is not a synonym for "allegorize".
+    value: chatroom:noun
+  - correct: false
+    detail: Incorrect, "manna from heaven:noun" is not a synonym for "allegorize".
+    value: manna from heaven:noun
+  text: What is a synonym for "allegorize"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "homogenise|homogenise|homogenise" is a synonym for "homogenize".
+    value: homogenise|homogenise|homogenise
+  - correct: false
+    detail: Incorrect, "antediluvian:satellite" is not a synonym for "homogenize".
+    value: antediluvian:satellite
+  - correct: false
+    detail: Incorrect, "chieftaincy:noun" is not a synonym for "homogenize".
+    value: chieftaincy:noun
+  - correct: false
+    detail: Incorrect, "barbaric:satellite" is not a synonym for "homogenize".
+    value: barbaric:satellite
+  text: What is a synonym for "homogenize"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "shepherd|shepherd" is a synonym for "shepherdess".
+    value: shepherd|shepherd
+  - correct: false
+    detail: Incorrect, "punch in:verb" is not a synonym for "shepherdess".
+    value: punch in:verb
+  - correct: false
+    detail: Incorrect, "chukker:noun" is not a synonym for "shepherdess".
+    value: chukker:noun
+  - correct: false
+    detail: Incorrect, "favourite:noun" is not a synonym for "shepherdess".
+    value: favourite:noun
+  text: What is a synonym for "shepherdess"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "know what's what" is a synonym for "know the score".
+    value: be with it
+  - correct: false
+    detail: Incorrect, "tylenchus tritici:noun" is not a synonym for "know the score".
+    value: tylenchus tritici:noun
+  - correct: false
+    detail: Incorrect, "analphabetic:satellite" is not a synonym for "know the score".
+    value: analphabetic:satellite
+  - correct: false
+    detail: Incorrect, "mooch:noun" is not a synonym for "know the score".
+    value: mooch:noun
+  text: What is a synonym for "know the score"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "pasteurize" is a synonym for "pasteurized".
+    value: pasteurise
+  - correct: false
+    detail: Incorrect, "chamaeleo chamaeleon:noun" is not a synonym for "pasteurized".
+    value: chamaeleo chamaeleon:noun
+  - correct: false
+    detail: Incorrect, "thirty-second:satellite" is not a synonym for "pasteurized".
+    value: thirty-second:satellite
+  - correct: false
+    detail: Incorrect, "ratified:verb" is not a synonym for "pasteurized".
+    value: ratified:verb
+  text: What is a synonym for "pasteurized"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "lambast|underdress" is a synonym for "dress down".
+    value: remonstrate
+  - correct: false
+    detail: Incorrect, "chide:verb" is not a synonym for "dress down".
+    value: chide:verb
+  - correct: false
+    detail: Incorrect, "buff:noun" is not a synonym for "dress down".
+    value: buff:noun
+  - correct: false
+    detail: Incorrect, "conjunctival layer of eyelids:noun" is not a synonym for "dress
+      down".
+    value: conjunctival layer of eyelids:noun
+  text: What is a synonym for "dress down"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "arrogate" is a synonym for "lay claim".
+    value: arrogate
+  - correct: false
+    detail: Incorrect, "related to:adjective" is not a synonym for "lay claim".
+    value: related to:adjective
+  - correct: false
+    detail: Incorrect, "love-in-winter:noun" is not a synonym for "lay claim".
+    value: love-in-winter:noun
+  - correct: false
+    detail: Incorrect, "west point:noun" is not a synonym for "lay claim".
+    value: west point:noun
+  text: What is a synonym for "lay claim"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "specify" is a synonym for "particularise".
+    value: specialize
+  - correct: false
+    detail: Incorrect, "family anobiidae:noun" is not a synonym for "particularise".
+    value: family anobiidae:noun
+  - correct: false
+    detail: Incorrect, "achromatise:verb" is not a synonym for "particularise".
+    value: achromatise:verb
+  - correct: false
+    detail: Incorrect, "sepiidae:noun" is not a synonym for "particularise".
+    value: sepiidae:noun
+  text: What is a synonym for "particularise"?

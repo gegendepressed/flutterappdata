@@ -1,0 +1,304 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "uncut" is a synonym for "full-length".
+    value: uncut
+  - correct: false
+    detail: Incorrect, "norther:noun" is not a synonym for "full-length".
+    value: norther:noun
+  - correct: false
+    detail: Incorrect, "faulkner:noun" is not a synonym for "full-length".
+    value: faulkner:noun
+  - correct: false
+    detail: Incorrect, "baron friedrich wilhelm ludolf gerhard augustin von steuben:noun"
+      is not a synonym for "full-length".
+    value: baron friedrich wilhelm ludolf gerhard augustin von steuben:noun
+  text: What is a synonym for "full-length"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "shady" is a synonym for "louche".
+    value: shady
+  - correct: false
+    detail: Incorrect, "genus stenochlaena:noun" is not a synonym for "louche".
+    value: genus stenochlaena:noun
+  - correct: false
+    detail: Incorrect, "united states army special forces:noun" is not a synonym for
+      "louche".
+    value: united states army special forces:noun
+  - correct: false
+    detail: Incorrect, "tenable:satellite" is not a synonym for "louche".
+    value: tenable:satellite
+  text: What is a synonym for "louche"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "pasty" is a synonym for "pastelike".
+    value: pasty
+  - correct: false
+    detail: Incorrect, "israel:noun" is not a synonym for "pastelike".
+    value: israel:noun
+  - correct: false
+    detail: Incorrect, "telosporidia:noun" is not a synonym for "pastelike".
+    value: telosporidia:noun
+  - correct: false
+    detail: Incorrect, "invasion of iwo:noun" is not a synonym for "pastelike".
+    value: invasion of iwo:noun
+  text: What is a synonym for "pastelike"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "northbound" is a synonym for "northward".
+    value: northbound
+  - correct: false
+    detail: Incorrect, "scantness:noun" is not a synonym for "northward".
+    value: scantness:noun
+  - correct: false
+    detail: Incorrect, "any longer:adverb" is not a synonym for "northward".
+    value: any longer:adverb
+  - correct: false
+    detail: Incorrect, "lot:verb" is not a synonym for "northward".
+    value: lot:verb
+  text: What is a synonym for "northward"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hoydenish" is a synonym for "tomboyish".
+    value: hoydenish
+  - correct: false
+    detail: Incorrect, "phase transition:noun" is not a synonym for "tomboyish".
+    value: phase transition:noun
+  - correct: false
+    detail: Incorrect, "afghanistani:noun" is not a synonym for "tomboyish".
+    value: afghanistani:noun
+  - correct: false
+    detail: Incorrect, "capital of italy:noun" is not a synonym for "tomboyish".
+    value: capital of italy:noun
+  text: What is a synonym for "tomboyish"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "overlarge" is a synonym for "too large".
+    value: overlarge
+  - correct: false
+    detail: Incorrect, "revere:verb" is not a synonym for "too large".
+    value: revere:verb
+  - correct: false
+    detail: Incorrect, "simon legree:noun" is not a synonym for "too large".
+    value: simon legree:noun
+  - correct: false
+    detail: Incorrect, "amusive:satellite" is not a synonym for "too large".
+    value: amusive:satellite
+  text: What is a synonym for "too large"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unannounced" is a synonym for "unheralded".
+    value: unpredicted
+  - correct: false
+    detail: Incorrect, "gordon setter:noun" is not a synonym for "unheralded".
+    value: gordon setter:noun
+  - correct: false
+    detail: Incorrect, "macadamia ternifolia:noun" is not a synonym for "unheralded".
+    value: macadamia ternifolia:noun
+  - correct: false
+    detail: Incorrect, "kurt vonnegut:noun" is not a synonym for "unheralded".
+    value: kurt vonnegut:noun
+  text: What is a synonym for "unheralded"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "lxxx" is a synonym for "fourscore".
+    value: lxxx
+  - correct: false
+    detail: Incorrect, "dryopteridaceae:noun" is not a synonym for "fourscore".
+    value: dryopteridaceae:noun
+  - correct: false
+    detail: Incorrect, "prostitution:noun" is not a synonym for "fourscore".
+    value: prostitution:noun
+  - correct: false
+    detail: Incorrect, "squaw huckleberry:noun" is not a synonym for "fourscore".
+    value: squaw huckleberry:noun
+  text: What is a synonym for "fourscore"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "emblematic" is a synonym for "typic".
+    value: emblematic
+  - correct: false
+    detail: Incorrect, "tinsnips:noun" is not a synonym for "typic".
+    value: tinsnips:noun
+  - correct: false
+    detail: Incorrect, "secrecy:noun" is not a synonym for "typic".
+    value: secrecy:noun
+  - correct: false
+    detail: Incorrect, "bombycillidae:noun" is not a synonym for "typic".
+    value: bombycillidae:noun
+  text: What is a synonym for "typic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "40th" is a synonym for "fortieth".
+    value: 40th
+  - correct: false
+    detail: Incorrect, "insecure:satellite" is not a synonym for "fortieth".
+    value: insecure:satellite
+  - correct: false
+    detail: Incorrect, "robert mills:noun" is not a synonym for "fortieth".
+    value: robert mills:noun
+  - correct: false
+    detail: Incorrect, "richard e. smalley:noun" is not a synonym for "fortieth".
+    value: richard e. smalley:noun
+  text: What is a synonym for "fortieth"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "ix" is a synonym for "9".
+    value: ix
+  - correct: false
+    detail: Incorrect, "pterocarpus angolensis:noun" is not a synonym for "9".
+    value: pterocarpus angolensis:noun
+  - correct: false
+    detail: Incorrect, "beach plum bush:noun" is not a synonym for "9".
+    value: beach plum bush:noun
+  - correct: false
+    detail: Incorrect, "filet:noun" is not a synonym for "9".
+    value: filet:noun
+  text: What is a synonym for "9"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "infinite" is a synonym for "unnumbered".
+    value: unnumerable
+  - correct: false
+    detail: Incorrect, "standoffishness:noun" is not a synonym for "unnumbered".
+    value: standoffishness:noun
+  - correct: false
+    detail: Incorrect, "rumpelstiltskin:noun" is not a synonym for "unnumbered".
+    value: rumpelstiltskin:noun
+  - correct: false
+    detail: Incorrect, "scoring system:noun" is not a synonym for "unnumbered".
+    value: scoring system:noun
+  text: What is a synonym for "unnumbered"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "twenty-seventh" is a synonym for "27th".
+    value: twenty-seventh
+  - correct: false
+    detail: Incorrect, "white metal:noun" is not a synonym for "27th".
+    value: white metal:noun
+  - correct: false
+    detail: Incorrect, "balancing:noun" is not a synonym for "27th".
+    value: balancing:noun
+  - correct: false
+    detail: Incorrect, "run low:verb" is not a synonym for "27th".
+    value: run low:verb
+  text: What is a synonym for "27th"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "epochal" is a synonym for "epoch-making".
+    value: epochal
+  - correct: false
+    detail: Incorrect, "poisoning:verb" is not a synonym for "epoch-making".
+    value: poisoning:verb
+  - correct: false
+    detail: Incorrect, "draw:noun" is not a synonym for "epoch-making".
+    value: draw:noun
+  - correct: false
+    detail: Incorrect, "shindy:noun" is not a synonym for "epoch-making".
+    value: shindy:noun
+  text: What is a synonym for "epoch-making"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "straight-out|inexhaustible" is a synonym for "unlimited".
+    value: outright
+  - correct: false
+    detail: Incorrect, "anicius manlius severinus boethius:noun" is not a synonym
+      for "unlimited".
+    value: anicius manlius severinus boethius:noun
+  - correct: false
+    detail: Incorrect, "monroe:noun" is not a synonym for "unlimited".
+    value: monroe:noun
+  - correct: false
+    detail: Incorrect, "hyperthyroidism:noun" is not a synonym for "unlimited".
+    value: hyperthyroidism:noun
+  text: What is a synonym for "unlimited"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unhomogenised" is a synonym for "unhomogenized".
+    value: unhomogenised
+  - correct: false
+    detail: Incorrect, "mint:noun" is not a synonym for "unhomogenized".
+    value: mint:noun
+  - correct: false
+    detail: Incorrect, "sierra leone:noun" is not a synonym for "unhomogenized".
+    value: sierra leone:noun
+  - correct: false
+    detail: Incorrect, "saint edward the confessor:noun" is not a synonym for "unhomogenized".
+    value: saint edward the confessor:noun
+  text: What is a synonym for "unhomogenized"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "yellow-brown" is a synonym for "amber".
+    value: yellow-brown
+  - correct: false
+    detail: Incorrect, "pumice stone:noun" is not a synonym for "amber".
+    value: pumice stone:noun
+  - correct: false
+    detail: Incorrect, "wilbur wright:noun" is not a synonym for "amber".
+    value: wilbur wright:noun
+  - correct: false
+    detail: Incorrect, "isometric:satellite" is not a synonym for "amber".
+    value: isometric:satellite
+  text: What is a synonym for "amber"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "bromidic" is a synonym for "platitudinous".
+    value: bromidic
+  - correct: false
+    detail: Incorrect, "balsam willow:noun" is not a synonym for "platitudinous".
+    value: balsam willow:noun
+  - correct: false
+    detail: Incorrect, "thecodontia:noun" is not a synonym for "platitudinous".
+    value: thecodontia:noun
+  - correct: false
+    detail: Incorrect, "nemean games:noun" is not a synonym for "platitudinous".
+    value: nemean games:noun
+  text: What is a synonym for "platitudinous"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hasty" is a synonym for "overhasty".
+    value: precipitant
+  - correct: false
+    detail: Incorrect, "redact:noun" is not a synonym for "overhasty".
+    value: redact:noun
+  - correct: false
+    detail: Incorrect, "spleen:noun" is not a synonym for "overhasty".
+    value: spleen:noun
+  - correct: false
+    detail: Incorrect, "clanswoman:noun" is not a synonym for "overhasty".
+    value: clanswoman:noun
+  text: What is a synonym for "overhasty"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "sulfur-yellow" is a synonym for "sulphur-yellow".
+    value: sulfur-yellow
+  - correct: false
+    detail: Incorrect, "false garlic:noun" is not a synonym for "sulphur-yellow".
+    value: false garlic:noun
+  - correct: false
+    detail: Incorrect, "mount fuji:noun" is not a synonym for "sulphur-yellow".
+    value: mount fuji:noun
+  - correct: false
+    detail: Incorrect, "thirst for knowledge:noun" is not a synonym for "sulphur-yellow".
+    value: thirst for knowledge:noun
+  text: What is a synonym for "sulphur-yellow"?

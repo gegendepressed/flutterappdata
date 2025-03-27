@@ -1,0 +1,302 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "notification|tattle" is a synonym for "telling".
+    value: recounting|apprisal
+  - correct: false
+    detail: Incorrect, "meaning:verb" is not a synonym for "telling".
+    value: meaning:verb
+  - correct: false
+    detail: Incorrect, "albumen:noun" is not a synonym for "telling".
+    value: albumen:noun
+  - correct: false
+    detail: Incorrect, "myrrh tree:noun" is not a synonym for "telling".
+    value: myrrh tree:noun
+  text: What is a synonym for "telling"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "laborer" is a synonym for "labourer".
+    value: manual laborer
+  - correct: false
+    detail: Incorrect, "coelom:noun" is not a synonym for "labourer".
+    value: coelom:noun
+  - correct: false
+    detail: Incorrect, "erica jong:noun" is not a synonym for "labourer".
+    value: erica jong:noun
+  - correct: false
+    detail: Incorrect, "broca's center:noun" is not a synonym for "labourer".
+    value: broca's center:noun
+  text: What is a synonym for "labourer"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Euonymus atropurpureus|Acanthocybium solandri" is a synonym
+      for "wahoo".
+    value: strawberry bush
+  - correct: false
+    detail: Incorrect, "priam:noun" is not a synonym for "wahoo".
+    value: priam:noun
+  - correct: false
+    detail: Incorrect, "less:adverb" is not a synonym for "wahoo".
+    value: less:adverb
+  - correct: false
+    detail: Incorrect, "gari:noun" is not a synonym for "wahoo".
+    value: gari:noun
+  text: What is a synonym for "wahoo"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "beano" is a synonym for "keno".
+    value: bingo
+  - correct: false
+    detail: Incorrect, "flurbiprofen:noun" is not a synonym for "keno".
+    value: flurbiprofen:noun
+  - correct: false
+    detail: Incorrect, "incan:noun" is not a synonym for "keno".
+    value: incan:noun
+  - correct: false
+    detail: Incorrect, "climbing:verb" is not a synonym for "keno".
+    value: climbing:verb
+  text: What is a synonym for "keno"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Everglade State" is a synonym for "florida".
+    value: Sunshine State
+  - correct: false
+    detail: Incorrect, "outdated:satellite" is not a synonym for "florida".
+    value: outdated:satellite
+  - correct: false
+    detail: Incorrect, "lsd:noun" is not a synonym for "florida".
+    value: lsd:noun
+  - correct: false
+    detail: Incorrect, "leptoptilus dubius:noun" is not a synonym for "florida".
+    value: leptoptilus dubius:noun
+  text: What is a synonym for "florida"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "nigger" is a synonym for "coon".
+    value: ringtail
+  - correct: false
+    detail: Incorrect, "verdin:noun" is not a synonym for "coon".
+    value: verdin:noun
+  - correct: false
+    detail: Incorrect, "sinhala:noun" is not a synonym for "coon".
+    value: sinhala:noun
+  - correct: false
+    detail: Incorrect, "seal ring:noun" is not a synonym for "coon".
+    value: seal ring:noun
+  text: What is a synonym for "coon"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "policy change" is a synonym for "reversal".
+    value: volte-face
+  - correct: false
+    detail: Incorrect, "lawrence george durrell:noun" is not a synonym for "reversal".
+    value: lawrence george durrell:noun
+  - correct: false
+    detail: Incorrect, "genus aphrophora:noun" is not a synonym for "reversal".
+    value: genus aphrophora:noun
+  - correct: false
+    detail: Incorrect, "boundlessness:noun" is not a synonym for "reversal".
+    value: boundlessness:noun
+  text: What is a synonym for "reversal"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Naias" is a synonym for "najas".
+    value: genus Najas|Naja
+  - correct: false
+    detail: Incorrect, "pocket calculator:noun" is not a synonym for "najas".
+    value: pocket calculator:noun
+  - correct: false
+    detail: Incorrect, "genus carpodacus:noun" is not a synonym for "najas".
+    value: genus carpodacus:noun
+  - correct: false
+    detail: Incorrect, "phosphorous acid:noun" is not a synonym for "najas".
+    value: phosphorous acid:noun
+  text: What is a synonym for "najas"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "therapeutic" is a synonym for "curative".
+    value: therapeutic
+  - correct: false
+    detail: Incorrect, "asurbanipal:noun" is not a synonym for "curative".
+    value: asurbanipal:noun
+  - correct: false
+    detail: Incorrect, "luluabourg:noun" is not a synonym for "curative".
+    value: luluabourg:noun
+  - correct: false
+    detail: Incorrect, "jointed:verb" is not a synonym for "curative".
+    value: jointed:verb
+  text: What is a synonym for "curative"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "thud" is a synonym for "thump".
+    value: thud
+  - correct: false
+    detail: Incorrect, "here:noun" is not a synonym for "thump".
+    value: here:noun
+  - correct: false
+    detail: Incorrect, "acid:noun" is not a synonym for "thump".
+    value: acid:noun
+  - correct: false
+    detail: Incorrect, "faddily:adverb" is not a synonym for "thump".
+    value: faddily:adverb
+  text: What is a synonym for "thump"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "repugnance" is a synonym for "horror".
+    value: repulsion
+  - correct: false
+    detail: Incorrect, "minor-league team:noun" is not a synonym for "horror".
+    value: minor-league team:noun
+  - correct: false
+    detail: Incorrect, "perspex:noun" is not a synonym for "horror".
+    value: perspex:noun
+  - correct: false
+    detail: Incorrect, "polemonium viscosum:noun" is not a synonym for "horror".
+    value: polemonium viscosum:noun
+  text: What is a synonym for "horror"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "blushing mushroom" is a synonym for "blusher".
+    value: blushing mushroom
+  - correct: false
+    detail: Incorrect, "most:adverb" is not a synonym for "blusher".
+    value: most:adverb
+  - correct: false
+    detail: Incorrect, "churlishly:adverb" is not a synonym for "blusher".
+    value: churlishly:adverb
+  - correct: false
+    detail: Incorrect, "face saver:noun" is not a synonym for "blusher".
+    value: face saver:noun
+  text: What is a synonym for "blusher"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "squabble" is a synonym for "tiff".
+    value: pettifoggery
+  - correct: false
+    detail: Incorrect, "open-air marketplace:noun" is not a synonym for "tiff".
+    value: open-air marketplace:noun
+  - correct: false
+    detail: Incorrect, "leeward:noun" is not a synonym for "tiff".
+    value: leeward:noun
+  - correct: false
+    detail: Incorrect, "atacama trench:noun" is not a synonym for "tiff".
+    value: atacama trench:noun
+  text: What is a synonym for "tiff"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Central Standard Time" is a synonym for "cst".
+    value: CST
+  - correct: false
+    detail: Incorrect, "school of dentistry:noun" is not a synonym for "cst".
+    value: school of dentistry:noun
+  - correct: false
+    detail: Incorrect, "john l. lewis:noun" is not a synonym for "cst".
+    value: john l. lewis:noun
+  - correct: false
+    detail: Incorrect, "strong-scented:satellite" is not a synonym for "cst".
+    value: strong-scented:satellite
+  text: What is a synonym for "cst"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "European blackbird" is a synonym for "merl".
+    value: European blackbird
+  - correct: false
+    detail: Incorrect, "burr:verb" is not a synonym for "merl".
+    value: burr:verb
+  - correct: false
+    detail: Incorrect, "perseverance:noun" is not a synonym for "merl".
+    value: perseverance:noun
+  - correct: false
+    detail: Incorrect, "ctene:noun" is not a synonym for "merl".
+    value: ctene:noun
+  text: What is a synonym for "merl"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "meprobamate" is a synonym for "equanil".
+    value: meprobamate
+  - correct: false
+    detail: Incorrect, "look across:verb" is not a synonym for "equanil".
+    value: look across:verb
+  - correct: false
+    detail: Incorrect, "boston:noun" is not a synonym for "equanil".
+    value: boston:noun
+  - correct: false
+    detail: Incorrect, "matinee idol:noun" is not a synonym for "equanil".
+    value: matinee idol:noun
+  text: What is a synonym for "equanil"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "grazing land" is a synonym for "ley".
+    value: pasture
+  - correct: false
+    detail: Incorrect, "orectolobus:noun" is not a synonym for "ley".
+    value: orectolobus:noun
+  - correct: false
+    detail: Incorrect, "email:noun" is not a synonym for "ley".
+    value: email:noun
+  - correct: false
+    detail: Incorrect, "genus volvox:noun" is not a synonym for "ley".
+    value: genus volvox:noun
+  text: What is a synonym for "ley"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "troy weight|Troy" is a synonym for "troy".
+    value: Ilion
+  - correct: false
+    detail: Incorrect, "bionomical:adjective" is not a synonym for "troy".
+    value: bionomical:adjective
+  - correct: false
+    detail: Incorrect, "white-heart hickory:noun" is not a synonym for "troy".
+    value: white-heart hickory:noun
+  - correct: false
+    detail: Incorrect, "on that:adverb" is not a synonym for "troy".
+    value: on that:adverb
+  text: What is a synonym for "troy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "spouse" is a synonym for "partner".
+    value: married person
+  - correct: false
+    detail: Incorrect, "civet cat:noun" is not a synonym for "partner".
+    value: civet cat:noun
+  - correct: false
+    detail: Incorrect, "genus mentha:noun" is not a synonym for "partner".
+    value: genus mentha:noun
+  - correct: false
+    detail: Incorrect, "sprain:verb" is not a synonym for "partner".
+    value: sprain:verb
+  text: What is a synonym for "partner"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "Philip Michael Ondaatje" is a synonym for "ondaatje".
+    value: Michael Ondaatje
+  - correct: false
+    detail: Incorrect, "peaceableness:noun" is not a synonym for "ondaatje".
+    value: peaceableness:noun
+  - correct: false
+    detail: Incorrect, "solemnity of mary:noun" is not a synonym for "ondaatje".
+    value: solemnity of mary:noun
+  - correct: false
+    detail: Incorrect, "cat squirrel:noun" is not a synonym for "ondaatje".
+    value: cat squirrel:noun
+  text: What is a synonym for "ondaatje"?

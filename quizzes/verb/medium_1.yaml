@@ -1,0 +1,301 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "blurt out" is a synonym for "blurt".
+    value: blunder out
+  - correct: false
+    detail: Incorrect, "pozsony:noun" is not a synonym for "blurt".
+    value: pozsony:noun
+  - correct: false
+    detail: Incorrect, "confab:noun" is not a synonym for "blurt".
+    value: confab:noun
+  - correct: false
+    detail: Incorrect, "subaquatic:satellite" is not a synonym for "blurt".
+    value: subaquatic:satellite
+  text: What is a synonym for "blurt"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "bolt down" is a synonym for "toss off".
+    value: kill
+  - correct: false
+    detail: Incorrect, "plant hopper:noun" is not a synonym for "toss off".
+    value: plant hopper:noun
+  - correct: false
+    detail: Incorrect, "european perch:noun" is not a synonym for "toss off".
+    value: european perch:noun
+  - correct: false
+    detail: Incorrect, "lauryl alcohol:noun" is not a synonym for "toss off".
+    value: lauryl alcohol:noun
+  text: What is a synonym for "toss off"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "misuse" is a synonym for "misused".
+    value: misuse|pervert
+  - correct: false
+    detail: Incorrect, "silver lining:noun" is not a synonym for "misused".
+    value: silver lining:noun
+  - correct: false
+    detail: Incorrect, "plagianthus betulinus:noun" is not a synonym for "misused".
+    value: plagianthus betulinus:noun
+  - correct: false
+    detail: Incorrect, "fatherly:satellite" is not a synonym for "misused".
+    value: fatherly:satellite
+  text: What is a synonym for "misused"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "dissociate" is a synonym for "divorced".
+    value: split up
+  - correct: false
+    detail: Incorrect, "ethelred i:noun" is not a synonym for "divorced".
+    value: ethelred i:noun
+  - correct: false
+    detail: Incorrect, "carpathian mountains:noun" is not a synonym for "divorced".
+    value: carpathian mountains:noun
+  - correct: false
+    detail: Incorrect, "shakiness:noun" is not a synonym for "divorced".
+    value: shakiness:noun
+  text: What is a synonym for "divorced"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "outmatch" is a synonym for "outstrip".
+    value: surpass
+  - correct: false
+    detail: Incorrect, "rankin:noun" is not a synonym for "outstrip".
+    value: rankin:noun
+  - correct: false
+    detail: Incorrect, "genus lophosoria:noun" is not a synonym for "outstrip".
+    value: genus lophosoria:noun
+  - correct: false
+    detail: Incorrect, "slap:adverb" is not a synonym for "outstrip".
+    value: slap:adverb
+  text: What is a synonym for "outstrip"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "whack" is a synonym for "wallop".
+    value: whack
+  - correct: false
+    detail: Incorrect, "ponderous:satellite" is not a synonym for "wallop".
+    value: ponderous:satellite
+  - correct: false
+    detail: Incorrect, "pouf:noun" is not a synonym for "wallop".
+    value: pouf:noun
+  - correct: false
+    detail: Incorrect, "depicted:satellite" is not a synonym for "wallop".
+    value: depicted:satellite
+  text: What is a synonym for "wallop"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fend off" is a synonym for "forefend".
+    value: forfend
+  - correct: false
+    detail: Incorrect, "linear measure:noun" is not a synonym for "forefend".
+    value: linear measure:noun
+  - correct: false
+    detail: Incorrect, "downheartedness:noun" is not a synonym for "forefend".
+    value: downheartedness:noun
+  - correct: false
+    detail: Incorrect, "electric glow:noun" is not a synonym for "forefend".
+    value: electric glow:noun
+  text: What is a synonym for "forefend"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "imbibe|booze" is a synonym for "drink".
+    value: salute
+  - correct: false
+    detail: Incorrect, "sophora sinensis:noun" is not a synonym for "drink".
+    value: sophora sinensis:noun
+  - correct: false
+    detail: Incorrect, "verbosity:noun" is not a synonym for "drink".
+    value: verbosity:noun
+  - correct: false
+    detail: Incorrect, "sovereign:noun" is not a synonym for "drink".
+    value: sovereign:noun
+  text: What is a synonym for "drink"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "hunt" is a synonym for "tracing".
+    value: delineate|trace
+  - correct: false
+    detail: Incorrect, "parlormaid:noun" is not a synonym for "tracing".
+    value: parlormaid:noun
+  - correct: false
+    detail: Incorrect, "pureness:noun" is not a synonym for "tracing".
+    value: pureness:noun
+  - correct: false
+    detail: Incorrect, "passenger vehicle:noun" is not a synonym for "tracing".
+    value: passenger vehicle:noun
+  text: What is a synonym for "tracing"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "clink|tinkle" is a synonym for "clinking".
+    value: tink
+  - correct: false
+    detail: Incorrect, "wandering nerve:noun" is not a synonym for "clinking".
+    value: wandering nerve:noun
+  - correct: false
+    detail: Incorrect, "hamartia:noun" is not a synonym for "clinking".
+    value: hamartia:noun
+  - correct: false
+    detail: Incorrect, "naval forces:noun" is not a synonym for "clinking".
+    value: naval forces:noun
+  text: What is a synonym for "clinking"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "speed" is a synonym for "hie".
+    value: race
+  - correct: false
+    detail: Incorrect, "griever:noun" is not a synonym for "hie".
+    value: griever:noun
+  - correct: false
+    detail: Incorrect, "brama:noun" is not a synonym for "hie".
+    value: brama:noun
+  - correct: false
+    detail: Incorrect, "hyperdactyly:noun" is not a synonym for "hie".
+    value: hyperdactyly:noun
+  text: What is a synonym for "hie"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "fasten on" is a synonym for "latch on".
+    value: seize on|catch on
+  - correct: false
+    detail: Incorrect, "thrombocyte:noun" is not a synonym for "latch on".
+    value: thrombocyte:noun
+  - correct: false
+    detail: Incorrect, "genus monotropa:noun" is not a synonym for "latch on".
+    value: genus monotropa:noun
+  - correct: false
+    detail: Incorrect, "bird-on-the-wing:noun" is not a synonym for "latch on".
+    value: bird-on-the-wing:noun
+  text: What is a synonym for "latch on"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "skip" is a synonym for "hops".
+    value: hop-skip|hop|hop|hop|hop|hop
+  - correct: false
+    detail: Incorrect, "benzoin odoriferum:noun" is not a synonym for "hops".
+    value: benzoin odoriferum:noun
+  - correct: false
+    detail: Incorrect, "class ascidiaceae:noun" is not a synonym for "hops".
+    value: class ascidiaceae:noun
+  - correct: false
+    detail: Incorrect, "dead on target:satellite" is not a synonym for "hops".
+    value: dead on target:satellite
+  text: What is a synonym for "hops"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "dress" is a synonym for "primp".
+    value: preen
+  - correct: false
+    detail: Incorrect, "okay:noun" is not a synonym for "primp".
+    value: okay:noun
+  - correct: false
+    detail: Incorrect, "entrails:noun" is not a synonym for "primp".
+    value: entrails:noun
+  - correct: false
+    detail: Incorrect, "crangon:noun" is not a synonym for "primp".
+    value: crangon:noun
+  text: What is a synonym for "primp"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "yap away" is a synonym for "yack".
+    value: yap away
+  - correct: false
+    detail: Incorrect, "chromatographic:adjective" is not a synonym for "yack".
+    value: chromatographic:adjective
+  - correct: false
+    detail: Incorrect, "incomparable:adjective" is not a synonym for "yack".
+    value: incomparable:adjective
+  - correct: false
+    detail: Incorrect, "earth-god:noun" is not a synonym for "yack".
+    value: earth-god:noun
+  text: What is a synonym for "yack"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "apprehend" is a synonym for "savvy".
+    value: grasp
+  - correct: false
+    detail: Incorrect, "richard starkey:noun" is not a synonym for "savvy".
+    value: richard starkey:noun
+  - correct: false
+    detail: Incorrect, "hospitalization insurance:noun" is not a synonym for "savvy".
+    value: hospitalization insurance:noun
+  - correct: false
+    detail: Incorrect, "socratic irony:noun" is not a synonym for "savvy".
+    value: socratic irony:noun
+  text: What is a synonym for "savvy"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "break|unwrap" is a synonym for "broke".
+    value: give out
+  - correct: false
+    detail: Incorrect, "genus tetrahymena:noun" is not a synonym for "broke".
+    value: genus tetrahymena:noun
+  - correct: false
+    detail: Incorrect, "kastler:noun" is not a synonym for "broke".
+    value: kastler:noun
+  - correct: false
+    detail: Incorrect, "contumely:noun" is not a synonym for "broke".
+    value: contumely:noun
+  text: What is a synonym for "broke"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "botch" is a synonym for "fuck up".
+    value: botch up
+  - correct: false
+    detail: Incorrect, "uncle remus:noun" is not a synonym for "fuck up".
+    value: uncle remus:noun
+  - correct: false
+    detail: Incorrect, "sulphurette:verb" is not a synonym for "fuck up".
+    value: sulphurette:verb
+  - correct: false
+    detail: Incorrect, "gramineae:noun" is not a synonym for "fuck up".
+    value: gramineae:noun
+  text: What is a synonym for "fuck up"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "decide" is a synonym for "deciding".
+    value: adjudicate|decide|decide
+  - correct: false
+    detail: Incorrect, "hotelier:noun" is not a synonym for "deciding".
+    value: hotelier:noun
+  - correct: false
+    detail: Incorrect, "grossness:noun" is not a synonym for "deciding".
+    value: grossness:noun
+  - correct: false
+    detail: Incorrect, "cauline:adjective" is not a synonym for "deciding".
+    value: cauline:adjective
+  text: What is a synonym for "deciding"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "phlebotomise|bleed|run" is a synonym for "bleeding".
+    value: bleed
+  - correct: false
+    detail: Incorrect, "attenuated:satellite" is not a synonym for "bleeding".
+    value: attenuated:satellite
+  - correct: false
+    detail: Incorrect, "odor:noun" is not a synonym for "bleeding".
+    value: odor:noun
+  - correct: false
+    detail: Incorrect, "lee trevino:noun" is not a synonym for "bleeding".
+    value: lee trevino:noun
+  text: What is a synonym for "bleeding"?

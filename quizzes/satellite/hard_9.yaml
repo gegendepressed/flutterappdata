@@ -1,0 +1,301 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hasty" is a synonym for "precipitant".
+    value: overhasty
+  - correct: false
+    detail: Incorrect, "plummet:verb" is not a synonym for "precipitant".
+    value: plummet:verb
+  - correct: false
+    detail: Incorrect, "orycteropus:noun" is not a synonym for "precipitant".
+    value: orycteropus:noun
+  - correct: false
+    detail: Incorrect, "irate:satellite" is not a synonym for "precipitant".
+    value: irate:satellite
+  text: What is a synonym for "precipitant"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "red-brown" is a synonym for "reddish-brown".
+    value: red-brown
+  - correct: false
+    detail: Incorrect, "inefficacy:noun" is not a synonym for "reddish-brown".
+    value: inefficacy:noun
+  - correct: false
+    detail: Incorrect, "device driver:noun" is not a synonym for "reddish-brown".
+    value: device driver:noun
+  - correct: false
+    detail: Incorrect, "park:noun" is not a synonym for "reddish-brown".
+    value: park:noun
+  text: What is a synonym for "reddish-brown"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "bastardized" is a synonym for "bastardised".
+    value: bastardized
+  - correct: false
+    detail: Incorrect, "try on:verb" is not a synonym for "bastardised".
+    value: try on:verb
+  - correct: false
+    detail: Incorrect, "federate:satellite" is not a synonym for "bastardised".
+    value: federate:satellite
+  - correct: false
+    detail: Incorrect, "temporary removal:noun" is not a synonym for "bastardised".
+    value: temporary removal:noun
+  text: What is a synonym for "bastardised"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "countrywide" is a synonym for "nationwide".
+    value: countrywide
+  - correct: false
+    detail: Incorrect, "kraut:noun" is not a synonym for "nationwide".
+    value: kraut:noun
+  - correct: false
+    detail: Incorrect, "inflater:noun" is not a synonym for "nationwide".
+    value: inflater:noun
+  - correct: false
+    detail: Incorrect, "leadwort family:noun" is not a synonym for "nationwide".
+    value: leadwort family:noun
+  text: What is a synonym for "nationwide"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "chestnut-coloured" is a synonym for "chestnut-colored".
+    value: chestnut-coloured
+  - correct: false
+    detail: Incorrect, "marten:noun" is not a synonym for "chestnut-colored".
+    value: marten:noun
+  - correct: false
+    detail: Incorrect, "teal:noun" is not a synonym for "chestnut-colored".
+    value: teal:noun
+  - correct: false
+    detail: Incorrect, "bartolome esteban murillo:noun" is not a synonym for "chestnut-colored".
+    value: bartolome esteban murillo:noun
+  text: What is a synonym for "chestnut-colored"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "pedantic" is a synonym for "academic".
+    value: pedantic
+  - correct: false
+    detail: Incorrect, "family lasiocampidae:noun" is not a synonym for "academic".
+    value: family lasiocampidae:noun
+  - correct: false
+    detail: Incorrect, "radioactivity:noun" is not a synonym for "academic".
+    value: radioactivity:noun
+  - correct: false
+    detail: Incorrect, "guadalupe fur seal:noun" is not a synonym for "academic".
+    value: guadalupe fur seal:noun
+  text: What is a synonym for "academic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "left-handed" is a synonym for "levorotary".
+    value: left-handed
+  - correct: false
+    detail: Incorrect, "well-off:satellite" is not a synonym for "levorotary".
+    value: well-off:satellite
+  - correct: false
+    detail: Incorrect, "desensitisation technique:noun" is not a synonym for "levorotary".
+    value: desensitisation technique:noun
+  - correct: false
+    detail: Incorrect, "aetiologic:adjective" is not a synonym for "levorotary".
+    value: aetiologic:adjective
+  text: What is a synonym for "levorotary"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "one-person" is a synonym for "one-man".
+    value: one-person
+  - correct: false
+    detail: Incorrect, "stink:noun" is not a synonym for "one-man".
+    value: stink:noun
+  - correct: false
+    detail: Incorrect, "butterbean:noun" is not a synonym for "one-man".
+    value: butterbean:noun
+  - correct: false
+    detail: Incorrect, "tzetze:noun" is not a synonym for "one-man".
+    value: tzetze:noun
+  text: What is a synonym for "one-man"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "reddish-striped" is a synonym for "red-striped".
+    value: reddish-striped
+  - correct: false
+    detail: Incorrect, "haile selassie:noun" is not a synonym for "red-striped".
+    value: haile selassie:noun
+  - correct: false
+    detail: Incorrect, "gershwin:noun" is not a synonym for "red-striped".
+    value: gershwin:noun
+  - correct: false
+    detail: Incorrect, "edward vincent sullivan:noun" is not a synonym for "red-striped".
+    value: edward vincent sullivan:noun
+  text: What is a synonym for "red-striped"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "inviolable" is a synonym for "sacrosanct".
+    value: inviolable
+  - correct: false
+    detail: Incorrect, "at rest:satellite" is not a synonym for "sacrosanct".
+    value: at rest:satellite
+  - correct: false
+    detail: Incorrect, "misappropriated:satellite" is not a synonym for "sacrosanct".
+    value: misappropriated:satellite
+  - correct: false
+    detail: Incorrect, "suffocate:verb" is not a synonym for "sacrosanct".
+    value: suffocate:verb
+  text: What is a synonym for "sacrosanct"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "watery" is a synonym for "reeking".
+    value: watery
+  - correct: false
+    detail: Incorrect, "kylie:noun" is not a synonym for "reeking".
+    value: kylie:noun
+  - correct: false
+    detail: Incorrect, "trialeurodes:noun" is not a synonym for "reeking".
+    value: trialeurodes:noun
+  - correct: false
+    detail: Incorrect, "bruno walter:noun" is not a synonym for "reeking".
+    value: bruno walter:noun
+  text: What is a synonym for "reeking"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "dismantled" is a synonym for "razed".
+    value: dismantled
+  - correct: false
+    detail: Incorrect, "style:verb" is not a synonym for "razed".
+    value: style:verb
+  - correct: false
+    detail: Incorrect, "craftiness:noun" is not a synonym for "razed".
+    value: craftiness:noun
+  - correct: false
+    detail: Incorrect, "comb-plate:noun" is not a synonym for "razed".
+    value: comb-plate:noun
+  text: What is a synonym for "razed"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "deep" is a synonym for "cryptical".
+    value: qabalistic
+  - correct: false
+    detail: Incorrect, "extinction angle:noun" is not a synonym for "cryptical".
+    value: extinction angle:noun
+  - correct: false
+    detail: Incorrect, "converse:verb" is not a synonym for "cryptical".
+    value: converse:verb
+  - correct: false
+    detail: Incorrect, "elbowing:verb" is not a synonym for "cryptical".
+    value: elbowing:verb
+  text: What is a synonym for "cryptical"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "bit-by-bit" is a synonym for "step-by-step".
+    value: piecemeal
+  - correct: false
+    detail: Incorrect, "ionia:noun" is not a synonym for "step-by-step".
+    value: ionia:noun
+  - correct: false
+    detail: Incorrect, "lady's-eardrop:noun" is not a synonym for "step-by-step".
+    value: lady's-eardrop:noun
+  - correct: false
+    detail: Incorrect, "brown swiss:noun" is not a synonym for "step-by-step".
+    value: brown swiss:noun
+  text: What is a synonym for "step-by-step"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "advancing" is a synonym for "forward-moving".
+    value: forward
+  - correct: false
+    detail: Incorrect, "battlefront:noun" is not a synonym for "forward-moving".
+    value: battlefront:noun
+  - correct: false
+    detail: Incorrect, "dayton:noun" is not a synonym for "forward-moving".
+    value: dayton:noun
+  - correct: false
+    detail: Incorrect, "castled:verb" is not a synonym for "forward-moving".
+    value: castled:verb
+  text: What is a synonym for "forward-moving"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "ravenous" is a synonym for "sharp-set".
+    value: famished
+  - correct: false
+    detail: Incorrect, "crowned head:noun" is not a synonym for "sharp-set".
+    value: crowned head:noun
+  - correct: false
+    detail: Incorrect, "stylize:verb" is not a synonym for "sharp-set".
+    value: stylize:verb
+  - correct: false
+    detail: Incorrect, "fluvastatin:noun" is not a synonym for "sharp-set".
+    value: fluvastatin:noun
+  text: What is a synonym for "sharp-set"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "prospicient" is a synonym for "foresighted".
+    value: farseeing
+  - correct: false
+    detail: Incorrect, "la plata:noun" is not a synonym for "foresighted".
+    value: la plata:noun
+  - correct: false
+    detail: Incorrect, "amazing:satellite" is not a synonym for "foresighted".
+    value: amazing:satellite
+  - correct: false
+    detail: Incorrect, "maxwell's demon:noun" is not a synonym for "foresighted".
+    value: maxwell's demon:noun
+  text: What is a synonym for "foresighted"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "cadent" is a synonym for "cadenced".
+    value: cadent
+  - correct: false
+    detail: Incorrect, "pseudacris:noun" is not a synonym for "cadenced".
+    value: pseudacris:noun
+  - correct: false
+    detail: Incorrect, "basket ash:noun" is not a synonym for "cadenced".
+    value: basket ash:noun
+  - correct: false
+    detail: Incorrect, "homing pigeon:noun" is not a synonym for "cadenced".
+    value: homing pigeon:noun
+  text: What is a synonym for "cadenced"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "new" is a synonym for "unexampled".
+    value: new
+  - correct: false
+    detail: Incorrect, "magnoliopsid family:noun" is not a synonym for "unexampled".
+    value: magnoliopsid family:noun
+  - correct: false
+    detail: Incorrect, "unraveler:noun" is not a synonym for "unexampled".
+    value: unraveler:noun
+  - correct: false
+    detail: Incorrect, "sick benefit:noun" is not a synonym for "unexampled".
+    value: sick benefit:noun
+  text: What is a synonym for "unexampled"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "ebony" is a synonym for "ebon".
+    value: ebony
+  - correct: false
+    detail: Incorrect, "bossy:satellite" is not a synonym for "ebon".
+    value: bossy:satellite
+  - correct: false
+    detail: Incorrect, "aristocratic:satellite" is not a synonym for "ebon".
+    value: aristocratic:satellite
+  - correct: false
+    detail: Incorrect, "epitomize:verb" is not a synonym for "ebon".
+    value: epitomize:verb
+  text: What is a synonym for "ebon"?

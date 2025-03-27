@@ -1,0 +1,301 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "societal" is a synonym for "social".
+    value: societal
+  - correct: false
+    detail: Incorrect, "revise:noun" is not a synonym for "social".
+    value: revise:noun
+  - correct: false
+    detail: Incorrect, "vulgarly:adverb" is not a synonym for "social".
+    value: vulgarly:adverb
+  - correct: false
+    detail: Incorrect, "viands:noun" is not a synonym for "social".
+    value: viands:noun
+  text: What is a synonym for "social"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "pictural" is a synonym for "pictorial".
+    value: pictural
+  - correct: false
+    detail: Incorrect, "off-line operation:noun" is not a synonym for "pictorial".
+    value: off-line operation:noun
+  - correct: false
+    detail: Incorrect, "rate of respiration:noun" is not a synonym for "pictorial".
+    value: rate of respiration:noun
+  - correct: false
+    detail: Incorrect, "unengaged:satellite" is not a synonym for "pictorial".
+    value: unengaged:satellite
+  text: What is a synonym for "pictorial"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "classical" is a synonym for "classic".
+    value: classical
+  - correct: false
+    detail: Incorrect, "phylum ctenophora:noun" is not a synonym for "classic".
+    value: phylum ctenophora:noun
+  - correct: false
+    detail: Incorrect, "groenlandia:noun" is not a synonym for "classic".
+    value: groenlandia:noun
+  - correct: false
+    detail: Incorrect, "worm-eaten:satellite" is not a synonym for "classic".
+    value: worm-eaten:satellite
+  text: What is a synonym for "classic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "interlineal" is a synonym for "interlinear".
+    value: interlineal
+  - correct: false
+    detail: Incorrect, "bank:noun" is not a synonym for "interlinear".
+    value: bank:noun
+  - correct: false
+    detail: Incorrect, "birmingham:noun" is not a synonym for "interlinear".
+    value: birmingham:noun
+  - correct: false
+    detail: Incorrect, "degenerative joint disease:noun" is not a synonym for "interlinear".
+    value: degenerative joint disease:noun
+  text: What is a synonym for "interlinear"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "desensitizing" is a synonym for "desensitising".
+    value: desensitizing
+  - correct: false
+    detail: Incorrect, "termite:noun" is not a synonym for "desensitising".
+    value: termite:noun
+  - correct: false
+    detail: Incorrect, "chamaeleo oweni:noun" is not a synonym for "desensitising".
+    value: chamaeleo oweni:noun
+  - correct: false
+    detail: Incorrect, "vegetational:adjective" is not a synonym for "desensitising".
+    value: vegetational:adjective
+  text: What is a synonym for "desensitising"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "mithraic" is a synonym for "mithraistic".
+    value: mithraic
+  - correct: false
+    detail: Incorrect, "lawrence of arabia:noun" is not a synonym for "mithraistic".
+    value: lawrence of arabia:noun
+  - correct: false
+    detail: Incorrect, "order auriculariales:noun" is not a synonym for "mithraistic".
+    value: order auriculariales:noun
+  - correct: false
+    detail: Incorrect, "flavius theodosius:noun" is not a synonym for "mithraistic".
+    value: flavius theodosius:noun
+  text: What is a synonym for "mithraistic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "contented" is a synonym for "content".
+    value: contented
+  - correct: false
+    detail: Incorrect, "qin dynasty:noun" is not a synonym for "content".
+    value: qin dynasty:noun
+  - correct: false
+    detail: Incorrect, "strict:satellite" is not a synonym for "content".
+    value: strict:satellite
+  - correct: false
+    detail: Incorrect, "borago:noun" is not a synonym for "content".
+    value: borago:noun
+  text: What is a synonym for "content"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Russian Orthodox" is a synonym for "russian orthodox".
+    value: Orthodox
+  - correct: false
+    detail: Incorrect, "black-footed ferret:noun" is not a synonym for "russian orthodox".
+    value: black-footed ferret:noun
+  - correct: false
+    detail: Incorrect, "dusanbe:noun" is not a synonym for "russian orthodox".
+    value: dusanbe:noun
+  - correct: false
+    detail: Incorrect, "biaxate:adjective" is not a synonym for "russian orthodox".
+    value: biaxate:adjective
+  text: What is a synonym for "russian orthodox"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "wedge-shaped" is a synonym for "cuneiform".
+    value: wedge-shaped
+  - correct: false
+    detail: Incorrect, "artery of the penis bulb:noun" is not a synonym for "cuneiform".
+    value: artery of the penis bulb:noun
+  - correct: false
+    detail: Incorrect, "fluff up:verb" is not a synonym for "cuneiform".
+    value: fluff up:verb
+  - correct: false
+    detail: Incorrect, "pecos river:noun" is not a synonym for "cuneiform".
+    value: pecos river:noun
+  text: What is a synonym for "cuneiform"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "phyletic" is a synonym for "phylogenetic".
+    value: phyletic
+  - correct: false
+    detail: Incorrect, "family asteraceae:noun" is not a synonym for "phylogenetic".
+    value: family asteraceae:noun
+  - correct: false
+    detail: Incorrect, "lancelet:noun" is not a synonym for "phylogenetic".
+    value: lancelet:noun
+  - correct: false
+    detail: Incorrect, "enthrallingly:adverb" is not a synonym for "phylogenetic".
+    value: enthrallingly:adverb
+  text: What is a synonym for "phylogenetic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "traceable" is a synonym for "trackable".
+    value: traceable
+  - correct: false
+    detail: Incorrect, "in her own right:adverb" is not a synonym for "trackable".
+    value: in her own right:adverb
+  - correct: false
+    detail: Incorrect, "steinberg:noun" is not a synonym for "trackable".
+    value: steinberg:noun
+  - correct: false
+    detail: Incorrect, "dy:noun" is not a synonym for "trackable".
+    value: dy:noun
+  text: What is a synonym for "trackable"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "desirous" is a synonym for "wishful".
+    value: desirous
+  - correct: false
+    detail: Incorrect, "ransacking:verb" is not a synonym for "wishful".
+    value: ransacking:verb
+  - correct: false
+    detail: Incorrect, "corydalis claviculata:noun" is not a synonym for "wishful".
+    value: corydalis claviculata:noun
+  - correct: false
+    detail: Incorrect, "trichinella spiralis:noun" is not a synonym for "wishful".
+    value: trichinella spiralis:noun
+  text: What is a synonym for "wishful"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "mutable|changeful" is a synonym for "changeable".
+    value: mutable|changeful
+  - correct: false
+    detail: Incorrect, "hanoverian:noun" is not a synonym for "changeable".
+    value: hanoverian:noun
+  - correct: false
+    detail: Incorrect, "jeannette rankin:noun" is not a synonym for "changeable".
+    value: jeannette rankin:noun
+  - correct: false
+    detail: Incorrect, "ethiopian banana:noun" is not a synonym for "changeable".
+    value: ethiopian banana:noun
+  text: What is a synonym for "changeable"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Estonian" is a synonym for "estonian".
+    value: Estonian
+  - correct: false
+    detail: Incorrect, "genus rutilus:noun" is not a synonym for "estonian".
+    value: genus rutilus:noun
+  - correct: false
+    detail: Incorrect, "fifty dollar bill:noun" is not a synonym for "estonian".
+    value: fifty dollar bill:noun
+  - correct: false
+    detail: Incorrect, "anas americana:noun" is not a synonym for "estonian".
+    value: anas americana:noun
+  text: What is a synonym for "estonian"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "heterologous" is a synonym for "heterologic".
+    value: heterological
+  - correct: false
+    detail: Incorrect, "genus cotinga:noun" is not a synonym for "heterologic".
+    value: genus cotinga:noun
+  - correct: false
+    detail: Incorrect, "wise man:noun" is not a synonym for "heterologic".
+    value: wise man:noun
+  - correct: false
+    detail: Incorrect, "burning:verb" is not a synonym for "heterologic".
+    value: burning:verb
+  text: What is a synonym for "heterologic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "undefined" is a synonym for "vague".
+    value: undefined
+  - correct: false
+    detail: Incorrect, "fragrant sumac:noun" is not a synonym for "vague".
+    value: fragrant sumac:noun
+  - correct: false
+    detail: Incorrect, "hardware store:noun" is not a synonym for "vague".
+    value: hardware store:noun
+  - correct: false
+    detail: Incorrect, "myoneural junction:noun" is not a synonym for "vague".
+    value: myoneural junction:noun
+  text: What is a synonym for "vague"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "protozoan" is a synonym for "protozoic".
+    value: protozoan
+  - correct: false
+    detail: Incorrect, "frenchwoman:noun" is not a synonym for "protozoic".
+    value: frenchwoman:noun
+  - correct: false
+    detail: Incorrect, "butt weld:noun" is not a synonym for "protozoic".
+    value: butt weld:noun
+  - correct: false
+    detail: Incorrect, "erlang:noun" is not a synonym for "protozoic".
+    value: erlang:noun
+  text: What is a synonym for "protozoic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Persian" is a synonym for "iranian".
+    value: Iranian
+  - correct: false
+    detail: Incorrect, "mongrelise:verb" is not a synonym for "iranian".
+    value: mongrelise:verb
+  - correct: false
+    detail: Incorrect, "genus pterocnemia:noun" is not a synonym for "iranian".
+    value: genus pterocnemia:noun
+  - correct: false
+    detail: Incorrect, "family verbenaceae:noun" is not a synonym for "iranian".
+    value: family verbenaceae:noun
+  text: What is a synonym for "iranian"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "shed" is a synonym for "caducous".
+    value: shed
+  - correct: false
+    detail: Incorrect, "mad-dog weed:noun" is not a synonym for "caducous".
+    value: mad-dog weed:noun
+  - correct: false
+    detail: Incorrect, "unbeknownst:satellite" is not a synonym for "caducous".
+    value: unbeknownst:satellite
+  - correct: false
+    detail: Incorrect, "appalachian mountains:noun" is not a synonym for "caducous".
+    value: appalachian mountains:noun
+  text: What is a synonym for "caducous"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "defiant" is a synonym for "noncompliant".
+    value: defiant
+  - correct: false
+    detail: Incorrect, "bufonidae:noun" is not a synonym for "noncompliant".
+    value: bufonidae:noun
+  - correct: false
+    detail: Incorrect, "arteria brachialis:noun" is not a synonym for "noncompliant".
+    value: arteria brachialis:noun
+  - correct: false
+    detail: Incorrect, "blamable:satellite" is not a synonym for "noncompliant".
+    value: blamable:satellite
+  text: What is a synonym for "noncompliant"?

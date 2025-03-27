@@ -1,0 +1,302 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unrecognisable" is a synonym for "unrecognizably".
+    value: unrecognisable
+  - correct: false
+    detail: Incorrect, "musical harmony:noun" is not a synonym for "unrecognizably".
+    value: musical harmony:noun
+  - correct: false
+    detail: Incorrect, "motivity:noun" is not a synonym for "unrecognizably".
+    value: motivity:noun
+  - correct: false
+    detail: Incorrect, "genus austrocedrus:noun" is not a synonym for "unrecognizably".
+    value: genus austrocedrus:noun
+  text: What is a synonym for "unrecognizably"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "fully" is a synonym for "to the full".
+    value: fully
+  - correct: false
+    detail: Incorrect, "haying time:noun" is not a synonym for "to the full".
+    value: haying time:noun
+  - correct: false
+    detail: Incorrect, "relief printing:noun" is not a synonym for "to the full".
+    value: relief printing:noun
+  - correct: false
+    detail: Incorrect, "sensibly:adverb" is not a synonym for "to the full".
+    value: sensibly:adverb
+  text: What is a synonym for "to the full"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "traitorously" is a synonym for "treasonably".
+    value: 'false'
+  - correct: false
+    detail: Incorrect, "poitou-charentes:noun" is not a synonym for "treasonably".
+    value: poitou-charentes:noun
+  - correct: false
+    detail: Incorrect, "theodor mommsen:noun" is not a synonym for "treasonably".
+    value: theodor mommsen:noun
+  - correct: false
+    detail: Incorrect, "killingly:adverb" is not a synonym for "treasonably".
+    value: killingly:adverb
+  text: What is a synonym for "treasonably"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "on occasion" is a synonym for "once in a while".
+    value: now and again
+  - correct: false
+    detail: Incorrect, "allegoriser:noun" is not a synonym for "once in a while".
+    value: allegoriser:noun
+  - correct: false
+    detail: Incorrect, "uintatheriidae:noun" is not a synonym for "once in a while".
+    value: uintatheriidae:noun
+  - correct: false
+    detail: Incorrect, "rectus medialis:noun" is not a synonym for "once in a while".
+    value: rectus medialis:noun
+  text: What is a synonym for "once in a while"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "divertingly" is a synonym for "amusingly".
+    value: divertingly
+  - correct: false
+    detail: Incorrect, "proteales:noun" is not a synonym for "amusingly".
+    value: proteales:noun
+  - correct: false
+    detail: Incorrect, "bebop:verb" is not a synonym for "amusingly".
+    value: bebop:verb
+  - correct: false
+    detail: Incorrect, "horse of the wood:noun" is not a synonym for "amusingly".
+    value: horse of the wood:noun
+  text: What is a synonym for "amusingly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "wordily" is a synonym for "verbosely".
+    value: windily
+  - correct: false
+    detail: Incorrect, "equisetum robustum:noun" is not a synonym for "verbosely".
+    value: equisetum robustum:noun
+  - correct: false
+    detail: Incorrect, "imperfectly:adverb" is not a synonym for "verbosely".
+    value: imperfectly:adverb
+  - correct: false
+    detail: Incorrect, "ratifier:noun" is not a synonym for "verbosely".
+    value: ratifier:noun
+  text: What is a synonym for "verbosely"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "incorrectly" is a synonym for "falsely".
+    value: incorrectly
+  - correct: false
+    detail: Incorrect, "red-faced:satellite" is not a synonym for "falsely".
+    value: red-faced:satellite
+  - correct: false
+    detail: Incorrect, "purplish red:noun" is not a synonym for "falsely".
+    value: purplish red:noun
+  - correct: false
+    detail: Incorrect, "discriminate:verb" is not a synonym for "falsely".
+    value: discriminate:verb
+  text: What is a synonym for "falsely"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unendingly" is a synonym for "ceaselessly".
+    value: continuously
+  - correct: false
+    detail: Incorrect, "psychological science:noun" is not a synonym for "ceaselessly".
+    value: psychological science:noun
+  - correct: false
+    detail: Incorrect, "locus:noun" is not a synonym for "ceaselessly".
+    value: locus:noun
+  - correct: false
+    detail: Incorrect, "relentlessness:noun" is not a synonym for "ceaselessly".
+    value: relentlessness:noun
+  text: What is a synonym for "ceaselessly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "in large quantities" is a synonym for "wholesale".
+    value: in large quantities
+  - correct: false
+    detail: Incorrect, "tom wolfe:noun" is not a synonym for "wholesale".
+    value: tom wolfe:noun
+  - correct: false
+    detail: Incorrect, "petersburg:noun" is not a synonym for "wholesale".
+    value: petersburg:noun
+  - correct: false
+    detail: Incorrect, "clenched:satellite" is not a synonym for "wholesale".
+    value: clenched:satellite
+  text: What is a synonym for "wholesale"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "wheresoever" is a synonym for "wherever".
+    value: wheresoever
+  - correct: false
+    detail: Incorrect, "keep up:verb" is not a synonym for "wherever".
+    value: keep up:verb
+  - correct: false
+    detail: Incorrect, "voiceless:adjective" is not a synonym for "wherever".
+    value: voiceless:adjective
+  - correct: false
+    detail: Incorrect, "keeled:adjective" is not a synonym for "wherever".
+    value: keeled:adjective
+  text: What is a synonym for "wherever"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "confessedly" is a synonym for "admittedly".
+    value: avowedly
+  - correct: false
+    detail: Incorrect, "polyfoam:noun" is not a synonym for "admittedly".
+    value: polyfoam:noun
+  - correct: false
+    detail: Incorrect, "glaswegian:noun" is not a synonym for "admittedly".
+    value: glaswegian:noun
+  - correct: false
+    detail: Incorrect, "huffish:satellite" is not a synonym for "admittedly".
+    value: huffish:satellite
+  text: What is a synonym for "admittedly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "boylike" is a synonym for "boyishly".
+    value: boylike
+  - correct: false
+    detail: Incorrect, "snow pea:noun" is not a synonym for "boyishly".
+    value: snow pea:noun
+  - correct: false
+    detail: Incorrect, "wiffle ball:noun" is not a synonym for "boyishly".
+    value: wiffle ball:noun
+  - correct: false
+    detail: Incorrect, "aplodontia rufa:noun" is not a synonym for "boyishly".
+    value: aplodontia rufa:noun
+  text: What is a synonym for "boyishly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "eternally" is a synonym for "everlastingly".
+    value: eternally
+  - correct: false
+    detail: Incorrect, "genus parthenocissus:noun" is not a synonym for "everlastingly".
+    value: genus parthenocissus:noun
+  - correct: false
+    detail: Incorrect, "evening clothes:noun" is not a synonym for "everlastingly".
+    value: evening clothes:noun
+  - correct: false
+    detail: Incorrect, "metronymic:noun" is not a synonym for "everlastingly".
+    value: metronymic:noun
+  text: What is a synonym for "everlastingly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "perniciously" is a synonym for "insidiously".
+    value: perniciously
+  - correct: false
+    detail: Incorrect, "ipsus:noun" is not a synonym for "insidiously".
+    value: ipsus:noun
+  - correct: false
+    detail: Incorrect, "throw back:verb" is not a synonym for "insidiously".
+    value: throw back:verb
+  - correct: false
+    detail: Incorrect, "system of macrophages:noun" is not a synonym for "insidiously".
+    value: system of macrophages:noun
+  text: What is a synonym for "insidiously"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "on the average" is a synonym for "on average".
+    value: on the average
+  - correct: false
+    detail: Incorrect, "muscari neglectum:noun" is not a synonym for "on average".
+    value: muscari neglectum:noun
+  - correct: false
+    detail: Incorrect, "chiromancy:noun" is not a synonym for "on average".
+    value: chiromancy:noun
+  - correct: false
+    detail: Incorrect, "silk grass:noun" is not a synonym for "on average".
+    value: silk grass:noun
+  text: What is a synonym for "on average"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "fastidiously" is a synonym for "painstakingly".
+    value: fastidiously
+  - correct: false
+    detail: Incorrect, "ironmonger:noun" is not a synonym for "painstakingly".
+    value: ironmonger:noun
+  - correct: false
+    detail: Incorrect, "sun parlor:noun" is not a synonym for "painstakingly".
+    value: sun parlor:noun
+  - correct: false
+    detail: Incorrect, "dead set:satellite" is not a synonym for "painstakingly".
+    value: dead set:satellite
+  text: What is a synonym for "painstakingly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "on occasion" is a synonym for "now and then".
+    value: at times
+  - correct: false
+    detail: Incorrect, "contorted:verb" is not a synonym for "now and then".
+    value: contorted:verb
+  - correct: false
+    detail: Incorrect, "genus mycobacterium:noun" is not a synonym for "now and then".
+    value: genus mycobacterium:noun
+  - correct: false
+    detail: Incorrect, "game fish:noun" is not a synonym for "now and then".
+    value: game fish:noun
+  text: What is a synonym for "now and then"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "dearly" is a synonym for "in a heartfelt way".
+    value: dearly
+  - correct: false
+    detail: Incorrect, "puppet government:noun" is not a synonym for "in a heartfelt
+      way".
+    value: puppet government:noun
+  - correct: false
+    detail: Incorrect, "tweezer:noun" is not a synonym for "in a heartfelt way".
+    value: tweezer:noun
+  - correct: false
+    detail: Incorrect, "acidulate:verb" is not a synonym for "in a heartfelt way".
+    value: acidulate:verb
+  text: What is a synonym for "in a heartfelt way"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "creakily" is a synonym for "creakingly".
+    value: creakily
+  - correct: false
+    detail: Incorrect, "capiz:noun" is not a synonym for "creakingly".
+    value: capiz:noun
+  - correct: false
+    detail: Incorrect, "xiphias:noun" is not a synonym for "creakingly".
+    value: xiphias:noun
+  - correct: false
+    detail: Incorrect, "tree-worship:noun" is not a synonym for "creakingly".
+    value: tree-worship:noun
+  text: What is a synonym for "creakingly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "uproariously" is a synonym for "hilariously".
+    value: uproariously
+  - correct: false
+    detail: Incorrect, "eq:noun" is not a synonym for "hilariously".
+    value: eq:noun
+  - correct: false
+    detail: Incorrect, "utiliser:noun" is not a synonym for "hilariously".
+    value: utiliser:noun
+  - correct: false
+    detail: Incorrect, "stinging:noun" is not a synonym for "hilariously".
+    value: stinging:noun
+  text: What is a synonym for "hilariously"?

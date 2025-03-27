@@ -1,0 +1,303 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "late" is a synonym for "of late".
+    value: latterly
+  - correct: false
+    detail: Incorrect, "class aves:noun" is not a synonym for "of late".
+    value: class aves:noun
+  - correct: false
+    detail: Incorrect, "rushmore:noun" is not a synonym for "of late".
+    value: rushmore:noun
+  - correct: false
+    detail: Incorrect, "familiarisation:noun" is not a synonym for "of late".
+    value: familiarisation:noun
+  text: What is a synonym for "of late"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "maybe" is a synonym for "perhaps".
+    value: maybe
+  - correct: false
+    detail: Incorrect, "kirchhoff:noun" is not a synonym for "perhaps".
+    value: kirchhoff:noun
+  - correct: false
+    detail: Incorrect, "arc:noun" is not a synonym for "perhaps".
+    value: arc:noun
+  - correct: false
+    detail: Incorrect, "white rhinoceros:noun" is not a synonym for "perhaps".
+    value: white rhinoceros:noun
+  text: What is a synonym for "perhaps"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "or so|rough|rough" is a synonym for "roughly".
+    value: close to
+  - correct: false
+    detail: Incorrect, "narcotraffic:noun" is not a synonym for "roughly".
+    value: narcotraffic:noun
+  - correct: false
+    detail: Incorrect, "hypothesize:verb" is not a synonym for "roughly".
+    value: hypothesize:verb
+  - correct: false
+    detail: Incorrect, "anxiousness:noun" is not a synonym for "roughly".
+    value: anxiousness:noun
+  text: What is a synonym for "roughly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "strangely" is a synonym for "oddly".
+    value: curiously
+  - correct: false
+    detail: Incorrect, "russian orthodox:adjective" is not a synonym for "oddly".
+    value: russian orthodox:adjective
+  - correct: false
+    detail: Incorrect, "kissing disease:noun" is not a synonym for "oddly".
+    value: kissing disease:noun
+  - correct: false
+    detail: Incorrect, "cole albert porter:noun" is not a synonym for "oddly".
+    value: cole albert porter:noun
+  text: What is a synonym for "oddly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "finally" is a synonym for "lastly".
+    value: finally
+  - correct: false
+    detail: Incorrect, "roman numeral:noun" is not a synonym for "lastly".
+    value: roman numeral:noun
+  - correct: false
+    detail: Incorrect, "shetland wool:noun" is not a synonym for "lastly".
+    value: shetland wool:noun
+  - correct: false
+    detail: Incorrect, "white fox:noun" is not a synonym for "lastly".
+    value: white fox:noun
+  text: What is a synonym for "lastly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "slackly|broadly" is a synonym for "loosely".
+    value: broadly speaking
+  - correct: false
+    detail: Incorrect, "stannous:adjective" is not a synonym for "loosely".
+    value: stannous:adjective
+  - correct: false
+    detail: Incorrect, "fury:noun" is not a synonym for "loosely".
+    value: fury:noun
+  - correct: false
+    detail: Incorrect, "sport utility:noun" is not a synonym for "loosely".
+    value: sport utility:noun
+  text: What is a synonym for "loosely"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "downwardly" is a synonym for "downward".
+    value: downwards
+  - correct: false
+    detail: Incorrect, "bank check:noun" is not a synonym for "downward".
+    value: bank check:noun
+  - correct: false
+    detail: Incorrect, "scurfy:satellite" is not a synonym for "downward".
+    value: scurfy:satellite
+  - correct: false
+    detail: Incorrect, "bitmap:noun" is not a synonym for "downward".
+    value: bitmap:noun
+  text: What is a synonym for "downward"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "roundly" is a synonym for "bluntly".
+    value: roundly
+  - correct: false
+    detail: Incorrect, "black-stem spleenwort:noun" is not a synonym for "bluntly".
+    value: black-stem spleenwort:noun
+  - correct: false
+    detail: Incorrect, "branchiopod:noun" is not a synonym for "bluntly".
+    value: branchiopod:noun
+  - correct: false
+    detail: Incorrect, "genus malvaviscus:noun" is not a synonym for "bluntly".
+    value: genus malvaviscus:noun
+  text: What is a synonym for "bluntly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "until now" is a synonym for "as yet".
+    value: heretofore
+  - correct: false
+    detail: Incorrect, "rheumatism:noun" is not a synonym for "as yet".
+    value: rheumatism:noun
+  - correct: false
+    detail: Incorrect, "young turk:noun" is not a synonym for "as yet".
+    value: young turk:noun
+  - correct: false
+    detail: Incorrect, "chemical diabetes:noun" is not a synonym for "as yet".
+    value: chemical diabetes:noun
+  text: What is a synonym for "as yet"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "slyly" is a synonym for "trickily".
+    value: craftily
+  - correct: false
+    detail: Incorrect, "swanson:noun" is not a synonym for "trickily".
+    value: swanson:noun
+  - correct: false
+    detail: Incorrect, "thrinax keyensis:noun" is not a synonym for "trickily".
+    value: thrinax keyensis:noun
+  - correct: false
+    detail: Incorrect, "mountain avens:noun" is not a synonym for "trickily".
+    value: mountain avens:noun
+  text: What is a synonym for "trickily"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "per year" is a synonym for "annually".
+    value: every year
+  - correct: false
+    detail: Incorrect, "fernao magalhaes:noun" is not a synonym for "annually".
+    value: fernao magalhaes:noun
+  - correct: false
+    detail: Incorrect, "aby warburg:noun" is not a synonym for "annually".
+    value: aby warburg:noun
+  - correct: false
+    detail: Incorrect, "mallee fowl:noun" is not a synonym for "annually".
+    value: mallee fowl:noun
+  text: What is a synonym for "annually"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "et aliae" is a synonym for "et al".
+    value: et aliae
+  - correct: false
+    detail: Incorrect, "jessamine:noun" is not a synonym for "et al".
+    value: jessamine:noun
+  - correct: false
+    detail: Incorrect, "sugar shell:noun" is not a synonym for "et al".
+    value: sugar shell:noun
+  - correct: false
+    detail: Incorrect, "south korean monetary unit:noun" is not a synonym for "et
+      al".
+    value: south korean monetary unit:noun
+  text: What is a synonym for "et al"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "outside" is a synonym for "alfresco".
+    value: out of doors
+  - correct: false
+    detail: Incorrect, "iris diaphragm:noun" is not a synonym for "alfresco".
+    value: iris diaphragm:noun
+  - correct: false
+    detail: Incorrect, "stephen arnold douglas:noun" is not a synonym for "alfresco".
+    value: stephen arnold douglas:noun
+  - correct: false
+    detail: Incorrect, "ponderousness:noun" is not a synonym for "alfresco".
+    value: ponderousness:noun
+  text: What is a synonym for "alfresco"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "downwardly" is a synonym for "down".
+    value: downward
+  - correct: false
+    detail: Incorrect, "fickle:satellite" is not a synonym for "down".
+    value: fickle:satellite
+  - correct: false
+    detail: Incorrect, "cutting:verb" is not a synonym for "down".
+    value: cutting:verb
+  - correct: false
+    detail: Incorrect, "cracticidae:noun" is not a synonym for "down".
+    value: cracticidae:noun
+  text: What is a synonym for "down"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "bluffly" is a synonym for "roundly".
+    value: brusquely
+  - correct: false
+    detail: Incorrect, "throttlehold:noun" is not a synonym for "roundly".
+    value: throttlehold:noun
+  - correct: false
+    detail: Incorrect, "black buck:noun" is not a synonym for "roundly".
+    value: black buck:noun
+  - correct: false
+    detail: Incorrect, "respects:noun" is not a synonym for "roundly".
+    value: respects:noun
+  text: What is a synonym for "roundly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "freshly" is a synonym for "pertly".
+    value: impertinently
+  - correct: false
+    detail: Incorrect, "order accipitriformes:noun" is not a synonym for "pertly".
+    value: order accipitriformes:noun
+  - correct: false
+    detail: Incorrect, "falco rusticolus:noun" is not a synonym for "pertly".
+    value: falco rusticolus:noun
+  - correct: false
+    detail: Incorrect, "soilure:noun" is not a synonym for "pertly".
+    value: soilure:noun
+  text: What is a synonym for "pertly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "outdoors" is a synonym for "outside".
+    value: alfresco
+  - correct: false
+    detail: Incorrect, "undoing:noun" is not a synonym for "outside".
+    value: undoing:noun
+  - correct: false
+    detail: Incorrect, "genus trichodesmium:noun" is not a synonym for "outside".
+    value: genus trichodesmium:noun
+  - correct: false
+    detail: Incorrect, "pledged:satellite" is not a synonym for "outside".
+    value: pledged:satellite
+  text: What is a synonym for "outside"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "forthright|square|square|square|foursquare" is a synonym for
+      "squarely".
+    value: forthrightly
+  - correct: false
+    detail: Incorrect, "megatherian mammal:noun" is not a synonym for "squarely".
+    value: megatherian mammal:noun
+  - correct: false
+    detail: Incorrect, "plug-in:noun" is not a synonym for "squarely".
+    value: plug-in:noun
+  - correct: false
+    detail: Incorrect, "focal ratio:noun" is not a synonym for "squarely".
+    value: focal ratio:noun
+  text: What is a synonym for "squarely"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "obstinately" is a synonym for "cussedly".
+    value: obstinately
+  - correct: false
+    detail: Incorrect, "humorous:adjective" is not a synonym for "cussedly".
+    value: humorous:adjective
+  - correct: false
+    detail: Incorrect, "tachyglossidae:noun" is not a synonym for "cussedly".
+    value: tachyglossidae:noun
+  - correct: false
+    detail: Incorrect, "candle:noun" is not a synonym for "cussedly".
+    value: candle:noun
+  text: What is a synonym for "cussedly"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "decently" is a synonym for "properly".
+    value: decently
+  - correct: false
+    detail: Incorrect, "cards:verb" is not a synonym for "properly".
+    value: cards:verb
+  - correct: false
+    detail: Incorrect, "atavist:noun" is not a synonym for "properly".
+    value: atavist:noun
+  - correct: false
+    detail: Incorrect, "anesthetic agent:noun" is not a synonym for "properly".
+    value: anesthetic agent:noun
+  text: What is a synonym for "properly"?

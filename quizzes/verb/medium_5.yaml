@@ -1,0 +1,302 @@
+questions:
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "make|induce" is a synonym for "cause".
+    value: stimulate
+  - correct: false
+    detail: Incorrect, "guy fawkes night:noun" is not a synonym for "cause".
+    value: guy fawkes night:noun
+  - correct: false
+    detail: Incorrect, "shutting:verb" is not a synonym for "cause".
+    value: shutting:verb
+  - correct: false
+    detail: Incorrect, "precipitately:adverb" is not a synonym for "cause".
+    value: precipitately:adverb
+  text: What is a synonym for "cause"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "back off" is a synonym for "bow out".
+    value: chicken out
+  - correct: false
+    detail: Incorrect, "cynipid wasp:noun" is not a synonym for "bow out".
+    value: cynipid wasp:noun
+  - correct: false
+    detail: Incorrect, "access:verb" is not a synonym for "bow out".
+    value: access:verb
+  - correct: false
+    detail: Incorrect, "family rhamnaceae:noun" is not a synonym for "bow out".
+    value: family rhamnaceae:noun
+  text: What is a synonym for "bow out"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "inter" is a synonym for "entomb".
+    value: inhume
+  - correct: false
+    detail: Incorrect, "macronectes:noun" is not a synonym for "entomb".
+    value: macronectes:noun
+  - correct: false
+    detail: Incorrect, "deflect:verb" is not a synonym for "entomb".
+    value: deflect:verb
+  - correct: false
+    detail: Incorrect, "put up:verb" is not a synonym for "entomb".
+    value: put up:verb
+  text: What is a synonym for "entomb"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "sign up" is a synonym for "sign on".
+    value: sign up
+  - correct: false
+    detail: Incorrect, "buckyball:noun" is not a synonym for "sign on".
+    value: buckyball:noun
+  - correct: false
+    detail: Incorrect, "benedictine:noun" is not a synonym for "sign on".
+    value: benedictine:noun
+  - correct: false
+    detail: Incorrect, "lameness:noun" is not a synonym for "sign on".
+    value: lameness:noun
+  text: What is a synonym for "sign on"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rave" is a synonym for "ranting".
+    value: mouth off
+  - correct: false
+    detail: Incorrect, "rainfall:noun" is not a synonym for "ranting".
+    value: rainfall:noun
+  - correct: false
+    detail: Incorrect, "public presentation:noun" is not a synonym for "ranting".
+    value: public presentation:noun
+  - correct: false
+    detail: Incorrect, "fagus americana:noun" is not a synonym for "ranting".
+    value: fagus americana:noun
+  text: What is a synonym for "ranting"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "pull ahead" is a synonym for "winning".
+    value: deliver the goods
+  - correct: false
+    detail: Incorrect, "pituitary gland:noun" is not a synonym for "winning".
+    value: pituitary gland:noun
+  - correct: false
+    detail: Incorrect, "instruct:verb" is not a synonym for "winning".
+    value: instruct:verb
+  - correct: false
+    detail: Incorrect, "alexandrian senna:noun" is not a synonym for "winning".
+    value: alexandrian senna:noun
+  text: What is a synonym for "winning"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "pitch" is a synonym for "slanting".
+    value: angle|cant
+  - correct: false
+    detail: Incorrect, "pezizaceae:noun" is not a synonym for "slanting".
+    value: pezizaceae:noun
+  - correct: false
+    detail: Incorrect, "laurel family:noun" is not a synonym for "slanting".
+    value: laurel family:noun
+  - correct: false
+    detail: Incorrect, "cape marigold:noun" is not a synonym for "slanting".
+    value: cape marigold:noun
+  text: What is a synonym for "slanting"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "skitter" is a synonym for "scamper".
+    value: scuttle
+  - correct: false
+    detail: Incorrect, "enervate:verb" is not a synonym for "scamper".
+    value: enervate:verb
+  - correct: false
+    detail: Incorrect, "mortmain:noun" is not a synonym for "scamper".
+    value: mortmain:noun
+  - correct: false
+    detail: Incorrect, "nonachievement:noun" is not a synonym for "scamper".
+    value: nonachievement:noun
+  text: What is a synonym for "scamper"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "ostracize" is a synonym for "shunning".
+    value: shun
+  - correct: false
+    detail: Incorrect, "cognition:noun" is not a synonym for "shunning".
+    value: cognition:noun
+  - correct: false
+    detail: Incorrect, "moussorgsky:noun" is not a synonym for "shunning".
+    value: moussorgsky:noun
+  - correct: false
+    detail: Incorrect, "cyrillic:adjective" is not a synonym for "shunning".
+    value: cyrillic:adjective
+  text: What is a synonym for "shunning"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "observe" is a synonym for "mention".
+    value: name
+  - correct: false
+    detail: Incorrect, "gauffer:noun" is not a synonym for "mention".
+    value: gauffer:noun
+  - correct: false
+    detail: Incorrect, "putting iron:noun" is not a synonym for "mention".
+    value: putting iron:noun
+  - correct: false
+    detail: Incorrect, "hollander:noun" is not a synonym for "mention".
+    value: hollander:noun
+  text: What is a synonym for "mention"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "say" is a synonym for "enjoin".
+    value: tell
+  - correct: false
+    detail: Incorrect, "salubrious:satellite" is not a synonym for "enjoin".
+    value: salubrious:satellite
+  - correct: false
+    detail: Incorrect, "diehard:noun" is not a synonym for "enjoin".
+    value: diehard:noun
+  - correct: false
+    detail: Incorrect, "teres minor muscle:noun" is not a synonym for "enjoin".
+    value: teres minor muscle:noun
+  text: What is a synonym for "enjoin"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "neutralise" is a synonym for "negate".
+    value: contravene|contradict|neutralize
+  - correct: false
+    detail: Incorrect, "obturator vein:noun" is not a synonym for "negate".
+    value: obturator vein:noun
+  - correct: false
+    detail: Incorrect, "edward weston:noun" is not a synonym for "negate".
+    value: edward weston:noun
+  - correct: false
+    detail: Incorrect, "castilleja chromosa:noun" is not a synonym for "negate".
+    value: castilleja chromosa:noun
+  text: What is a synonym for "negate"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "break loose|get off" is a synonym for "get away".
+    value: get by
+  - correct: false
+    detail: Incorrect, "house of lancaster:noun" is not a synonym for "get away".
+    value: house of lancaster:noun
+  - correct: false
+    detail: Incorrect, "scandalmongering:satellite" is not a synonym for "get away".
+    value: scandalmongering:satellite
+  - correct: false
+    detail: Incorrect, "rembrandt harmensz van rijn:noun" is not a synonym for "get
+      away".
+    value: rembrandt harmensz van rijn:noun
+  text: What is a synonym for "get away"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "recruit" is a synonym for "enroll".
+    value: inscribe
+  - correct: false
+    detail: Incorrect, "determined:verb" is not a synonym for "enroll".
+    value: determined:verb
+  - correct: false
+    detail: Incorrect, "bellis perennis:noun" is not a synonym for "enroll".
+    value: bellis perennis:noun
+  - correct: false
+    detail: Incorrect, "prilosec:noun" is not a synonym for "enroll".
+    value: prilosec:noun
+  text: What is a synonym for "enroll"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "flood" is a synonym for "flooded".
+    value: glut|flood
+  - correct: false
+    detail: Incorrect, "family plumbaginaceae:noun" is not a synonym for "flooded".
+    value: family plumbaginaceae:noun
+  - correct: false
+    detail: Incorrect, "jabbing:noun" is not a synonym for "flooded".
+    value: jabbing:noun
+  - correct: false
+    detail: Incorrect, "enveloping:verb" is not a synonym for "flooded".
+    value: enveloping:verb
+  text: What is a synonym for "flooded"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "confabulate" is a synonym for "consult".
+    value: confab
+  - correct: false
+    detail: Incorrect, "choir:verb" is not a synonym for "consult".
+    value: choir:verb
+  - correct: false
+    detail: Incorrect, "unlit:adjective" is not a synonym for "consult".
+    value: unlit:adjective
+  - correct: false
+    detail: Incorrect, "genus coelophysis:noun" is not a synonym for "consult".
+    value: genus coelophysis:noun
+  text: What is a synonym for "consult"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "rejoice" is a synonym for "triumph".
+    value: rejoice
+  - correct: false
+    detail: Incorrect, "sand berry:noun" is not a synonym for "triumph".
+    value: sand berry:noun
+  - correct: false
+    detail: Incorrect, "anolis:noun" is not a synonym for "triumph".
+    value: anolis:noun
+  - correct: false
+    detail: Incorrect, "purple willow:noun" is not a synonym for "triumph".
+    value: purple willow:noun
+  text: What is a synonym for "triumph"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "blackleg" is a synonym for "scab".
+    value: rat
+  - correct: false
+    detail: Incorrect, "foretell:verb" is not a synonym for "scab".
+    value: foretell:verb
+  - correct: false
+    detail: Incorrect, "karl gjellerup:noun" is not a synonym for "scab".
+    value: karl gjellerup:noun
+  - correct: false
+    detail: Incorrect, "ru 486:noun" is not a synonym for "scab".
+    value: ru 486:noun
+  text: What is a synonym for "scab"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "herald|acclaim" is a synonym for "heralded".
+    value: herald|hail
+  - correct: false
+    detail: Incorrect, "cascade range:noun" is not a synonym for "heralded".
+    value: cascade range:noun
+  - correct: false
+    detail: Incorrect, "propelling:satellite" is not a synonym for "heralded".
+    value: propelling:satellite
+  - correct: false
+    detail: Incorrect, "juniperus communis:noun" is not a synonym for "heralded".
+    value: juniperus communis:noun
+  text: What is a synonym for "heralded"?
+- difficulty: medium
+  options:
+  - correct: true
+    detail: Correct! "signal|bode" is a synonym for "betoken".
+    value: indicate
+  - correct: false
+    detail: Incorrect, "collinsia heterophylla:noun" is not a synonym for "betoken".
+    value: collinsia heterophylla:noun
+  - correct: false
+    detail: Incorrect, "chrissie evert:noun" is not a synonym for "betoken".
+    value: chrissie evert:noun
+  - correct: false
+    detail: Incorrect, "faisal:noun" is not a synonym for "betoken".
+    value: faisal:noun
+  text: What is a synonym for "betoken"?

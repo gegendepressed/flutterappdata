@@ -1,0 +1,301 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "familial" is a synonym for "inherited".
+    value: familial
+  - correct: false
+    detail: Incorrect, "stinker:noun" is not a synonym for "inherited".
+    value: stinker:noun
+  - correct: false
+    detail: Incorrect, "purl:verb" is not a synonym for "inherited".
+    value: purl:verb
+  - correct: false
+    detail: Incorrect, "tuna fish salad:noun" is not a synonym for "inherited".
+    value: tuna fish salad:noun
+  text: What is a synonym for "inherited"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "tormented" is a synonym for "hagridden".
+    value: tormented
+  - correct: false
+    detail: Incorrect, "alar:adjective" is not a synonym for "hagridden".
+    value: alar:adjective
+  - correct: false
+    detail: Incorrect, "twelve noon:noun" is not a synonym for "hagridden".
+    value: twelve noon:noun
+  - correct: false
+    detail: Incorrect, "genus gastrocybe:noun" is not a synonym for "hagridden".
+    value: genus gastrocybe:noun
+  text: What is a synonym for "hagridden"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "notional" is a synonym for "fanciful".
+    value: notional
+  - correct: false
+    detail: Incorrect, "antipodal:adjective" is not a synonym for "fanciful".
+    value: antipodal:adjective
+  - correct: false
+    detail: Incorrect, "canebrake rattler:noun" is not a synonym for "fanciful".
+    value: canebrake rattler:noun
+  - correct: false
+    detail: Incorrect, "judy garland:noun" is not a synonym for "fanciful".
+    value: judy garland:noun
+  text: What is a synonym for "fanciful"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "vexing|irritative|painful" is a synonym for "irritating".
+    value: pesky
+  - correct: false
+    detail: Incorrect, "yip:noun" is not a synonym for "irritating".
+    value: yip:noun
+  - correct: false
+    detail: Incorrect, "common law:noun" is not a synonym for "irritating".
+    value: common law:noun
+  - correct: false
+    detail: Incorrect, "gladiolus:noun" is not a synonym for "irritating".
+    value: gladiolus:noun
+  text: What is a synonym for "irritating"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "vesicatory" is a synonym for "vesicant".
+    value: vesicatory
+  - correct: false
+    detail: Incorrect, "railroad train:noun" is not a synonym for "vesicant".
+    value: railroad train:noun
+  - correct: false
+    detail: Incorrect, "taupe:satellite" is not a synonym for "vesicant".
+    value: taupe:satellite
+  - correct: false
+    detail: Incorrect, "drench:verb" is not a synonym for "vesicant".
+    value: drench:verb
+  text: What is a synonym for "vesicant"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "soothing" is a synonym for "assuasive".
+    value: soothing
+  - correct: false
+    detail: Incorrect, "konrad zacharias lorenz:noun" is not a synonym for "assuasive".
+    value: konrad zacharias lorenz:noun
+  - correct: false
+    detail: Incorrect, "huckaback:noun" is not a synonym for "assuasive".
+    value: huckaback:noun
+  - correct: false
+    detail: Incorrect, "dissect:verb" is not a synonym for "assuasive".
+    value: dissect:verb
+  text: What is a synonym for "assuasive"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "isometric" is a synonym for "isometrical".
+    value: isometric
+  - correct: false
+    detail: Incorrect, "james river:noun" is not a synonym for "isometrical".
+    value: james river:noun
+  - correct: false
+    detail: Incorrect, "crataegus oxycantha:noun" is not a synonym for "isometrical".
+    value: crataegus oxycantha:noun
+  - correct: false
+    detail: Incorrect, "richea dracophylla:noun" is not a synonym for "isometrical".
+    value: richea dracophylla:noun
+  text: What is a synonym for "isometrical"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "speakable" is a synonym for "utterable".
+    value: speakable
+  - correct: false
+    detail: Incorrect, "guatemalan monetary unit:noun" is not a synonym for "utterable".
+    value: guatemalan monetary unit:noun
+  - correct: false
+    detail: Incorrect, "orchestiidae:noun" is not a synonym for "utterable".
+    value: orchestiidae:noun
+  - correct: false
+    detail: Incorrect, "maltese:adjective" is not a synonym for "utterable".
+    value: maltese:adjective
+  text: What is a synonym for "utterable"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "penitential" is a synonym for "penitentiary".
+    value: penitential
+  - correct: false
+    detail: Incorrect, "sitotroga cerealella:noun" is not a synonym for "penitentiary".
+    value: sitotroga cerealella:noun
+  - correct: false
+    detail: Incorrect, "hf:noun" is not a synonym for "penitentiary".
+    value: hf:noun
+  - correct: false
+    detail: Incorrect, "tundra swan:noun" is not a synonym for "penitentiary".
+    value: tundra swan:noun
+  text: What is a synonym for "penitentiary"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "pug-nose" is a synonym for "short-nosed".
+    value: pug-nose
+  - correct: false
+    detail: Incorrect, "otto loewi:noun" is not a synonym for "short-nosed".
+    value: otto loewi:noun
+  - correct: false
+    detail: Incorrect, "family loasaceae:noun" is not a synonym for "short-nosed".
+    value: family loasaceae:noun
+  - correct: false
+    detail: Incorrect, "garrulous:satellite" is not a synonym for "short-nosed".
+    value: garrulous:satellite
+  text: What is a synonym for "short-nosed"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hand-operated" is a synonym for "non-automatic".
+    value: hand-operated
+  - correct: false
+    detail: Incorrect, "genus melophagus:noun" is not a synonym for "non-automatic".
+    value: genus melophagus:noun
+  - correct: false
+    detail: Incorrect, "atomic weight:noun" is not a synonym for "non-automatic".
+    value: atomic weight:noun
+  - correct: false
+    detail: Incorrect, "fort worth:noun" is not a synonym for "non-automatic".
+    value: fort worth:noun
+  text: What is a synonym for "non-automatic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "taken for granted" is a synonym for "axiomatic".
+    value: taken for granted
+  - correct: false
+    detail: Incorrect, "glass snake:noun" is not a synonym for "axiomatic".
+    value: glass snake:noun
+  - correct: false
+    detail: Incorrect, "good turn:noun" is not a synonym for "axiomatic".
+    value: good turn:noun
+  - correct: false
+    detail: Incorrect, "sideboard:noun" is not a synonym for "axiomatic".
+    value: sideboard:noun
+  text: What is a synonym for "axiomatic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "numeric" is a synonym for "numerical".
+    value: numeric
+  - correct: false
+    detail: Incorrect, "historied:satellite" is not a synonym for "numerical".
+    value: historied:satellite
+  - correct: false
+    detail: Incorrect, "evangelist:noun" is not a synonym for "numerical".
+    value: evangelist:noun
+  - correct: false
+    detail: Incorrect, "mucoidal:adjective" is not a synonym for "numerical".
+    value: mucoidal:adjective
+  text: What is a synonym for "numerical"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "connected" is a synonym for "affiliated".
+    value: attached
+  - correct: false
+    detail: Incorrect, "roll out:verb" is not a synonym for "affiliated".
+    value: roll out:verb
+  - correct: false
+    detail: Incorrect, "stagger bush:noun" is not a synonym for "affiliated".
+    value: stagger bush:noun
+  - correct: false
+    detail: Incorrect, "lychnis alba:noun" is not a synonym for "affiliated".
+    value: lychnis alba:noun
+  text: What is a synonym for "affiliated"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "inverted" is a synonym for "upside-down".
+    value: inverted
+  - correct: false
+    detail: Incorrect, "haematinic:noun" is not a synonym for "upside-down".
+    value: haematinic:noun
+  - correct: false
+    detail: Incorrect, "cumberland mountains:noun" is not a synonym for "upside-down".
+    value: cumberland mountains:noun
+  - correct: false
+    detail: Incorrect, "napery:noun" is not a synonym for "upside-down".
+    value: napery:noun
+  text: What is a synonym for "upside-down"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "reeking|washy" is a synonym for "watery".
+    value: weak
+  - correct: false
+    detail: Incorrect, "antiaircraft gun:noun" is not a synonym for "watery".
+    value: antiaircraft gun:noun
+  - correct: false
+    detail: Incorrect, "saprolegnia ferax:noun" is not a synonym for "watery".
+    value: saprolegnia ferax:noun
+  - correct: false
+    detail: Incorrect, "laurelwood:noun" is not a synonym for "watery".
+    value: laurelwood:noun
+  text: What is a synonym for "watery"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "awful" is a synonym for "atrocious".
+    value: ugly
+  - correct: false
+    detail: Incorrect, "meshuga:satellite" is not a synonym for "atrocious".
+    value: meshuga:satellite
+  - correct: false
+    detail: Incorrect, "populated:verb" is not a synonym for "atrocious".
+    value: populated:verb
+  - correct: false
+    detail: Incorrect, "grass fern:noun" is not a synonym for "atrocious".
+    value: grass fern:noun
+  text: What is a synonym for "atrocious"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "wanton" is a synonym for "unprovoked".
+    value: motiveless
+  - correct: false
+    detail: Incorrect, "heart murmur:noun" is not a synonym for "unprovoked".
+    value: heart murmur:noun
+  - correct: false
+    detail: Incorrect, "bretagne:noun" is not a synonym for "unprovoked".
+    value: bretagne:noun
+  - correct: false
+    detail: Incorrect, "record cover:noun" is not a synonym for "unprovoked".
+    value: record cover:noun
+  text: What is a synonym for "unprovoked"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "brownish-grey" is a synonym for "brown-gray".
+    value: brown-grey
+  - correct: false
+    detail: Incorrect, "secret service:noun" is not a synonym for "brown-gray".
+    value: secret service:noun
+  - correct: false
+    detail: Incorrect, "army tank:noun" is not a synonym for "brown-gray".
+    value: army tank:noun
+  - correct: false
+    detail: Incorrect, "family kalotermitidae:noun" is not a synonym for "brown-gray".
+    value: family kalotermitidae:noun
+  text: What is a synonym for "brown-gray"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "personalised" is a synonym for "individualized".
+    value: personalized
+  - correct: false
+    detail: Incorrect, "filling station:noun" is not a synonym for "individualized".
+    value: filling station:noun
+  - correct: false
+    detail: Incorrect, "sterope:noun" is not a synonym for "individualized".
+    value: sterope:noun
+  - correct: false
+    detail: Incorrect, "circumferent:satellite" is not a synonym for "individualized".
+    value: circumferent:satellite
+  text: What is a synonym for "individualized"?

@@ -1,0 +1,302 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "vulgarly" is a synonym for "smuttily".
+    value: vulgarly
+  - correct: false
+    detail: Incorrect, "athletic supporter:noun" is not a synonym for "smuttily".
+    value: athletic supporter:noun
+  - correct: false
+    detail: Incorrect, "excessiveness:noun" is not a synonym for "smuttily".
+    value: excessiveness:noun
+  - correct: false
+    detail: Incorrect, "pennine chain:noun" is not a synonym for "smuttily".
+    value: pennine chain:noun
+  text: What is a synonym for "smuttily"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "probably" is a synonym for "in all probability".
+    value: belike
+  - correct: false
+    detail: Incorrect, "giovanni de'medici:noun" is not a synonym for "in all probability".
+    value: giovanni de'medici:noun
+  - correct: false
+    detail: Incorrect, "postmortem examination:noun" is not a synonym for "in all
+      probability".
+    value: postmortem examination:noun
+  - correct: false
+    detail: Incorrect, "redwood:noun" is not a synonym for "in all probability".
+    value: redwood:noun
+  text: What is a synonym for "in all probability"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "slickly" is a synonym for "glibly".
+    value: slickly
+  - correct: false
+    detail: Incorrect, "dopey:satellite" is not a synonym for "glibly".
+    value: dopey:satellite
+  - correct: false
+    detail: Incorrect, "indian button fern:noun" is not a synonym for "glibly".
+    value: indian button fern:noun
+  - correct: false
+    detail: Incorrect, "fabrication:noun" is not a synonym for "glibly".
+    value: fabrication:noun
+  text: What is a synonym for "glibly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "chattily" is a synonym for "volubly".
+    value: chattily
+  - correct: false
+    detail: Incorrect, "stentorian:satellite" is not a synonym for "volubly".
+    value: stentorian:satellite
+  - correct: false
+    detail: Incorrect, "dried milk:noun" is not a synonym for "volubly".
+    value: dried milk:noun
+  - correct: false
+    detail: Incorrect, "genus fothergilla:noun" is not a synonym for "volubly".
+    value: genus fothergilla:noun
+  text: What is a synonym for "volubly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "to a great extent|heavy|intemperately" is a synonym for "heavily".
+    value: hard
+  - correct: false
+    detail: Incorrect, "hume:noun" is not a synonym for "heavily".
+    value: hume:noun
+  - correct: false
+    detail: Incorrect, "sevener:noun" is not a synonym for "heavily".
+    value: sevener:noun
+  - correct: false
+    detail: Incorrect, "self-praise:noun" is not a synonym for "heavily".
+    value: self-praise:noun
+  text: What is a synonym for "heavily"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "justly" is a synonym for "rightly".
+    value: justifiedly
+  - correct: false
+    detail: Incorrect, "sturdy:satellite" is not a synonym for "rightly".
+    value: sturdy:satellite
+  - correct: false
+    detail: Incorrect, "aleut:noun" is not a synonym for "rightly".
+    value: aleut:noun
+  - correct: false
+    detail: Incorrect, "galeras:noun" is not a synonym for "rightly".
+    value: galeras:noun
+  text: What is a synonym for "rightly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "selfishly" is a synonym for "egotistically".
+    value: selfishly
+  - correct: false
+    detail: Incorrect, "affixed:verb" is not a synonym for "egotistically".
+    value: affixed:verb
+  - correct: false
+    detail: Incorrect, "genus andrena:noun" is not a synonym for "egotistically".
+    value: genus andrena:noun
+  - correct: false
+    detail: Incorrect, "slosh around:verb" is not a synonym for "egotistically".
+    value: slosh around:verb
+  text: What is a synonym for "egotistically"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "sequentially" is a synonym for "consecutive".
+    value: sequentially
+  - correct: false
+    detail: Incorrect, "dashed:satellite" is not a synonym for "consecutive".
+    value: dashed:satellite
+  - correct: false
+    detail: Incorrect, "nothofagus menziesii:noun" is not a synonym for "consecutive".
+    value: nothofagus menziesii:noun
+  - correct: false
+    detail: Incorrect, "spironolactone:noun" is not a synonym for "consecutive".
+    value: spironolactone:noun
+  text: What is a synonym for "consecutive"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "at any expense" is a synonym for "at all costs".
+    value: at any expense
+  - correct: false
+    detail: Incorrect, "holy trinity:noun" is not a synonym for "at all costs".
+    value: holy trinity:noun
+  - correct: false
+    detail: Incorrect, "bowiea:noun" is not a synonym for "at all costs".
+    value: bowiea:noun
+  - correct: false
+    detail: Incorrect, "genus sambucus:noun" is not a synonym for "at all costs".
+    value: genus sambucus:noun
+  text: What is a synonym for "at all costs"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "observingly" is a synonym for "observantly".
+    value: observingly
+  - correct: false
+    detail: Incorrect, "feature film:noun" is not a synonym for "observantly".
+    value: feature film:noun
+  - correct: false
+    detail: Incorrect, "mad-dog weed:noun" is not a synonym for "observantly".
+    value: mad-dog weed:noun
+  - correct: false
+    detail: Incorrect, "lavation:noun" is not a synonym for "observantly".
+    value: lavation:noun
+  text: What is a synonym for "observantly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "ceremonially" is a synonym for "ritually".
+    value: ceremonially
+  - correct: false
+    detail: Incorrect, "welch:verb" is not a synonym for "ritually".
+    value: welch:verb
+  - correct: false
+    detail: Incorrect, "yes-man:noun" is not a synonym for "ritually".
+    value: yes-man:noun
+  - correct: false
+    detail: Incorrect, "stipendiary magistrate:noun" is not a synonym for "ritually".
+    value: stipendiary magistrate:noun
+  text: What is a synonym for "ritually"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "everywhere" is a synonym for "everyplace".
+    value: everywhere
+  - correct: false
+    detail: Incorrect, "elephant ear:noun" is not a synonym for "everyplace".
+    value: elephant ear:noun
+  - correct: false
+    detail: Incorrect, "maillot:noun" is not a synonym for "everyplace".
+    value: maillot:noun
+  - correct: false
+    detail: Incorrect, "redfish:noun" is not a synonym for "everyplace".
+    value: redfish:noun
+  text: What is a synonym for "everyplace"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "in the main" is a synonym for "in general".
+    value: generally
+  - correct: false
+    detail: Incorrect, "acromikria:noun" is not a synonym for "in general".
+    value: acromikria:noun
+  - correct: false
+    detail: Incorrect, "superciliary ridge:noun" is not a synonym for "in general".
+    value: superciliary ridge:noun
+  - correct: false
+    detail: Incorrect, "creedal:adjective" is not a synonym for "in general".
+    value: creedal:adjective
+  text: What is a synonym for "in general"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "deceptively" is a synonym for "misleadingly".
+    value: deceivingly
+  - correct: false
+    detail: Incorrect, "x:noun" is not a synonym for "misleadingly".
+    value: x:noun
+  - correct: false
+    detail: Incorrect, "wager:noun" is not a synonym for "misleadingly".
+    value: wager:noun
+  - correct: false
+    detail: Incorrect, "oppression:noun" is not a synonym for "misleadingly".
+    value: oppression:noun
+  text: What is a synonym for "misleadingly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "squarely" is a synonym for "forthrightly".
+    value: squarely
+  - correct: false
+    detail: Incorrect, "lead on:verb" is not a synonym for "forthrightly".
+    value: lead on:verb
+  - correct: false
+    detail: Incorrect, "abbreviate:verb" is not a synonym for "forthrightly".
+    value: abbreviate:verb
+  - correct: false
+    detail: Incorrect, "trucker:noun" is not a synonym for "forthrightly".
+    value: trucker:noun
+  text: What is a synonym for "forthrightly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "bright" is a synonym for "brightly".
+    value: bright
+  - correct: false
+    detail: Incorrect, "1890s:noun" is not a synonym for "brightly".
+    value: 1890s:noun
+  - correct: false
+    detail: Incorrect, "pimp:verb" is not a synonym for "brightly".
+    value: pimp:verb
+  - correct: false
+    detail: Incorrect, "aeolus:noun" is not a synonym for "brightly".
+    value: aeolus:noun
+  text: What is a synonym for "brightly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "mercilessly" is a synonym for "unmercifully".
+    value: pitilessly
+  - correct: false
+    detail: Incorrect, "logan:noun" is not a synonym for "unmercifully".
+    value: logan:noun
+  - correct: false
+    detail: Incorrect, "anklets:noun" is not a synonym for "unmercifully".
+    value: anklets:noun
+  - correct: false
+    detail: Incorrect, "pally:satellite" is not a synonym for "unmercifully".
+    value: pally:satellite
+  text: What is a synonym for "unmercifully"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "woefully" is a synonym for "deplorably".
+    value: woefully
+  - correct: false
+    detail: Incorrect, "weigh:verb" is not a synonym for "deplorably".
+    value: weigh:verb
+  - correct: false
+    detail: Incorrect, "aristolochiaceae:noun" is not a synonym for "deplorably".
+    value: aristolochiaceae:noun
+  - correct: false
+    detail: Incorrect, "bench:noun" is not a synonym for "deplorably".
+    value: bench:noun
+  text: What is a synonym for "deplorably"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "skew-whiff" is a synonym for "askew".
+    value: skew-whiff
+  - correct: false
+    detail: Incorrect, "ichneumonidae:noun" is not a synonym for "askew".
+    value: ichneumonidae:noun
+  - correct: false
+    detail: Incorrect, "scale:noun" is not a synonym for "askew".
+    value: scale:noun
+  - correct: false
+    detail: Incorrect, "omsk:noun" is not a synonym for "askew".
+    value: omsk:noun
+  text: What is a synonym for "askew"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "all at once|suddenly" is a synonym for "all of a sudden".
+    value: all at once|suddenly
+  - correct: false
+    detail: Incorrect, "discreditably:adverb" is not a synonym for "all of a sudden".
+    value: discreditably:adverb
+  - correct: false
+    detail: Incorrect, "restricting:verb" is not a synonym for "all of a sudden".
+    value: restricting:verb
+  - correct: false
+    detail: Incorrect, "liabilities:noun" is not a synonym for "all of a sudden".
+    value: liabilities:noun
+  text: What is a synonym for "all of a sudden"?

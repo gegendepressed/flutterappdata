@@ -1,0 +1,301 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "frumpily" is a synonym for "frumpishly".
+    value: frumpily
+  - correct: false
+    detail: Incorrect, "uncontrollable:satellite" is not a synonym for "frumpishly".
+    value: uncontrollable:satellite
+  - correct: false
+    detail: Incorrect, "quechua:noun" is not a synonym for "frumpishly".
+    value: quechua:noun
+  - correct: false
+    detail: Incorrect, "timimoun:noun" is not a synonym for "frumpishly".
+    value: timimoun:noun
+  text: What is a synonym for "frumpishly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "unacceptably" is a synonym for "intolerably".
+    value: unacceptably
+  - correct: false
+    detail: Incorrect, "rifle shot:noun" is not a synonym for "intolerably".
+    value: rifle shot:noun
+  - correct: false
+    detail: Incorrect, "spread-eagle:verb" is not a synonym for "intolerably".
+    value: spread-eagle:verb
+  - correct: false
+    detail: Incorrect, "shellac varnish:noun" is not a synonym for "intolerably".
+    value: shellac varnish:noun
+  text: What is a synonym for "intolerably"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "altruistically" is a synonym for "selflessly".
+    value: altruistically
+  - correct: false
+    detail: Incorrect, "platonic solid:noun" is not a synonym for "selflessly".
+    value: platonic solid:noun
+  - correct: false
+    detail: Incorrect, "tape:noun" is not a synonym for "selflessly".
+    value: tape:noun
+  - correct: false
+    detail: Incorrect, "sexual urge:noun" is not a synonym for "selflessly".
+    value: sexual urge:noun
+  text: What is a synonym for "selflessly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "right along" is a synonym for "all along".
+    value: right along
+  - correct: false
+    detail: Incorrect, "blotting paper:noun" is not a synonym for "all along".
+    value: blotting paper:noun
+  - correct: false
+    detail: Incorrect, "solvent:noun" is not a synonym for "all along".
+    value: solvent:noun
+  - correct: false
+    detail: Incorrect, "lycopodiales:noun" is not a synonym for "all along".
+    value: lycopodiales:noun
+  text: What is a synonym for "all along"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "extemporaneously" is a synonym for "extempore".
+    value: extemporarily
+  - correct: false
+    detail: Incorrect, "vatican council:noun" is not a synonym for "extempore".
+    value: vatican council:noun
+  - correct: false
+    detail: Incorrect, "emily dickinson:noun" is not a synonym for "extempore".
+    value: emily dickinson:noun
+  - correct: false
+    detail: Incorrect, "sangria:noun" is not a synonym for "extempore".
+    value: sangria:noun
+  text: What is a synonym for "extempore"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "on a higher floor" is a synonym for "up the stairs".
+    value: upstairs
+  - correct: false
+    detail: Incorrect, "diethylstilboestrol:noun" is not a synonym for "up the stairs".
+    value: diethylstilboestrol:noun
+  - correct: false
+    detail: Incorrect, "organized crime:noun" is not a synonym for "up the stairs".
+    value: organized crime:noun
+  - correct: false
+    detail: Incorrect, "mumbler:noun" is not a synonym for "up the stairs".
+    value: mumbler:noun
+  text: What is a synonym for "up the stairs"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "ne'er" is a synonym for "never".
+    value: ne'er
+  - correct: false
+    detail: Incorrect, "grizzled:verb" is not a synonym for "never".
+    value: grizzled:verb
+  - correct: false
+    detail: Incorrect, "uzi:noun" is not a synonym for "never".
+    value: uzi:noun
+  - correct: false
+    detail: Incorrect, "picture show:noun" is not a synonym for "never".
+    value: picture show:noun
+  text: What is a synonym for "never"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "tersely" is a synonym for "telegraphically".
+    value: tersely
+  - correct: false
+    detail: Incorrect, "william ii:noun" is not a synonym for "telegraphically".
+    value: william ii:noun
+  - correct: false
+    detail: Incorrect, "icterus galbula bullockii:noun" is not a synonym for "telegraphically".
+    value: icterus galbula bullockii:noun
+  - correct: false
+    detail: Incorrect, "al gore:noun" is not a synonym for "telegraphically".
+    value: al gore:noun
+  text: What is a synonym for "telegraphically"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "intentionally" is a synonym for "advisedly".
+    value: designedly
+  - correct: false
+    detail: Incorrect, "holy see:noun" is not a synonym for "advisedly".
+    value: holy see:noun
+  - correct: false
+    detail: Incorrect, "ft:noun" is not a synonym for "advisedly".
+    value: ft:noun
+  - correct: false
+    detail: Incorrect, "peromyscus:noun" is not a synonym for "advisedly".
+    value: peromyscus:noun
+  text: What is a synonym for "advisedly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "per year" is a synonym for "each year".
+    value: p.a.
+  - correct: false
+    detail: Incorrect, "ninety-eight:satellite" is not a synonym for "each year".
+    value: ninety-eight:satellite
+  - correct: false
+    detail: Incorrect, "torturous:satellite" is not a synonym for "each year".
+    value: torturous:satellite
+  - correct: false
+    detail: Incorrect, "perfuse:verb" is not a synonym for "each year".
+    value: perfuse:verb
+  text: What is a synonym for "each year"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "still" is a synonym for "even".
+    value: still
+  - correct: false
+    detail: Incorrect, "school principal:noun" is not a synonym for "even".
+    value: school principal:noun
+  - correct: false
+    detail: Incorrect, "family lecythidaceae:noun" is not a synonym for "even".
+    value: family lecythidaceae:noun
+  - correct: false
+    detail: Incorrect, "get across:verb" is not a synonym for "even".
+    value: get across:verb
+  text: What is a synonym for "even"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "goddamn" is a synonym for "goddam".
+    value: goddamn
+  - correct: false
+    detail: Incorrect, "ramesses:noun" is not a synonym for "goddam".
+    value: ramesses:noun
+  - correct: false
+    detail: Incorrect, "gainsborough:noun" is not a synonym for "goddam".
+    value: gainsborough:noun
+  - correct: false
+    detail: Incorrect, "stellaria holostea:noun" is not a synonym for "goddam".
+    value: stellaria holostea:noun
+  text: What is a synonym for "goddam"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "insultingly" is a synonym for "foully".
+    value: insultingly
+  - correct: false
+    detail: Incorrect, "seating:noun" is not a synonym for "foully".
+    value: seating:noun
+  - correct: false
+    detail: Incorrect, "nitrate bacterium:noun" is not a synonym for "foully".
+    value: nitrate bacterium:noun
+  - correct: false
+    detail: Incorrect, "homebuilder:noun" is not a synonym for "foully".
+    value: homebuilder:noun
+  text: What is a synonym for "foully"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "preeminently" is a synonym for "pre-eminently".
+    value: preeminently
+  - correct: false
+    detail: Incorrect, "whiskey neat:noun" is not a synonym for "pre-eminently".
+    value: whiskey neat:noun
+  - correct: false
+    detail: Incorrect, "crocodylia:noun" is not a synonym for "pre-eminently".
+    value: crocodylia:noun
+  - correct: false
+    detail: Incorrect, "hue and cry:noun" is not a synonym for "pre-eminently".
+    value: hue and cry:noun
+  text: What is a synonym for "pre-eminently"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "artfully" is a synonym for "disingenuously".
+    value: artfully
+  - correct: false
+    detail: Incorrect, "sea:noun" is not a synonym for "disingenuously".
+    value: sea:noun
+  - correct: false
+    detail: Incorrect, "preference shares:noun" is not a synonym for "disingenuously".
+    value: preference shares:noun
+  - correct: false
+    detail: Incorrect, "physical rehabilitation:noun" is not a synonym for "disingenuously".
+    value: physical rehabilitation:noun
+  text: What is a synonym for "disingenuously"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "plunk" is a synonym for "plop".
+    value: plunk
+  - correct: false
+    detail: Incorrect, "genus falco:noun" is not a synonym for "plop".
+    value: genus falco:noun
+  - correct: false
+    detail: Incorrect, "1-dodecanol:noun" is not a synonym for "plop".
+    value: 1-dodecanol:noun
+  - correct: false
+    detail: Incorrect, "damascene:noun" is not a synonym for "plop".
+    value: damascene:noun
+  text: What is a synonym for "plop"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "scornfully" is a synonym for "disdainfully".
+    value: scornfully
+  - correct: false
+    detail: Incorrect, "aerospace medicine:noun" is not a synonym for "disdainfully".
+    value: aerospace medicine:noun
+  - correct: false
+    detail: Incorrect, "cling film:noun" is not a synonym for "disdainfully".
+    value: cling film:noun
+  - correct: false
+    detail: Incorrect, "censor:verb" is not a synonym for "disdainfully".
+    value: censor:verb
+  text: What is a synonym for "disdainfully"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "profitably" is a synonym for "fruitfully".
+    value: productively
+  - correct: false
+    detail: Incorrect, "microtus ochrogaster:noun" is not a synonym for "fruitfully".
+    value: microtus ochrogaster:noun
+  - correct: false
+    detail: Incorrect, "poison-berry:noun" is not a synonym for "fruitfully".
+    value: poison-berry:noun
+  - correct: false
+    detail: Incorrect, "preponderating:verb" is not a synonym for "fruitfully".
+    value: preponderating:verb
+  text: What is a synonym for "fruitfully"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "intentionally" is a synonym for "deliberately".
+    value: advisedly
+  - correct: false
+    detail: Incorrect, "fantasise:verb" is not a synonym for "deliberately".
+    value: fantasise:verb
+  - correct: false
+    detail: Incorrect, "garb:noun" is not a synonym for "deliberately".
+    value: garb:noun
+  - correct: false
+    detail: Incorrect, "huge:satellite" is not a synonym for "deliberately".
+    value: huge:satellite
+  text: What is a synonym for "deliberately"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "doltishly" is a synonym for "stupidly".
+    value: doltishly
+  - correct: false
+    detail: Incorrect, "coop:noun" is not a synonym for "stupidly".
+    value: coop:noun
+  - correct: false
+    detail: Incorrect, "photometrician:noun" is not a synonym for "stupidly".
+    value: photometrician:noun
+  - correct: false
+    detail: Incorrect, "haverhill fever:noun" is not a synonym for "stupidly".
+    value: haverhill fever:noun
+  text: What is a synonym for "stupidly"?

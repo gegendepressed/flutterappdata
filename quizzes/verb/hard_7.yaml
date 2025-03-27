@@ -1,0 +1,301 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "foam" is a synonym for "effervesce".
+    value: froth
+  - correct: false
+    detail: Incorrect, "inexpedient:satellite" is not a synonym for "effervesce".
+    value: inexpedient:satellite
+  - correct: false
+    detail: Incorrect, "tay:noun" is not a synonym for "effervesce".
+    value: tay:noun
+  - correct: false
+    detail: Incorrect, "u.s. house of representatives:noun" is not a synonym for "effervesce".
+    value: u.s. house of representatives:noun
+  text: What is a synonym for "effervesce"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "alphabetize" is a synonym for "alphabetized".
+    value: alphabetise|alphabetize
+  - correct: false
+    detail: Incorrect, "visionary:noun" is not a synonym for "alphabetized".
+    value: visionary:noun
+  - correct: false
+    detail: Incorrect, "nonkosher:satellite" is not a synonym for "alphabetized".
+    value: nonkosher:satellite
+  - correct: false
+    detail: Incorrect, "twinned:verb" is not a synonym for "alphabetized".
+    value: twinned:verb
+  text: What is a synonym for "alphabetized"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "company" is a synonym for "keep company".
+    value: companion
+  - correct: false
+    detail: Incorrect, "articulatio genus:noun" is not a synonym for "keep company".
+    value: articulatio genus:noun
+  - correct: false
+    detail: Incorrect, "overwhelm:verb" is not a synonym for "keep company".
+    value: overwhelm:verb
+  - correct: false
+    detail: Incorrect, "stare:verb" is not a synonym for "keep company".
+    value: stare:verb
+  text: What is a synonym for "keep company"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "plot" is a synonym for "plat".
+    value: plot
+  - correct: false
+    detail: Incorrect, "sumptuousness:noun" is not a synonym for "plat".
+    value: sumptuousness:noun
+  - correct: false
+    detail: Incorrect, "the hague:noun" is not a synonym for "plat".
+    value: the hague:noun
+  - correct: false
+    detail: Incorrect, "ticktacktoo:noun" is not a synonym for "plat".
+    value: ticktacktoo:noun
+  text: What is a synonym for "plat"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "script" is a synonym for "scripted".
+    value: script
+  - correct: false
+    detail: Incorrect, "gastronomical:adjective" is not a synonym for "scripted".
+    value: gastronomical:adjective
+  - correct: false
+    detail: Incorrect, "sebaceous gland:noun" is not a synonym for "scripted".
+    value: sebaceous gland:noun
+  - correct: false
+    detail: Incorrect, "ganges river:noun" is not a synonym for "scripted".
+    value: ganges river:noun
+  text: What is a synonym for "scripted"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "carbonize" is a synonym for "carburize".
+    value: carburise
+  - correct: false
+    detail: Incorrect, "phleum:noun" is not a synonym for "carburize".
+    value: phleum:noun
+  - correct: false
+    detail: Incorrect, "choiceness:noun" is not a synonym for "carburize".
+    value: choiceness:noun
+  - correct: false
+    detail: Incorrect, "toter:noun" is not a synonym for "carburize".
+    value: toter:noun
+  text: What is a synonym for "carburize"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "mope" is a synonym for "mope around".
+    value: mope
+  - correct: false
+    detail: Incorrect, "sexual reproduction:noun" is not a synonym for "mope around".
+    value: sexual reproduction:noun
+  - correct: false
+    detail: Incorrect, "genus galega:noun" is not a synonym for "mope around".
+    value: genus galega:noun
+  - correct: false
+    detail: Incorrect, "candlenut:noun" is not a synonym for "mope around".
+    value: candlenut:noun
+  text: What is a synonym for "mope around"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "short-change|short-circuit" is a synonym for "short".
+    value: short-change|short-circuit
+  - correct: false
+    detail: Incorrect, "marasmius oreades:noun" is not a synonym for "short".
+    value: marasmius oreades:noun
+  - correct: false
+    detail: Incorrect, "pose:noun" is not a synonym for "short".
+    value: pose:noun
+  - correct: false
+    detail: Incorrect, "atypically:adverb" is not a synonym for "short".
+    value: atypically:adverb
+  text: What is a synonym for "short"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "subvent|cover" is a synonym for "underwrite".
+    value: insure
+  - correct: false
+    detail: Incorrect, "bird's foot clover:noun" is not a synonym for "underwrite".
+    value: bird's foot clover:noun
+  - correct: false
+    detail: Incorrect, "ossete:noun" is not a synonym for "underwrite".
+    value: ossete:noun
+  - correct: false
+    detail: Incorrect, "tamponage:noun" is not a synonym for "underwrite".
+    value: tamponage:noun
+  text: What is a synonym for "underwrite"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "concentrate|concentrate" is a synonym for "concentrated".
+    value: focus
+  - correct: false
+    detail: Incorrect, "tacoma narrows bridge:noun" is not a synonym for "concentrated".
+    value: tacoma narrows bridge:noun
+  - correct: false
+    detail: Incorrect, "perejil:noun" is not a synonym for "concentrated".
+    value: perejil:noun
+  - correct: false
+    detail: Incorrect, "detribalization:noun" is not a synonym for "concentrated".
+    value: detribalization:noun
+  text: What is a synonym for "concentrated"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "gross out" is a synonym for "disgusting".
+    value: revolt
+  - correct: false
+    detail: Incorrect, "distinguish:verb" is not a synonym for "disgusting".
+    value: distinguish:verb
+  - correct: false
+    detail: Incorrect, "elevated railway:noun" is not a synonym for "disgusting".
+    value: elevated railway:noun
+  - correct: false
+    detail: Incorrect, "sultan:noun" is not a synonym for "disgusting".
+    value: sultan:noun
+  text: What is a synonym for "disgusting"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "miaow" is a synonym for "miaou".
+    value: miaow
+  - correct: false
+    detail: Incorrect, "power law:noun" is not a synonym for "miaou".
+    value: power law:noun
+  - correct: false
+    detail: Incorrect, "propelling:verb" is not a synonym for "miaou".
+    value: propelling:verb
+  - correct: false
+    detail: Incorrect, "spook:noun" is not a synonym for "miaou".
+    value: spook:noun
+  text: What is a synonym for "miaou"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "require|command|dominate" is a synonym for "commanding".
+    value: require|command|dominate
+  - correct: false
+    detail: Incorrect, "blind bend:noun" is not a synonym for "commanding".
+    value: blind bend:noun
+  - correct: false
+    detail: Incorrect, "brown rat:noun" is not a synonym for "commanding".
+    value: brown rat:noun
+  - correct: false
+    detail: Incorrect, "sedateness:noun" is not a synonym for "commanding".
+    value: sedateness:noun
+  text: What is a synonym for "commanding"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "horrify" is a synonym for "horrifying".
+    value: horrify
+  - correct: false
+    detail: Incorrect, "mugful:noun" is not a synonym for "horrifying".
+    value: mugful:noun
+  - correct: false
+    detail: Incorrect, "organise:verb" is not a synonym for "horrifying".
+    value: organise:verb
+  - correct: false
+    detail: Incorrect, "intent:satellite" is not a synonym for "horrifying".
+    value: intent:satellite
+  text: What is a synonym for "horrifying"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "poll" is a synonym for "pollard".
+    value: poll
+  - correct: false
+    detail: Incorrect, "icelandic:adjective" is not a synonym for "pollard".
+    value: icelandic:adjective
+  - correct: false
+    detail: Incorrect, "voznesenski:noun" is not a synonym for "pollard".
+    value: voznesenski:noun
+  - correct: false
+    detail: Incorrect, "stave off:verb" is not a synonym for "pollard".
+    value: stave off:verb
+  text: What is a synonym for "pollard"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hit the deck" is a synonym for "hit the dirt".
+    value: hit the deck
+  - correct: false
+    detail: Incorrect, "slovene:noun" is not a synonym for "hit the dirt".
+    value: slovene:noun
+  - correct: false
+    detail: Incorrect, "prompter's box:noun" is not a synonym for "hit the dirt".
+    value: prompter's box:noun
+  - correct: false
+    detail: Incorrect, "dnieper:noun" is not a synonym for "hit the dirt".
+    value: dnieper:noun
+  text: What is a synonym for "hit the dirt"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "swelter|swelter" is a synonym for "sweltering".
+    value: swelter|swelter
+  - correct: false
+    detail: Incorrect, "jose ortega y gasset:noun" is not a synonym for "sweltering".
+    value: jose ortega y gasset:noun
+  - correct: false
+    detail: Incorrect, "capital of senegal:noun" is not a synonym for "sweltering".
+    value: capital of senegal:noun
+  - correct: false
+    detail: Incorrect, "genus colocasia:noun" is not a synonym for "sweltering".
+    value: genus colocasia:noun
+  text: What is a synonym for "sweltering"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "forewarn" is a synonym for "forewarning".
+    value: previse
+  - correct: false
+    detail: Incorrect, "inebriate:noun" is not a synonym for "forewarning".
+    value: inebriate:noun
+  - correct: false
+    detail: Incorrect, "rosacea:noun" is not a synonym for "forewarning".
+    value: rosacea:noun
+  - correct: false
+    detail: Incorrect, "exchangeable:adjective" is not a synonym for "forewarning".
+    value: exchangeable:adjective
+  text: What is a synonym for "forewarning"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "buy" is a synonym for "purchasing".
+    value: purchase
+  - correct: false
+    detail: Incorrect, "undulant:adjective" is not a synonym for "purchasing".
+    value: undulant:adjective
+  - correct: false
+    detail: Incorrect, "cefoperazone:noun" is not a synonym for "purchasing".
+    value: cefoperazone:noun
+  - correct: false
+    detail: Incorrect, "capital of niger:noun" is not a synonym for "purchasing".
+    value: capital of niger:noun
+  text: What is a synonym for "purchasing"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "call it a day" is a synonym for "call it quits".
+    value: call it a day
+  - correct: false
+    detail: Incorrect, "intradermic:adjective" is not a synonym for "call it quits".
+    value: intradermic:adjective
+  - correct: false
+    detail: Incorrect, "brain disorder:noun" is not a synonym for "call it quits".
+    value: brain disorder:noun
+  - correct: false
+    detail: Incorrect, "dingy:satellite" is not a synonym for "call it quits".
+    value: dingy:satellite
+  text: What is a synonym for "call it quits"?

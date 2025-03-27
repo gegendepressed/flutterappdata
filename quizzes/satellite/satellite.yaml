@@ -1,0 +1,13 @@
+id: satellite
+img: satellite.png
+quizzes:
+- description: Synonyms for Satellite (Easy)
+  id: satellite-easy
+  title: Satellite - Easy
+- description: Synonyms for Satellite (Medium)
+  id: satellite-medium
+  title: Satellite - Medium
+- description: Synonyms for Satellite (Hard)
+  id: satellite-hard
+  title: Satellite - Hard
+title: Satellite Synonyms

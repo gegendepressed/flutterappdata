@@ -1,0 +1,303 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "snail bean" is a synonym for "snail flower".
+    value: Vigna caracalla
+  - correct: false
+    detail: Incorrect, "hedge in:verb" is not a synonym for "snail flower".
+    value: hedge in:verb
+  - correct: false
+    detail: Incorrect, "wound:noun" is not a synonym for "snail flower".
+    value: wound:noun
+  - correct: false
+    detail: Incorrect, "ice cap:noun" is not a synonym for "snail flower".
+    value: ice cap:noun
+  text: What is a synonym for "snail flower"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "genus Boselaphus" is a synonym for "boselaphus".
+    value: Boselaphus
+  - correct: false
+    detail: Incorrect, "phylogeny:noun" is not a synonym for "boselaphus".
+    value: phylogeny:noun
+  - correct: false
+    detail: Incorrect, "restless:satellite" is not a synonym for "boselaphus".
+    value: restless:satellite
+  - correct: false
+    detail: Incorrect, "kekule formula:noun" is not a synonym for "boselaphus".
+    value: kekule formula:noun
+  text: What is a synonym for "boselaphus"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "rock wallaby" is a synonym for "rock kangaroo".
+    value: rock wallaby
+  - correct: false
+    detail: Incorrect, "meteoric:adjective" is not a synonym for "rock kangaroo".
+    value: meteoric:adjective
+  - correct: false
+    detail: Incorrect, "spirit rapping:noun" is not a synonym for "rock kangaroo".
+    value: spirit rapping:noun
+  - correct: false
+    detail: Incorrect, "costmary:noun" is not a synonym for "rock kangaroo".
+    value: costmary:noun
+  text: What is a synonym for "rock kangaroo"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "overestimate" is a synonym for "overappraisal".
+    value: overvaluation
+  - correct: false
+    detail: Incorrect, "genus acipenser:noun" is not a synonym for "overappraisal".
+    value: genus acipenser:noun
+  - correct: false
+    detail: Incorrect, "phylum rotifera:noun" is not a synonym for "overappraisal".
+    value: phylum rotifera:noun
+  - correct: false
+    detail: Incorrect, "osmunda cinnamonea:noun" is not a synonym for "overappraisal".
+    value: osmunda cinnamonea:noun
+  text: What is a synonym for "overappraisal"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Jonas Edward Salk" is a synonym for "jonas edward salk".
+    value: Jonas Edward Salk
+  - correct: false
+    detail: Incorrect, "chelonia:noun" is not a synonym for "jonas edward salk".
+    value: chelonia:noun
+  - correct: false
+    detail: Incorrect, "briny:noun" is not a synonym for "jonas edward salk".
+    value: briny:noun
+  - correct: false
+    detail: Incorrect, "thirty:satellite" is not a synonym for "jonas edward salk".
+    value: thirty:satellite
+  text: What is a synonym for "jonas edward salk"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "donkey boiler" is a synonym for "auxiliary boiler".
+    value: donkey boiler
+  - correct: false
+    detail: Incorrect, "stemmer:noun" is not a synonym for "auxiliary boiler".
+    value: stemmer:noun
+  - correct: false
+    detail: Incorrect, "bunk:noun" is not a synonym for "auxiliary boiler".
+    value: bunk:noun
+  - correct: false
+    detail: Incorrect, "ailurus fulgens:noun" is not a synonym for "auxiliary boiler".
+    value: ailurus fulgens:noun
+  text: What is a synonym for "auxiliary boiler"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Lilium superbum" is a synonym for "turk's cap-lily".
+    value: Lilium superbum
+  - correct: false
+    detail: Incorrect, "genitals:noun" is not a synonym for "turk's cap-lily".
+    value: genitals:noun
+  - correct: false
+    detail: Incorrect, "mulloidichthys martinicus:noun" is not a synonym for "turk's
+      cap-lily".
+    value: mulloidichthys martinicus:noun
+  - correct: false
+    detail: Incorrect, "wrong:adverb" is not a synonym for "turk's cap-lily".
+    value: wrong:adverb
+  text: What is a synonym for "turk's cap-lily"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "wild ox" is a synonym for "ox".
+    value: wild ox
+  - correct: false
+    detail: Incorrect, "cogitate:verb" is not a synonym for "ox".
+    value: cogitate:verb
+  - correct: false
+    detail: Incorrect, "ajuga chamaepitys:noun" is not a synonym for "ox".
+    value: ajuga chamaepitys:noun
+  - correct: false
+    detail: Incorrect, "demur:verb" is not a synonym for "ox".
+    value: demur:verb
+  text: What is a synonym for "ox"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "brachydactyly" is a synonym for "brachydactylia".
+    value: brachydactyly
+  - correct: false
+    detail: Incorrect, "william herschel:noun" is not a synonym for "brachydactylia".
+    value: william herschel:noun
+  - correct: false
+    detail: Incorrect, "actual:satellite" is not a synonym for "brachydactylia".
+    value: actual:satellite
+  - correct: false
+    detail: Incorrect, "creak:verb" is not a synonym for "brachydactylia".
+    value: creak:verb
+  text: What is a synonym for "brachydactylia"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "cirque" is a synonym for "corrie".
+    value: cwm
+  - correct: false
+    detail: Incorrect, "lower court:noun" is not a synonym for "corrie".
+    value: lower court:noun
+  - correct: false
+    detail: Incorrect, "half-tracked:satellite" is not a synonym for "corrie".
+    value: half-tracked:satellite
+  - correct: false
+    detail: Incorrect, "reoviridae:noun" is not a synonym for "corrie".
+    value: reoviridae:noun
+  text: What is a synonym for "corrie"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "probationer" is a synonym for "student nurse".
+    value: probationer
+  - correct: false
+    detail: Incorrect, "lespedeza striata:noun" is not a synonym for "student nurse".
+    value: lespedeza striata:noun
+  - correct: false
+    detail: Incorrect, "hydrophyllum virginianum:noun" is not a synonym for "student
+      nurse".
+    value: hydrophyllum virginianum:noun
+  - correct: false
+    detail: Incorrect, "liposuction:noun" is not a synonym for "student nurse".
+    value: liposuction:noun
+  text: What is a synonym for "student nurse"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Peronospora hyoscyami" is a synonym for "peronospora hyoscyami".
+    value: Peronospora hyoscyami
+  - correct: false
+    detail: Incorrect, "caucasus:noun" is not a synonym for "peronospora hyoscyami".
+    value: caucasus:noun
+  - correct: false
+    detail: Incorrect, "eruditeness:noun" is not a synonym for "peronospora hyoscyami".
+    value: eruditeness:noun
+  - correct: false
+    detail: Incorrect, "gunny:noun" is not a synonym for "peronospora hyoscyami".
+    value: gunny:noun
+  text: What is a synonym for "peronospora hyoscyami"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "family Ardeidae" is a synonym for "ardeidae".
+    value: Ardeidae
+  - correct: false
+    detail: Incorrect, "political party:noun" is not a synonym for "ardeidae".
+    value: political party:noun
+  - correct: false
+    detail: Incorrect, "drepanididae:noun" is not a synonym for "ardeidae".
+    value: drepanididae:noun
+  - correct: false
+    detail: Incorrect, "genus mirabilis:noun" is not a synonym for "ardeidae".
+    value: genus mirabilis:noun
+  text: What is a synonym for "ardeidae"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Ummah" is a synonym for "islamic ummah".
+    value: Umma
+  - correct: false
+    detail: Incorrect, "fission:noun" is not a synonym for "islamic ummah".
+    value: fission:noun
+  - correct: false
+    detail: Incorrect, "for the time being:adverb" is not a synonym for "islamic ummah".
+    value: for the time being:adverb
+  - correct: false
+    detail: Incorrect, "barber's itch:noun" is not a synonym for "islamic ummah".
+    value: barber's itch:noun
+  text: What is a synonym for "islamic ummah"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "plastic surgeon" is a synonym for "cosmetic surgeon".
+    value: plastic surgeon
+  - correct: false
+    detail: Incorrect, "organ transplant:noun" is not a synonym for "cosmetic surgeon".
+    value: organ transplant:noun
+  - correct: false
+    detail: Incorrect, "binger:noun" is not a synonym for "cosmetic surgeon".
+    value: binger:noun
+  - correct: false
+    detail: Incorrect, "treed:verb" is not a synonym for "cosmetic surgeon".
+    value: treed:verb
+  text: What is a synonym for "cosmetic surgeon"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "expectoration" is a synonym for "spitting".
+    value: expectoration
+  - correct: false
+    detail: Incorrect, "kingwood:noun" is not a synonym for "spitting".
+    value: kingwood:noun
+  - correct: false
+    detail: Incorrect, "hagia sophia:noun" is not a synonym for "spitting".
+    value: hagia sophia:noun
+  - correct: false
+    detail: Incorrect, "carya myristiciformis:noun" is not a synonym for "spitting".
+    value: carya myristiciformis:noun
+  text: What is a synonym for "spitting"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Tageteste" is a synonym for "genus tagetes".
+    value: genus Tagetes
+  - correct: false
+    detail: Incorrect, "etymologizing:noun" is not a synonym for "genus tagetes".
+    value: etymologizing:noun
+  - correct: false
+    detail: Incorrect, "mangifera indica:noun" is not a synonym for "genus tagetes".
+    value: mangifera indica:noun
+  - correct: false
+    detail: Incorrect, "oath:noun" is not a synonym for "genus tagetes".
+    value: oath:noun
+  text: What is a synonym for "genus tagetes"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "autochthony" is a synonym for "indigenousness".
+    value: autochthony
+  - correct: false
+    detail: Incorrect, "dowered:verb" is not a synonym for "indigenousness".
+    value: dowered:verb
+  - correct: false
+    detail: Incorrect, "ethacrynic acid:noun" is not a synonym for "indigenousness".
+    value: ethacrynic acid:noun
+  - correct: false
+    detail: Incorrect, "balarama:noun" is not a synonym for "indigenousness".
+    value: balarama:noun
+  text: What is a synonym for "indigenousness"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "correction" is a synonym for "fudge factor".
+    value: correction
+  - correct: false
+    detail: Incorrect, "centered:verb" is not a synonym for "fudge factor".
+    value: centered:verb
+  - correct: false
+    detail: Incorrect, "quiet:adverb" is not a synonym for "fudge factor".
+    value: quiet:adverb
+  - correct: false
+    detail: Incorrect, "abamp:noun" is not a synonym for "fudge factor".
+    value: abamp:noun
+  text: What is a synonym for "fudge factor"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Hercules'-club" is a synonym for "aralia spinosa".
+    value: devil's walking stick
+  - correct: false
+    detail: Incorrect, "esthesia:noun" is not a synonym for "aralia spinosa".
+    value: esthesia:noun
+  - correct: false
+    detail: Incorrect, "unlikeness:noun" is not a synonym for "aralia spinosa".
+    value: unlikeness:noun
+  - correct: false
+    detail: Incorrect, "mediterranean:noun" is not a synonym for "aralia spinosa".
+    value: mediterranean:noun
+  text: What is a synonym for "aralia spinosa"?

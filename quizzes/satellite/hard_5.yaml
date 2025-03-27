@@ -1,0 +1,301 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "lateen-rigged" is a synonym for "lateen".
+    value: lateen-rigged
+  - correct: false
+    detail: Incorrect, "self-raising flour:noun" is not a synonym for "lateen".
+    value: self-raising flour:noun
+  - correct: false
+    detail: Incorrect, "sharpened:verb" is not a synonym for "lateen".
+    value: sharpened:verb
+  - correct: false
+    detail: Incorrect, "strung-out:satellite" is not a synonym for "lateen".
+    value: strung-out:satellite
+  text: What is a synonym for "lateen"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "refractory" is a synonym for "recalcitrant".
+    value: fractious
+  - correct: false
+    detail: Incorrect, "genus prumnopitys:noun" is not a synonym for "recalcitrant".
+    value: genus prumnopitys:noun
+  - correct: false
+    detail: Incorrect, "school term:noun" is not a synonym for "recalcitrant".
+    value: school term:noun
+  - correct: false
+    detail: Incorrect, "cyclamen:noun" is not a synonym for "recalcitrant".
+    value: cyclamen:noun
+  text: What is a synonym for "recalcitrant"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "broadleaf" is a synonym for "broad-leafed".
+    value: broadleaf
+  - correct: false
+    detail: Incorrect, "shortleaf pine:noun" is not a synonym for "broad-leafed".
+    value: shortleaf pine:noun
+  - correct: false
+    detail: Incorrect, "wall up:verb" is not a synonym for "broad-leafed".
+    value: wall up:verb
+  - correct: false
+    detail: Incorrect, "forethought:noun" is not a synonym for "broad-leafed".
+    value: forethought:noun
+  text: What is a synonym for "broad-leafed"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "forty-ninth" is a synonym for "49th".
+    value: forty-ninth
+  - correct: false
+    detail: Incorrect, "group psychotherapy:noun" is not a synonym for "49th".
+    value: group psychotherapy:noun
+  - correct: false
+    detail: Incorrect, "ortolan:noun" is not a synonym for "49th".
+    value: ortolan:noun
+  - correct: false
+    detail: Incorrect, "neel:noun" is not a synonym for "49th".
+    value: neel:noun
+  text: What is a synonym for "49th"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "regulative" is a synonym for "regulatory".
+    value: regulative
+  - correct: false
+    detail: Incorrect, "fungicidal:adjective" is not a synonym for "regulatory".
+    value: fungicidal:adjective
+  - correct: false
+    detail: Incorrect, "dentist:noun" is not a synonym for "regulatory".
+    value: dentist:noun
+  - correct: false
+    detail: Incorrect, "cohune-nut oil:noun" is not a synonym for "regulatory".
+    value: cohune-nut oil:noun
+  text: What is a synonym for "regulatory"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "maledict" is a synonym for "accursed".
+    value: accurst
+  - correct: false
+    detail: Incorrect, "waist anchor:noun" is not a synonym for "accursed".
+    value: waist anchor:noun
+  - correct: false
+    detail: Incorrect, "epical:adjective" is not a synonym for "accursed".
+    value: epical:adjective
+  - correct: false
+    detail: Incorrect, "night raven:noun" is not a synonym for "accursed".
+    value: night raven:noun
+  text: What is a synonym for "accursed"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "sorrel" is a synonym for "brownish-orange".
+    value: sorrel
+  - correct: false
+    detail: Incorrect, "tone-beginning:noun" is not a synonym for "brownish-orange".
+    value: tone-beginning:noun
+  - correct: false
+    detail: Incorrect, "potato fern:noun" is not a synonym for "brownish-orange".
+    value: potato fern:noun
+  - correct: false
+    detail: Incorrect, "rg:noun" is not a synonym for "brownish-orange".
+    value: rg:noun
+  text: What is a synonym for "brownish-orange"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "organised" is a synonym for "unionized".
+    value: organised
+  - correct: false
+    detail: Incorrect, "dec 24:noun" is not a synonym for "unionized".
+    value: dec 24:noun
+  - correct: false
+    detail: Incorrect, "syllogize:verb" is not a synonym for "unionized".
+    value: syllogize:verb
+  - correct: false
+    detail: Incorrect, "nonsexual:adjective" is not a synonym for "unionized".
+    value: nonsexual:adjective
+  text: What is a synonym for "unionized"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "hi-fi" is a synonym for "high-fidelity".
+    value: hi-fi
+  - correct: false
+    detail: Incorrect, "interpreting:noun" is not a synonym for "high-fidelity".
+    value: interpreting:noun
+  - correct: false
+    detail: Incorrect, "b cell:noun" is not a synonym for "high-fidelity".
+    value: b cell:noun
+  - correct: false
+    detail: Incorrect, "kicksorter:noun" is not a synonym for "high-fidelity".
+    value: kicksorter:noun
+  text: What is a synonym for "high-fidelity"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "bared" is a synonym for "bareheaded".
+    value: bared
+  - correct: false
+    detail: Incorrect, "frequency modulation:noun" is not a synonym for "bareheaded".
+    value: frequency modulation:noun
+  - correct: false
+    detail: Incorrect, "pithy:satellite" is not a synonym for "bareheaded".
+    value: pithy:satellite
+  - correct: false
+    detail: Incorrect, "diagonal:noun" is not a synonym for "bareheaded".
+    value: diagonal:noun
+  text: What is a synonym for "bareheaded"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "sinuous" is a synonym for "sinuate".
+    value: sinuous
+  - correct: false
+    detail: Incorrect, "oestrogen:noun" is not a synonym for "sinuate".
+    value: oestrogen:noun
+  - correct: false
+    detail: Incorrect, "wool stapler:noun" is not a synonym for "sinuate".
+    value: wool stapler:noun
+  - correct: false
+    detail: Incorrect, "wanton:verb" is not a synonym for "sinuate".
+    value: wanton:verb
+  text: What is a synonym for "sinuate"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "contralto|countertenor" is a synonym for "alto".
+    value: contralto|countertenor
+  - correct: false
+    detail: Incorrect, "bakehouse:noun" is not a synonym for "alto".
+    value: bakehouse:noun
+  - correct: false
+    detail: Incorrect, "poison arrow plant:noun" is not a synonym for "alto".
+    value: poison arrow plant:noun
+  - correct: false
+    detail: Incorrect, "selflessly:adverb" is not a synonym for "alto".
+    value: selflessly:adverb
+  text: What is a synonym for "alto"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "otc" is a synonym for "over-the-counter".
+    value: otc
+  - correct: false
+    detail: Incorrect, "internalize:verb" is not a synonym for "over-the-counter".
+    value: internalize:verb
+  - correct: false
+    detail: Incorrect, "vasodilative:noun" is not a synonym for "over-the-counter".
+    value: vasodilative:noun
+  - correct: false
+    detail: Incorrect, "mister:noun" is not a synonym for "over-the-counter".
+    value: mister:noun
+  text: What is a synonym for "over-the-counter"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "eightfold" is a synonym for "octuple".
+    value: eightfold
+  - correct: false
+    detail: Incorrect, "genus onopordum:noun" is not a synonym for "octuple".
+    value: genus onopordum:noun
+  - correct: false
+    detail: Incorrect, "clot buster:noun" is not a synonym for "octuple".
+    value: clot buster:noun
+  - correct: false
+    detail: Incorrect, "rustling:noun" is not a synonym for "octuple".
+    value: rustling:noun
+  text: What is a synonym for "octuple"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "tropical|tropical" is a synonym for "tropic".
+    value: tropical|tropical
+  - correct: false
+    detail: Incorrect, "ezo-yama-hagi:noun" is not a synonym for "tropic".
+    value: ezo-yama-hagi:noun
+  - correct: false
+    detail: Incorrect, "waste:verb" is not a synonym for "tropic".
+    value: waste:verb
+  - correct: false
+    detail: Incorrect, "unacquainted with:satellite" is not a synonym for "tropic".
+    value: unacquainted with:satellite
+  text: What is a synonym for "tropic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "abiding" is a synonym for "enduring".
+    value: abiding
+  - correct: false
+    detail: Incorrect, "inexpert:satellite" is not a synonym for "enduring".
+    value: inexpert:satellite
+  - correct: false
+    detail: Incorrect, "wedding gown:noun" is not a synonym for "enduring".
+    value: wedding gown:noun
+  - correct: false
+    detail: Incorrect, "unrepeatable:adjective" is not a synonym for "enduring".
+    value: unrepeatable:adjective
+  text: What is a synonym for "enduring"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "correlative" is a synonym for "correlate".
+    value: correlative
+  - correct: false
+    detail: Incorrect, "libyan monetary unit:noun" is not a synonym for "correlate".
+    value: libyan monetary unit:noun
+  - correct: false
+    detail: Incorrect, "genus chelonia:noun" is not a synonym for "correlate".
+    value: genus chelonia:noun
+  - correct: false
+    detail: Incorrect, "namibian:noun" is not a synonym for "correlate".
+    value: namibian:noun
+  text: What is a synonym for "correlate"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "deliberate" is a synonym for "calculated".
+    value: measured
+  - correct: false
+    detail: Incorrect, "pay out:verb" is not a synonym for "calculated".
+    value: pay out:verb
+  - correct: false
+    detail: Incorrect, "mid-september:noun" is not a synonym for "calculated".
+    value: mid-september:noun
+  - correct: false
+    detail: Incorrect, "peacefulness:noun" is not a synonym for "calculated".
+    value: peacefulness:noun
+  text: What is a synonym for "calculated"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "travel-soiled" is a synonym for "travel-stained".
+    value: travel-soiled
+  - correct: false
+    detail: Incorrect, "maximizing:satellite" is not a synonym for "travel-stained".
+    value: maximizing:satellite
+  - correct: false
+    detail: Incorrect, "canadian:noun" is not a synonym for "travel-stained".
+    value: canadian:noun
+  - correct: false
+    detail: Incorrect, "desirability:noun" is not a synonym for "travel-stained".
+    value: desirability:noun
+  text: What is a synonym for "travel-stained"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "pushy" is a synonym for "pushful".
+    value: pushy
+  - correct: false
+    detail: Incorrect, "troubling:verb" is not a synonym for "pushful".
+    value: troubling:verb
+  - correct: false
+    detail: Incorrect, "prudishness:noun" is not a synonym for "pushful".
+    value: prudishness:noun
+  - correct: false
+    detail: Incorrect, "luck through:verb" is not a synonym for "pushful".
+    value: luck through:verb
+  text: What is a synonym for "pushful"?

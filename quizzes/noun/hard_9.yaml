@@ -1,0 +1,303 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Sabine" is a synonym for "sabine river".
+    value: Sabine
+  - correct: false
+    detail: Incorrect, "basketful:noun" is not a synonym for "sabine river".
+    value: basketful:noun
+  - correct: false
+    detail: Incorrect, "gaylussacia baccata:noun" is not a synonym for "sabine river".
+    value: gaylussacia baccata:noun
+  - correct: false
+    detail: Incorrect, "jersey city:noun" is not a synonym for "sabine river".
+    value: jersey city:noun
+  text: What is a synonym for "sabine river"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "spelaeologist" is a synonym for "speleologist".
+    value: spelaeologist
+  - correct: false
+    detail: Incorrect, "surplus:noun" is not a synonym for "speleologist".
+    value: surplus:noun
+  - correct: false
+    detail: Incorrect, "feast of the circumcision:noun" is not a synonym for "speleologist".
+    value: feast of the circumcision:noun
+  - correct: false
+    detail: Incorrect, "gibraltarian:noun" is not a synonym for "speleologist".
+    value: gibraltarian:noun
+  text: What is a synonym for "speleologist"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "adviser" is a synonym for "consultant".
+    value: adviser
+  - correct: false
+    detail: Incorrect, "entrust:verb" is not a synonym for "consultant".
+    value: entrust:verb
+  - correct: false
+    detail: Incorrect, "suicide squeeze play:noun" is not a synonym for "consultant".
+    value: suicide squeeze play:noun
+  - correct: false
+    detail: Incorrect, "stagnant anoxia:noun" is not a synonym for "consultant".
+    value: stagnant anoxia:noun
+  text: What is a synonym for "consultant"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "medical examination" is a synonym for "health check".
+    value: medical checkup
+  - correct: false
+    detail: Incorrect, "scaup:noun" is not a synonym for "health check".
+    value: scaup:noun
+  - correct: false
+    detail: Incorrect, "stillborn:satellite" is not a synonym for "health check".
+    value: stillborn:satellite
+  - correct: false
+    detail: Incorrect, "downy poplar:noun" is not a synonym for "health check".
+    value: downy poplar:noun
+  text: What is a synonym for "health check"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "assembly program" is a synonym for "assembler".
+    value: assembly program
+  - correct: false
+    detail: Incorrect, "magnate:noun" is not a synonym for "assembler".
+    value: magnate:noun
+  - correct: false
+    detail: Incorrect, "girondism:noun" is not a synonym for "assembler".
+    value: girondism:noun
+  - correct: false
+    detail: Incorrect, "amitriptyline:noun" is not a synonym for "assembler".
+    value: amitriptyline:noun
+  text: What is a synonym for "assembler"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Alpha Orionis" is a synonym for "alpha orionis".
+    value: Alpha Orionis
+  - correct: false
+    detail: Incorrect, "sanchez:noun" is not a synonym for "alpha orionis".
+    value: sanchez:noun
+  - correct: false
+    detail: Incorrect, "bawling:noun" is not a synonym for "alpha orionis".
+    value: bawling:noun
+  - correct: false
+    detail: Incorrect, "factor iii:noun" is not a synonym for "alpha orionis".
+    value: factor iii:noun
+  text: What is a synonym for "alpha orionis"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "chrosomal abnormality" is a synonym for "chromosomal anomaly".
+    value: chrosomal abnormality
+  - correct: false
+    detail: Incorrect, "flashflood:noun" is not a synonym for "chromosomal anomaly".
+    value: flashflood:noun
+  - correct: false
+    detail: Incorrect, "florida water rat:noun" is not a synonym for "chromosomal
+      anomaly".
+    value: florida water rat:noun
+  - correct: false
+    detail: Incorrect, "wassail:verb" is not a synonym for "chromosomal anomaly".
+    value: wassail:verb
+  text: What is a synonym for "chromosomal anomaly"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "genus Streptocarpus" is a synonym for "genus streptocarpus".
+    value: genus Streptocarpus
+  - correct: false
+    detail: Incorrect, "corvus monedula:noun" is not a synonym for "genus streptocarpus".
+    value: corvus monedula:noun
+  - correct: false
+    detail: Incorrect, "cabernet sauvignon grape:noun" is not a synonym for "genus
+      streptocarpus".
+    value: cabernet sauvignon grape:noun
+  - correct: false
+    detail: Incorrect, "tumble grass:noun" is not a synonym for "genus streptocarpus".
+    value: tumble grass:noun
+  text: What is a synonym for "genus streptocarpus"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "underbrush" is a synonym for "undergrowth".
+    value: underwood
+  - correct: false
+    detail: Incorrect, "squirting cucumber:noun" is not a synonym for "undergrowth".
+    value: squirting cucumber:noun
+  - correct: false
+    detail: Incorrect, "aythya valisineria:noun" is not a synonym for "undergrowth".
+    value: aythya valisineria:noun
+  - correct: false
+    detail: Incorrect, "striper:noun" is not a synonym for "undergrowth".
+    value: striper:noun
+  text: What is a synonym for "undergrowth"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Republic of Botswana" is a synonym for "botswana".
+    value: Republic of Botswana
+  - correct: false
+    detail: Incorrect, "spoon bread:noun" is not a synonym for "botswana".
+    value: spoon bread:noun
+  - correct: false
+    detail: Incorrect, "genus salpichroa:noun" is not a synonym for "botswana".
+    value: genus salpichroa:noun
+  - correct: false
+    detail: Incorrect, "generalship:noun" is not a synonym for "botswana".
+    value: generalship:noun
+  text: What is a synonym for "botswana"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Calandrinia" is a synonym for "calandrinia".
+    value: genus Calandrinia
+  - correct: false
+    detail: Incorrect, "swashbuckler:noun" is not a synonym for "calandrinia".
+    value: swashbuckler:noun
+  - correct: false
+    detail: Incorrect, "cloven foot:noun" is not a synonym for "calandrinia".
+    value: cloven foot:noun
+  - correct: false
+    detail: Incorrect, "river thames:noun" is not a synonym for "calandrinia".
+    value: river thames:noun
+  text: What is a synonym for "calandrinia"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Calypso bulbosa" is a synonym for "fairy-slipper".
+    value: calypso
+  - correct: false
+    detail: Incorrect, "clash:verb" is not a synonym for "fairy-slipper".
+    value: clash:verb
+  - correct: false
+    detail: Incorrect, "teacher:noun" is not a synonym for "fairy-slipper".
+    value: teacher:noun
+  - correct: false
+    detail: Incorrect, "airplane:noun" is not a synonym for "fairy-slipper".
+    value: airplane:noun
+  text: What is a synonym for "fairy-slipper"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "tubbiness" is a synonym for "rolypoliness".
+    value: chubbiness
+  - correct: false
+    detail: Incorrect, "sinbad the sailor:noun" is not a synonym for "rolypoliness".
+    value: sinbad the sailor:noun
+  - correct: false
+    detail: Incorrect, "suborder brachyura:noun" is not a synonym for "rolypoliness".
+    value: suborder brachyura:noun
+  - correct: false
+    detail: Incorrect, "blephilia:noun" is not a synonym for "rolypoliness".
+    value: blephilia:noun
+  text: What is a synonym for "rolypoliness"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "strangeness" is a synonym for "curiousness".
+    value: inquisitiveness|foreignness
+  - correct: false
+    detail: Incorrect, "certified check:noun" is not a synonym for "curiousness".
+    value: certified check:noun
+  - correct: false
+    detail: Incorrect, "bremen:noun" is not a synonym for "curiousness".
+    value: bremen:noun
+  - correct: false
+    detail: Incorrect, "kulanapan:noun" is not a synonym for "curiousness".
+    value: kulanapan:noun
+  text: What is a synonym for "curiousness"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Beaumont" is a synonym for "francis beaumont".
+    value: Francis Beaumont
+  - correct: false
+    detail: Incorrect, "away:adverb" is not a synonym for "francis beaumont".
+    value: away:adverb
+  - correct: false
+    detail: Incorrect, "white dwarf:noun" is not a synonym for "francis beaumont".
+    value: white dwarf:noun
+  - correct: false
+    detail: Incorrect, "breast:noun" is not a synonym for "francis beaumont".
+    value: breast:noun
+  text: What is a synonym for "francis beaumont"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "dangle-berry" is a synonym for "dangleberry".
+    value: dangle-berry
+  - correct: false
+    detail: Incorrect, "alas:adverb" is not a synonym for "dangleberry".
+    value: alas:adverb
+  - correct: false
+    detail: Incorrect, "in concert:adverb" is not a synonym for "dangleberry".
+    value: in concert:adverb
+  - correct: false
+    detail: Incorrect, "genus haemodorum:noun" is not a synonym for "dangleberry".
+    value: genus haemodorum:noun
+  text: What is a synonym for "dangleberry"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "Taymyr Peninsula" is a synonym for "taymyr peninsula".
+    value: Taimyr Peninsula
+  - correct: false
+    detail: Incorrect, "chivvy:verb" is not a synonym for "taymyr peninsula".
+    value: chivvy:verb
+  - correct: false
+    detail: Incorrect, "headcounter:noun" is not a synonym for "taymyr peninsula".
+    value: headcounter:noun
+  - correct: false
+    detail: Incorrect, "chinese white:noun" is not a synonym for "taymyr peninsula".
+    value: chinese white:noun
+  text: What is a synonym for "taymyr peninsula"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "pail" is a synonym for "pailful".
+    value: pail
+  - correct: false
+    detail: Incorrect, "call for:verb" is not a synonym for "pailful".
+    value: call for:verb
+  - correct: false
+    detail: Incorrect, "buy at:verb" is not a synonym for "pailful".
+    value: buy at:verb
+  - correct: false
+    detail: Incorrect, "belching:verb" is not a synonym for "pailful".
+    value: belching:verb
+  text: What is a synonym for "pailful"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "fire extinguisher" is a synonym for "asphyxiator".
+    value: extinguisher
+  - correct: false
+    detail: Incorrect, "mockery:noun" is not a synonym for "asphyxiator".
+    value: mockery:noun
+  - correct: false
+    detail: Incorrect, "compass point:noun" is not a synonym for "asphyxiator".
+    value: compass point:noun
+  - correct: false
+    detail: Incorrect, "erigeron aurantiacus:noun" is not a synonym for "asphyxiator".
+    value: erigeron aurantiacus:noun
+  text: What is a synonym for "asphyxiator"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "impenetrability" is a synonym for "impenetrableness".
+    value: impenetrability
+  - correct: false
+    detail: Incorrect, "order conodontophorida:noun" is not a synonym for "impenetrableness".
+    value: order conodontophorida:noun
+  - correct: false
+    detail: Incorrect, "rameses ii:noun" is not a synonym for "impenetrableness".
+    value: rameses ii:noun
+  - correct: false
+    detail: Incorrect, "hosteller:noun" is not a synonym for "impenetrableness".
+    value: hosteller:noun
+  text: What is a synonym for "impenetrableness"?

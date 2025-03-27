@@ -1,0 +1,303 @@
+questions:
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "125" is a synonym for "cxxv".
+    value: one hundred twenty-five
+  - correct: false
+    detail: Incorrect, "vanilla planifolia:noun" is not a synonym for "cxxv".
+    value: vanilla planifolia:noun
+  - correct: false
+    detail: Incorrect, "balsa wood:noun" is not a synonym for "cxxv".
+    value: balsa wood:noun
+  - correct: false
+    detail: Incorrect, "jerker:noun" is not a synonym for "cxxv".
+    value: jerker:noun
+  text: What is a synonym for "cxxv"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "120" is a synonym for "one hundred twenty".
+    value: '120'
+  - correct: false
+    detail: Incorrect, "brooding:noun" is not a synonym for "one hundred twenty".
+    value: brooding:noun
+  - correct: false
+    detail: Incorrect, "temporomandibular joint:noun" is not a synonym for "one hundred
+      twenty".
+    value: temporomandibular joint:noun
+  - correct: false
+    detail: Incorrect, "california olive:noun" is not a synonym for "one hundred twenty".
+    value: california olive:noun
+  text: What is a synonym for "one hundred twenty"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "cxxx" is a synonym for "130".
+    value: one hundred thirty
+  - correct: false
+    detail: Incorrect, "genus pistacia:noun" is not a synonym for "130".
+    value: genus pistacia:noun
+  - correct: false
+    detail: Incorrect, "downing:noun" is not a synonym for "130".
+    value: downing:noun
+  - correct: false
+    detail: Incorrect, "mere:satellite" is not a synonym for "130".
+    value: mere:satellite
+  text: What is a synonym for "130"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "tight|flat" is a synonym for "compressed".
+    value: tight|flat
+  - correct: false
+    detail: Incorrect, "peyton rous:noun" is not a synonym for "compressed".
+    value: peyton rous:noun
+  - correct: false
+    detail: Incorrect, "knight of the round table:noun" is not a synonym for "compressed".
+    value: knight of the round table:noun
+  - correct: false
+    detail: Incorrect, "vena bronchialis:noun" is not a synonym for "compressed".
+    value: vena bronchialis:noun
+  text: What is a synonym for "compressed"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "astounding" is a synonym for "staggering".
+    value: astounding
+  - correct: false
+    detail: Incorrect, "ortalis:noun" is not a synonym for "staggering".
+    value: ortalis:noun
+  - correct: false
+    detail: Incorrect, "hnd:noun" is not a synonym for "staggering".
+    value: hnd:noun
+  - correct: false
+    detail: Incorrect, "blank space:noun" is not a synonym for "staggering".
+    value: blank space:noun
+  text: What is a synonym for "staggering"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "spastic|fitful" is a synonym for "spasmodic".
+    value: spastic|fitful
+  - correct: false
+    detail: Incorrect, "scotch kiss:noun" is not a synonym for "spasmodic".
+    value: scotch kiss:noun
+  - correct: false
+    detail: Incorrect, "unnoticeable:satellite" is not a synonym for "spasmodic".
+    value: unnoticeable:satellite
+  - correct: false
+    detail: Incorrect, "slime mold:noun" is not a synonym for "spasmodic".
+    value: slime mold:noun
+  text: What is a synonym for "spasmodic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "wasp-waisted" is a synonym for "slim-waisted".
+    value: slender-waisted
+  - correct: false
+    detail: Incorrect, "english ryegrass:noun" is not a synonym for "slim-waisted".
+    value: english ryegrass:noun
+  - correct: false
+    detail: Incorrect, "genus phoca:noun" is not a synonym for "slim-waisted".
+    value: genus phoca:noun
+  - correct: false
+    detail: Incorrect, "le chatelier-braun principle:noun" is not a synonym for "slim-waisted".
+    value: le chatelier-braun principle:noun
+  text: What is a synonym for "slim-waisted"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "melodramatic" is a synonym for "histrionic".
+    value: melodramatic
+  - correct: false
+    detail: Incorrect, "smilax aspera:noun" is not a synonym for "histrionic".
+    value: smilax aspera:noun
+  - correct: false
+    detail: Incorrect, "unhomogenized:satellite" is not a synonym for "histrionic".
+    value: unhomogenized:satellite
+  - correct: false
+    detail: Incorrect, "islamic great eastern raiders-front:noun" is not a synonym
+      for "histrionic".
+    value: islamic great eastern raiders-front:noun
+  text: What is a synonym for "histrionic"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "befouled|afoul" is a synonym for "fouled".
+    value: foul
+  - correct: false
+    detail: Incorrect, "substitution:noun" is not a synonym for "fouled".
+    value: substitution:noun
+  - correct: false
+    detail: Incorrect, "jellied:verb" is not a synonym for "fouled".
+    value: jellied:verb
+  - correct: false
+    detail: Incorrect, "brigand:noun" is not a synonym for "fouled".
+    value: brigand:noun
+  text: What is a synonym for "fouled"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "engorged" is a synonym for "congested".
+    value: engorged
+  - correct: false
+    detail: Incorrect, "conjoint:satellite" is not a synonym for "congested".
+    value: conjoint:satellite
+  - correct: false
+    detail: Incorrect, "sergeant at arms:noun" is not a synonym for "congested".
+    value: sergeant at arms:noun
+  - correct: false
+    detail: Incorrect, "artistic movement:noun" is not a synonym for "congested".
+    value: artistic movement:noun
+  text: What is a synonym for "congested"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "mortifying" is a synonym for "humiliating".
+    value: humbling
+  - correct: false
+    detail: Incorrect, "county town:noun" is not a synonym for "humiliating".
+    value: county town:noun
+  - correct: false
+    detail: Incorrect, "ocellus:noun" is not a synonym for "humiliating".
+    value: ocellus:noun
+  - correct: false
+    detail: Incorrect, "pre-raphaelite:noun" is not a synonym for "humiliating".
+    value: pre-raphaelite:noun
+  text: What is a synonym for "humiliating"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "bitterish" is a synonym for "sharp-tasting".
+    value: bitterish
+  - correct: false
+    detail: Incorrect, "conquering:noun" is not a synonym for "sharp-tasting".
+    value: conquering:noun
+  - correct: false
+    detail: Incorrect, "class euglenophyceae:noun" is not a synonym for "sharp-tasting".
+    value: class euglenophyceae:noun
+  - correct: false
+    detail: Incorrect, "fast of ab:noun" is not a synonym for "sharp-tasting".
+    value: fast of ab:noun
+  text: What is a synonym for "sharp-tasting"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "crabbed" is a synonym for "ill-tempered".
+    value: crabbed
+  - correct: false
+    detail: Incorrect, "chemical analysis:noun" is not a synonym for "ill-tempered".
+    value: chemical analysis:noun
+  - correct: false
+    detail: Incorrect, "good deal:noun" is not a synonym for "ill-tempered".
+    value: good deal:noun
+  - correct: false
+    detail: Incorrect, "broadening:noun" is not a synonym for "ill-tempered".
+    value: broadening:noun
+  text: What is a synonym for "ill-tempered"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "antiknocking" is a synonym for "antiknock".
+    value: antiknocking
+  - correct: false
+    detail: Incorrect, "acrocephaly:noun" is not a synonym for "antiknock".
+    value: acrocephaly:noun
+  - correct: false
+    detail: Incorrect, "alopecurus pratensis:noun" is not a synonym for "antiknock".
+    value: alopecurus pratensis:noun
+  - correct: false
+    detail: Incorrect, "bluffly:adverb" is not a synonym for "antiknock".
+    value: bluffly:adverb
+  text: What is a synonym for "antiknock"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "particular" is a synonym for "exceptional".
+    value: prodigious
+  - correct: false
+    detail: Incorrect, "polaroid:noun" is not a synonym for "exceptional".
+    value: polaroid:noun
+  - correct: false
+    detail: Incorrect, "clement richard attlee:noun" is not a synonym for "exceptional".
+    value: clement richard attlee:noun
+  - correct: false
+    detail: Incorrect, "as much as possible:adverb" is not a synonym for "exceptional".
+    value: as much as possible:adverb
+  text: What is a synonym for "exceptional"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "steadfast" is a synonym for "unfaltering".
+    value: steady
+  - correct: false
+    detail: Incorrect, "hirschfeld:noun" is not a synonym for "unfaltering".
+    value: hirschfeld:noun
+  - correct: false
+    detail: Incorrect, "baruch:noun" is not a synonym for "unfaltering".
+    value: baruch:noun
+  - correct: false
+    detail: Incorrect, "pictorial:adjective" is not a synonym for "unfaltering".
+    value: pictorial:adjective
+  text: What is a synonym for "unfaltering"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "benighted" is a synonym for "nighted".
+    value: benighted
+  - correct: false
+    detail: Incorrect, "sea dahlia:noun" is not a synonym for "nighted".
+    value: sea dahlia:noun
+  - correct: false
+    detail: Incorrect, "rakishly:adverb" is not a synonym for "nighted".
+    value: rakishly:adverb
+  - correct: false
+    detail: Incorrect, "centaurea americana:noun" is not a synonym for "nighted".
+    value: centaurea americana:noun
+  text: What is a synonym for "nighted"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "ingrained" is a synonym for "deep-rooted".
+    value: implanted
+  - correct: false
+    detail: Incorrect, "cunctation:noun" is not a synonym for "deep-rooted".
+    value: cunctation:noun
+  - correct: false
+    detail: Incorrect, "hypovolaemia:noun" is not a synonym for "deep-rooted".
+    value: hypovolaemia:noun
+  - correct: false
+    detail: Incorrect, "anguished:verb" is not a synonym for "deep-rooted".
+    value: anguished:verb
+  text: What is a synonym for "deep-rooted"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "blackish-grey" is a synonym for "black-gray".
+    value: blackish-gray
+  - correct: false
+    detail: Incorrect, "reb:noun" is not a synonym for "black-gray".
+    value: reb:noun
+  - correct: false
+    detail: Incorrect, "car racing:noun" is not a synonym for "black-gray".
+    value: car racing:noun
+  - correct: false
+    detail: Incorrect, "coenzyme q:noun" is not a synonym for "black-gray".
+    value: coenzyme q:noun
+  text: What is a synonym for "black-gray"?
+- difficulty: hard
+  options:
+  - correct: true
+    detail: Correct! "self-sacrificing|renunciant" is a synonym for "self-denying".
+    value: renunciative
+  - correct: false
+    detail: Incorrect, "developing:satellite" is not a synonym for "self-denying".
+    value: developing:satellite
+  - correct: false
+    detail: Incorrect, "physical body:noun" is not a synonym for "self-denying".
+    value: physical body:noun
+  - correct: false
+    detail: Incorrect, "subatomic particle:noun" is not a synonym for "self-denying".
+    value: subatomic particle:noun
+  text: What is a synonym for "self-denying"?
