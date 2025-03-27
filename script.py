@@ -79,8 +79,6 @@ def save_yaml(file_name, data):
 
 # Main processing function
 def main():
-    num_processes = min(multiprocessing.cpu_count(), 12)  # Limit to 12 processes max
-    chunks = chunk_data(all_words, num_processes)
     
     print(f"🔢 Splitting {len(all_words)} words into {num_processes} parallel chunks...\n")
     
