@@ -1,0 +1,285 @@
+description: Synonym questions - Medium Set 2
+topic: verb
+id: verb-medium2
+title: Verb Synonyms - Medium 2
+questions:
+- text: What is a synonym for 'bedim'?
+  options:
+  - correct: false
+    value: drum
+    detail: '''drum'' is not a synonym for ''bedim''.'
+  - correct: false
+    value: amused
+    detail: '''amused'' is not a synonym for ''bedim''.'
+  - correct: false
+    value: theologise
+    detail: '''theologise'' is not a synonym for ''bedim''.'
+  - correct: true
+    value: benight
+    detail: '''benight'' is a synonym for ''bedim''.'
+- text: What is a synonym for 'chorus'?
+  options:
+  - correct: false
+    value: have intercourse
+    detail: '''have intercourse'' is not a synonym for ''chorus''.'
+  - correct: false
+    value: plundering
+    detail: '''plundering'' is not a synonym for ''chorus''.'
+  - correct: true
+    value: choir
+    detail: '''choir'' is a synonym for ''chorus''.'
+  - correct: false
+    value: chivalrously
+    detail: '''chivalrously'' is not a synonym for ''chorus''.'
+- text: What is a synonym for 'advertise'?
+  options:
+  - correct: false
+    value: puzzle out
+    detail: '''puzzle out'' is not a synonym for ''advertise''.'
+  - correct: true
+    value: publicize
+    detail: '''publicize'' is a synonym for ''advertise''.'
+  - correct: false
+    value: package
+    detail: '''package'' is not a synonym for ''advertise''.'
+  - correct: false
+    value: erectly
+    detail: '''erectly'' is not a synonym for ''advertise''.'
+- text: What is a synonym for 'shoot down'?
+  options:
+  - correct: false
+    value: huddle together
+    detail: '''huddle together'' is not a synonym for ''shoot down''.'
+  - correct: true
+    value: tear
+    detail: '''tear'' is a synonym for ''shoot down''.'
+  - correct: false
+    value: quavering
+    detail: '''quavering'' is not a synonym for ''shoot down''.'
+  - correct: false
+    value: mill
+    detail: '''mill'' is not a synonym for ''shoot down''.'
+- text: What is a synonym for 'hunker'?
+  options:
+  - correct: true
+    value: squat
+    detail: '''squat'' is a synonym for ''hunker''.'
+  - correct: false
+    value: gush
+    detail: '''gush'' is not a synonym for ''hunker''.'
+  - correct: false
+    value: upriver
+    detail: '''upriver'' is not a synonym for ''hunker''.'
+  - correct: false
+    value: brutalize
+    detail: '''brutalize'' is not a synonym for ''hunker''.'
+- text: What is a synonym for 'god knows how'?
+  options:
+  - correct: false
+    value: vomiting
+    detail: '''vomiting'' is not a synonym for ''god knows how''.'
+  - correct: true
+    value: God knows how
+    detail: '''God knows how'' is a synonym for ''god knows how''.'
+  - correct: false
+    value: motorbike
+    detail: '''motorbike'' is not a synonym for ''god knows how''.'
+  - correct: false
+    value: flow from
+    detail: '''flow from'' is not a synonym for ''god knows how''.'
+- text: What is a synonym for 'profligately'?
+  options:
+  - correct: false
+    value: formed
+    detail: '''formed'' is not a synonym for ''profligately''.'
+  - correct: true
+    value: dissolutely
+    detail: '''dissolutely'' is a synonym for ''profligately''.'
+  - correct: false
+    value: illuminated
+    detail: '''illuminated'' is not a synonym for ''profligately''.'
+  - correct: false
+    value: chains
+    detail: '''chains'' is not a synonym for ''profligately''.'
+- text: What is a synonym for 'daunt'?
+  options:
+  - correct: false
+    value: impeding
+    detail: '''impeding'' is not a synonym for ''daunt''.'
+  - correct: true
+    value: dash
+    detail: '''dash'' is a synonym for ''daunt''.'
+  - correct: false
+    value: erecting
+    detail: '''erecting'' is not a synonym for ''daunt''.'
+  - correct: false
+    value: activated
+    detail: '''activated'' is not a synonym for ''daunt''.'
+- text: What is a synonym for 'garrote'?
+  options:
+  - correct: false
+    value: brighten
+    detail: '''brighten'' is not a synonym for ''garrote''.'
+  - correct: true
+    value: garrotte
+    detail: '''garrotte'' is a synonym for ''garrote''.'
+  - correct: false
+    value: nucleated
+    detail: '''nucleated'' is not a synonym for ''garrote''.'
+  - correct: false
+    value: bandy
+    detail: '''bandy'' is not a synonym for ''garrote''.'
+- text: What is a synonym for 'repose on'?
+  options:
+  - correct: true
+    value: rest on
+    detail: '''rest on'' is a synonym for ''repose on''.'
+  - correct: false
+    value: know what's going on
+    detail: '''know what''s going on'' is not a synonym for ''repose on''.'
+  - correct: false
+    value: frighten away
+    detail: '''frighten away'' is not a synonym for ''repose on''.'
+  - correct: false
+    value: mailed
+    detail: '''mailed'' is not a synonym for ''repose on''.'
+- text: What is a synonym for 'taper off'?
+  options:
+  - correct: false
+    value: stopple
+    detail: '''stopple'' is not a synonym for ''taper off''.'
+  - correct: false
+    value: bulk large
+    detail: '''bulk large'' is not a synonym for ''taper off''.'
+  - correct: true
+    value: peter out
+    detail: '''peter out'' is a synonym for ''taper off''.'
+  - correct: false
+    value: quantize
+    detail: '''quantize'' is not a synonym for ''taper off''.'
+- text: What is a synonym for 'have got'?
+  options:
+  - correct: false
+    value: drive home
+    detail: '''drive home'' is not a synonym for ''have got''.'
+  - correct: false
+    value: junketing
+    detail: '''junketing'' is not a synonym for ''have got''.'
+  - correct: false
+    value: whistle
+    detail: '''whistle'' is not a synonym for ''have got''.'
+  - correct: true
+    value: have
+    detail: '''have'' is a synonym for ''have got''.'
+- text: What is a synonym for 'philander'?
+  options:
+  - correct: false
+    value: afterwards
+    detail: '''afterwards'' is not a synonym for ''philander''.'
+  - correct: true
+    value: womanize
+    detail: '''womanize'' is a synonym for ''philander''.'
+  - correct: false
+    value: perilously
+    detail: '''perilously'' is not a synonym for ''philander''.'
+  - correct: false
+    value: snaffle
+    detail: '''snaffle'' is not a synonym for ''philander''.'
+- text: What is a synonym for 'surprisingly'?
+  options:
+  - correct: false
+    value: butter up
+    detail: '''butter up'' is not a synonym for ''surprisingly''.'
+  - correct: false
+    value: sent
+    detail: '''sent'' is not a synonym for ''surprisingly''.'
+  - correct: true
+    value: amazingly
+    detail: '''amazingly'' is a synonym for ''surprisingly''.'
+  - correct: false
+    value: fall through
+    detail: '''fall through'' is not a synonym for ''surprisingly''.'
+- text: What is a synonym for 'headquarters'?
+  options:
+  - correct: false
+    value: courting
+    detail: '''courting'' is not a synonym for ''headquarters''.'
+  - correct: true
+    value: headquarter
+    detail: '''headquarter'' is a synonym for ''headquarters''.'
+  - correct: false
+    value: commune
+    detail: '''commune'' is not a synonym for ''headquarters''.'
+  - correct: false
+    value: tersely
+    detail: '''tersely'' is not a synonym for ''headquarters''.'
+- text: What is a synonym for 'disbelieve'?
+  options:
+  - correct: true
+    value: discredit
+    detail: '''discredit'' is a synonym for ''disbelieve''.'
+  - correct: false
+    value: on the wing
+    detail: '''on the wing'' is not a synonym for ''disbelieve''.'
+  - correct: false
+    value: agonize
+    detail: '''agonize'' is not a synonym for ''disbelieve''.'
+  - correct: false
+    value: approach
+    detail: '''approach'' is not a synonym for ''disbelieve''.'
+- text: What is a synonym for 'fart'?
+  options:
+  - correct: false
+    value: include
+    detail: '''include'' is not a synonym for ''fart''.'
+  - correct: false
+    value: really
+    detail: '''really'' is not a synonym for ''fart''.'
+  - correct: false
+    value: clabber
+    detail: '''clabber'' is not a synonym for ''fart''.'
+  - correct: true
+    value: break wind
+    detail: '''break wind'' is a synonym for ''fart''.'
+- text: What is a synonym for 'supporting'?
+  options:
+  - correct: true
+    value: support
+    detail: '''support'' is a synonym for ''supporting''.'
+  - correct: false
+    value: billed
+    detail: '''billed'' is not a synonym for ''supporting''.'
+  - correct: false
+    value: above all
+    detail: '''above all'' is not a synonym for ''supporting''.'
+  - correct: false
+    value: by artificial means
+    detail: '''by artificial means'' is not a synonym for ''supporting''.'
+- text: What is a synonym for 'sentimentalize'?
+  options:
+  - correct: false
+    value: girth
+    detail: '''girth'' is not a synonym for ''sentimentalize''.'
+  - correct: true
+    value: sentimentalise
+    detail: '''sentimentalise'' is a synonym for ''sentimentalize''.'
+  - correct: false
+    value: stormily
+    detail: '''stormily'' is not a synonym for ''sentimentalize''.'
+  - correct: false
+    value: strong-arm
+    detail: '''strong-arm'' is not a synonym for ''sentimentalize''.'
+- text: What is a synonym for 'forked'?
+  options:
+  - correct: false
+    value: air-condition
+    detail: '''air-condition'' is not a synonym for ''forked''.'
+  - correct: true
+    value: pitchfork
+    detail: '''pitchfork'' is a synonym for ''forked''.'
+  - correct: false
+    value: undressed
+    detail: '''undressed'' is not a synonym for ''forked''.'
+  - correct: false
+    value: foster
+    detail: '''foster'' is not a synonym for ''forked''.'

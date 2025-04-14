@@ -1,0 +1,285 @@
+description: Synonym questions - Hard Set 1
+topic: adjective
+id: adjective-hard1
+title: Adjective Synonyms - Hard 1
+questions:
+- text: What is a synonym for 'ischaemic'?
+  options:
+  - correct: false
+    value: bavarian
+    detail: '''bavarian'' is not a synonym for ''ischaemic''.'
+  - correct: true
+    value: ischemic
+    detail: '''ischemic'' is a synonym for ''ischaemic''.'
+  - correct: false
+    value: hiplength
+    detail: '''hiplength'' is not a synonym for ''ischaemic''.'
+  - correct: false
+    value: paleontological
+    detail: '''paleontological'' is not a synonym for ''ischaemic''.'
+- text: What is a synonym for 'autogamic'?
+  options:
+  - correct: false
+    value: unlamented
+    detail: '''unlamented'' is not a synonym for ''autogamic''.'
+  - correct: false
+    value: musical
+    detail: '''musical'' is not a synonym for ''autogamic''.'
+  - correct: false
+    value: machine readable
+    detail: '''machine readable'' is not a synonym for ''autogamic''.'
+  - correct: true
+    value: autogamous
+    detail: '''autogamous'' is a synonym for ''autogamic''.'
+- text: What is a synonym for 'amphitheatric'?
+  options:
+  - correct: false
+    value: frisian
+    detail: '''frisian'' is not a synonym for ''amphitheatric''.'
+  - correct: false
+    value: possible
+    detail: '''possible'' is not a synonym for ''amphitheatric''.'
+  - correct: true
+    value: amphitheatrical
+    detail: '''amphitheatrical'' is a synonym for ''amphitheatric''.'
+  - correct: false
+    value: constituted
+    detail: '''constituted'' is not a synonym for ''amphitheatric''.'
+- text: What is a synonym for 'jeffersonian'?
+  options:
+  - correct: false
+    value: cenobitic
+    detail: '''cenobitic'' is not a synonym for ''jeffersonian''.'
+  - correct: false
+    value: noncausative
+    detail: '''noncausative'' is not a synonym for ''jeffersonian''.'
+  - correct: false
+    value: economical
+    detail: '''economical'' is not a synonym for ''jeffersonian''.'
+  - correct: true
+    value: Jeffersonian
+    detail: '''Jeffersonian'' is a synonym for ''jeffersonian''.'
+- text: What is a synonym for 'basilar'?
+  options:
+  - correct: false
+    value: appellate
+    detail: '''appellate'' is not a synonym for ''basilar''.'
+  - correct: false
+    value: marine
+    detail: '''marine'' is not a synonym for ''basilar''.'
+  - correct: true
+    value: basilary
+    detail: '''basilary'' is a synonym for ''basilar''.'
+  - correct: false
+    value: ghanese
+    detail: '''ghanese'' is not a synonym for ''basilar''.'
+- text: What is a synonym for 'postulational'?
+  options:
+  - correct: false
+    value: carinated
+    detail: '''carinated'' is not a synonym for ''postulational''.'
+  - correct: false
+    value: fastest
+    detail: '''fastest'' is not a synonym for ''postulational''.'
+  - correct: true
+    value: axiomatic
+    detail: '''axiomatic'' is a synonym for ''postulational''.'
+  - correct: false
+    value: allotropical
+    detail: '''allotropical'' is not a synonym for ''postulational''.'
+- text: What is a synonym for 'unmeasured'?
+  options:
+  - correct: false
+    value: atmospherical
+    detail: '''atmospherical'' is not a synonym for ''unmeasured''.'
+  - correct: false
+    value: nonextant
+    detail: '''nonextant'' is not a synonym for ''unmeasured''.'
+  - correct: false
+    value: gravitational
+    detail: '''gravitational'' is not a synonym for ''unmeasured''.'
+  - correct: true
+    value: immeasurable
+    detail: '''immeasurable'' is a synonym for ''unmeasured''.'
+- text: What is a synonym for 'unlikeable'?
+  options:
+  - correct: false
+    value: cacodaemonic
+    detail: '''cacodaemonic'' is not a synonym for ''unlikeable''.'
+  - correct: false
+    value: azotic
+    detail: '''azotic'' is not a synonym for ''unlikeable''.'
+  - correct: true
+    value: unsympathetic
+    detail: '''unsympathetic'' is a synonym for ''unlikeable''.'
+  - correct: false
+    value: wrinkly
+    detail: '''wrinkly'' is not a synonym for ''unlikeable''.'
+- text: What is a synonym for 'insoluble'?
+  options:
+  - correct: false
+    value: imperialistic
+    detail: '''imperialistic'' is not a synonym for ''insoluble''.'
+  - correct: true
+    value: indissoluble
+    detail: '''indissoluble'' is a synonym for ''insoluble''.'
+  - correct: false
+    value: offside
+    detail: '''offside'' is not a synonym for ''insoluble''.'
+  - correct: false
+    value: metric
+    detail: '''metric'' is not a synonym for ''insoluble''.'
+- text: What is a synonym for 'javan'?
+  options:
+  - correct: false
+    value: hypophysectomized
+    detail: '''hypophysectomized'' is not a synonym for ''javan''.'
+  - correct: true
+    value: Javanese
+    detail: '''Javanese'' is a synonym for ''javan''.'
+  - correct: false
+    value: calicular
+    detail: '''calicular'' is not a synonym for ''javan''.'
+  - correct: false
+    value: alkaline
+    detail: '''alkaline'' is not a synonym for ''javan''.'
+- text: What is a synonym for 'andean'?
+  options:
+  - correct: true
+    value: Andean
+    detail: '''Andean'' is a synonym for ''andean''.'
+  - correct: false
+    value: nonextensile
+    detail: '''nonextensile'' is not a synonym for ''andean''.'
+  - correct: false
+    value: neuronal
+    detail: '''neuronal'' is not a synonym for ''andean''.'
+  - correct: false
+    value: hebridean
+    detail: '''hebridean'' is not a synonym for ''andean''.'
+- text: What is a synonym for 'oncologic'?
+  options:
+  - correct: false
+    value: divergent
+    detail: '''divergent'' is not a synonym for ''oncologic''.'
+  - correct: false
+    value: geometrical
+    detail: '''geometrical'' is not a synonym for ''oncologic''.'
+  - correct: false
+    value: erasmian
+    detail: '''erasmian'' is not a synonym for ''oncologic''.'
+  - correct: true
+    value: oncological
+    detail: '''oncological'' is a synonym for ''oncologic''.'
+- text: What is a synonym for 'partizan'?
+  options:
+  - correct: false
+    value: elective
+    detail: '''elective'' is not a synonym for ''partizan''.'
+  - correct: true
+    value: partisan
+    detail: '''partisan'' is a synonym for ''partizan''.'
+  - correct: false
+    value: pyrolignic
+    detail: '''pyrolignic'' is not a synonym for ''partizan''.'
+  - correct: false
+    value: angolan
+    detail: '''angolan'' is not a synonym for ''partizan''.'
+- text: What is a synonym for 'cerebral'?
+  options:
+  - correct: false
+    value: acculturational
+    detail: '''acculturational'' is not a synonym for ''cerebral''.'
+  - correct: true
+    value: intellectual
+    detail: '''intellectual'' is a synonym for ''cerebral''.'
+  - correct: false
+    value: formalised
+    detail: '''formalised'' is not a synonym for ''cerebral''.'
+  - correct: false
+    value: immaterial
+    detail: '''immaterial'' is not a synonym for ''cerebral''.'
+- text: What is a synonym for 'gilbertian'?
+  options:
+  - correct: false
+    value: dyspnoeic
+    detail: '''dyspnoeic'' is not a synonym for ''gilbertian''.'
+  - correct: false
+    value: aetiological
+    detail: '''aetiological'' is not a synonym for ''gilbertian''.'
+  - correct: true
+    value: Gilbertian
+    detail: '''Gilbertian'' is a synonym for ''gilbertian''.'
+  - correct: false
+    value: galilean
+    detail: '''galilean'' is not a synonym for ''gilbertian''.'
+- text: What is a synonym for 'edwardian'?
+  options:
+  - correct: false
+    value: viviparous
+    detail: '''viviparous'' is not a synonym for ''edwardian''.'
+  - correct: true
+    value: Edwardian
+    detail: '''Edwardian'' is a synonym for ''edwardian''.'
+  - correct: false
+    value: yugoslav
+    detail: '''yugoslav'' is not a synonym for ''edwardian''.'
+  - correct: false
+    value: touched
+    detail: '''touched'' is not a synonym for ''edwardian''.'
+- text: What is a synonym for 'wrinkly'?
+  options:
+  - correct: false
+    value: savoury
+    detail: '''savoury'' is not a synonym for ''wrinkly''.'
+  - correct: true
+    value: wrinkled
+    detail: '''wrinkled'' is a synonym for ''wrinkly''.'
+  - correct: false
+    value: angelical
+    detail: '''angelical'' is not a synonym for ''wrinkly''.'
+  - correct: false
+    value: inebriated
+    detail: '''inebriated'' is not a synonym for ''wrinkly''.'
+- text: What is a synonym for 'sisterly'?
+  options:
+  - correct: true
+    value: sisterlike
+    detail: '''sisterlike'' is a synonym for ''sisterly''.'
+  - correct: false
+    value: dependable
+    detail: '''dependable'' is not a synonym for ''sisterly''.'
+  - correct: false
+    value: ciliary
+    detail: '''ciliary'' is not a synonym for ''sisterly''.'
+  - correct: false
+    value: fancier
+    detail: '''fancier'' is not a synonym for ''sisterly''.'
+- text: What is a synonym for 'rotatory'?
+  options:
+  - correct: false
+    value: assertive
+    detail: '''assertive'' is not a synonym for ''rotatory''.'
+  - correct: true
+    value: revolutionary
+    detail: '''revolutionary'' is a synonym for ''rotatory''.'
+  - correct: false
+    value: viennese
+    detail: '''viennese'' is not a synonym for ''rotatory''.'
+  - correct: false
+    value: unauthorized
+    detail: '''unauthorized'' is not a synonym for ''rotatory''.'
+- text: What is a synonym for 'clean-handed'?
+  options:
+  - correct: true
+    value: innocent
+    detail: '''innocent'' is a synonym for ''clean-handed''.'
+  - correct: false
+    value: bacteriological
+    detail: '''bacteriological'' is not a synonym for ''clean-handed''.'
+  - correct: false
+    value: unrepeatable
+    detail: '''unrepeatable'' is not a synonym for ''clean-handed''.'
+  - correct: false
+    value: antiphonal
+    detail: '''antiphonal'' is not a synonym for ''clean-handed''.'

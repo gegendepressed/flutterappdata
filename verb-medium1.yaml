@@ -1,0 +1,285 @@
+description: Synonym questions - Medium Set 1
+topic: verb
+id: verb-medium1
+title: Verb Synonyms - Medium 1
+questions:
+- text: What is a synonym for 'charged'?
+  options:
+  - correct: false
+    value: weigh down
+    detail: '''weigh down'' is not a synonym for ''charged''.'
+  - correct: true
+    value: charge
+    detail: '''charge'' is a synonym for ''charged''.'
+  - correct: false
+    value: in general
+    detail: '''in general'' is not a synonym for ''charged''.'
+  - correct: false
+    value: desecrated
+    detail: '''desecrated'' is not a synonym for ''charged''.'
+- text: What is a synonym for 'checked'?
+  options:
+  - correct: false
+    value: trespassing
+    detail: '''trespassing'' is not a synonym for ''checked''.'
+  - correct: false
+    value: soup up
+    detail: '''soup up'' is not a synonym for ''checked''.'
+  - correct: true
+    value: check
+    detail: '''check'' is a synonym for ''checked''.'
+  - correct: false
+    value: harness
+    detail: '''harness'' is not a synonym for ''checked''.'
+- text: What is a synonym for 'curled'?
+  options:
+  - correct: true
+    value: curl
+    detail: '''curl'' is a synonym for ''curled''.'
+  - correct: false
+    value: thick
+    detail: '''thick'' is not a synonym for ''curled''.'
+  - correct: false
+    value: lounge around
+    detail: '''lounge around'' is not a synonym for ''curled''.'
+  - correct: false
+    value: study
+    detail: '''study'' is not a synonym for ''curled''.'
+- text: What is a synonym for 'interlace'?
+  options:
+  - correct: false
+    value: slighting
+    detail: '''slighting'' is not a synonym for ''interlace''.'
+  - correct: true
+    value: intertwine
+    detail: '''intertwine'' is a synonym for ''interlace''.'
+  - correct: false
+    value: bone up
+    detail: '''bone up'' is not a synonym for ''interlace''.'
+  - correct: false
+    value: kink up
+    detail: '''kink up'' is not a synonym for ''interlace''.'
+- text: What is a synonym for 'bring home the bacon'?
+  options:
+  - correct: false
+    value: boding
+    detail: '''boding'' is not a synonym for ''bring home the bacon''.'
+  - correct: false
+    value: uplifting
+    detail: '''uplifting'' is not a synonym for ''bring home the bacon''.'
+  - correct: true
+    value: succeed
+    detail: '''succeed'' is a synonym for ''bring home the bacon''.'
+  - correct: false
+    value: load
+    detail: '''load'' is not a synonym for ''bring home the bacon''.'
+- text: What is a synonym for 'evaluate'?
+  options:
+  - correct: false
+    value: fizzle out
+    detail: '''fizzle out'' is not a synonym for ''evaluate''.'
+  - correct: false
+    value: satisfy
+    detail: '''satisfy'' is not a synonym for ''evaluate''.'
+  - correct: false
+    value: resettled
+    detail: '''resettled'' is not a synonym for ''evaluate''.'
+  - correct: true
+    value: measure
+    detail: '''measure'' is a synonym for ''evaluate''.'
+- text: What is a synonym for 'fend'?
+  options:
+  - correct: false
+    value: feign
+    detail: '''feign'' is not a synonym for ''fend''.'
+  - correct: false
+    value: hold in
+    detail: '''hold in'' is not a synonym for ''fend''.'
+  - correct: false
+    value: lately
+    detail: '''lately'' is not a synonym for ''fend''.'
+  - correct: true
+    value: resist
+    detail: '''resist'' is a synonym for ''fend''.'
+- text: What is a synonym for 'hatch'?
+  options:
+  - correct: true
+    value: think up
+    detail: '''think up'' is a synonym for ''hatch''.'
+  - correct: false
+    value: elapse
+    detail: '''elapse'' is not a synonym for ''hatch''.'
+  - correct: false
+    value: unthinking
+    detail: '''unthinking'' is not a synonym for ''hatch''.'
+  - correct: false
+    value: bad
+    detail: '''bad'' is not a synonym for ''hatch''.'
+- text: What is a synonym for 'draught'?
+  options:
+  - correct: true
+    value: blueprint
+    detail: '''blueprint'' is a synonym for ''draught''.'
+  - correct: false
+    value: mingle
+    detail: '''mingle'' is not a synonym for ''draught''.'
+  - correct: false
+    value: borrowing
+    detail: '''borrowing'' is not a synonym for ''draught''.'
+  - correct: false
+    value: stock-take
+    detail: '''stock-take'' is not a synonym for ''draught''.'
+- text: What is a synonym for 'suck out'?
+  options:
+  - correct: false
+    value: foretell
+    detail: '''foretell'' is not a synonym for ''suck out''.'
+  - correct: false
+    value: grouse
+    detail: '''grouse'' is not a synonym for ''suck out''.'
+  - correct: false
+    value: screaming
+    detail: '''screaming'' is not a synonym for ''suck out''.'
+  - correct: true
+    value: aspirate
+    detail: '''aspirate'' is a synonym for ''suck out''.'
+- text: What is a synonym for 'baulk'?
+  options:
+  - correct: false
+    value: emasculated
+    detail: '''emasculated'' is not a synonym for ''baulk''.'
+  - correct: true
+    value: resist
+    detail: '''resist'' is a synonym for ''baulk''.'
+  - correct: false
+    value: exculpated
+    detail: '''exculpated'' is not a synonym for ''baulk''.'
+  - correct: false
+    value: deftly
+    detail: '''deftly'' is not a synonym for ''baulk''.'
+- text: What is a synonym for 'keep one's eyes peeled'?
+  options:
+  - correct: true
+    value: keep one's eyes skinned
+    detail: '''keep one''s eyes skinned'' is a synonym for ''keep one''s eyes peeled''.'
+  - correct: false
+    value: allow in
+    detail: '''allow in'' is not a synonym for ''keep one''s eyes peeled''.'
+  - correct: false
+    value: research
+    detail: '''research'' is not a synonym for ''keep one''s eyes peeled''.'
+  - correct: false
+    value: loathing
+    detail: '''loathing'' is not a synonym for ''keep one''s eyes peeled''.'
+- text: What is a synonym for 'categorize'?
+  options:
+  - correct: true
+    value: categorise
+    detail: '''categorise'' is a synonym for ''categorize''.'
+  - correct: false
+    value: trimmed
+    detail: '''trimmed'' is not a synonym for ''categorize''.'
+  - correct: false
+    value: belong to
+    detail: '''belong to'' is not a synonym for ''categorize''.'
+  - correct: false
+    value: assemble
+    detail: '''assemble'' is not a synonym for ''categorize''.'
+- text: What is a synonym for 'advert'?
+  options:
+  - correct: false
+    value: unsaid
+    detail: '''unsaid'' is not a synonym for ''advert''.'
+  - correct: false
+    value: pension off
+    detail: '''pension off'' is not a synonym for ''advert''.'
+  - correct: false
+    value: disesteem
+    detail: '''disesteem'' is not a synonym for ''advert''.'
+  - correct: true
+    value: attend
+    detail: '''attend'' is a synonym for ''advert''.'
+- text: What is a synonym for 'decompress'?
+  options:
+  - correct: false
+    value: cloy
+    detail: '''cloy'' is not a synonym for ''decompress''.'
+  - correct: false
+    value: waning
+    detail: '''waning'' is not a synonym for ''decompress''.'
+  - correct: true
+    value: uncompress
+    detail: '''uncompress'' is a synonym for ''decompress''.'
+  - correct: false
+    value: note
+    detail: '''note'' is not a synonym for ''decompress''.'
+- text: What is a synonym for 'dun'?
+  options:
+  - correct: false
+    value: jeeringly
+    detail: '''jeeringly'' is not a synonym for ''dun''.'
+  - correct: true
+    value: torment
+    detail: '''torment'' is a synonym for ''dun''.'
+  - correct: false
+    value: like royalty
+    detail: '''like royalty'' is not a synonym for ''dun''.'
+  - correct: false
+    value: herd
+    detail: '''herd'' is not a synonym for ''dun''.'
+- text: What is a synonym for 'heckling'?
+  options:
+  - correct: false
+    value: unawares
+    detail: '''unawares'' is not a synonym for ''heckling''.'
+  - correct: false
+    value: rousing
+    detail: '''rousing'' is not a synonym for ''heckling''.'
+  - correct: true
+    value: heckle
+    detail: '''heckle'' is a synonym for ''heckling''.'
+  - correct: false
+    value: rout up
+    detail: '''rout up'' is not a synonym for ''heckling''.'
+- text: What is a synonym for 'differentiated'?
+  options:
+  - correct: false
+    value: questioningly
+    detail: '''questioningly'' is not a synonym for ''differentiated''.'
+  - correct: false
+    value: buy
+    detail: '''buy'' is not a synonym for ''differentiated''.'
+  - correct: false
+    value: burp
+    detail: '''burp'' is not a synonym for ''differentiated''.'
+  - correct: true
+    value: distinguish
+    detail: '''distinguish'' is a synonym for ''differentiated''.'
+- text: What is a synonym for 'minded'?
+  options:
+  - correct: true
+    value: mind
+    detail: '''mind'' is a synonym for ''minded''.'
+  - correct: false
+    value: hushing
+    detail: '''hushing'' is not a synonym for ''minded''.'
+  - correct: false
+    value: diagrammatically
+    detail: '''diagrammatically'' is not a synonym for ''minded''.'
+  - correct: false
+    value: finances
+    detail: '''finances'' is not a synonym for ''minded''.'
+- text: What is a synonym for 'fooling'?
+  options:
+  - correct: true
+    value: fool
+    detail: '''fool'' is a synonym for ''fooling''.'
+  - correct: false
+    value: abridge
+    detail: '''abridge'' is not a synonym for ''fooling''.'
+  - correct: false
+    value: profits
+    detail: '''profits'' is not a synonym for ''fooling''.'
+  - correct: false
+    value: coax
+    detail: '''coax'' is not a synonym for ''fooling''.'

@@ -1,0 +1,285 @@
+description: Synonym questions - Hard Set 3
+topic: adjective
+id: adjective-hard3
+title: Adjective Synonyms - Hard 3
+questions:
+- text: What is a synonym for 'nonconductive'?
+  options:
+  - correct: false
+    value: shallow-draft
+    detail: '''shallow-draft'' is not a synonym for ''nonconductive''.'
+  - correct: false
+    value: rabbinic
+    detail: '''rabbinic'' is not a synonym for ''nonconductive''.'
+  - correct: true
+    value: nonconducting
+    detail: '''nonconducting'' is a synonym for ''nonconductive''.'
+  - correct: false
+    value: crucial
+    detail: '''crucial'' is not a synonym for ''nonconductive''.'
+- text: What is a synonym for 'ungulated'?
+  options:
+  - correct: true
+    value: ungulate
+    detail: '''ungulate'' is a synonym for ''ungulated''.'
+  - correct: false
+    value: bivalent
+    detail: '''bivalent'' is not a synonym for ''ungulated''.'
+  - correct: false
+    value: near
+    detail: '''near'' is not a synonym for ''ungulated''.'
+  - correct: false
+    value: inexplicable
+    detail: '''inexplicable'' is not a synonym for ''ungulated''.'
+- text: What is a synonym for 'unorganised'?
+  options:
+  - correct: true
+    value: unorganized
+    detail: '''unorganized'' is a synonym for ''unorganised''.'
+  - correct: false
+    value: hexangular
+    detail: '''hexangular'' is not a synonym for ''unorganised''.'
+  - correct: false
+    value: mercurous
+    detail: '''mercurous'' is not a synonym for ''unorganised''.'
+  - correct: false
+    value: biliary
+    detail: '''biliary'' is not a synonym for ''unorganised''.'
+- text: What is a synonym for 'slower'?
+  options:
+  - correct: false
+    value: ostentatious
+    detail: '''ostentatious'' is not a synonym for ''slower''.'
+  - correct: false
+    value: zymotic
+    detail: '''zymotic'' is not a synonym for ''slower''.'
+  - correct: false
+    value: noncellular
+    detail: '''noncellular'' is not a synonym for ''slower''.'
+  - correct: true
+    value: slow
+    detail: '''slow'' is a synonym for ''slower''.'
+- text: What is a synonym for 'regular'?
+  options:
+  - correct: false
+    value: albinistic
+    detail: '''albinistic'' is not a synonym for ''regular''.'
+  - correct: true
+    value: unconstipated
+    detail: '''unconstipated'' is a synonym for ''regular''.'
+  - correct: false
+    value: nonconcentric
+    detail: '''nonconcentric'' is not a synonym for ''regular''.'
+  - correct: false
+    value: nonexplorative
+    detail: '''nonexplorative'' is not a synonym for ''regular''.'
+- text: What is a synonym for 'nonmeaningful'?
+  options:
+  - correct: false
+    value: topologic
+    detail: '''topologic'' is not a synonym for ''nonmeaningful''.'
+  - correct: false
+    value: unintelligent
+    detail: '''unintelligent'' is not a synonym for ''nonmeaningful''.'
+  - correct: false
+    value: polyvalent
+    detail: '''polyvalent'' is not a synonym for ''nonmeaningful''.'
+  - correct: true
+    value: meaningless
+    detail: '''meaningless'' is a synonym for ''nonmeaningful''.'
+- text: What is a synonym for 'preventive'?
+  options:
+  - correct: false
+    value: fiscal
+    detail: '''fiscal'' is not a synonym for ''preventive''.'
+  - correct: true
+    value: preventative
+    detail: '''preventative'' is a synonym for ''preventive''.'
+  - correct: false
+    value: salvadorean
+    detail: '''salvadorean'' is not a synonym for ''preventive''.'
+  - correct: false
+    value: content
+    detail: '''content'' is not a synonym for ''preventive''.'
+- text: What is a synonym for 'palaeolithic'?
+  options:
+  - correct: false
+    value: disordered
+    detail: '''disordered'' is not a synonym for ''palaeolithic''.'
+  - correct: false
+    value: unheeding
+    detail: '''unheeding'' is not a synonym for ''palaeolithic''.'
+  - correct: true
+    value: paleolithic
+    detail: '''paleolithic'' is a synonym for ''palaeolithic''.'
+  - correct: false
+    value: noncombustible
+    detail: '''noncombustible'' is not a synonym for ''palaeolithic''.'
+- text: What is a synonym for 'neanderthalian'?
+  options:
+  - correct: false
+    value: sandlike
+    detail: '''sandlike'' is not a synonym for ''neanderthalian''.'
+  - correct: false
+    value: astomatous
+    detail: '''astomatous'' is not a synonym for ''neanderthalian''.'
+  - correct: false
+    value: unambitious
+    detail: '''unambitious'' is not a synonym for ''neanderthalian''.'
+  - correct: true
+    value: Neanderthal
+    detail: '''Neanderthal'' is a synonym for ''neanderthalian''.'
+- text: What is a synonym for 'homocentric'?
+  options:
+  - correct: false
+    value: neurologic
+    detail: '''neurologic'' is not a synonym for ''homocentric''.'
+  - correct: false
+    value: tudor
+    detail: '''tudor'' is not a synonym for ''homocentric''.'
+  - correct: false
+    value: bladdery
+    detail: '''bladdery'' is not a synonym for ''homocentric''.'
+  - correct: true
+    value: concentric
+    detail: '''concentric'' is a synonym for ''homocentric''.'
+- text: What is a synonym for 'gambian'?
+  options:
+  - correct: false
+    value: unresolved
+    detail: '''unresolved'' is not a synonym for ''gambian''.'
+  - correct: true
+    value: Gambian
+    detail: '''Gambian'' is a synonym for ''gambian''.'
+  - correct: false
+    value: catachrestic
+    detail: '''catachrestic'' is not a synonym for ''gambian''.'
+  - correct: false
+    value: unsatiable
+    detail: '''unsatiable'' is not a synonym for ''gambian''.'
+- text: What is a synonym for 'acapnial'?
+  options:
+  - correct: false
+    value: additive
+    detail: '''additive'' is not a synonym for ''acapnial''.'
+  - correct: true
+    value: acapnic
+    detail: '''acapnic'' is a synonym for ''acapnial''.'
+  - correct: false
+    value: expiatory
+    detail: '''expiatory'' is not a synonym for ''acapnial''.'
+  - correct: false
+    value: iraki
+    detail: '''iraki'' is not a synonym for ''acapnial''.'
+- text: What is a synonym for 'pharmaceutical'?
+  options:
+  - correct: false
+    value: mown
+    detail: '''mown'' is not a synonym for ''pharmaceutical''.'
+  - correct: true
+    value: pharmaceutic
+    detail: '''pharmaceutic'' is a synonym for ''pharmaceutical''.'
+  - correct: false
+    value: romany
+    detail: '''romany'' is not a synonym for ''pharmaceutical''.'
+  - correct: false
+    value: cognisant
+    detail: '''cognisant'' is not a synonym for ''pharmaceutical''.'
+- text: What is a synonym for 'angelic'?
+  options:
+  - correct: true
+    value: angelical
+    detail: '''angelical'' is a synonym for ''angelic''.'
+  - correct: false
+    value: accented
+    detail: '''accented'' is not a synonym for ''angelic''.'
+  - correct: false
+    value: afghan
+    detail: '''afghan'' is not a synonym for ''angelic''.'
+  - correct: false
+    value: hypovolaemic
+    detail: '''hypovolaemic'' is not a synonym for ''angelic''.'
+- text: What is a synonym for 'campanulate'?
+  options:
+  - correct: false
+    value: penial
+    detail: '''penial'' is not a synonym for ''campanulate''.'
+  - correct: false
+    value: unmilitary
+    detail: '''unmilitary'' is not a synonym for ''campanulate''.'
+  - correct: true
+    value: campanular
+    detail: '''campanular'' is a synonym for ''campanulate''.'
+  - correct: false
+    value: awestruck
+    detail: '''awestruck'' is not a synonym for ''campanulate''.'
+- text: What is a synonym for 'vertical'?
+  options:
+  - correct: false
+    value: older
+    detail: '''older'' is not a synonym for ''vertical''.'
+  - correct: true
+    value: perpendicular
+    detail: '''perpendicular'' is a synonym for ''vertical''.'
+  - correct: false
+    value: roumanian
+    detail: '''roumanian'' is not a synonym for ''vertical''.'
+  - correct: false
+    value: genovese
+    detail: '''genovese'' is not a synonym for ''vertical''.'
+- text: What is a synonym for 'mesoblastic'?
+  options:
+  - correct: false
+    value: aphaeretic
+    detail: '''aphaeretic'' is not a synonym for ''mesoblastic''.'
+  - correct: true
+    value: mesodermal
+    detail: '''mesodermal'' is a synonym for ''mesoblastic''.'
+  - correct: false
+    value: hexangular
+    detail: '''hexangular'' is not a synonym for ''mesoblastic''.'
+  - correct: false
+    value: romani
+    detail: '''romani'' is not a synonym for ''mesoblastic''.'
+- text: What is a synonym for 'coordinative'?
+  options:
+  - correct: false
+    value: unrimed
+    detail: '''unrimed'' is not a synonym for ''coordinative''.'
+  - correct: true
+    value: coordinating
+    detail: '''coordinating'' is a synonym for ''coordinative''.'
+  - correct: false
+    value: voltaic
+    detail: '''voltaic'' is not a synonym for ''coordinative''.'
+  - correct: false
+    value: resident
+    detail: '''resident'' is not a synonym for ''coordinative''.'
+- text: What is a synonym for 'oriented'?
+  options:
+  - correct: true
+    value: orientated
+    detail: '''orientated'' is a synonym for ''oriented''.'
+  - correct: false
+    value: kazakhstani
+    detail: '''kazakhstani'' is not a synonym for ''oriented''.'
+  - correct: false
+    value: anagogic
+    detail: '''anagogic'' is not a synonym for ''oriented''.'
+  - correct: false
+    value: unconsolable
+    detail: '''unconsolable'' is not a synonym for ''oriented''.'
+- text: What is a synonym for '.38 calibre'?
+  options:
+  - correct: true
+    value: .38 caliber
+    detail: '''.38 caliber'' is a synonym for ''.38 calibre''.'
+  - correct: false
+    value: hanoverian
+    detail: '''hanoverian'' is not a synonym for ''.38 calibre''.'
+  - correct: false
+    value: orwellian
+    detail: '''orwellian'' is not a synonym for ''.38 calibre''.'
+  - correct: false
+    value: cursed
+    detail: '''cursed'' is not a synonym for ''.38 calibre''.'

@@ -1,0 +1,287 @@
+description: Synonym questions - Medium Set 1
+topic: noun
+id: noun-medium1
+title: Noun Synonyms - Medium 1
+questions:
+- text: What is a synonym for 'acknowledgment'?
+  options:
+  - correct: false
+    value: infield
+    detail: '''infield'' is not a synonym for ''acknowledgment''.'
+  - correct: true
+    value: recognition
+    detail: '''recognition'' is a synonym for ''acknowledgment''.'
+  - correct: false
+    value: goat's foot
+    detail: '''goat''s foot'' is not a synonym for ''acknowledgment''.'
+  - correct: false
+    value: richard feynman
+    detail: '''richard feynman'' is not a synonym for ''acknowledgment''.'
+- text: What is a synonym for 'del rio'?
+  options:
+  - correct: false
+    value: heinrich boell
+    detail: '''heinrich boell'' is not a synonym for ''del rio''.'
+  - correct: false
+    value: amnesiac
+    detail: '''amnesiac'' is not a synonym for ''del rio''.'
+  - correct: false
+    value: northern mammoth
+    detail: '''northern mammoth'' is not a synonym for ''del rio''.'
+  - correct: true
+    value: Del Rio
+    detail: '''Del Rio'' is a synonym for ''del rio''.'
+- text: What is a synonym for 'voluminosity'?
+  options:
+  - correct: false
+    value: vidua
+    detail: '''vidua'' is not a synonym for ''voluminosity''.'
+  - correct: true
+    value: fullness
+    detail: '''fullness'' is a synonym for ''voluminosity''.'
+  - correct: false
+    value: cayenne pepper
+    detail: '''cayenne pepper'' is not a synonym for ''voluminosity''.'
+  - correct: false
+    value: european gallinule
+    detail: '''european gallinule'' is not a synonym for ''voluminosity''.'
+- text: What is a synonym for 'american quaking aspen'?
+  options:
+  - correct: false
+    value: tiepin
+    detail: '''tiepin'' is not a synonym for ''american quaking aspen''.'
+  - correct: false
+    value: iles comores
+    detail: '''iles comores'' is not a synonym for ''american quaking aspen''.'
+  - correct: true
+    value: American quaking aspen
+    detail: '''American quaking aspen'' is a synonym for ''american quaking aspen''.'
+  - correct: false
+    value: haemangioma
+    detail: '''haemangioma'' is not a synonym for ''american quaking aspen''.'
+- text: What is a synonym for 'teaberry'?
+  options:
+  - correct: true
+    value: wintergreen
+    detail: '''wintergreen'' is a synonym for ''teaberry''.'
+  - correct: false
+    value: speckle
+    detail: '''speckle'' is not a synonym for ''teaberry''.'
+  - correct: false
+    value: monogenic disease
+    detail: '''monogenic disease'' is not a synonym for ''teaberry''.'
+  - correct: false
+    value: emmentaler
+    detail: '''emmentaler'' is not a synonym for ''teaberry''.'
+- text: What is a synonym for 'sjaelland'?
+  options:
+  - correct: false
+    value: nonmalignant neoplasm
+    detail: '''nonmalignant neoplasm'' is not a synonym for ''sjaelland''.'
+  - correct: false
+    value: subpoena
+    detail: '''subpoena'' is not a synonym for ''sjaelland''.'
+  - correct: true
+    value: Zealand
+    detail: '''Zealand'' is a synonym for ''sjaelland''.'
+  - correct: false
+    value: family rallidae
+    detail: '''family rallidae'' is not a synonym for ''sjaelland''.'
+- text: What is a synonym for 'gypsy moth'?
+  options:
+  - correct: false
+    value: wall of silence
+    detail: '''wall of silence'' is not a synonym for ''gypsy moth''.'
+  - correct: true
+    value: gipsy moth
+    detail: '''gipsy moth'' is a synonym for ''gypsy moth''.'
+  - correct: false
+    value: r. j. mitchell
+    detail: '''r. j. mitchell'' is not a synonym for ''gypsy moth''.'
+  - correct: false
+    value: aulostomidae
+    detail: '''aulostomidae'' is not a synonym for ''gypsy moth''.'
+- text: What is a synonym for 'commission on narcotic drugs'?
+  options:
+  - correct: true
+    value: Commission on Narcotic Drugs
+    detail: '''Commission on Narcotic Drugs'' is a synonym for ''commission on narcotic
+      drugs''.'
+  - correct: false
+    value: microphallus
+    detail: '''microphallus'' is not a synonym for ''commission on narcotic drugs''.'
+  - correct: false
+    value: ebenaceae
+    detail: '''ebenaceae'' is not a synonym for ''commission on narcotic drugs''.'
+  - correct: false
+    value: equitation
+    detail: '''equitation'' is not a synonym for ''commission on narcotic drugs''.'
+- text: What is a synonym for 'osmerus'?
+  options:
+  - correct: false
+    value: billet
+    detail: '''billet'' is not a synonym for ''osmerus''.'
+  - correct: false
+    value: cladoniaceae
+    detail: '''cladoniaceae'' is not a synonym for ''osmerus''.'
+  - correct: false
+    value: coronal
+    detail: '''coronal'' is not a synonym for ''osmerus''.'
+  - correct: true
+    value: Osmerus
+    detail: '''Osmerus'' is a synonym for ''osmerus''.'
+- text: What is a synonym for 'saint anthony's fire'?
+  options:
+  - correct: false
+    value: blank space
+    detail: '''blank space'' is not a synonym for ''saint anthony''s fire''.'
+  - correct: false
+    value: numida
+    detail: '''numida'' is not a synonym for ''saint anthony''s fire''.'
+  - correct: true
+    value: Saint Anthony's fire
+    detail: '''Saint Anthony''s fire'' is a synonym for ''saint anthony''s fire''.'
+  - correct: false
+    value: european elder
+    detail: '''european elder'' is not a synonym for ''saint anthony''s fire''.'
+- text: What is a synonym for 'stereoscopic picture'?
+  options:
+  - correct: false
+    value: massicot
+    detail: '''massicot'' is not a synonym for ''stereoscopic picture''.'
+  - correct: true
+    value: stereo
+    detail: '''stereo'' is a synonym for ''stereoscopic picture''.'
+  - correct: false
+    value: zworykin
+    detail: '''zworykin'' is not a synonym for ''stereoscopic picture''.'
+  - correct: false
+    value: sterling bloc
+    detail: '''sterling bloc'' is not a synonym for ''stereoscopic picture''.'
+- text: What is a synonym for 'benzoquinone'?
+  options:
+  - correct: false
+    value: poker plant
+    detail: '''poker plant'' is not a synonym for ''benzoquinone''.'
+  - correct: false
+    value: hibbing
+    detail: '''hibbing'' is not a synonym for ''benzoquinone''.'
+  - correct: false
+    value: life buoy
+    detail: '''life buoy'' is not a synonym for ''benzoquinone''.'
+  - correct: true
+    value: quinone
+    detail: '''quinone'' is a synonym for ''benzoquinone''.'
+- text: What is a synonym for 'badness'?
+  options:
+  - correct: false
+    value: steamer
+    detail: '''steamer'' is not a synonym for ''badness''.'
+  - correct: false
+    value: dalo
+    detail: '''dalo'' is not a synonym for ''badness''.'
+  - correct: true
+    value: bad
+    detail: '''bad'' is a synonym for ''badness''.'
+  - correct: false
+    value: cape yellowwood
+    detail: '''cape yellowwood'' is not a synonym for ''badness''.'
+- text: What is a synonym for 'mosquito craft'?
+  options:
+  - correct: true
+    value: PT boat
+    detail: '''PT boat'' is a synonym for ''mosquito craft''.'
+  - correct: false
+    value: white horse nettle
+    detail: '''white horse nettle'' is not a synonym for ''mosquito craft''.'
+  - correct: false
+    value: genus ammotragus
+    detail: '''genus ammotragus'' is not a synonym for ''mosquito craft''.'
+  - correct: false
+    value: tyre
+    detail: '''tyre'' is not a synonym for ''mosquito craft''.'
+- text: What is a synonym for 'frederick delius'?
+  options:
+  - correct: false
+    value: skunk cabbage
+    detail: '''skunk cabbage'' is not a synonym for ''frederick delius''.'
+  - correct: false
+    value: crete
+    detail: '''crete'' is not a synonym for ''frederick delius''.'
+  - correct: false
+    value: irish whiskey
+    detail: '''irish whiskey'' is not a synonym for ''frederick delius''.'
+  - correct: true
+    value: Delius
+    detail: '''Delius'' is a synonym for ''frederick delius''.'
+- text: What is a synonym for 'orchard apple tree'?
+  options:
+  - correct: true
+    value: apple
+    detail: '''apple'' is a synonym for ''orchard apple tree''.'
+  - correct: false
+    value: industrialisation
+    detail: '''industrialisation'' is not a synonym for ''orchard apple tree''.'
+  - correct: false
+    value: coxa
+    detail: '''coxa'' is not a synonym for ''orchard apple tree''.'
+  - correct: false
+    value: gluttony
+    detail: '''gluttony'' is not a synonym for ''orchard apple tree''.'
+- text: What is a synonym for 'lumberman's saw'?
+  options:
+  - correct: false
+    value: medal winner
+    detail: '''medal winner'' is not a synonym for ''lumberman''s saw''.'
+  - correct: true
+    value: two-handed saw
+    detail: '''two-handed saw'' is a synonym for ''lumberman''s saw''.'
+  - correct: false
+    value: abstracter
+    detail: '''abstracter'' is not a synonym for ''lumberman''s saw''.'
+  - correct: false
+    value: chorizema
+    detail: '''chorizema'' is not a synonym for ''lumberman''s saw''.'
+- text: What is a synonym for 'trumpet honeysuckle'?
+  options:
+  - correct: true
+    value: coral honeysuckle
+    detail: '''coral honeysuckle'' is a synonym for ''trumpet honeysuckle''.'
+  - correct: false
+    value: transmission control protocol/internet protocol
+    detail: '''transmission control protocol/internet protocol'' is not a synonym
+      for ''trumpet honeysuckle''.'
+  - correct: false
+    value: negro vine
+    detail: '''negro vine'' is not a synonym for ''trumpet honeysuckle''.'
+  - correct: false
+    value: upjohn
+    detail: '''upjohn'' is not a synonym for ''trumpet honeysuckle''.'
+- text: What is a synonym for 'cibotium barometz'?
+  options:
+  - correct: false
+    value: hangnail
+    detail: '''hangnail'' is not a synonym for ''cibotium barometz''.'
+  - correct: false
+    value: panduriform leaf
+    detail: '''panduriform leaf'' is not a synonym for ''cibotium barometz''.'
+  - correct: true
+    value: Scythian lamb
+    detail: '''Scythian lamb'' is a synonym for ''cibotium barometz''.'
+  - correct: false
+    value: chadian franc
+    detail: '''chadian franc'' is not a synonym for ''cibotium barometz''.'
+- text: What is a synonym for 'bow'?
+  options:
+  - correct: true
+    value: bowknot
+    detail: '''bowknot'' is a synonym for ''bow''.'
+  - correct: false
+    value: merrymaking
+    detail: '''merrymaking'' is not a synonym for ''bow''.'
+  - correct: false
+    value: ooze
+    detail: '''ooze'' is not a synonym for ''bow''.'
+  - correct: false
+    value: chaetognatha
+    detail: '''chaetognatha'' is not a synonym for ''bow''.'

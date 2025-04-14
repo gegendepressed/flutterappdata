@@ -1,0 +1,285 @@
+description: Synonym questions - Medium Set 5
+topic: adjective
+id: adjective-medium5
+title: Adjective Synonyms - Medium 5
+questions:
+- text: What is a synonym for 'laotian'?
+  options:
+  - correct: false
+    value: radiopaque
+    detail: '''radiopaque'' is not a synonym for ''laotian''.'
+  - correct: false
+    value: symbolic
+    detail: '''symbolic'' is not a synonym for ''laotian''.'
+  - correct: false
+    value: dolichocephalic
+    detail: '''dolichocephalic'' is not a synonym for ''laotian''.'
+  - correct: true
+    value: Laotian
+    detail: '''Laotian'' is a synonym for ''laotian''.'
+- text: What is a synonym for 'peaceable'?
+  options:
+  - correct: false
+    value: taoist
+    detail: '''taoist'' is not a synonym for ''peaceable''.'
+  - correct: false
+    value: acrogenic
+    detail: '''acrogenic'' is not a synonym for ''peaceable''.'
+  - correct: true
+    value: peaceful
+    detail: '''peaceful'' is a synonym for ''peaceable''.'
+  - correct: false
+    value: dermic
+    detail: '''dermic'' is not a synonym for ''peaceable''.'
+- text: What is a synonym for 'nonspeaking'?
+  options:
+  - correct: false
+    value: thermodynamical
+    detail: '''thermodynamical'' is not a synonym for ''nonspeaking''.'
+  - correct: false
+    value: egoistical
+    detail: '''egoistical'' is not a synonym for ''nonspeaking''.'
+  - correct: false
+    value: tactless
+    detail: '''tactless'' is not a synonym for ''nonspeaking''.'
+  - correct: true
+    value: walk-on
+    detail: '''walk-on'' is a synonym for ''nonspeaking''.'
+- text: What is a synonym for 'inadequate'?
+  options:
+  - correct: false
+    value: persistent
+    detail: '''persistent'' is not a synonym for ''inadequate''.'
+  - correct: true
+    value: unequal
+    detail: '''unequal'' is a synonym for ''inadequate''.'
+  - correct: false
+    value: algonkian
+    detail: '''algonkian'' is not a synonym for ''inadequate''.'
+  - correct: false
+    value: icelandic
+    detail: '''icelandic'' is not a synonym for ''inadequate''.'
+- text: What is a synonym for 'untroubled'?
+  options:
+  - correct: false
+    value: entomological
+    detail: '''entomological'' is not a synonym for ''untroubled''.'
+  - correct: true
+    value: secure
+    detail: '''secure'' is a synonym for ''untroubled''.'
+  - correct: false
+    value: chimerical
+    detail: '''chimerical'' is not a synonym for ''untroubled''.'
+  - correct: false
+    value: ferny
+    detail: '''ferny'' is not a synonym for ''untroubled''.'
+- text: What is a synonym for 'antisatellite'?
+  options:
+  - correct: false
+    value: bumpy
+    detail: '''bumpy'' is not a synonym for ''antisatellite''.'
+  - correct: true
+    value: ASAT
+    detail: '''ASAT'' is a synonym for ''antisatellite''.'
+  - correct: false
+    value: unrevived
+    detail: '''unrevived'' is not a synonym for ''antisatellite''.'
+  - correct: false
+    value: prejudicial
+    detail: '''prejudicial'' is not a synonym for ''antisatellite''.'
+- text: What is a synonym for 'inauspicious'?
+  options:
+  - correct: true
+    value: unfortunate
+    detail: '''unfortunate'' is a synonym for ''inauspicious''.'
+  - correct: false
+    value: lean
+    detail: '''lean'' is not a synonym for ''inauspicious''.'
+  - correct: false
+    value: denotive
+    detail: '''denotive'' is not a synonym for ''inauspicious''.'
+  - correct: false
+    value: siliceous
+    detail: '''siliceous'' is not a synonym for ''inauspicious''.'
+- text: What is a synonym for 'subocular'?
+  options:
+  - correct: false
+    value: geriatric
+    detail: '''geriatric'' is not a synonym for ''subocular''.'
+  - correct: false
+    value: ascosporic
+    detail: '''ascosporic'' is not a synonym for ''subocular''.'
+  - correct: true
+    value: suborbital
+    detail: '''suborbital'' is a synonym for ''subocular''.'
+  - correct: false
+    value: roman catholic
+    detail: '''roman catholic'' is not a synonym for ''subocular''.'
+- text: What is a synonym for 'imperialistic'?
+  options:
+  - correct: false
+    value: narrow-minded
+    detail: '''narrow-minded'' is not a synonym for ''imperialistic''.'
+  - correct: false
+    value: platonistic
+    detail: '''platonistic'' is not a synonym for ''imperialistic''.'
+  - correct: true
+    value: imperialist
+    detail: '''imperialist'' is a synonym for ''imperialistic''.'
+  - correct: false
+    value: esthetical
+    detail: '''esthetical'' is not a synonym for ''imperialistic''.'
+- text: What is a synonym for 'spectroscopic'?
+  options:
+  - correct: false
+    value: zionist
+    detail: '''zionist'' is not a synonym for ''spectroscopic''.'
+  - correct: false
+    value: salable
+    detail: '''salable'' is not a synonym for ''spectroscopic''.'
+  - correct: false
+    value: dermic
+    detail: '''dermic'' is not a synonym for ''spectroscopic''.'
+  - correct: true
+    value: spectroscopical
+    detail: '''spectroscopical'' is a synonym for ''spectroscopic''.'
+- text: What is a synonym for 'ungulate'?
+  options:
+  - correct: true
+    value: ungulated
+    detail: '''ungulated'' is a synonym for ''ungulate''.'
+  - correct: false
+    value: uneffective
+    detail: '''uneffective'' is not a synonym for ''ungulate''.'
+  - correct: false
+    value: lusitanian
+    detail: '''lusitanian'' is not a synonym for ''ungulate''.'
+  - correct: false
+    value: spineless
+    detail: '''spineless'' is not a synonym for ''ungulate''.'
+- text: What is a synonym for 'cyclonical'?
+  options:
+  - correct: false
+    value: autoecious
+    detail: '''autoecious'' is not a synonym for ''cyclonical''.'
+  - correct: false
+    value: unploughed
+    detail: '''unploughed'' is not a synonym for ''cyclonical''.'
+  - correct: true
+    value: cyclonic
+    detail: '''cyclonic'' is a synonym for ''cyclonical''.'
+  - correct: false
+    value: rhymeless
+    detail: '''rhymeless'' is not a synonym for ''cyclonical''.'
+- text: What is a synonym for 'low-class'?
+  options:
+  - correct: false
+    value: danish
+    detail: '''danish'' is not a synonym for ''low-class''.'
+  - correct: false
+    value: tactless
+    detail: '''tactless'' is not a synonym for ''low-class''.'
+  - correct: true
+    value: lower-class
+    detail: '''lower-class'' is a synonym for ''low-class''.'
+  - correct: false
+    value: adsorptive
+    detail: '''adsorptive'' is not a synonym for ''low-class''.'
+- text: What is a synonym for 'artiodactylous'?
+  options:
+  - correct: false
+    value: brachycephalic
+    detail: '''brachycephalic'' is not a synonym for ''artiodactylous''.'
+  - correct: true
+    value: artiodactyl
+    detail: '''artiodactyl'' is a synonym for ''artiodactylous''.'
+  - correct: false
+    value: architectonic
+    detail: '''architectonic'' is not a synonym for ''artiodactylous''.'
+  - correct: false
+    value: unaffixed
+    detail: '''unaffixed'' is not a synonym for ''artiodactylous''.'
+- text: What is a synonym for 'delphian'?
+  options:
+  - correct: false
+    value: stannous
+    detail: '''stannous'' is not a synonym for ''delphian''.'
+  - correct: false
+    value: monovular
+    detail: '''monovular'' is not a synonym for ''delphian''.'
+  - correct: true
+    value: Delphic
+    detail: '''Delphic'' is a synonym for ''delphian''.'
+  - correct: false
+    value: islamic
+    detail: '''islamic'' is not a synonym for ''delphian''.'
+- text: What is a synonym for 'lap-streaked'?
+  options:
+  - correct: true
+    value: clinker-built
+    detail: '''clinker-built'' is a synonym for ''lap-streaked''.'
+  - correct: false
+    value: sinhala
+    detail: '''sinhala'' is not a synonym for ''lap-streaked''.'
+  - correct: false
+    value: antitypical
+    detail: '''antitypical'' is not a synonym for ''lap-streaked''.'
+  - correct: false
+    value: marmorean
+    detail: '''marmorean'' is not a synonym for ''lap-streaked''.'
+- text: What is a synonym for 'rhythmical'?
+  options:
+  - correct: false
+    value: sedimentary
+    detail: '''sedimentary'' is not a synonym for ''rhythmical''.'
+  - correct: false
+    value: ascetic
+    detail: '''ascetic'' is not a synonym for ''rhythmical''.'
+  - correct: true
+    value: rhythmic
+    detail: '''rhythmic'' is a synonym for ''rhythmical''.'
+  - correct: false
+    value: unrevived
+    detail: '''unrevived'' is not a synonym for ''rhythmical''.'
+- text: What is a synonym for 'shortsighted'?
+  options:
+  - correct: false
+    value: operative
+    detail: '''operative'' is not a synonym for ''shortsighted''.'
+  - correct: false
+    value: centralized
+    detail: '''centralized'' is not a synonym for ''shortsighted''.'
+  - correct: true
+    value: nearsighted
+    detail: '''nearsighted'' is a synonym for ''shortsighted''.'
+  - correct: false
+    value: unmeasured
+    detail: '''unmeasured'' is not a synonym for ''shortsighted''.'
+- text: What is a synonym for 'diachronic'?
+  options:
+  - correct: false
+    value: diaphoretic
+    detail: '''diaphoretic'' is not a synonym for ''diachronic''.'
+  - correct: false
+    value: still
+    detail: '''still'' is not a synonym for ''diachronic''.'
+  - correct: true
+    value: historical
+    detail: '''historical'' is a synonym for ''diachronic''.'
+  - correct: false
+    value: unsexed
+    detail: '''unsexed'' is not a synonym for ''diachronic''.'
+- text: What is a synonym for 'expressed'?
+  options:
+  - correct: true
+    value: explicit
+    detail: '''explicit'' is a synonym for ''expressed''.'
+  - correct: false
+    value: unreassuring
+    detail: '''unreassuring'' is not a synonym for ''expressed''.'
+  - correct: false
+    value: cytological
+    detail: '''cytological'' is not a synonym for ''expressed''.'
+  - correct: false
+    value: sentient
+    detail: '''sentient'' is not a synonym for ''expressed''.'

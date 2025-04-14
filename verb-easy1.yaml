@@ -1,0 +1,285 @@
+description: Synonym questions - Easy Set 1
+topic: verb
+id: verb-easy1
+title: Verb Synonyms - Easy 1
+questions:
+- text: What is a synonym for 'enact'?
+  options:
+  - correct: false
+    value: stash away
+    detail: '''stash away'' is not a synonym for ''enact''.'
+  - correct: true
+    value: ordain
+    detail: '''ordain'' is a synonym for ''enact''.'
+  - correct: false
+    value: fleece
+    detail: '''fleece'' is not a synonym for ''enact''.'
+  - correct: false
+    value: crazily
+    detail: '''crazily'' is not a synonym for ''enact''.'
+- text: What is a synonym for 'darkened'?
+  options:
+  - correct: false
+    value: carnalize
+    detail: '''carnalize'' is not a synonym for ''darkened''.'
+  - correct: false
+    value: carry through
+    detail: '''carry through'' is not a synonym for ''darkened''.'
+  - correct: false
+    value: ornament
+    detail: '''ornament'' is not a synonym for ''darkened''.'
+  - correct: true
+    value: darken
+    detail: '''darken'' is a synonym for ''darkened''.'
+- text: What is a synonym for 'devil'?
+  options:
+  - correct: false
+    value: yen
+    detail: '''yen'' is not a synonym for ''devil''.'
+  - correct: false
+    value: gather in
+    detail: '''gather in'' is not a synonym for ''devil''.'
+  - correct: true
+    value: annoy
+    detail: '''annoy'' is a synonym for ''devil''.'
+  - correct: false
+    value: heatedly
+    detail: '''heatedly'' is not a synonym for ''devil''.'
+- text: What is a synonym for 'kinaesthetically'?
+  options:
+  - correct: true
+    value: kinesthetically
+    detail: '''kinesthetically'' is a synonym for ''kinaesthetically''.'
+  - correct: false
+    value: fire
+    detail: '''fire'' is not a synonym for ''kinaesthetically''.'
+  - correct: false
+    value: cloud
+    detail: '''cloud'' is not a synonym for ''kinaesthetically''.'
+  - correct: false
+    value: induct
+    detail: '''induct'' is not a synonym for ''kinaesthetically''.'
+- text: What is a synonym for 'swoop'?
+  options:
+  - correct: false
+    value: work through
+    detail: '''work through'' is not a synonym for ''swoop''.'
+  - correct: false
+    value: enquiringly
+    detail: '''enquiringly'' is not a synonym for ''swoop''.'
+  - correct: true
+    value: pounce
+    detail: '''pounce'' is a synonym for ''swoop''.'
+  - correct: false
+    value: remain down
+    detail: '''remain down'' is not a synonym for ''swoop''.'
+- text: What is a synonym for 'snaffle'?
+  options:
+  - correct: true
+    value: snap up
+    detail: '''snap up'' is a synonym for ''snaffle''.'
+  - correct: false
+    value: faithfully
+    detail: '''faithfully'' is not a synonym for ''snaffle''.'
+  - correct: false
+    value: idolized
+    detail: '''idolized'' is not a synonym for ''snaffle''.'
+  - correct: false
+    value: despitefully
+    detail: '''despitefully'' is not a synonym for ''snaffle''.'
+- text: What is a synonym for 'affranchise'?
+  options:
+  - correct: false
+    value: played
+    detail: '''played'' is not a synonym for ''affranchise''.'
+  - correct: false
+    value: strongly
+    detail: '''strongly'' is not a synonym for ''affranchise''.'
+  - correct: false
+    value: struggling
+    detail: '''struggling'' is not a synonym for ''affranchise''.'
+  - correct: true
+    value: enfranchise
+    detail: '''enfranchise'' is a synonym for ''affranchise''.'
+- text: What is a synonym for 'laced'?
+  options:
+  - correct: false
+    value: glass over
+    detail: '''glass over'' is not a synonym for ''laced''.'
+  - correct: false
+    value: paid
+    detail: '''paid'' is not a synonym for ''laced''.'
+  - correct: false
+    value: estrange
+    detail: '''estrange'' is not a synonym for ''laced''.'
+  - correct: true
+    value: intertwine
+    detail: '''intertwine'' is a synonym for ''laced''.'
+- text: What is a synonym for 'send'?
+  options:
+  - correct: false
+    value: reheel
+    detail: '''reheel'' is not a synonym for ''send''.'
+  - correct: false
+    value: couple up
+    detail: '''couple up'' is not a synonym for ''send''.'
+  - correct: true
+    value: direct
+    detail: '''direct'' is a synonym for ''send''.'
+  - correct: false
+    value: chewing
+    detail: '''chewing'' is not a synonym for ''send''.'
+- text: What is a synonym for 'on a higher floor'?
+  options:
+  - correct: true
+    value: upstairs
+    detail: '''upstairs'' is a synonym for ''on a higher floor''.'
+  - correct: false
+    value: personate
+    detail: '''personate'' is not a synonym for ''on a higher floor''.'
+  - correct: false
+    value: breast-high
+    detail: '''breast-high'' is not a synonym for ''on a higher floor''.'
+  - correct: false
+    value: shamanize
+    detail: '''shamanize'' is not a synonym for ''on a higher floor''.'
+- text: What is a synonym for 'photocopy'?
+  options:
+  - correct: false
+    value: coarsened
+    detail: '''coarsened'' is not a synonym for ''photocopy''.'
+  - correct: false
+    value: needless
+    detail: '''needless'' is not a synonym for ''photocopy''.'
+  - correct: true
+    value: run off
+    detail: '''run off'' is a synonym for ''photocopy''.'
+  - correct: false
+    value: teased
+    detail: '''teased'' is not a synonym for ''photocopy''.'
+- text: What is a synonym for 'fossilized'?
+  options:
+  - correct: true
+    value: fossilize
+    detail: '''fossilize'' is a synonym for ''fossilized''.'
+  - correct: false
+    value: monopolize
+    detail: '''monopolize'' is not a synonym for ''fossilized''.'
+  - correct: false
+    value: nor'-nor'-east
+    detail: '''nor''-nor''-east'' is not a synonym for ''fossilized''.'
+  - correct: false
+    value: spot-weld
+    detail: '''spot-weld'' is not a synonym for ''fossilized''.'
+- text: What is a synonym for 'formalized'?
+  options:
+  - correct: false
+    value: purely
+    detail: '''purely'' is not a synonym for ''formalized''.'
+  - correct: false
+    value: scratch off
+    detail: '''scratch off'' is not a synonym for ''formalized''.'
+  - correct: true
+    value: formalize
+    detail: '''formalize'' is a synonym for ''formalized''.'
+  - correct: false
+    value: at present
+    detail: '''at present'' is not a synonym for ''formalized''.'
+- text: What is a synonym for 'screening'?
+  options:
+  - correct: false
+    value: deteriorate
+    detail: '''deteriorate'' is not a synonym for ''screening''.'
+  - correct: true
+    value: screen
+    detail: '''screen'' is a synonym for ''screening''.'
+  - correct: false
+    value: amiably
+    detail: '''amiably'' is not a synonym for ''screening''.'
+  - correct: false
+    value: scrub
+    detail: '''scrub'' is not a synonym for ''screening''.'
+- text: What is a synonym for 'gild the lily'?
+  options:
+  - correct: false
+    value: p.a.
+    detail: '''p.a.'' is not a synonym for ''gild the lily''.'
+  - correct: false
+    value: daily
+    detail: '''daily'' is not a synonym for ''gild the lily''.'
+  - correct: false
+    value: keep abreast
+    detail: '''keep abreast'' is not a synonym for ''gild the lily''.'
+  - correct: true
+    value: paint the lily
+    detail: '''paint the lily'' is a synonym for ''gild the lily''.'
+- text: What is a synonym for 'drag in'?
+  options:
+  - correct: false
+    value: cash in one's chips
+    detail: '''cash in one''s chips'' is not a synonym for ''drag in''.'
+  - correct: false
+    value: prn
+    detail: '''prn'' is not a synonym for ''drag in''.'
+  - correct: false
+    value: abyss
+    detail: '''abyss'' is not a synonym for ''drag in''.'
+  - correct: true
+    value: embroil
+    detail: '''embroil'' is a synonym for ''drag in''.'
+- text: What is a synonym for 'constraining'?
+  options:
+  - correct: false
+    value: dog
+    detail: '''dog'' is not a synonym for ''constraining''.'
+  - correct: true
+    value: restrain
+    detail: '''restrain'' is a synonym for ''constraining''.'
+  - correct: false
+    value: to a fault
+    detail: '''to a fault'' is not a synonym for ''constraining''.'
+  - correct: false
+    value: thwart
+    detail: '''thwart'' is not a synonym for ''constraining''.'
+- text: What is a synonym for 'professing'?
+  options:
+  - correct: false
+    value: masturbate
+    detail: '''masturbate'' is not a synonym for ''professing''.'
+  - correct: false
+    value: what is more
+    detail: '''what is more'' is not a synonym for ''professing''.'
+  - correct: false
+    value: smell up
+    detail: '''smell up'' is not a synonym for ''professing''.'
+  - correct: true
+    value: profess
+    detail: '''profess'' is a synonym for ''professing''.'
+- text: What is a synonym for 'iodized'?
+  options:
+  - correct: false
+    value: eliminate
+    detail: '''eliminate'' is not a synonym for ''iodized''.'
+  - correct: false
+    value: pardon
+    detail: '''pardon'' is not a synonym for ''iodized''.'
+  - correct: false
+    value: implausibly
+    detail: '''implausibly'' is not a synonym for ''iodized''.'
+  - correct: true
+    value: iodize
+    detail: '''iodize'' is a synonym for ''iodized''.'
+- text: What is a synonym for 'thoughtlessly'?
+  options:
+  - correct: false
+    value: restrain
+    detail: '''restrain'' is not a synonym for ''thoughtlessly''.'
+  - correct: false
+    value: butt
+    detail: '''butt'' is not a synonym for ''thoughtlessly''.'
+  - correct: true
+    value: unthinkingly
+    detail: '''unthinkingly'' is a synonym for ''thoughtlessly''.'
+  - correct: false
+    value: mercerize
+    detail: '''mercerize'' is not a synonym for ''thoughtlessly''.'

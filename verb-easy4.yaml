@@ -1,0 +1,285 @@
+description: Synonym questions - Easy Set 4
+topic: verb
+id: verb-easy4
+title: Verb Synonyms - Easy 4
+questions:
+- text: What is a synonym for 'relieved'?
+  options:
+  - correct: false
+    value: first-rate
+    detail: '''first-rate'' is not a synonym for ''relieved''.'
+  - correct: true
+    value: relieve
+    detail: '''relieve'' is a synonym for ''relieved''.'
+  - correct: false
+    value: counteract
+    detail: '''counteract'' is not a synonym for ''relieved''.'
+  - correct: false
+    value: suburbanize
+    detail: '''suburbanize'' is not a synonym for ''relieved''.'
+- text: What is a synonym for 'favorably'?
+  options:
+  - correct: false
+    value: punctuate
+    detail: '''punctuate'' is not a synonym for ''favorably''.'
+  - correct: false
+    value: copper-bottomed
+    detail: '''copper-bottomed'' is not a synonym for ''favorably''.'
+  - correct: false
+    value: whisk by
+    detail: '''whisk by'' is not a synonym for ''favorably''.'
+  - correct: true
+    value: favourably
+    detail: '''favourably'' is a synonym for ''favorably''.'
+- text: What is a synonym for 'furled'?
+  options:
+  - correct: false
+    value: industrialized
+    detail: '''industrialized'' is not a synonym for ''furled''.'
+  - correct: false
+    value: school
+    detail: '''school'' is not a synonym for ''furled''.'
+  - correct: true
+    value: roll up
+    detail: '''roll up'' is a synonym for ''furled''.'
+  - correct: false
+    value: atomise
+    detail: '''atomise'' is not a synonym for ''furled''.'
+- text: What is a synonym for 'parcelling'?
+  options:
+  - correct: true
+    value: parcel
+    detail: '''parcel'' is a synonym for ''parcelling''.'
+  - correct: false
+    value: fastest
+    detail: '''fastest'' is not a synonym for ''parcelling''.'
+  - correct: false
+    value: glamour
+    detail: '''glamour'' is not a synonym for ''parcelling''.'
+  - correct: false
+    value: work up
+    detail: '''work up'' is not a synonym for ''parcelling''.'
+- text: What is a synonym for 'arrayed'?
+  options:
+  - correct: false
+    value: upwardly
+    detail: '''upwardly'' is not a synonym for ''arrayed''.'
+  - correct: true
+    value: range
+    detail: '''range'' is a synonym for ''arrayed''.'
+  - correct: false
+    value: endlessly
+    detail: '''endlessly'' is not a synonym for ''arrayed''.'
+  - correct: false
+    value: razz
+    detail: '''razz'' is not a synonym for ''arrayed''.'
+- text: What is a synonym for 'portion out'?
+  options:
+  - correct: false
+    value: goffer
+    detail: '''goffer'' is not a synonym for ''portion out''.'
+  - correct: false
+    value: smelling
+    detail: '''smelling'' is not a synonym for ''portion out''.'
+  - correct: false
+    value: slop
+    detail: '''slop'' is not a synonym for ''portion out''.'
+  - correct: true
+    value: share
+    detail: '''share'' is a synonym for ''portion out''.'
+- text: What is a synonym for 'splurge'?
+  options:
+  - correct: false
+    value: publicised
+    detail: '''publicised'' is not a synonym for ''splurge''.'
+  - correct: false
+    value: acetify
+    detail: '''acetify'' is not a synonym for ''splurge''.'
+  - correct: false
+    value: ionized
+    detail: '''ionized'' is not a synonym for ''splurge''.'
+  - correct: true
+    value: fling
+    detail: '''fling'' is a synonym for ''splurge''.'
+- text: What is a synonym for 'run out'?
+  options:
+  - correct: false
+    value: doubtlessly
+    detail: '''doubtlessly'' is not a synonym for ''run out''.'
+  - correct: true
+    value: drain
+    detail: '''drain'' is a synonym for ''run out''.'
+  - correct: false
+    value: steadying
+    detail: '''steadying'' is not a synonym for ''run out''.'
+  - correct: false
+    value: relieved
+    detail: '''relieved'' is not a synonym for ''run out''.'
+- text: What is a synonym for 'vowelise'?
+  options:
+  - correct: false
+    value: patronised
+    detail: '''patronised'' is not a synonym for ''vowelise''.'
+  - correct: false
+    value: run away
+    detail: '''run away'' is not a synonym for ''vowelise''.'
+  - correct: true
+    value: vocalize
+    detail: '''vocalize'' is a synonym for ''vowelise''.'
+  - correct: false
+    value: take heed
+    detail: '''take heed'' is not a synonym for ''vowelise''.'
+- text: What is a synonym for 'chance on'?
+  options:
+  - correct: true
+    value: fall upon
+    detail: '''fall upon'' is a synonym for ''chance on''.'
+  - correct: false
+    value: allowably
+    detail: '''allowably'' is not a synonym for ''chance on''.'
+  - correct: false
+    value: scrap
+    detail: '''scrap'' is not a synonym for ''chance on''.'
+  - correct: false
+    value: ftp
+    detail: '''ftp'' is not a synonym for ''chance on''.'
+- text: What is a synonym for 'hulk'?
+  options:
+  - correct: false
+    value: just
+    detail: '''just'' is not a synonym for ''hulk''.'
+  - correct: true
+    value: loom
+    detail: '''loom'' is a synonym for ''hulk''.'
+  - correct: false
+    value: speak out
+    detail: '''speak out'' is not a synonym for ''hulk''.'
+  - correct: false
+    value: move around
+    detail: '''move around'' is not a synonym for ''hulk''.'
+- text: What is a synonym for 'heatedly'?
+  options:
+  - correct: false
+    value: title
+    detail: '''title'' is not a synonym for ''heatedly''.'
+  - correct: true
+    value: hotly
+    detail: '''hotly'' is a synonym for ''heatedly''.'
+  - correct: false
+    value: bet on
+    detail: '''bet on'' is not a synonym for ''heatedly''.'
+  - correct: false
+    value: contritely
+    detail: '''contritely'' is not a synonym for ''heatedly''.'
+- text: What is a synonym for 'spaceward'?
+  options:
+  - correct: false
+    value: hand-wash
+    detail: '''hand-wash'' is not a synonym for ''spaceward''.'
+  - correct: false
+    value: purple
+    detail: '''purple'' is not a synonym for ''spaceward''.'
+  - correct: false
+    value: shielding
+    detail: '''shielding'' is not a synonym for ''spaceward''.'
+  - correct: true
+    value: spacewards
+    detail: '''spacewards'' is a synonym for ''spaceward''.'
+- text: What is a synonym for 'hatted'?
+  options:
+  - correct: true
+    value: hat
+    detail: '''hat'' is a synonym for ''hatted''.'
+  - correct: false
+    value: blither
+    detail: '''blither'' is not a synonym for ''hatted''.'
+  - correct: false
+    value: abaft
+    detail: '''abaft'' is not a synonym for ''hatted''.'
+  - correct: false
+    value: inspire
+    detail: '''inspire'' is not a synonym for ''hatted''.'
+- text: What is a synonym for 'stagily'?
+  options:
+  - correct: false
+    value: bushwhack
+    detail: '''bushwhack'' is not a synonym for ''stagily''.'
+  - correct: false
+    value: patinize
+    detail: '''patinize'' is not a synonym for ''stagily''.'
+  - correct: true
+    value: theatrically
+    detail: '''theatrically'' is a synonym for ''stagily''.'
+  - correct: false
+    value: purse
+    detail: '''purse'' is not a synonym for ''stagily''.'
+- text: What is a synonym for 'crenel'?
+  options:
+  - correct: false
+    value: wrench
+    detail: '''wrench'' is not a synonym for ''crenel''.'
+  - correct: false
+    value: drilled
+    detail: '''drilled'' is not a synonym for ''crenel''.'
+  - correct: false
+    value: reset
+    detail: '''reset'' is not a synonym for ''crenel''.'
+  - correct: true
+    value: crenelate
+    detail: '''crenelate'' is a synonym for ''crenel''.'
+- text: What is a synonym for 'rejuvenate'?
+  options:
+  - correct: false
+    value: write
+    detail: '''write'' is not a synonym for ''rejuvenate''.'
+  - correct: false
+    value: joy
+    detail: '''joy'' is not a synonym for ''rejuvenate''.'
+  - correct: true
+    value: regenerate
+    detail: '''regenerate'' is a synonym for ''rejuvenate''.'
+  - correct: false
+    value: coerce
+    detail: '''coerce'' is not a synonym for ''rejuvenate''.'
+- text: What is a synonym for 'raped'?
+  options:
+  - correct: true
+    value: rape
+    detail: '''rape'' is a synonym for ''raped''.'
+  - correct: false
+    value: place-kicking
+    detail: '''place-kicking'' is not a synonym for ''raped''.'
+  - correct: false
+    value: cold work
+    detail: '''cold work'' is not a synonym for ''raped''.'
+  - correct: false
+    value: chrome
+    detail: '''chrome'' is not a synonym for ''raped''.'
+- text: What is a synonym for 'neck'?
+  options:
+  - correct: true
+    value: make out
+    detail: '''make out'' is a synonym for ''neck''.'
+  - correct: false
+    value: sensualize
+    detail: '''sensualize'' is not a synonym for ''neck''.'
+  - correct: false
+    value: sorbed
+    detail: '''sorbed'' is not a synonym for ''neck''.'
+  - correct: false
+    value: spend a penny
+    detail: '''spend a penny'' is not a synonym for ''neck''.'
+- text: What is a synonym for 'engorged'?
+  options:
+  - correct: false
+    value: concretise
+    detail: '''concretise'' is not a synonym for ''engorged''.'
+  - correct: false
+    value: dowered
+    detail: '''dowered'' is not a synonym for ''engorged''.'
+  - correct: true
+    value: gorge
+    detail: '''gorge'' is a synonym for ''engorged''.'
+  - correct: false
+    value: caudal
+    detail: '''caudal'' is not a synonym for ''engorged''.'

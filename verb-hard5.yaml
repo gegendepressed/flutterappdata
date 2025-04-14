@@ -1,0 +1,285 @@
+description: Synonym questions - Hard Set 5
+topic: verb
+id: verb-hard5
+title: Verb Synonyms - Hard 5
+questions:
+- text: What is a synonym for 'infringe'?
+  options:
+  - correct: false
+    value: assassinated
+    detail: '''assassinated'' is not a synonym for ''infringe''.'
+  - correct: false
+    value: good
+    detail: '''good'' is not a synonym for ''infringe''.'
+  - correct: true
+    value: conflict
+    detail: '''conflict'' is a synonym for ''infringe''.'
+  - correct: false
+    value: to that degree
+    detail: '''to that degree'' is not a synonym for ''infringe''.'
+- text: What is a synonym for 'placed'?
+  options:
+  - correct: false
+    value: potter
+    detail: '''potter'' is not a synonym for ''placed''.'
+  - correct: true
+    value: put
+    detail: '''put'' is a synonym for ''placed''.'
+  - correct: false
+    value: luff
+    detail: '''luff'' is not a synonym for ''placed''.'
+  - correct: false
+    value: pass over
+    detail: '''pass over'' is not a synonym for ''placed''.'
+- text: What is a synonym for 'inure'?
+  options:
+  - correct: false
+    value: rambling
+    detail: '''rambling'' is not a synonym for ''inure''.'
+  - correct: true
+    value: harden
+    detail: '''harden'' is a synonym for ''inure''.'
+  - correct: false
+    value: fasten on
+    detail: '''fasten on'' is not a synonym for ''inure''.'
+  - correct: false
+    value: in that location
+    detail: '''in that location'' is not a synonym for ''inure''.'
+- text: What is a synonym for 'intimate'?
+  options:
+  - correct: false
+    value: thereabouts
+    detail: '''thereabouts'' is not a synonym for ''intimate''.'
+  - correct: false
+    value: at any rate
+    detail: '''at any rate'' is not a synonym for ''intimate''.'
+  - correct: true
+    value: adumbrate
+    detail: '''adumbrate'' is a synonym for ''intimate''.'
+  - correct: false
+    value: remediate
+    detail: '''remediate'' is not a synonym for ''intimate''.'
+- text: What is a synonym for 'grazing'?
+  options:
+  - correct: false
+    value: prejudiced
+    detail: '''prejudiced'' is not a synonym for ''grazing''.'
+  - correct: false
+    value: proceed
+    detail: '''proceed'' is not a synonym for ''grazing''.'
+  - correct: true
+    value: crop
+    detail: '''crop'' is a synonym for ''grazing''.'
+  - correct: false
+    value: keeping
+    detail: '''keeping'' is not a synonym for ''grazing''.'
+- text: What is a synonym for 'throughout'?
+  options:
+  - correct: false
+    value: tarry
+    detail: '''tarry'' is not a synonym for ''throughout''.'
+  - correct: false
+    value: seriously
+    detail: '''seriously'' is not a synonym for ''throughout''.'
+  - correct: false
+    value: graduate
+    detail: '''graduate'' is not a synonym for ''throughout''.'
+  - correct: true
+    value: end-to-end
+    detail: '''end-to-end'' is a synonym for ''throughout''.'
+- text: What is a synonym for 'scuffle'?
+  options:
+  - correct: false
+    value: come across
+    detail: '''come across'' is not a synonym for ''scuffle''.'
+  - correct: true
+    value: shuffle
+    detail: '''shuffle'' is a synonym for ''scuffle''.'
+  - correct: false
+    value: credits
+    detail: '''credits'' is not a synonym for ''scuffle''.'
+  - correct: false
+    value: raging
+    detail: '''raging'' is not a synonym for ''scuffle''.'
+- text: What is a synonym for 'pronounced'?
+  options:
+  - correct: true
+    value: pronounce
+    detail: '''pronounce'' is a synonym for ''pronounced''.'
+  - correct: false
+    value: pipe up
+    detail: '''pipe up'' is not a synonym for ''pronounced''.'
+  - correct: false
+    value: smudge
+    detail: '''smudge'' is not a synonym for ''pronounced''.'
+  - correct: false
+    value: enliven
+    detail: '''enliven'' is not a synonym for ''pronounced''.'
+- text: What is a synonym for 'watercolour'?
+  options:
+  - correct: false
+    value: wilt
+    detail: '''wilt'' is not a synonym for ''watercolour''.'
+  - correct: false
+    value: etch
+    detail: '''etch'' is not a synonym for ''watercolour''.'
+  - correct: false
+    value: scratch along
+    detail: '''scratch along'' is not a synonym for ''watercolour''.'
+  - correct: true
+    value: watercolor
+    detail: '''watercolor'' is a synonym for ''watercolour''.'
+- text: What is a synonym for 'wetting'?
+  options:
+  - correct: false
+    value: riled
+    detail: '''riled'' is not a synonym for ''wetting''.'
+  - correct: false
+    value: semiannually
+    detail: '''semiannually'' is not a synonym for ''wetting''.'
+  - correct: false
+    value: harness
+    detail: '''harness'' is not a synonym for ''wetting''.'
+  - correct: true
+    value: wet
+    detail: '''wet'' is a synonym for ''wetting''.'
+- text: What is a synonym for 'dodder'?
+  options:
+  - correct: false
+    value: squash
+    detail: '''squash'' is not a synonym for ''dodder''.'
+  - correct: true
+    value: toddle
+    detail: '''toddle'' is a synonym for ''dodder''.'
+  - correct: false
+    value: settle down
+    detail: '''settle down'' is not a synonym for ''dodder''.'
+  - correct: false
+    value: armour
+    detail: '''armour'' is not a synonym for ''dodder''.'
+- text: What is a synonym for 'devour'?
+  options:
+  - correct: false
+    value: welch
+    detail: '''welch'' is not a synonym for ''devour''.'
+  - correct: false
+    value: refresh
+    detail: '''refresh'' is not a synonym for ''devour''.'
+  - correct: false
+    value: farrowing
+    detail: '''farrowing'' is not a synonym for ''devour''.'
+  - correct: true
+    value: down
+    detail: '''down'' is a synonym for ''devour''.'
+- text: What is a synonym for 'tinker'?
+  options:
+  - correct: false
+    value: industrialize
+    detail: '''industrialize'' is not a synonym for ''tinker''.'
+  - correct: true
+    value: putter
+    detail: '''putter'' is a synonym for ''tinker''.'
+  - correct: false
+    value: marshals
+    detail: '''marshals'' is not a synonym for ''tinker''.'
+  - correct: false
+    value: lower oneself
+    detail: '''lower oneself'' is not a synonym for ''tinker''.'
+- text: What is a synonym for 'thrust'?
+  options:
+  - correct: false
+    value: light upon
+    detail: '''light upon'' is not a synonym for ''thrust''.'
+  - correct: false
+    value: sassing
+    detail: '''sassing'' is not a synonym for ''thrust''.'
+  - correct: true
+    value: stuff
+    detail: '''stuff'' is a synonym for ''thrust''.'
+  - correct: false
+    value: canton
+    detail: '''canton'' is not a synonym for ''thrust''.'
+- text: What is a synonym for 'hybridise'?
+  options:
+  - correct: false
+    value: suffering
+    detail: '''suffering'' is not a synonym for ''hybridise''.'
+  - correct: false
+    value: sure
+    detail: '''sure'' is not a synonym for ''hybridise''.'
+  - correct: true
+    value: crossbreed
+    detail: '''crossbreed'' is a synonym for ''hybridise''.'
+  - correct: false
+    value: jounce
+    detail: '''jounce'' is not a synonym for ''hybridise''.'
+- text: What is a synonym for 'moon on'?
+  options:
+  - correct: true
+    value: moon
+    detail: '''moon'' is a synonym for ''moon on''.'
+  - correct: false
+    value: lay over
+    detail: '''lay over'' is not a synonym for ''moon on''.'
+  - correct: false
+    value: romance
+    detail: '''romance'' is not a synonym for ''moon on''.'
+  - correct: false
+    value: stock-still
+    detail: '''stock-still'' is not a synonym for ''moon on''.'
+- text: What is a synonym for 'baronetise'?
+  options:
+  - correct: false
+    value: downward
+    detail: '''downward'' is not a synonym for ''baronetise''.'
+  - correct: true
+    value: baronetize
+    detail: '''baronetize'' is a synonym for ''baronetise''.'
+  - correct: false
+    value: philosophise
+    detail: '''philosophise'' is not a synonym for ''baronetise''.'
+  - correct: false
+    value: sleep in
+    detail: '''sleep in'' is not a synonym for ''baronetise''.'
+- text: What is a synonym for 'squelch'?
+  options:
+  - correct: false
+    value: stone-wash
+    detail: '''stone-wash'' is not a synonym for ''squelch''.'
+  - correct: true
+    value: quell
+    detail: '''quell'' is a synonym for ''squelch''.'
+  - correct: false
+    value: packing
+    detail: '''packing'' is not a synonym for ''squelch''.'
+  - correct: false
+    value: hands
+    detail: '''hands'' is not a synonym for ''squelch''.'
+- text: What is a synonym for 'rove'?
+  options:
+  - correct: false
+    value: to the lowest degree
+    detail: '''to the lowest degree'' is not a synonym for ''rove''.'
+  - correct: true
+    value: roll
+    detail: '''roll'' is a synonym for ''rove''.'
+  - correct: false
+    value: welter
+    detail: '''welter'' is not a synonym for ''rove''.'
+  - correct: false
+    value: plumbing
+    detail: '''plumbing'' is not a synonym for ''rove''.'
+- text: What is a synonym for 'choke up'?
+  options:
+  - correct: false
+    value: transplanting
+    detail: '''transplanting'' is not a synonym for ''choke up''.'
+  - correct: false
+    value: preserve
+    detail: '''preserve'' is not a synonym for ''choke up''.'
+  - correct: false
+    value: throttle
+    detail: '''throttle'' is not a synonym for ''choke up''.'
+  - correct: true
+    value: stuff
+    detail: '''stuff'' is a synonym for ''choke up''.'

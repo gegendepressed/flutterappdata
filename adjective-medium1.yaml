@@ -1,0 +1,285 @@
+description: Synonym questions - Medium Set 1
+topic: adjective
+id: adjective-medium1
+title: Adjective Synonyms - Medium 1
+questions:
+- text: What is a synonym for 'fungal'?
+  options:
+  - correct: true
+    value: fungous
+    detail: '''fungous'' is a synonym for ''fungal''.'
+  - correct: false
+    value: indo-aryan
+    detail: '''indo-aryan'' is not a synonym for ''fungal''.'
+  - correct: false
+    value: ethnographical
+    detail: '''ethnographical'' is not a synonym for ''fungal''.'
+  - correct: false
+    value: branchiopodous
+    detail: '''branchiopodous'' is not a synonym for ''fungal''.'
+- text: What is a synonym for 'timid'?
+  options:
+  - correct: false
+    value: humourless
+    detail: '''humourless'' is not a synonym for ''timid''.'
+  - correct: true
+    value: diffident
+    detail: '''diffident'' is a synonym for ''timid''.'
+  - correct: false
+    value: cacogenic
+    detail: '''cacogenic'' is not a synonym for ''timid''.'
+  - correct: false
+    value: unendurable
+    detail: '''unendurable'' is not a synonym for ''timid''.'
+- text: What is a synonym for 'uveal'?
+  options:
+  - correct: false
+    value: distant
+    detail: '''distant'' is not a synonym for ''uveal''.'
+  - correct: false
+    value: spiritualistic
+    detail: '''spiritualistic'' is not a synonym for ''uveal''.'
+  - correct: false
+    value: bituminoid
+    detail: '''bituminoid'' is not a synonym for ''uveal''.'
+  - correct: true
+    value: uveous
+    detail: '''uveous'' is a synonym for ''uveal''.'
+- text: What is a synonym for 'catarrhinian'?
+  options:
+  - correct: true
+    value: catarrhine
+    detail: '''catarrhine'' is a synonym for ''catarrhinian''.'
+  - correct: false
+    value: carboniferous
+    detail: '''carboniferous'' is not a synonym for ''catarrhinian''.'
+  - correct: false
+    value: alabaster
+    detail: '''alabaster'' is not a synonym for ''catarrhinian''.'
+  - correct: false
+    value: slavonic
+    detail: '''slavonic'' is not a synonym for ''catarrhinian''.'
+- text: What is a synonym for 'alabaster'?
+  options:
+  - correct: false
+    value: hypophyseal
+    detail: '''hypophyseal'' is not a synonym for ''alabaster''.'
+  - correct: false
+    value: titulary
+    detail: '''titulary'' is not a synonym for ''alabaster''.'
+  - correct: true
+    value: alabastrine
+    detail: '''alabastrine'' is a synonym for ''alabaster''.'
+  - correct: false
+    value: affirmative
+    detail: '''affirmative'' is not a synonym for ''alabaster''.'
+- text: What is a synonym for 'mandibular'?
+  options:
+  - correct: true
+    value: inframaxillary
+    detail: '''inframaxillary'' is a synonym for ''mandibular''.'
+  - correct: false
+    value: sabahan
+    detail: '''sabahan'' is not a synonym for ''mandibular''.'
+  - correct: false
+    value: florentine
+    detail: '''florentine'' is not a synonym for ''mandibular''.'
+  - correct: false
+    value: centralized
+    detail: '''centralized'' is not a synonym for ''mandibular''.'
+- text: What is a synonym for 'moresque'?
+  options:
+  - correct: false
+    value: chadian
+    detail: '''chadian'' is not a synonym for ''moresque''.'
+  - correct: true
+    value: Moorish
+    detail: '''Moorish'' is a synonym for ''moresque''.'
+  - correct: false
+    value: nauruan
+    detail: '''nauruan'' is not a synonym for ''moresque''.'
+  - correct: false
+    value: civic
+    detail: '''civic'' is not a synonym for ''moresque''.'
+- text: What is a synonym for 'unadvised'?
+  options:
+  - correct: true
+    value: ill-advised
+    detail: '''ill-advised'' is a synonym for ''unadvised''.'
+  - correct: false
+    value: coordinating
+    detail: '''coordinating'' is not a synonym for ''unadvised''.'
+  - correct: false
+    value: atrophied
+    detail: '''atrophied'' is not a synonym for ''unadvised''.'
+  - correct: false
+    value: abasic
+    detail: '''abasic'' is not a synonym for ''unadvised''.'
+- text: What is a synonym for 'unhallowed'?
+  options:
+  - correct: false
+    value: lesser
+    detail: '''lesser'' is not a synonym for ''unhallowed''.'
+  - correct: false
+    value: cytogenetic
+    detail: '''cytogenetic'' is not a synonym for ''unhallowed''.'
+  - correct: true
+    value: unholy
+    detail: '''unholy'' is a synonym for ''unhallowed''.'
+  - correct: false
+    value: artefactual
+    detail: '''artefactual'' is not a synonym for ''unhallowed''.'
+- text: What is a synonym for 'adventurous'?
+  options:
+  - correct: false
+    value: discontent
+    detail: '''discontent'' is not a synonym for ''adventurous''.'
+  - correct: true
+    value: adventuresome
+    detail: '''adventuresome'' is a synonym for ''adventurous''.'
+  - correct: false
+    value: blest
+    detail: '''blest'' is not a synonym for ''adventurous''.'
+  - correct: false
+    value: bladderlike
+    detail: '''bladderlike'' is not a synonym for ''adventurous''.'
+- text: What is a synonym for 'frankish'?
+  options:
+  - correct: false
+    value: siamese
+    detail: '''siamese'' is not a synonym for ''frankish''.'
+  - correct: false
+    value: endothermal
+    detail: '''endothermal'' is not a synonym for ''frankish''.'
+  - correct: false
+    value: slivery
+    detail: '''slivery'' is not a synonym for ''frankish''.'
+  - correct: true
+    value: Frankish
+    detail: '''Frankish'' is a synonym for ''frankish''.'
+- text: What is a synonym for 'achromatic'?
+  options:
+  - correct: false
+    value: christological
+    detail: '''christological'' is not a synonym for ''achromatic''.'
+  - correct: true
+    value: neutral
+    detail: '''neutral'' is a synonym for ''achromatic''.'
+  - correct: false
+    value: apheretic
+    detail: '''apheretic'' is not a synonym for ''achromatic''.'
+  - correct: false
+    value: saudi-arabian
+    detail: '''saudi-arabian'' is not a synonym for ''achromatic''.'
+- text: What is a synonym for '.38 caliber'?
+  options:
+  - correct: false
+    value: siberian
+    detail: '''siberian'' is not a synonym for ''.38 caliber''.'
+  - correct: false
+    value: fiber-optic
+    detail: '''fiber-optic'' is not a synonym for ''.38 caliber''.'
+  - correct: true
+    value: .38-caliber
+    detail: '''.38-caliber'' is a synonym for ''.38 caliber''.'
+  - correct: false
+    value: unnatural
+    detail: '''unnatural'' is not a synonym for ''.38 caliber''.'
+- text: What is a synonym for 'inactive'?
+  options:
+  - correct: true
+    value: nonoperational
+    detail: '''nonoperational'' is a synonym for ''inactive''.'
+  - correct: false
+    value: cenobitic
+    detail: '''cenobitic'' is not a synonym for ''inactive''.'
+  - correct: false
+    value: incontestable
+    detail: '''incontestable'' is not a synonym for ''inactive''.'
+  - correct: false
+    value: satanic
+    detail: '''satanic'' is not a synonym for ''inactive''.'
+- text: What is a synonym for 'unmown'?
+  options:
+  - correct: false
+    value: cubic
+    detail: '''cubic'' is not a synonym for ''unmown''.'
+  - correct: false
+    value: monoecious
+    detail: '''monoecious'' is not a synonym for ''unmown''.'
+  - correct: true
+    value: uncut
+    detail: '''uncut'' is a synonym for ''unmown''.'
+  - correct: false
+    value: eruptive
+    detail: '''eruptive'' is not a synonym for ''unmown''.'
+- text: What is a synonym for 'acoustical'?
+  options:
+  - correct: false
+    value: sensory
+    detail: '''sensory'' is not a synonym for ''acoustical''.'
+  - correct: true
+    value: acoustic
+    detail: '''acoustic'' is a synonym for ''acoustical''.'
+  - correct: false
+    value: quadriphonic
+    detail: '''quadriphonic'' is not a synonym for ''acoustical''.'
+  - correct: false
+    value: tough
+    detail: '''tough'' is not a synonym for ''acoustical''.'
+- text: What is a synonym for 'shiny'?
+  options:
+  - correct: true
+    value: glazed
+    detail: '''glazed'' is a synonym for ''shiny''.'
+  - correct: false
+    value: affected
+    detail: '''affected'' is not a synonym for ''shiny''.'
+  - correct: false
+    value: lincolnesque
+    detail: '''lincolnesque'' is not a synonym for ''shiny''.'
+  - correct: false
+    value: renal
+    detail: '''renal'' is not a synonym for ''shiny''.'
+- text: What is a synonym for 'bacteriologic'?
+  options:
+  - correct: true
+    value: bacteriological
+    detail: '''bacteriological'' is a synonym for ''bacteriologic''.'
+  - correct: false
+    value: ionian
+    detail: '''ionian'' is not a synonym for ''bacteriologic''.'
+  - correct: false
+    value: baptized
+    detail: '''baptized'' is not a synonym for ''bacteriologic''.'
+  - correct: false
+    value: vegetal
+    detail: '''vegetal'' is not a synonym for ''bacteriologic''.'
+- text: What is a synonym for 'malfunctioning'?
+  options:
+  - correct: false
+    value: apostolical
+    detail: '''apostolical'' is not a synonym for ''malfunctioning''.'
+  - correct: true
+    value: nonfunctional
+    detail: '''nonfunctional'' is a synonym for ''malfunctioning''.'
+  - correct: false
+    value: clincher-built
+    detail: '''clincher-built'' is not a synonym for ''malfunctioning''.'
+  - correct: false
+    value: entomological
+    detail: '''entomological'' is not a synonym for ''malfunctioning''.'
+- text: What is a synonym for 'hard'?
+  options:
+  - correct: false
+    value: symmetric
+    detail: '''symmetric'' is not a synonym for ''hard''.'
+  - correct: false
+    value: bathymetrical
+    detail: '''bathymetrical'' is not a synonym for ''hard''.'
+  - correct: true
+    value: difficult
+    detail: '''difficult'' is a synonym for ''hard''.'
+  - correct: false
+    value: tame
+    detail: '''tame'' is not a synonym for ''hard''.'

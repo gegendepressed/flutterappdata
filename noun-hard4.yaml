@@ -1,0 +1,285 @@
+description: Synonym questions - Hard Set 4
+topic: noun
+id: noun-hard4
+title: Noun Synonyms - Hard 4
+questions:
+- text: What is a synonym for 'defusing'?
+  options:
+  - correct: false
+    value: radiolocation
+    detail: '''radiolocation'' is not a synonym for ''defusing''.'
+  - correct: false
+    value: quiaquia
+    detail: '''quiaquia'' is not a synonym for ''defusing''.'
+  - correct: false
+    value: teapot dome scandal
+    detail: '''teapot dome scandal'' is not a synonym for ''defusing''.'
+  - correct: true
+    value: deactivation
+    detail: '''deactivation'' is a synonym for ''defusing''.'
+- text: What is a synonym for 'genus mesembryanthemum'?
+  options:
+  - correct: false
+    value: mental condition
+    detail: '''mental condition'' is not a synonym for ''genus mesembryanthemum''.'
+  - correct: false
+    value: george vancouver
+    detail: '''george vancouver'' is not a synonym for ''genus mesembryanthemum''.'
+  - correct: true
+    value: Mesembryanthemum
+    detail: '''Mesembryanthemum'' is a synonym for ''genus mesembryanthemum''.'
+  - correct: false
+    value: eclipse
+    detail: '''eclipse'' is not a synonym for ''genus mesembryanthemum''.'
+- text: What is a synonym for 'formal'?
+  options:
+  - correct: false
+    value: spoiling
+    detail: '''spoiling'' is not a synonym for ''formal''.'
+  - correct: false
+    value: wild sarsparilla
+    detail: '''wild sarsparilla'' is not a synonym for ''formal''.'
+  - correct: true
+    value: ball
+    detail: '''ball'' is a synonym for ''formal''.'
+  - correct: false
+    value: resid
+    detail: '''resid'' is not a synonym for ''formal''.'
+- text: What is a synonym for 'madia'?
+  options:
+  - correct: false
+    value: myxomycetes
+    detail: '''myxomycetes'' is not a synonym for ''madia''.'
+  - correct: true
+    value: Madia
+    detail: '''Madia'' is a synonym for ''madia''.'
+  - correct: false
+    value: bulldog clip
+    detail: '''bulldog clip'' is not a synonym for ''madia''.'
+  - correct: false
+    value: vector decomposition
+    detail: '''vector decomposition'' is not a synonym for ''madia''.'
+- text: What is a synonym for 'woolly apple aphid'?
+  options:
+  - correct: false
+    value: prow
+    detail: '''prow'' is not a synonym for ''woolly apple aphid''.'
+  - correct: true
+    value: American blight
+    detail: '''American blight'' is a synonym for ''woolly apple aphid''.'
+  - correct: false
+    value: scarabaean
+    detail: '''scarabaean'' is not a synonym for ''woolly apple aphid''.'
+  - correct: false
+    value: world war ii
+    detail: '''world war ii'' is not a synonym for ''woolly apple aphid''.'
+- text: What is a synonym for 'pretension'?
+  options:
+  - correct: true
+    value: pretense
+    detail: '''pretense'' is a synonym for ''pretension''.'
+  - correct: false
+    value: pye-dog
+    detail: '''pye-dog'' is not a synonym for ''pretension''.'
+  - correct: false
+    value: organized crime
+    detail: '''organized crime'' is not a synonym for ''pretension''.'
+  - correct: false
+    value: co
+    detail: '''co'' is not a synonym for ''pretension''.'
+- text: What is a synonym for 'coliseum'?
+  options:
+  - correct: false
+    value: humphrey gilbert
+    detail: '''humphrey gilbert'' is not a synonym for ''coliseum''.'
+  - correct: false
+    value: even
+    detail: '''even'' is not a synonym for ''coliseum''.'
+  - correct: false
+    value: airing
+    detail: '''airing'' is not a synonym for ''coliseum''.'
+  - correct: true
+    value: amphitheater
+    detail: '''amphitheater'' is a synonym for ''coliseum''.'
+- text: What is a synonym for 'pissing'?
+  options:
+  - correct: false
+    value: ulmus campestris sarniensis
+    detail: '''ulmus campestris sarniensis'' is not a synonym for ''pissing''.'
+  - correct: true
+    value: peeing
+    detail: '''peeing'' is a synonym for ''pissing''.'
+  - correct: false
+    value: linnaea borealis
+    detail: '''linnaea borealis'' is not a synonym for ''pissing''.'
+  - correct: false
+    value: petunia
+    detail: '''petunia'' is not a synonym for ''pissing''.'
+- text: What is a synonym for 'punchball'?
+  options:
+  - correct: false
+    value: new england aster
+    detail: '''new england aster'' is not a synonym for ''punchball''.'
+  - correct: true
+    value: punching bag
+    detail: '''punching bag'' is a synonym for ''punchball''.'
+  - correct: false
+    value: potato pancake
+    detail: '''potato pancake'' is not a synonym for ''punchball''.'
+  - correct: false
+    value: life saver
+    detail: '''life saver'' is not a synonym for ''punchball''.'
+- text: What is a synonym for 'missouri primrose'?
+  options:
+  - correct: false
+    value: cerambycidae
+    detail: '''cerambycidae'' is not a synonym for ''missouri primrose''.'
+  - correct: false
+    value: granular pearlite
+    detail: '''granular pearlite'' is not a synonym for ''missouri primrose''.'
+  - correct: false
+    value: checkrein
+    detail: '''checkrein'' is not a synonym for ''missouri primrose''.'
+  - correct: true
+    value: Missouri primrose
+    detail: '''Missouri primrose'' is a synonym for ''missouri primrose''.'
+- text: What is a synonym for 'industry'?
+  options:
+  - correct: false
+    value: can opener
+    detail: '''can opener'' is not a synonym for ''industry''.'
+  - correct: false
+    value: teletype machine
+    detail: '''teletype machine'' is not a synonym for ''industry''.'
+  - correct: true
+    value: manufacture
+    detail: '''manufacture'' is a synonym for ''industry''.'
+  - correct: false
+    value: exchange
+    detail: '''exchange'' is not a synonym for ''industry''.'
+- text: What is a synonym for 'umbilical vein'?
+  options:
+  - correct: false
+    value: bloodsucker
+    detail: '''bloodsucker'' is not a synonym for ''umbilical vein''.'
+  - correct: false
+    value: amor
+    detail: '''amor'' is not a synonym for ''umbilical vein''.'
+  - correct: false
+    value: bunch grass
+    detail: '''bunch grass'' is not a synonym for ''umbilical vein''.'
+  - correct: true
+    value: vena umbilicalis
+    detail: '''vena umbilicalis'' is a synonym for ''umbilical vein''.'
+- text: What is a synonym for 'haemosiderosis'?
+  options:
+  - correct: false
+    value: fistulina
+    detail: '''fistulina'' is not a synonym for ''haemosiderosis''.'
+  - correct: true
+    value: hemosiderosis
+    detail: '''hemosiderosis'' is a synonym for ''haemosiderosis''.'
+  - correct: false
+    value: bureaucrat
+    detail: '''bureaucrat'' is not a synonym for ''haemosiderosis''.'
+  - correct: false
+    value: assent
+    detail: '''assent'' is not a synonym for ''haemosiderosis''.'
+- text: What is a synonym for 'pair production'?
+  options:
+  - correct: false
+    value: nut
+    detail: '''nut'' is not a synonym for ''pair production''.'
+  - correct: true
+    value: pair creation
+    detail: '''pair creation'' is a synonym for ''pair production''.'
+  - correct: false
+    value: burweed marsh elder
+    detail: '''burweed marsh elder'' is not a synonym for ''pair production''.'
+  - correct: false
+    value: sterling bloc
+    detail: '''sterling bloc'' is not a synonym for ''pair production''.'
+- text: What is a synonym for 'spore case'?
+  options:
+  - correct: false
+    value: kiss-me-over-the-garden-gate
+    detail: '''kiss-me-over-the-garden-gate'' is not a synonym for ''spore case''.'
+  - correct: false
+    value: cracking
+    detail: '''cracking'' is not a synonym for ''spore case''.'
+  - correct: false
+    value: honore-gabriel victor riqueti
+    detail: '''honore-gabriel victor riqueti'' is not a synonym for ''spore case''.'
+  - correct: true
+    value: sporangium
+    detail: '''sporangium'' is a synonym for ''spore case''.'
+- text: What is a synonym for 'genus streptosolen'?
+  options:
+  - correct: false
+    value: wine-maker's yeast
+    detail: '''wine-maker''s yeast'' is not a synonym for ''genus streptosolen''.'
+  - correct: false
+    value: expressive aphasia
+    detail: '''expressive aphasia'' is not a synonym for ''genus streptosolen''.'
+  - correct: false
+    value: goat's foot
+    detail: '''goat''s foot'' is not a synonym for ''genus streptosolen''.'
+  - correct: true
+    value: Streptosolen
+    detail: '''Streptosolen'' is a synonym for ''genus streptosolen''.'
+- text: What is a synonym for 'godiva'?
+  options:
+  - correct: false
+    value: monologue
+    detail: '''monologue'' is not a synonym for ''godiva''.'
+  - correct: false
+    value: swamp maple
+    detail: '''swamp maple'' is not a synonym for ''godiva''.'
+  - correct: true
+    value: Godiva
+    detail: '''Godiva'' is a synonym for ''godiva''.'
+  - correct: false
+    value: diesis
+    detail: '''diesis'' is not a synonym for ''godiva''.'
+- text: What is a synonym for 'horse of the wood'?
+  options:
+  - correct: false
+    value: guibert of ravenna
+    detail: '''guibert of ravenna'' is not a synonym for ''horse of the wood''.'
+  - correct: true
+    value: capercaillie
+    detail: '''capercaillie'' is a synonym for ''horse of the wood''.'
+  - correct: false
+    value: bobsleigh
+    detail: '''bobsleigh'' is not a synonym for ''horse of the wood''.'
+  - correct: false
+    value: tender loving care
+    detail: '''tender loving care'' is not a synonym for ''horse of the wood''.'
+- text: What is a synonym for 'platinum'?
+  options:
+  - correct: false
+    value: sleeping accommodation
+    detail: '''sleeping accommodation'' is not a synonym for ''platinum''.'
+  - correct: false
+    value: slave dealer
+    detail: '''slave dealer'' is not a synonym for ''platinum''.'
+  - correct: false
+    value: sapele mahogany
+    detail: '''sapele mahogany'' is not a synonym for ''platinum''.'
+  - correct: true
+    value: Pt
+    detail: '''Pt'' is a synonym for ''platinum''.'
+- text: What is a synonym for 'cilium'?
+  options:
+  - correct: false
+    value: mojave
+    detail: '''mojave'' is not a synonym for ''cilium''.'
+  - correct: false
+    value: nuytsia
+    detail: '''nuytsia'' is not a synonym for ''cilium''.'
+  - correct: true
+    value: eyelash
+    detail: '''eyelash'' is a synonym for ''cilium''.'
+  - correct: false
+    value: abelian group
+    detail: '''abelian group'' is not a synonym for ''cilium''.'

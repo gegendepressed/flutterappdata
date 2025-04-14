@@ -1,0 +1,285 @@
+description: Synonym questions - Hard Set 1
+topic: verb
+id: verb-hard1
+title: Verb Synonyms - Hard 1
+questions:
+- text: What is a synonym for 'like an expert'?
+  options:
+  - correct: false
+    value: screak
+    detail: '''screak'' is not a synonym for ''like an expert''.'
+  - correct: false
+    value: rightfully
+    detail: '''rightfully'' is not a synonym for ''like an expert''.'
+  - correct: true
+    value: expertly
+    detail: '''expertly'' is a synonym for ''like an expert''.'
+  - correct: false
+    value: armor
+    detail: '''armor'' is not a synonym for ''like an expert''.'
+- text: What is a synonym for 'amortise'?
+  options:
+  - correct: true
+    value: amortize
+    detail: '''amortize'' is a synonym for ''amortise''.'
+  - correct: false
+    value: assert
+    detail: '''assert'' is not a synonym for ''amortise''.'
+  - correct: false
+    value: spotting
+    detail: '''spotting'' is not a synonym for ''amortise''.'
+  - correct: false
+    value: tempered
+    detail: '''tempered'' is not a synonym for ''amortise''.'
+- text: What is a synonym for 'corned'?
+  options:
+  - correct: true
+    value: corn
+    detail: '''corn'' is a synonym for ''corned''.'
+  - correct: false
+    value: unutterably
+    detail: '''unutterably'' is not a synonym for ''corned''.'
+  - correct: false
+    value: fellate
+    detail: '''fellate'' is not a synonym for ''corned''.'
+  - correct: false
+    value: condescend
+    detail: '''condescend'' is not a synonym for ''corned''.'
+- text: What is a synonym for 'only when'?
+  options:
+  - correct: false
+    value: unchurch
+    detail: '''unchurch'' is not a synonym for ''only when''.'
+  - correct: true
+    value: only
+    detail: '''only'' is a synonym for ''only when''.'
+  - correct: false
+    value: step down
+    detail: '''step down'' is not a synonym for ''only when''.'
+  - correct: false
+    value: understated
+    detail: '''understated'' is not a synonym for ''only when''.'
+- text: What is a synonym for 'chord'?
+  options:
+  - correct: false
+    value: brawl
+    detail: '''brawl'' is not a synonym for ''chord''.'
+  - correct: true
+    value: harmonize
+    detail: '''harmonize'' is a synonym for ''chord''.'
+  - correct: false
+    value: take to be
+    detail: '''take to be'' is not a synonym for ''chord''.'
+  - correct: false
+    value: damaging
+    detail: '''damaging'' is not a synonym for ''chord''.'
+- text: What is a synonym for 'expelling'?
+  options:
+  - correct: true
+    value: expel
+    detail: '''expel'' is a synonym for ''expelling''.'
+  - correct: false
+    value: surrender
+    detail: '''surrender'' is not a synonym for ''expelling''.'
+  - correct: false
+    value: entwine
+    detail: '''entwine'' is not a synonym for ''expelling''.'
+  - correct: false
+    value: disgust
+    detail: '''disgust'' is not a synonym for ''expelling''.'
+- text: What is a synonym for 'to a greater extent'?
+  options:
+  - correct: false
+    value: removed
+    detail: '''removed'' is not a synonym for ''to a greater extent''.'
+  - correct: false
+    value: enamored
+    detail: '''enamored'' is not a synonym for ''to a greater extent''.'
+  - correct: false
+    value: cast around
+    detail: '''cast around'' is not a synonym for ''to a greater extent''.'
+  - correct: true
+    value: more
+    detail: '''more'' is a synonym for ''to a greater extent''.'
+- text: What is a synonym for 'butt in'?
+  options:
+  - correct: false
+    value: checkered
+    detail: '''checkered'' is not a synonym for ''butt in''.'
+  - correct: false
+    value: snarled
+    detail: '''snarled'' is not a synonym for ''butt in''.'
+  - correct: true
+    value: chime in
+    detail: '''chime in'' is a synonym for ''butt in''.'
+  - correct: false
+    value: sniffle
+    detail: '''sniffle'' is not a synonym for ''butt in''.'
+- text: What is a synonym for 'relentlessly'?
+  options:
+  - correct: true
+    value: unrelentingly
+    detail: '''unrelentingly'' is a synonym for ''relentlessly''.'
+  - correct: false
+    value: appealing
+    detail: '''appealing'' is not a synonym for ''relentlessly''.'
+  - correct: false
+    value: homewards
+    detail: '''homewards'' is not a synonym for ''relentlessly''.'
+  - correct: false
+    value: totally
+    detail: '''totally'' is not a synonym for ''relentlessly''.'
+- text: What is a synonym for 'orientalize'?
+  options:
+  - correct: true
+    value: orientalise
+    detail: '''orientalise'' is a synonym for ''orientalize''.'
+  - correct: false
+    value: overdrive
+    detail: '''overdrive'' is not a synonym for ''orientalize''.'
+  - correct: false
+    value: support
+    detail: '''support'' is not a synonym for ''orientalize''.'
+  - correct: false
+    value: partly
+    detail: '''partly'' is not a synonym for ''orientalize''.'
+- text: What is a synonym for 'hypostatise'?
+  options:
+  - correct: true
+    value: hypostatize
+    detail: '''hypostatize'' is a synonym for ''hypostatise''.'
+  - correct: false
+    value: horn
+    detail: '''horn'' is not a synonym for ''hypostatise''.'
+  - correct: false
+    value: game
+    detail: '''game'' is not a synonym for ''hypostatise''.'
+  - correct: false
+    value: situate
+    detail: '''situate'' is not a synonym for ''hypostatise''.'
+- text: What is a synonym for 'come before'?
+  options:
+  - correct: false
+    value: last
+    detail: '''last'' is not a synonym for ''come before''.'
+  - correct: true
+    value: precede
+    detail: '''precede'' is a synonym for ''come before''.'
+  - correct: false
+    value: churr
+    detail: '''churr'' is not a synonym for ''come before''.'
+  - correct: false
+    value: persist
+    detail: '''persist'' is not a synonym for ''come before''.'
+- text: What is a synonym for 'honorably'?
+  options:
+  - correct: false
+    value: drop out
+    detail: '''drop out'' is not a synonym for ''honorably''.'
+  - correct: true
+    value: uprightly
+    detail: '''uprightly'' is a synonym for ''honorably''.'
+  - correct: false
+    value: deprecate
+    detail: '''deprecate'' is not a synonym for ''honorably''.'
+  - correct: false
+    value: tranquilize
+    detail: '''tranquilize'' is not a synonym for ''honorably''.'
+- text: What is a synonym for 'fatuously'?
+  options:
+  - correct: true
+    value: inanely
+    detail: '''inanely'' is a synonym for ''fatuously''.'
+  - correct: false
+    value: fabulously
+    detail: '''fabulously'' is not a synonym for ''fatuously''.'
+  - correct: false
+    value: spy
+    detail: '''spy'' is not a synonym for ''fatuously''.'
+  - correct: false
+    value: ladened
+    detail: '''ladened'' is not a synonym for ''fatuously''.'
+- text: What is a synonym for 'misname'?
+  options:
+  - correct: false
+    value: tangled
+    detail: '''tangled'' is not a synonym for ''misname''.'
+  - correct: false
+    value: stick around
+    detail: '''stick around'' is not a synonym for ''misname''.'
+  - correct: false
+    value: concur
+    detail: '''concur'' is not a synonym for ''misname''.'
+  - correct: true
+    value: miscall
+    detail: '''miscall'' is a synonym for ''misname''.'
+- text: What is a synonym for 'killing'?
+  options:
+  - correct: false
+    value: parboil
+    detail: '''parboil'' is not a synonym for ''killing''.'
+  - correct: false
+    value: cross examine
+    detail: '''cross examine'' is not a synonym for ''killing''.'
+  - correct: false
+    value: repel
+    detail: '''repel'' is not a synonym for ''killing''.'
+  - correct: true
+    value: kill
+    detail: '''kill'' is a synonym for ''killing''.'
+- text: What is a synonym for 'fleetly'?
+  options:
+  - correct: false
+    value: caddy
+    detail: '''caddy'' is not a synonym for ''fleetly''.'
+  - correct: false
+    value: keep one's eyes open
+    detail: '''keep one''s eyes open'' is not a synonym for ''fleetly''.'
+  - correct: false
+    value: knock out
+    detail: '''knock out'' is not a synonym for ''fleetly''.'
+  - correct: true
+    value: swiftly
+    detail: '''swiftly'' is a synonym for ''fleetly''.'
+- text: What is a synonym for 'laugh softly'?
+  options:
+  - correct: false
+    value: hitting
+    detail: '''hitting'' is not a synonym for ''laugh softly''.'
+  - correct: true
+    value: chuckle
+    detail: '''chuckle'' is a synonym for ''laugh softly''.'
+  - correct: false
+    value: crystallized
+    detail: '''crystallized'' is not a synonym for ''laugh softly''.'
+  - correct: false
+    value: nationalise
+    detail: '''nationalise'' is not a synonym for ''laugh softly''.'
+- text: What is a synonym for 'wring'?
+  options:
+  - correct: false
+    value: tirelessly
+    detail: '''tirelessly'' is not a synonym for ''wring''.'
+  - correct: true
+    value: contort
+    detail: '''contort'' is a synonym for ''wring''.'
+  - correct: false
+    value: drop anchor
+    detail: '''drop anchor'' is not a synonym for ''wring''.'
+  - correct: false
+    value: metamorphose
+    detail: '''metamorphose'' is not a synonym for ''wring''.'
+- text: What is a synonym for 'by the piece'?
+  options:
+  - correct: false
+    value: founding
+    detail: '''founding'' is not a synonym for ''by the piece''.'
+  - correct: false
+    value: top
+    detail: '''top'' is not a synonym for ''by the piece''.'
+  - correct: false
+    value: holiday
+    detail: '''holiday'' is not a synonym for ''by the piece''.'
+  - correct: true
+    value: one by one
+    detail: '''one by one'' is a synonym for ''by the piece''.'

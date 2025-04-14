@@ -1,0 +1,285 @@
+description: Synonym questions - Hard Set 3
+topic: verb
+id: verb-hard3
+title: Verb Synonyms - Hard 3
+questions:
+- text: What is a synonym for 'syncretize'?
+  options:
+  - correct: false
+    value: pursued
+    detail: '''pursued'' is not a synonym for ''syncretize''.'
+  - correct: false
+    value: squandering
+    detail: '''squandering'' is not a synonym for ''syncretize''.'
+  - correct: false
+    value: disrobe
+    detail: '''disrobe'' is not a synonym for ''syncretize''.'
+  - correct: true
+    value: syncretise
+    detail: '''syncretise'' is a synonym for ''syncretize''.'
+- text: What is a synonym for 'debunking'?
+  options:
+  - correct: false
+    value: centralized
+    detail: '''centralized'' is not a synonym for ''debunking''.'
+  - correct: true
+    value: debunk
+    detail: '''debunk'' is a synonym for ''debunking''.'
+  - correct: false
+    value: shattering
+    detail: '''shattering'' is not a synonym for ''debunking''.'
+  - correct: false
+    value: kinda
+    detail: '''kinda'' is not a synonym for ''debunking''.'
+- text: What is a synonym for 'everywhere'?
+  options:
+  - correct: false
+    value: brick in
+    detail: '''brick in'' is not a synonym for ''everywhere''.'
+  - correct: false
+    value: air
+    detail: '''air'' is not a synonym for ''everywhere''.'
+  - correct: false
+    value: excruciating
+    detail: '''excruciating'' is not a synonym for ''everywhere''.'
+  - correct: true
+    value: everyplace
+    detail: '''everyplace'' is a synonym for ''everywhere''.'
+- text: What is a synonym for 'hugely'?
+  options:
+  - correct: false
+    value: misleadingly
+    detail: '''misleadingly'' is not a synonym for ''hugely''.'
+  - correct: true
+    value: enormously
+    detail: '''enormously'' is a synonym for ''hugely''.'
+  - correct: false
+    value: fourthly
+    detail: '''fourthly'' is not a synonym for ''hugely''.'
+  - correct: false
+    value: tuck
+    detail: '''tuck'' is not a synonym for ''hugely''.'
+- text: What is a synonym for 'clangoring'?
+  options:
+  - correct: false
+    value: writings
+    detail: '''writings'' is not a synonym for ''clangoring''.'
+  - correct: true
+    value: clangor
+    detail: '''clangor'' is a synonym for ''clangoring''.'
+  - correct: false
+    value: waxing
+    detail: '''waxing'' is not a synonym for ''clangoring''.'
+  - correct: false
+    value: box
+    detail: '''box'' is not a synonym for ''clangoring''.'
+- text: What is a synonym for 'westernize'?
+  options:
+  - correct: false
+    value: etch
+    detail: '''etch'' is not a synonym for ''westernize''.'
+  - correct: false
+    value: evermore
+    detail: '''evermore'' is not a synonym for ''westernize''.'
+  - correct: true
+    value: occidentalize
+    detail: '''occidentalize'' is a synonym for ''westernize''.'
+  - correct: false
+    value: parts
+    detail: '''parts'' is not a synonym for ''westernize''.'
+- text: What is a synonym for 'idle'?
+  options:
+  - correct: false
+    value: waitress
+    detail: '''waitress'' is not a synonym for ''idle''.'
+  - correct: false
+    value: precipitate
+    detail: '''precipitate'' is not a synonym for ''idle''.'
+  - correct: true
+    value: tick over
+    detail: '''tick over'' is a synonym for ''idle''.'
+  - correct: false
+    value: capsulise
+    detail: '''capsulise'' is not a synonym for ''idle''.'
+- text: What is a synonym for 'huff'?
+  options:
+  - correct: true
+    value: snort
+    detail: '''snort'' is a synonym for ''huff''.'
+  - correct: false
+    value: ramble on
+    detail: '''ramble on'' is not a synonym for ''huff''.'
+  - correct: false
+    value: adducing
+    detail: '''adducing'' is not a synonym for ''huff''.'
+  - correct: false
+    value: fecundate
+    detail: '''fecundate'' is not a synonym for ''huff''.'
+- text: What is a synonym for 'wipe away'?
+  options:
+  - correct: true
+    value: wipe off
+    detail: '''wipe off'' is a synonym for ''wipe away''.'
+  - correct: false
+    value: close up
+    detail: '''close up'' is not a synonym for ''wipe away''.'
+  - correct: false
+    value: join
+    detail: '''join'' is not a synonym for ''wipe away''.'
+  - correct: false
+    value: trustingly
+    detail: '''trustingly'' is not a synonym for ''wipe away''.'
+- text: What is a synonym for 'goddam'?
+  options:
+  - correct: false
+    value: one time
+    detail: '''one time'' is not a synonym for ''goddam''.'
+  - correct: false
+    value: softened
+    detail: '''softened'' is not a synonym for ''goddam''.'
+  - correct: true
+    value: goddamn
+    detail: '''goddamn'' is a synonym for ''goddam''.'
+  - correct: false
+    value: attaint
+    detail: '''attaint'' is not a synonym for ''goddam''.'
+- text: What is a synonym for 'diagonalise'?
+  options:
+  - correct: true
+    value: diagonalize
+    detail: '''diagonalize'' is a synonym for ''diagonalise''.'
+  - correct: false
+    value: devoted
+    detail: '''devoted'' is not a synonym for ''diagonalise''.'
+  - correct: false
+    value: yonder
+    detail: '''yonder'' is not a synonym for ''diagonalise''.'
+  - correct: false
+    value: convert
+    detail: '''convert'' is not a synonym for ''diagonalise''.'
+- text: What is a synonym for 'marvelously'?
+  options:
+  - correct: false
+    value: ramify
+    detail: '''ramify'' is not a synonym for ''marvelously''.'
+  - correct: false
+    value: overstrain
+    detail: '''overstrain'' is not a synonym for ''marvelously''.'
+  - correct: true
+    value: wonderfully
+    detail: '''wonderfully'' is a synonym for ''marvelously''.'
+  - correct: false
+    value: remorselessly
+    detail: '''remorselessly'' is not a synonym for ''marvelously''.'
+- text: What is a synonym for 'indite'?
+  options:
+  - correct: false
+    value: blurred
+    detail: '''blurred'' is not a synonym for ''indite''.'
+  - correct: false
+    value: overact
+    detail: '''overact'' is not a synonym for ''indite''.'
+  - correct: true
+    value: write
+    detail: '''write'' is a synonym for ''indite''.'
+  - correct: false
+    value: acutely
+    detail: '''acutely'' is not a synonym for ''indite''.'
+- text: What is a synonym for 'french'?
+  options:
+  - correct: true
+    value: French
+    detail: '''French'' is a synonym for ''french''.'
+  - correct: false
+    value: clangor
+    detail: '''clangor'' is not a synonym for ''french''.'
+  - correct: false
+    value: clamorously
+    detail: '''clamorously'' is not a synonym for ''french''.'
+  - correct: false
+    value: act superior
+    detail: '''act superior'' is not a synonym for ''french''.'
+- text: What is a synonym for 'breathed'?
+  options:
+  - correct: false
+    value: marry
+    detail: '''marry'' is not a synonym for ''breathed''.'
+  - correct: false
+    value: airt
+    detail: '''airt'' is not a synonym for ''breathed''.'
+  - correct: true
+    value: breathe
+    detail: '''breathe'' is a synonym for ''breathed''.'
+  - correct: false
+    value: piece
+    detail: '''piece'' is not a synonym for ''breathed''.'
+- text: What is a synonym for 'devitalize'?
+  options:
+  - correct: false
+    value: live with
+    detail: '''live with'' is not a synonym for ''devitalize''.'
+  - correct: true
+    value: devitalise
+    detail: '''devitalise'' is a synonym for ''devitalize''.'
+  - correct: false
+    value: catalog
+    detail: '''catalog'' is not a synonym for ''devitalize''.'
+  - correct: false
+    value: promote
+    detail: '''promote'' is not a synonym for ''devitalize''.'
+- text: What is a synonym for 'reproach'?
+  options:
+  - correct: false
+    value: gouge
+    detail: '''gouge'' is not a synonym for ''reproach''.'
+  - correct: true
+    value: upbraid
+    detail: '''upbraid'' is a synonym for ''reproach''.'
+  - correct: false
+    value: feelings
+    detail: '''feelings'' is not a synonym for ''reproach''.'
+  - correct: false
+    value: wholly
+    detail: '''wholly'' is not a synonym for ''reproach''.'
+- text: What is a synonym for 'clock out'?
+  options:
+  - correct: false
+    value: islamise
+    detail: '''islamise'' is not a synonym for ''clock out''.'
+  - correct: false
+    value: hunch over
+    detail: '''hunch over'' is not a synonym for ''clock out''.'
+  - correct: true
+    value: punch out
+    detail: '''punch out'' is a synonym for ''clock out''.'
+  - correct: false
+    value: ride away
+    detail: '''ride away'' is not a synonym for ''clock out''.'
+- text: What is a synonym for 'get wind'?
+  options:
+  - correct: false
+    value: pulverized
+    detail: '''pulverized'' is not a synonym for ''get wind''.'
+  - correct: true
+    value: learn
+    detail: '''learn'' is a synonym for ''get wind''.'
+  - correct: false
+    value: spirt
+    detail: '''spirt'' is not a synonym for ''get wind''.'
+  - correct: false
+    value: screening
+    detail: '''screening'' is not a synonym for ''get wind''.'
+- text: What is a synonym for 'dissuade'?
+  options:
+  - correct: false
+    value: blow out of the water
+    detail: '''blow out of the water'' is not a synonym for ''dissuade''.'
+  - correct: false
+    value: draw close
+    detail: '''draw close'' is not a synonym for ''dissuade''.'
+  - correct: false
+    value: hop-skip
+    detail: '''hop-skip'' is not a synonym for ''dissuade''.'
+  - correct: true
+    value: deter
+    detail: '''deter'' is a synonym for ''dissuade''.'

@@ -1,0 +1,285 @@
+description: Synonym questions - Easy Set 5
+topic: verb
+id: verb-easy5
+title: Verb Synonyms - Easy 5
+questions:
+- text: What is a synonym for 'loathing'?
+  options:
+  - correct: true
+    value: abhor
+    detail: '''abhor'' is a synonym for ''loathing''.'
+  - correct: false
+    value: ordering
+    detail: '''ordering'' is not a synonym for ''loathing''.'
+  - correct: false
+    value: work at
+    detail: '''work at'' is not a synonym for ''loathing''.'
+  - correct: false
+    value: on the spur of the moment
+    detail: '''on the spur of the moment'' is not a synonym for ''loathing''.'
+- text: What is a synonym for 'pin up'?
+  options:
+  - correct: false
+    value: drill in
+    detail: '''drill in'' is not a synonym for ''pin up''.'
+  - correct: true
+    value: pin down
+    detail: '''pin down'' is a synonym for ''pin up''.'
+  - correct: false
+    value: exchanged
+    detail: '''exchanged'' is not a synonym for ''pin up''.'
+  - correct: false
+    value: hose
+    detail: '''hose'' is not a synonym for ''pin up''.'
+- text: What is a synonym for 'sordidly'?
+  options:
+  - correct: false
+    value: brick up
+    detail: '''brick up'' is not a synonym for ''sordidly''.'
+  - correct: false
+    value: hire
+    detail: '''hire'' is not a synonym for ''sordidly''.'
+  - correct: false
+    value: strike back
+    detail: '''strike back'' is not a synonym for ''sordidly''.'
+  - correct: true
+    value: squalidly
+    detail: '''squalidly'' is a synonym for ''sordidly''.'
+- text: What is a synonym for 'intriguing'?
+  options:
+  - correct: true
+    value: intrigue
+    detail: '''intrigue'' is a synonym for ''intriguing''.'
+  - correct: false
+    value: pretend
+    detail: '''pretend'' is not a synonym for ''intriguing''.'
+  - correct: false
+    value: meantime
+    detail: '''meantime'' is not a synonym for ''intriguing''.'
+  - correct: false
+    value: vested
+    detail: '''vested'' is not a synonym for ''intriguing''.'
+- text: What is a synonym for 'poised'?
+  options:
+  - correct: true
+    value: poise
+    detail: '''poise'' is a synonym for ''poised''.'
+  - correct: false
+    value: to no degree
+    detail: '''to no degree'' is not a synonym for ''poised''.'
+  - correct: false
+    value: battered
+    detail: '''battered'' is not a synonym for ''poised''.'
+  - correct: false
+    value: pouch
+    detail: '''pouch'' is not a synonym for ''poised''.'
+- text: What is a synonym for 'vend'?
+  options:
+  - correct: false
+    value: spoonfeeding
+    detail: '''spoonfeeding'' is not a synonym for ''vend''.'
+  - correct: false
+    value: paginate
+    detail: '''paginate'' is not a synonym for ''vend''.'
+  - correct: false
+    value: literalize
+    detail: '''literalize'' is not a synonym for ''vend''.'
+  - correct: true
+    value: peddle
+    detail: '''peddle'' is a synonym for ''vend''.'
+- text: What is a synonym for 'tusk'?
+  options:
+  - correct: false
+    value: adapted
+    detail: '''adapted'' is not a synonym for ''tusk''.'
+  - correct: false
+    value: scat
+    detail: '''scat'' is not a synonym for ''tusk''.'
+  - correct: true
+    value: horn
+    detail: '''horn'' is a synonym for ''tusk''.'
+  - correct: false
+    value: above
+    detail: '''above'' is not a synonym for ''tusk''.'
+- text: What is a synonym for 'kip'?
+  options:
+  - correct: false
+    value: nest
+    detail: '''nest'' is not a synonym for ''kip''.'
+  - correct: false
+    value: transpiring
+    detail: '''transpiring'' is not a synonym for ''kip''.'
+  - correct: true
+    value: sleep
+    detail: '''sleep'' is a synonym for ''kip''.'
+  - correct: false
+    value: in other words
+    detail: '''in other words'' is not a synonym for ''kip''.'
+- text: What is a synonym for 'forewarning'?
+  options:
+  - correct: false
+    value: looseness
+    detail: '''looseness'' is not a synonym for ''forewarning''.'
+  - correct: false
+    value: gruntle
+    detail: '''gruntle'' is not a synonym for ''forewarning''.'
+  - correct: true
+    value: forewarn
+    detail: '''forewarn'' is a synonym for ''forewarning''.'
+  - correct: false
+    value: philosophise
+    detail: '''philosophise'' is not a synonym for ''forewarning''.'
+- text: What is a synonym for 'spring'?
+  options:
+  - correct: false
+    value: mayhap
+    detail: '''mayhap'' is not a synonym for ''spring''.'
+  - correct: false
+    value: slicing
+    detail: '''slicing'' is not a synonym for ''spring''.'
+  - correct: true
+    value: jump
+    detail: '''jump'' is a synonym for ''spring''.'
+  - correct: false
+    value: promising
+    detail: '''promising'' is not a synonym for ''spring''.'
+- text: What is a synonym for 'forte'?
+  options:
+  - correct: false
+    value: discouraging
+    detail: '''discouraging'' is not a synonym for ''forte''.'
+  - correct: false
+    value: reverse
+    detail: '''reverse'' is not a synonym for ''forte''.'
+  - correct: true
+    value: loudly
+    detail: '''loudly'' is a synonym for ''forte''.'
+  - correct: false
+    value: bloody
+    detail: '''bloody'' is not a synonym for ''forte''.'
+- text: What is a synonym for 'regurgitate'?
+  options:
+  - correct: false
+    value: like kings
+    detail: '''like kings'' is not a synonym for ''regurgitate''.'
+  - correct: false
+    value: trail
+    detail: '''trail'' is not a synonym for ''regurgitate''.'
+  - correct: true
+    value: reproduce
+    detail: '''reproduce'' is a synonym for ''regurgitate''.'
+  - correct: false
+    value: service
+    detail: '''service'' is not a synonym for ''regurgitate''.'
+- text: What is a synonym for 'stupefied'?
+  options:
+  - correct: false
+    value: feigned
+    detail: '''feigned'' is not a synonym for ''stupefied''.'
+  - correct: false
+    value: terminate
+    detail: '''terminate'' is not a synonym for ''stupefied''.'
+  - correct: true
+    value: besot
+    detail: '''besot'' is a synonym for ''stupefied''.'
+  - correct: false
+    value: frank
+    detail: '''frank'' is not a synonym for ''stupefied''.'
+- text: What is a synonym for 'tear down'?
+  options:
+  - correct: false
+    value: chiefly
+    detail: '''chiefly'' is not a synonym for ''tear down''.'
+  - correct: false
+    value: amiably
+    detail: '''amiably'' is not a synonym for ''tear down''.'
+  - correct: false
+    value: naturalise
+    detail: '''naturalise'' is not a synonym for ''tear down''.'
+  - correct: true
+    value: level
+    detail: '''level'' is a synonym for ''tear down''.'
+- text: What is a synonym for 'amok'?
+  options:
+  - correct: false
+    value: center on
+    detail: '''center on'' is not a synonym for ''amok''.'
+  - correct: false
+    value: gnaw
+    detail: '''gnaw'' is not a synonym for ''amok''.'
+  - correct: false
+    value: straight off
+    detail: '''straight off'' is not a synonym for ''amok''.'
+  - correct: true
+    value: amuck
+    detail: '''amuck'' is a synonym for ''amok''.'
+- text: What is a synonym for 'shattered'?
+  options:
+  - correct: false
+    value: grain
+    detail: '''grain'' is not a synonym for ''shattered''.'
+  - correct: true
+    value: shatter
+    detail: '''shatter'' is a synonym for ''shattered''.'
+  - correct: false
+    value: stitching
+    detail: '''stitching'' is not a synonym for ''shattered''.'
+  - correct: false
+    value: deviate
+    detail: '''deviate'' is not a synonym for ''shattered''.'
+- text: What is a synonym for 'handcolor'?
+  options:
+  - correct: false
+    value: bodied
+    detail: '''bodied'' is not a synonym for ''handcolor''.'
+  - correct: false
+    value: rate
+    detail: '''rate'' is not a synonym for ''handcolor''.'
+  - correct: false
+    value: talk
+    detail: '''talk'' is not a synonym for ''handcolor''.'
+  - correct: true
+    value: handcolour
+    detail: '''handcolour'' is a synonym for ''handcolor''.'
+- text: What is a synonym for 'infuriate'?
+  options:
+  - correct: true
+    value: exasperate
+    detail: '''exasperate'' is a synonym for ''infuriate''.'
+  - correct: false
+    value: to the full
+    detail: '''to the full'' is not a synonym for ''infuriate''.'
+  - correct: false
+    value: regrettably
+    detail: '''regrettably'' is not a synonym for ''infuriate''.'
+  - correct: false
+    value: instantaneously
+    detail: '''instantaneously'' is not a synonym for ''infuriate''.'
+- text: What is a synonym for 'set up'?
+  options:
+  - correct: true
+    value: establish
+    detail: '''establish'' is a synonym for ''set up''.'
+  - correct: false
+    value: fulfil
+    detail: '''fulfil'' is not a synonym for ''set up''.'
+  - correct: false
+    value: injure
+    detail: '''injure'' is not a synonym for ''set up''.'
+  - correct: false
+    value: dearly
+    detail: '''dearly'' is not a synonym for ''set up''.'
+- text: What is a synonym for 'raffles'?
+  options:
+  - correct: true
+    value: raffle
+    detail: '''raffle'' is a synonym for ''raffles''.'
+  - correct: false
+    value: break out
+    detail: '''break out'' is not a synonym for ''raffles''.'
+  - correct: false
+    value: air
+    detail: '''air'' is not a synonym for ''raffles''.'
+  - correct: false
+    value: star
+    detail: '''star'' is not a synonym for ''raffles''.'

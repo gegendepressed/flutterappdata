@@ -1,0 +1,285 @@
+description: Synonym questions - Easy Set 3
+topic: adjective
+id: adjective-easy3
+title: Adjective Synonyms - Easy 3
+questions:
+- text: What is a synonym for 'tenacious'?
+  options:
+  - correct: false
+    value: neutral
+    detail: '''neutral'' is not a synonym for ''tenacious''.'
+  - correct: true
+    value: retentive
+    detail: '''retentive'' is a synonym for ''tenacious''.'
+  - correct: false
+    value: bedded
+    detail: '''bedded'' is not a synonym for ''tenacious''.'
+  - correct: false
+    value: inhumed
+    detail: '''inhumed'' is not a synonym for ''tenacious''.'
+- text: What is a synonym for 'archeologic'?
+  options:
+  - correct: false
+    value: unseeable
+    detail: '''unseeable'' is not a synonym for ''archeologic''.'
+  - correct: false
+    value: mesodermal
+    detail: '''mesodermal'' is not a synonym for ''archeologic''.'
+  - correct: true
+    value: archaeological
+    detail: '''archaeological'' is a synonym for ''archeologic''.'
+  - correct: false
+    value: computer readable
+    detail: '''computer readable'' is not a synonym for ''archeologic''.'
+- text: What is a synonym for 'euphonous'?
+  options:
+  - correct: false
+    value: clinker-built
+    detail: '''clinker-built'' is not a synonym for ''euphonous''.'
+  - correct: true
+    value: euphonious
+    detail: '''euphonious'' is a synonym for ''euphonous''.'
+  - correct: false
+    value: jacksonian
+    detail: '''jacksonian'' is not a synonym for ''euphonous''.'
+  - correct: false
+    value: equipt
+    detail: '''equipt'' is not a synonym for ''euphonous''.'
+- text: What is a synonym for 'ordered'?
+  options:
+  - correct: false
+    value: sulphuretted
+    detail: '''sulphuretted'' is not a synonym for ''ordered''.'
+  - correct: false
+    value: arthropodous
+    detail: '''arthropodous'' is not a synonym for ''ordered''.'
+  - correct: false
+    value: unlaced
+    detail: '''unlaced'' is not a synonym for ''ordered''.'
+  - correct: true
+    value: arranged
+    detail: '''arranged'' is a synonym for ''ordered''.'
+- text: What is a synonym for 'sabbatarian'?
+  options:
+  - correct: false
+    value: algonquin
+    detail: '''algonquin'' is not a synonym for ''sabbatarian''.'
+  - correct: true
+    value: Sabbatarian
+    detail: '''Sabbatarian'' is a synonym for ''sabbatarian''.'
+  - correct: false
+    value: jesuitical
+    detail: '''jesuitical'' is not a synonym for ''sabbatarian''.'
+  - correct: false
+    value: motorless
+    detail: '''motorless'' is not a synonym for ''sabbatarian''.'
+- text: What is a synonym for 'sounder'?
+  options:
+  - correct: false
+    value: double-barrelled
+    detail: '''double-barrelled'' is not a synonym for ''sounder''.'
+  - correct: false
+    value: unmotorized
+    detail: '''unmotorized'' is not a synonym for ''sounder''.'
+  - correct: true
+    value: sound
+    detail: '''sound'' is a synonym for ''sounder''.'
+  - correct: false
+    value: discontent
+    detail: '''discontent'' is not a synonym for ''sounder''.'
+- text: What is a synonym for 'psychoactive'?
+  options:
+  - correct: false
+    value: taiwanese
+    detail: '''taiwanese'' is not a synonym for ''psychoactive''.'
+  - correct: false
+    value: efferent
+    detail: '''efferent'' is not a synonym for ''psychoactive''.'
+  - correct: false
+    value: nonvolatilisable
+    detail: '''nonvolatilisable'' is not a synonym for ''psychoactive''.'
+  - correct: true
+    value: psychotropic
+    detail: '''psychotropic'' is a synonym for ''psychoactive''.'
+- text: What is a synonym for 'ecologic'?
+  options:
+  - correct: false
+    value: maternal
+    detail: '''maternal'' is not a synonym for ''ecologic''.'
+  - correct: true
+    value: ecological
+    detail: '''ecological'' is a synonym for ''ecologic''.'
+  - correct: false
+    value: labelled
+    detail: '''labelled'' is not a synonym for ''ecologic''.'
+  - correct: false
+    value: apheretic
+    detail: '''apheretic'' is not a synonym for ''ecologic''.'
+- text: What is a synonym for 'fatalistic'?
+  options:
+  - correct: false
+    value: spacial
+    detail: '''spacial'' is not a synonym for ''fatalistic''.'
+  - correct: false
+    value: german
+    detail: '''german'' is not a synonym for ''fatalistic''.'
+  - correct: false
+    value: egoistic
+    detail: '''egoistic'' is not a synonym for ''fatalistic''.'
+  - correct: true
+    value: fatalist
+    detail: '''fatalist'' is a synonym for ''fatalistic''.'
+- text: What is a synonym for 'tuneful'?
+  options:
+  - correct: false
+    value: aurorean
+    detail: '''aurorean'' is not a synonym for ''tuneful''.'
+  - correct: true
+    value: melodious
+    detail: '''melodious'' is a synonym for ''tuneful''.'
+  - correct: false
+    value: irrevocable
+    detail: '''irrevocable'' is not a synonym for ''tuneful''.'
+  - correct: false
+    value: ectodermal
+    detail: '''ectodermal'' is not a synonym for ''tuneful''.'
+- text: What is a synonym for 'sabine'?
+  options:
+  - correct: false
+    value: wasted
+    detail: '''wasted'' is not a synonym for ''sabine''.'
+  - correct: true
+    value: Sabine
+    detail: '''Sabine'' is a synonym for ''sabine''.'
+  - correct: false
+    value: tyrolean
+    detail: '''tyrolean'' is not a synonym for ''sabine''.'
+  - correct: false
+    value: bhutanese
+    detail: '''bhutanese'' is not a synonym for ''sabine''.'
+- text: What is a synonym for 'small-capitalisation'?
+  options:
+  - correct: false
+    value: idiomatic
+    detail: '''idiomatic'' is not a synonym for ''small-capitalisation''.'
+  - correct: true
+    value: small-capitalization
+    detail: '''small-capitalization'' is a synonym for ''small-capitalisation''.'
+  - correct: false
+    value: apologetic
+    detail: '''apologetic'' is not a synonym for ''small-capitalisation''.'
+  - correct: false
+    value: casuistical
+    detail: '''casuistical'' is not a synonym for ''small-capitalisation''.'
+- text: What is a synonym for 'prognathic'?
+  options:
+  - correct: true
+    value: prognathous
+    detail: '''prognathous'' is a synonym for ''prognathic''.'
+  - correct: false
+    value: two-year
+    detail: '''two-year'' is not a synonym for ''prognathic''.'
+  - correct: false
+    value: meager
+    detail: '''meager'' is not a synonym for ''prognathic''.'
+  - correct: false
+    value: geomorphological
+    detail: '''geomorphological'' is not a synonym for ''prognathic''.'
+- text: What is a synonym for 'illative'?
+  options:
+  - correct: false
+    value: in vitro
+    detail: '''in vitro'' is not a synonym for ''illative''.'
+  - correct: false
+    value: untempered
+    detail: '''untempered'' is not a synonym for ''illative''.'
+  - correct: false
+    value: uncolumned
+    detail: '''uncolumned'' is not a synonym for ''illative''.'
+  - correct: true
+    value: inferential
+    detail: '''inferential'' is a synonym for ''illative''.'
+- text: What is a synonym for 'radio-opaque'?
+  options:
+  - correct: false
+    value: gastronomic
+    detail: '''gastronomic'' is not a synonym for ''radio-opaque''.'
+  - correct: false
+    value: geriatric
+    detail: '''geriatric'' is not a synonym for ''radio-opaque''.'
+  - correct: true
+    value: radiopaque
+    detail: '''radiopaque'' is a synonym for ''radio-opaque''.'
+  - correct: false
+    value: sensational
+    detail: '''sensational'' is not a synonym for ''radio-opaque''.'
+- text: What is a synonym for 'anaglyptic'?
+  options:
+  - correct: false
+    value: saleable
+    detail: '''saleable'' is not a synonym for ''anaglyptic''.'
+  - correct: false
+    value: endovenous
+    detail: '''endovenous'' is not a synonym for ''anaglyptic''.'
+  - correct: true
+    value: anaglyphic
+    detail: '''anaglyphic'' is a synonym for ''anaglyptic''.'
+  - correct: false
+    value: rough
+    detail: '''rough'' is not a synonym for ''anaglyptic''.'
+- text: What is a synonym for 'handelian'?
+  options:
+  - correct: false
+    value: affirmatory
+    detail: '''affirmatory'' is not a synonym for ''handelian''.'
+  - correct: false
+    value: mutual
+    detail: '''mutual'' is not a synonym for ''handelian''.'
+  - correct: false
+    value: psychoactive
+    detail: '''psychoactive'' is not a synonym for ''handelian''.'
+  - correct: true
+    value: Handelian
+    detail: '''Handelian'' is a synonym for ''handelian''.'
+- text: What is a synonym for 'favourable'?
+  options:
+  - correct: false
+    value: big
+    detail: '''big'' is not a synonym for ''favourable''.'
+  - correct: false
+    value: esthetical
+    detail: '''esthetical'' is not a synonym for ''favourable''.'
+  - correct: false
+    value: hydrographical
+    detail: '''hydrographical'' is not a synonym for ''favourable''.'
+  - correct: true
+    value: favorable
+    detail: '''favorable'' is a synonym for ''favourable''.'
+- text: What is a synonym for 'androgenous'?
+  options:
+  - correct: false
+    value: theban
+    detail: '''theban'' is not a synonym for ''androgenous''.'
+  - correct: false
+    value: frankish
+    detail: '''frankish'' is not a synonym for ''androgenous''.'
+  - correct: false
+    value: unfavourable
+    detail: '''unfavourable'' is not a synonym for ''androgenous''.'
+  - correct: true
+    value: androgenetic
+    detail: '''androgenetic'' is a synonym for ''androgenous''.'
+- text: What is a synonym for 'transdermic'?
+  options:
+  - correct: false
+    value: on-line
+    detail: '''on-line'' is not a synonym for ''transdermic''.'
+  - correct: false
+    value: orthodox
+    detail: '''orthodox'' is not a synonym for ''transdermic''.'
+  - correct: false
+    value: adjective
+    detail: '''adjective'' is not a synonym for ''transdermic''.'
+  - correct: true
+    value: transdermal
+    detail: '''transdermal'' is a synonym for ''transdermic''.'

@@ -1,0 +1,285 @@
+description: Synonym questions - Easy Set 3
+topic: verb
+id: verb-easy3
+title: Verb Synonyms - Easy 3
+questions:
+- text: What is a synonym for 'stick in'?
+  options:
+  - correct: false
+    value: ravingly
+    detail: '''ravingly'' is not a synonym for ''stick in''.'
+  - correct: false
+    value: usher out
+    detail: '''usher out'' is not a synonym for ''stick in''.'
+  - correct: true
+    value: slip in
+    detail: '''slip in'' is a synonym for ''stick in''.'
+  - correct: false
+    value: notarise
+    detail: '''notarise'' is not a synonym for ''stick in''.'
+- text: What is a synonym for 'jump for joy'?
+  options:
+  - correct: false
+    value: quite an
+    detail: '''quite an'' is not a synonym for ''jump for joy''.'
+  - correct: false
+    value: dingily
+    detail: '''dingily'' is not a synonym for ''jump for joy''.'
+  - correct: false
+    value: ranking
+    detail: '''ranking'' is not a synonym for ''jump for joy''.'
+  - correct: true
+    value: exult
+    detail: '''exult'' is a synonym for ''jump for joy''.'
+- text: What is a synonym for 'state'?
+  options:
+  - correct: false
+    value: feel like a million dollars
+    detail: '''feel like a million dollars'' is not a synonym for ''state''.'
+  - correct: false
+    value: transubstantiate
+    detail: '''transubstantiate'' is not a synonym for ''state''.'
+  - correct: true
+    value: say
+    detail: '''say'' is a synonym for ''state''.'
+  - correct: false
+    value: commissioning
+    detail: '''commissioning'' is not a synonym for ''state''.'
+- text: What is a synonym for 'despitefully'?
+  options:
+  - correct: false
+    value: transistorised
+    detail: '''transistorised'' is not a synonym for ''despitefully''.'
+  - correct: false
+    value: excellently
+    detail: '''excellently'' is not a synonym for ''despitefully''.'
+  - correct: false
+    value: delicately
+    detail: '''delicately'' is not a synonym for ''despitefully''.'
+  - correct: true
+    value: spitefully
+    detail: '''spitefully'' is a synonym for ''despitefully''.'
+- text: What is a synonym for 'steady down'?
+  options:
+  - correct: true
+    value: settle
+    detail: '''settle'' is a synonym for ''steady down''.'
+  - correct: false
+    value: addressed
+    detail: '''addressed'' is not a synonym for ''steady down''.'
+  - correct: false
+    value: dancing
+    detail: '''dancing'' is not a synonym for ''steady down''.'
+  - correct: false
+    value: dignifying
+    detail: '''dignifying'' is not a synonym for ''steady down''.'
+- text: What is a synonym for 'allotted'?
+  options:
+  - correct: false
+    value: date from
+    detail: '''date from'' is not a synonym for ''allotted''.'
+  - correct: true
+    value: assign
+    detail: '''assign'' is a synonym for ''allotted''.'
+  - correct: false
+    value: founder
+    detail: '''founder'' is not a synonym for ''allotted''.'
+  - correct: false
+    value: wring from
+    detail: '''wring from'' is not a synonym for ''allotted''.'
+- text: What is a synonym for 'dwelling'?
+  options:
+  - correct: true
+    value: brood
+    detail: '''brood'' is a synonym for ''dwelling''.'
+  - correct: false
+    value: affectingly
+    detail: '''affectingly'' is not a synonym for ''dwelling''.'
+  - correct: false
+    value: soothe
+    detail: '''soothe'' is not a synonym for ''dwelling''.'
+  - correct: false
+    value: reunite
+    detail: '''reunite'' is not a synonym for ''dwelling''.'
+- text: What is a synonym for 'smolderingly'?
+  options:
+  - correct: true
+    value: smoulderingly
+    detail: '''smoulderingly'' is a synonym for ''smolderingly''.'
+  - correct: false
+    value: asphyxiate
+    detail: '''asphyxiate'' is not a synonym for ''smolderingly''.'
+  - correct: false
+    value: flow from
+    detail: '''flow from'' is not a synonym for ''smolderingly''.'
+  - correct: false
+    value: disconcerting
+    detail: '''disconcerting'' is not a synonym for ''smolderingly''.'
+- text: What is a synonym for 'pursuing'?
+  options:
+  - correct: false
+    value: sag down
+    detail: '''sag down'' is not a synonym for ''pursuing''.'
+  - correct: false
+    value: espy
+    detail: '''espy'' is not a synonym for ''pursuing''.'
+  - correct: true
+    value: prosecute
+    detail: '''prosecute'' is a synonym for ''pursuing''.'
+  - correct: false
+    value: breathe in
+    detail: '''breathe in'' is not a synonym for ''pursuing''.'
+- text: What is a synonym for 'skulking'?
+  options:
+  - correct: true
+    value: lurk
+    detail: '''lurk'' is a synonym for ''skulking''.'
+  - correct: false
+    value: disappointing
+    detail: '''disappointing'' is not a synonym for ''skulking''.'
+  - correct: false
+    value: inhibit
+    detail: '''inhibit'' is not a synonym for ''skulking''.'
+  - correct: false
+    value: blab
+    detail: '''blab'' is not a synonym for ''skulking''.'
+- text: What is a synonym for 'gleefully'?
+  options:
+  - correct: false
+    value: struggle
+    detail: '''struggle'' is not a synonym for ''gleefully''.'
+  - correct: false
+    value: horse around
+    detail: '''horse around'' is not a synonym for ''gleefully''.'
+  - correct: true
+    value: joyously
+    detail: '''joyously'' is a synonym for ''gleefully''.'
+  - correct: false
+    value: agonized
+    detail: '''agonized'' is not a synonym for ''gleefully''.'
+- text: What is a synonym for 'anathematise'?
+  options:
+  - correct: true
+    value: accurse
+    detail: '''accurse'' is a synonym for ''anathematise''.'
+  - correct: false
+    value: wholly
+    detail: '''wholly'' is not a synonym for ''anathematise''.'
+  - correct: false
+    value: momentarily
+    detail: '''momentarily'' is not a synonym for ''anathematise''.'
+  - correct: false
+    value: parody
+    detail: '''parody'' is not a synonym for ''anathematise''.'
+- text: What is a synonym for 'unusually'?
+  options:
+  - correct: false
+    value: hit the ceiling
+    detail: '''hit the ceiling'' is not a synonym for ''unusually''.'
+  - correct: false
+    value: dignify
+    detail: '''dignify'' is not a synonym for ''unusually''.'
+  - correct: true
+    value: remarkably
+    detail: '''remarkably'' is a synonym for ''unusually''.'
+  - correct: false
+    value: hired
+    detail: '''hired'' is not a synonym for ''unusually''.'
+- text: What is a synonym for 'dashed'?
+  options:
+  - correct: false
+    value: spectacularly
+    detail: '''spectacularly'' is not a synonym for ''dashed''.'
+  - correct: true
+    value: dart
+    detail: '''dart'' is a synonym for ''dashed''.'
+  - correct: false
+    value: indubitably
+    detail: '''indubitably'' is not a synonym for ''dashed''.'
+  - correct: false
+    value: squared
+    detail: '''squared'' is not a synonym for ''dashed''.'
+- text: What is a synonym for 'fetching'?
+  options:
+  - correct: false
+    value: dam
+    detail: '''dam'' is not a synonym for ''fetching''.'
+  - correct: false
+    value: victimized
+    detail: '''victimized'' is not a synonym for ''fetching''.'
+  - correct: true
+    value: bring
+    detail: '''bring'' is a synonym for ''fetching''.'
+  - correct: false
+    value: corrode
+    detail: '''corrode'' is not a synonym for ''fetching''.'
+- text: What is a synonym for 'use'?
+  options:
+  - correct: false
+    value: cracklings
+    detail: '''cracklings'' is not a synonym for ''use''.'
+  - correct: false
+    value: bluffly
+    detail: '''bluffly'' is not a synonym for ''use''.'
+  - correct: false
+    value: carnalise
+    detail: '''carnalise'' is not a synonym for ''use''.'
+  - correct: true
+    value: utilize
+    detail: '''utilize'' is a synonym for ''use''.'
+- text: What is a synonym for 'account'?
+  options:
+  - correct: false
+    value: tumefy
+    detail: '''tumefy'' is not a synonym for ''account''.'
+  - correct: true
+    value: calculate
+    detail: '''calculate'' is a synonym for ''account''.'
+  - correct: false
+    value: rape
+    detail: '''rape'' is not a synonym for ''account''.'
+  - correct: false
+    value: thronged
+    detail: '''thronged'' is not a synonym for ''account''.'
+- text: What is a synonym for 'preoccupied'?
+  options:
+  - correct: false
+    value: cane
+    detail: '''cane'' is not a synonym for ''preoccupied''.'
+  - correct: false
+    value: plug in
+    detail: '''plug in'' is not a synonym for ''preoccupied''.'
+  - correct: false
+    value: wrecked
+    detail: '''wrecked'' is not a synonym for ''preoccupied''.'
+  - correct: true
+    value: preoccupy
+    detail: '''preoccupy'' is a synonym for ''preoccupied''.'
+- text: What is a synonym for 'derecognize'?
+  options:
+  - correct: false
+    value: weaving
+    detail: '''weaving'' is not a synonym for ''derecognize''.'
+  - correct: false
+    value: absorb
+    detail: '''absorb'' is not a synonym for ''derecognize''.'
+  - correct: false
+    value: wake
+    detail: '''wake'' is not a synonym for ''derecognize''.'
+  - correct: true
+    value: decertify
+    detail: '''decertify'' is a synonym for ''derecognize''.'
+- text: What is a synonym for 'gain ground'?
+  options:
+  - correct: true
+    value: gain
+    detail: '''gain'' is a synonym for ''gain ground''.'
+  - correct: false
+    value: stake
+    detail: '''stake'' is not a synonym for ''gain ground''.'
+  - correct: false
+    value: bituminize
+    detail: '''bituminize'' is not a synonym for ''gain ground''.'
+  - correct: false
+    value: downriver
+    detail: '''downriver'' is not a synonym for ''gain ground''.'

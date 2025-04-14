@@ -1,0 +1,285 @@
+description: Synonym questions - Hard Set 5
+topic: adjective
+id: adjective-hard5
+title: Adjective Synonyms - Hard 5
+questions:
+- text: What is a synonym for 'katabatic'?
+  options:
+  - correct: true
+    value: catabatic
+    detail: '''catabatic'' is a synonym for ''katabatic''.'
+  - correct: false
+    value: crystallised
+    detail: '''crystallised'' is not a synonym for ''katabatic''.'
+  - correct: false
+    value: bacteriophagous
+    detail: '''bacteriophagous'' is not a synonym for ''katabatic''.'
+  - correct: false
+    value: circular
+    detail: '''circular'' is not a synonym for ''katabatic''.'
+- text: What is a synonym for 'nicene'?
+  options:
+  - correct: false
+    value: nigerian
+    detail: '''nigerian'' is not a synonym for ''nicene''.'
+  - correct: false
+    value: dramaturgical
+    detail: '''dramaturgical'' is not a synonym for ''nicene''.'
+  - correct: false
+    value: inferential
+    detail: '''inferential'' is not a synonym for ''nicene''.'
+  - correct: true
+    value: Nicaean
+    detail: '''Nicaean'' is a synonym for ''nicene''.'
+- text: What is a synonym for 'fetal'?
+  options:
+  - correct: true
+    value: foetal
+    detail: '''foetal'' is a synonym for ''fetal''.'
+  - correct: false
+    value: significant
+    detail: '''significant'' is not a synonym for ''fetal''.'
+  - correct: false
+    value: poetical
+    detail: '''poetical'' is not a synonym for ''fetal''.'
+  - correct: false
+    value: dangerous
+    detail: '''dangerous'' is not a synonym for ''fetal''.'
+- text: What is a synonym for 'basal'?
+  options:
+  - correct: false
+    value: jain
+    detail: '''jain'' is not a synonym for ''basal''.'
+  - correct: false
+    value: patristical
+    detail: '''patristical'' is not a synonym for ''basal''.'
+  - correct: true
+    value: radical
+    detail: '''radical'' is a synonym for ''basal''.'
+  - correct: false
+    value: cryptographical
+    detail: '''cryptographical'' is not a synonym for ''basal''.'
+- text: What is a synonym for 'holographical'?
+  options:
+  - correct: false
+    value: blastoporal
+    detail: '''blastoporal'' is not a synonym for ''holographical''.'
+  - correct: false
+    value: jesuit
+    detail: '''jesuit'' is not a synonym for ''holographical''.'
+  - correct: true
+    value: holographic
+    detail: '''holographic'' is a synonym for ''holographical''.'
+  - correct: false
+    value: aculeated
+    detail: '''aculeated'' is not a synonym for ''holographical''.'
+- text: What is a synonym for 'endogenous'?
+  options:
+  - correct: false
+    value: unafraid
+    detail: '''unafraid'' is not a synonym for ''endogenous''.'
+  - correct: false
+    value: north korean
+    detail: '''north korean'' is not a synonym for ''endogenous''.'
+  - correct: true
+    value: endogenic
+    detail: '''endogenic'' is a synonym for ''endogenous''.'
+  - correct: false
+    value: seljuk
+    detail: '''seljuk'' is not a synonym for ''endogenous''.'
+- text: What is a synonym for 'spiritualistic'?
+  options:
+  - correct: false
+    value: inconspicuous
+    detail: '''inconspicuous'' is not a synonym for ''spiritualistic''.'
+  - correct: true
+    value: spiritualist
+    detail: '''spiritualist'' is a synonym for ''spiritualistic''.'
+  - correct: false
+    value: multinomial
+    detail: '''multinomial'' is not a synonym for ''spiritualistic''.'
+  - correct: false
+    value: awny
+    detail: '''awny'' is not a synonym for ''spiritualistic''.'
+- text: What is a synonym for 'laputan'?
+  options:
+  - correct: false
+    value: attentive
+    detail: '''attentive'' is not a synonym for ''laputan''.'
+  - correct: false
+    value: pictorial
+    detail: '''pictorial'' is not a synonym for ''laputan''.'
+  - correct: false
+    value: fissionable
+    detail: '''fissionable'' is not a synonym for ''laputan''.'
+  - correct: true
+    value: Laputan
+    detail: '''Laputan'' is a synonym for ''laputan''.'
+- text: What is a synonym for 'thenal'?
+  options:
+  - correct: false
+    value: burundian
+    detail: '''burundian'' is not a synonym for ''thenal''.'
+  - correct: false
+    value: ethnological
+    detail: '''ethnological'' is not a synonym for ''thenal''.'
+  - correct: true
+    value: thenar
+    detail: '''thenar'' is a synonym for ''thenal''.'
+  - correct: false
+    value: meteorological
+    detail: '''meteorological'' is not a synonym for ''thenal''.'
+- text: What is a synonym for 'cryptographic'?
+  options:
+  - correct: true
+    value: cryptanalytic
+    detail: '''cryptanalytic'' is a synonym for ''cryptographic''.'
+  - correct: false
+    value: fewer
+    detail: '''fewer'' is not a synonym for ''cryptographic''.'
+  - correct: false
+    value: blinder
+    detail: '''blinder'' is not a synonym for ''cryptographic''.'
+  - correct: false
+    value: opposite
+    detail: '''opposite'' is not a synonym for ''cryptographic''.'
+- text: What is a synonym for 'taxonomic'?
+  options:
+  - correct: false
+    value: trinuclear
+    detail: '''trinuclear'' is not a synonym for ''taxonomic''.'
+  - correct: true
+    value: taxonomical
+    detail: '''taxonomical'' is a synonym for ''taxonomic''.'
+  - correct: false
+    value: nauruan
+    detail: '''nauruan'' is not a synonym for ''taxonomic''.'
+  - correct: false
+    value: unequal
+    detail: '''unequal'' is not a synonym for ''taxonomic''.'
+- text: What is a synonym for 'two-dimensional'?
+  options:
+  - correct: true
+    value: planar
+    detail: '''planar'' is a synonym for ''two-dimensional''.'
+  - correct: false
+    value: nonmigratory
+    detail: '''nonmigratory'' is not a synonym for ''two-dimensional''.'
+  - correct: false
+    value: epistemic
+    detail: '''epistemic'' is not a synonym for ''two-dimensional''.'
+  - correct: false
+    value: nonmaterial
+    detail: '''nonmaterial'' is not a synonym for ''two-dimensional''.'
+- text: What is a synonym for 'enforced'?
+  options:
+  - correct: true
+    value: implemented
+    detail: '''implemented'' is a synonym for ''enforced''.'
+  - correct: false
+    value: muscular
+    detail: '''muscular'' is not a synonym for ''enforced''.'
+  - correct: false
+    value: catoptrical
+    detail: '''catoptrical'' is not a synonym for ''enforced''.'
+  - correct: false
+    value: sicilian
+    detail: '''sicilian'' is not a synonym for ''enforced''.'
+- text: What is a synonym for 'argillaceous'?
+  options:
+  - correct: true
+    value: clayey
+    detail: '''clayey'' is a synonym for ''argillaceous''.'
+  - correct: false
+    value: chemotherapeutic
+    detail: '''chemotherapeutic'' is not a synonym for ''argillaceous''.'
+  - correct: false
+    value: big
+    detail: '''big'' is not a synonym for ''argillaceous''.'
+  - correct: false
+    value: caloric
+    detail: '''caloric'' is not a synonym for ''argillaceous''.'
+- text: What is a synonym for 'nonaged'?
+  options:
+  - correct: false
+    value: incan
+    detail: '''incan'' is not a synonym for ''nonaged''.'
+  - correct: false
+    value: institutionalized
+    detail: '''institutionalized'' is not a synonym for ''nonaged''.'
+  - correct: false
+    value: dizygotic
+    detail: '''dizygotic'' is not a synonym for ''nonaged''.'
+  - correct: true
+    value: minor
+    detail: '''minor'' is a synonym for ''nonaged''.'
+- text: What is a synonym for 'aramean'?
+  options:
+  - correct: true
+    value: Aramean
+    detail: '''Aramean'' is a synonym for ''aramean''.'
+  - correct: false
+    value: jurassic
+    detail: '''jurassic'' is not a synonym for ''aramean''.'
+  - correct: false
+    value: minuscule
+    detail: '''minuscule'' is not a synonym for ''aramean''.'
+  - correct: false
+    value: anthropometric
+    detail: '''anthropometric'' is not a synonym for ''aramean''.'
+- text: What is a synonym for 'tuscan'?
+  options:
+  - correct: true
+    value: Tuscan
+    detail: '''Tuscan'' is a synonym for ''tuscan''.'
+  - correct: false
+    value: pictural
+    detail: '''pictural'' is not a synonym for ''tuscan''.'
+  - correct: false
+    value: filipino
+    detail: '''filipino'' is not a synonym for ''tuscan''.'
+  - correct: false
+    value: undeveloped
+    detail: '''undeveloped'' is not a synonym for ''tuscan''.'
+- text: What is a synonym for 'ineffective'?
+  options:
+  - correct: false
+    value: watermelon-shaped
+    detail: '''watermelon-shaped'' is not a synonym for ''ineffective''.'
+  - correct: false
+    value: rembrandtesque
+    detail: '''rembrandtesque'' is not a synonym for ''ineffective''.'
+  - correct: false
+    value: extroversive
+    detail: '''extroversive'' is not a synonym for ''ineffective''.'
+  - correct: true
+    value: uneffective
+    detail: '''uneffective'' is a synonym for ''ineffective''.'
+- text: What is a synonym for 'chimerical'?
+  options:
+  - correct: false
+    value: costa rican
+    detail: '''costa rican'' is not a synonym for ''chimerical''.'
+  - correct: false
+    value: hair-shirt
+    detail: '''hair-shirt'' is not a synonym for ''chimerical''.'
+  - correct: true
+    value: chimeric
+    detail: '''chimeric'' is a synonym for ''chimerical''.'
+  - correct: false
+    value: gathered
+    detail: '''gathered'' is not a synonym for ''chimerical''.'
+- text: What is a synonym for 'thoreauvian'?
+  options:
+  - correct: false
+    value: entomologic
+    detail: '''entomologic'' is not a synonym for ''thoreauvian''.'
+  - correct: true
+    value: Thoreauvian
+    detail: '''Thoreauvian'' is a synonym for ''thoreauvian''.'
+  - correct: false
+    value: wideband
+    detail: '''wideband'' is not a synonym for ''thoreauvian''.'
+  - correct: false
+    value: clothed
+    detail: '''clothed'' is not a synonym for ''thoreauvian''.'

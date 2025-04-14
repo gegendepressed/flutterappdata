@@ -1,0 +1,287 @@
+description: Synonym questions - Medium Set 5
+topic: noun
+id: noun-medium5
+title: Noun Synonyms - Medium 5
+questions:
+- text: What is a synonym for 'red-hot poker'?
+  options:
+  - correct: true
+    value: Kniphofia praecox
+    detail: '''Kniphofia praecox'' is a synonym for ''red-hot poker''.'
+  - correct: false
+    value: family cottidae
+    detail: '''family cottidae'' is not a synonym for ''red-hot poker''.'
+  - correct: false
+    value: yellowstone river
+    detail: '''yellowstone river'' is not a synonym for ''red-hot poker''.'
+  - correct: false
+    value: invisibility
+    detail: '''invisibility'' is not a synonym for ''red-hot poker''.'
+- text: What is a synonym for 'calling card'?
+  options:
+  - correct: false
+    value: horsebean
+    detail: '''horsebean'' is not a synonym for ''calling card''.'
+  - correct: false
+    value: tree-frog
+    detail: '''tree-frog'' is not a synonym for ''calling card''.'
+  - correct: true
+    value: phone card
+    detail: '''phone card'' is a synonym for ''calling card''.'
+  - correct: false
+    value: saturnia pavonia
+    detail: '''saturnia pavonia'' is not a synonym for ''calling card''.'
+- text: What is a synonym for 'incidental expense'?
+  options:
+  - correct: true
+    value: incidental
+    detail: '''incidental'' is a synonym for ''incidental expense''.'
+  - correct: false
+    value: eyepatch
+    detail: '''eyepatch'' is not a synonym for ''incidental expense''.'
+  - correct: false
+    value: cascarilla bark
+    detail: '''cascarilla bark'' is not a synonym for ''incidental expense''.'
+  - correct: false
+    value: still room
+    detail: '''still room'' is not a synonym for ''incidental expense''.'
+- text: What is a synonym for 'green broom'?
+  options:
+  - correct: false
+    value: dwarf nipplewort
+    detail: '''dwarf nipplewort'' is not a synonym for ''green broom''.'
+  - correct: false
+    value: helianthus petiolaris
+    detail: '''helianthus petiolaris'' is not a synonym for ''green broom''.'
+  - correct: true
+    value: common broom
+    detail: '''common broom'' is a synonym for ''green broom''.'
+  - correct: false
+    value: james bay
+    detail: '''james bay'' is not a synonym for ''green broom''.'
+- text: What is a synonym for 'nrem sleep'?
+  options:
+  - correct: false
+    value: thatch
+    detail: '''thatch'' is not a synonym for ''nrem sleep''.'
+  - correct: true
+    value: orthodox sleep
+    detail: '''orthodox sleep'' is a synonym for ''nrem sleep''.'
+  - correct: false
+    value: hypnotist
+    detail: '''hypnotist'' is not a synonym for ''nrem sleep''.'
+  - correct: false
+    value: genus papio
+    detail: '''genus papio'' is not a synonym for ''nrem sleep''.'
+- text: What is a synonym for 'john edgar hoover'?
+  options:
+  - correct: false
+    value: lafitte
+    detail: '''lafitte'' is not a synonym for ''john edgar hoover''.'
+  - correct: false
+    value: vandyke brown
+    detail: '''vandyke brown'' is not a synonym for ''john edgar hoover''.'
+  - correct: false
+    value: reserve officers training corps
+    detail: '''reserve officers training corps'' is not a synonym for ''john edgar
+      hoover''.'
+  - correct: true
+    value: Hoover
+    detail: '''Hoover'' is a synonym for ''john edgar hoover''.'
+- text: What is a synonym for 'virgin islands national park'?
+  options:
+  - correct: true
+    value: Virgin Islands National Park
+    detail: '''Virgin Islands National Park'' is a synonym for ''virgin islands national
+      park''.'
+  - correct: false
+    value: participial
+    detail: '''participial'' is not a synonym for ''virgin islands national park''.'
+  - correct: false
+    value: class filicinae
+    detail: '''class filicinae'' is not a synonym for ''virgin islands national park''.'
+  - correct: false
+    value: frost-weed
+    detail: '''frost-weed'' is not a synonym for ''virgin islands national park''.'
+- text: What is a synonym for 'thieving'?
+  options:
+  - correct: false
+    value: assistant
+    detail: '''assistant'' is not a synonym for ''thieving''.'
+  - correct: false
+    value: polar bear
+    detail: '''polar bear'' is not a synonym for ''thieving''.'
+  - correct: false
+    value: fatigue duty
+    detail: '''fatigue duty'' is not a synonym for ''thieving''.'
+  - correct: true
+    value: larceny
+    detail: '''larceny'' is a synonym for ''thieving''.'
+- text: What is a synonym for 'trade union'?
+  options:
+  - correct: true
+    value: union
+    detail: '''union'' is a synonym for ''trade union''.'
+  - correct: false
+    value: conduction deafness
+    detail: '''conduction deafness'' is not a synonym for ''trade union''.'
+  - correct: false
+    value: catharacta
+    detail: '''catharacta'' is not a synonym for ''trade union''.'
+  - correct: false
+    value: leaf mustard
+    detail: '''leaf mustard'' is not a synonym for ''trade union''.'
+- text: What is a synonym for 'tyre'?
+  options:
+  - correct: false
+    value: sabbatical leave
+    detail: '''sabbatical leave'' is not a synonym for ''tyre''.'
+  - correct: true
+    value: Sur
+    detail: '''Sur'' is a synonym for ''tyre''.'
+  - correct: false
+    value: karl theodor jaspers
+    detail: '''karl theodor jaspers'' is not a synonym for ''tyre''.'
+  - correct: false
+    value: anacardiaceae
+    detail: '''anacardiaceae'' is not a synonym for ''tyre''.'
+- text: What is a synonym for 'interlingual rendition'?
+  options:
+  - correct: false
+    value: doodlebug
+    detail: '''doodlebug'' is not a synonym for ''interlingual rendition''.'
+  - correct: false
+    value: agaricus arvensis
+    detail: '''agaricus arvensis'' is not a synonym for ''interlingual rendition''.'
+  - correct: false
+    value: pumpkin
+    detail: '''pumpkin'' is not a synonym for ''interlingual rendition''.'
+  - correct: true
+    value: translation
+    detail: '''translation'' is a synonym for ''interlingual rendition''.'
+- text: What is a synonym for 'skip'?
+  options:
+  - correct: false
+    value: life saver
+    detail: '''life saver'' is not a synonym for ''skip''.'
+  - correct: true
+    value: omission
+    detail: '''omission'' is a synonym for ''skip''.'
+  - correct: false
+    value: pilot bread
+    detail: '''pilot bread'' is not a synonym for ''skip''.'
+  - correct: false
+    value: genus hirudo
+    detail: '''genus hirudo'' is not a synonym for ''skip''.'
+- text: What is a synonym for 'first council of nicaea'?
+  options:
+  - correct: true
+    value: Nicaea
+    detail: '''Nicaea'' is a synonym for ''first council of nicaea''.'
+  - correct: false
+    value: ischemic stroke
+    detail: '''ischemic stroke'' is not a synonym for ''first council of nicaea''.'
+  - correct: false
+    value: echography
+    detail: '''echography'' is not a synonym for ''first council of nicaea''.'
+  - correct: false
+    value: pine finch
+    detail: '''pine finch'' is not a synonym for ''first council of nicaea''.'
+- text: What is a synonym for 'antitrades'?
+  options:
+  - correct: false
+    value: boswellia carteri
+    detail: '''boswellia carteri'' is not a synonym for ''antitrades''.'
+  - correct: false
+    value: preliminary exam
+    detail: '''preliminary exam'' is not a synonym for ''antitrades''.'
+  - correct: false
+    value: dryland blueberry
+    detail: '''dryland blueberry'' is not a synonym for ''antitrades''.'
+  - correct: true
+    value: antitrade wind
+    detail: '''antitrade wind'' is a synonym for ''antitrades''.'
+- text: What is a synonym for 'lophius americanus'?
+  options:
+  - correct: false
+    value: aniline
+    detail: '''aniline'' is not a synonym for ''lophius americanus''.'
+  - correct: false
+    value: weather deck
+    detail: '''weather deck'' is not a synonym for ''lophius americanus''.'
+  - correct: false
+    value: vividness
+    detail: '''vividness'' is not a synonym for ''lophius americanus''.'
+  - correct: true
+    value: goosefish
+    detail: '''goosefish'' is a synonym for ''lophius americanus''.'
+- text: What is a synonym for 'moneylender'?
+  options:
+  - correct: true
+    value: usurer
+    detail: '''usurer'' is a synonym for ''moneylender''.'
+  - correct: false
+    value: cherbourg
+    detail: '''cherbourg'' is not a synonym for ''moneylender''.'
+  - correct: false
+    value: manager
+    detail: '''manager'' is not a synonym for ''moneylender''.'
+  - correct: false
+    value: swab
+    detail: '''swab'' is not a synonym for ''moneylender''.'
+- text: What is a synonym for 'reducing diet'?
+  options:
+  - correct: true
+    value: obesity diet
+    detail: '''obesity diet'' is a synonym for ''reducing diet''.'
+  - correct: false
+    value: hypericaceae
+    detail: '''hypericaceae'' is not a synonym for ''reducing diet''.'
+  - correct: false
+    value: electric heater
+    detail: '''electric heater'' is not a synonym for ''reducing diet''.'
+  - correct: false
+    value: mens rea
+    detail: '''mens rea'' is not a synonym for ''reducing diet''.'
+- text: What is a synonym for 'disinclination'?
+  options:
+  - correct: true
+    value: reluctance
+    detail: '''reluctance'' is a synonym for ''disinclination''.'
+  - correct: false
+    value: class gymnospermae
+    detail: '''class gymnospermae'' is not a synonym for ''disinclination''.'
+  - correct: false
+    value: haematobia irritans
+    detail: '''haematobia irritans'' is not a synonym for ''disinclination''.'
+  - correct: false
+    value: searcher
+    detail: '''searcher'' is not a synonym for ''disinclination''.'
+- text: What is a synonym for 'wordnet'?
+  options:
+  - correct: false
+    value: gay
+    detail: '''gay'' is not a synonym for ''wordnet''.'
+  - correct: true
+    value: WordNet
+    detail: '''WordNet'' is a synonym for ''wordnet''.'
+  - correct: false
+    value: anal intercourse
+    detail: '''anal intercourse'' is not a synonym for ''wordnet''.'
+  - correct: false
+    value: philtre
+    detail: '''philtre'' is not a synonym for ''wordnet''.'
+- text: What is a synonym for 'shlockmeister'?
+  options:
+  - correct: false
+    value: brunelleschi
+    detail: '''brunelleschi'' is not a synonym for ''shlockmeister''.'
+  - correct: false
+    value: shotgun
+    detail: '''shotgun'' is not a synonym for ''shlockmeister''.'
+  - correct: false
+    value: trembles
+    detail: '''trembles'' is not a synonym for ''shlockmeister''.'
+  - correct: true
+    value: schlockmeister
+    detail: '''schlockmeister'' is a synonym for ''shlockmeister''.'

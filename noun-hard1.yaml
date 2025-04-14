@@ -1,0 +1,285 @@
+description: Synonym questions - Hard Set 1
+topic: noun
+id: noun-hard1
+title: Noun Synonyms - Hard 1
+questions:
+- text: What is a synonym for 'antiacid'?
+  options:
+  - correct: true
+    value: antacid
+    detail: '''antacid'' is a synonym for ''antiacid''.'
+  - correct: false
+    value: virgin islands national park
+    detail: '''virgin islands national park'' is not a synonym for ''antiacid''.'
+  - correct: false
+    value: verbalisation
+    detail: '''verbalisation'' is not a synonym for ''antiacid''.'
+  - correct: false
+    value: stan laurel
+    detail: '''stan laurel'' is not a synonym for ''antiacid''.'
+- text: What is a synonym for 'gondola'?
+  options:
+  - correct: true
+    value: gondola car
+    detail: '''gondola car'' is a synonym for ''gondola''.'
+  - correct: false
+    value: carrottop
+    detail: '''carrottop'' is not a synonym for ''gondola''.'
+  - correct: false
+    value: genus helicteres
+    detail: '''genus helicteres'' is not a synonym for ''gondola''.'
+  - correct: false
+    value: genus thujopsis
+    detail: '''genus thujopsis'' is not a synonym for ''gondola''.'
+- text: What is a synonym for 'wordplay'?
+  options:
+  - correct: true
+    value: pun
+    detail: '''pun'' is a synonym for ''wordplay''.'
+  - correct: false
+    value: arminianism
+    detail: '''arminianism'' is not a synonym for ''wordplay''.'
+  - correct: false
+    value: spotted gum
+    detail: '''spotted gum'' is not a synonym for ''wordplay''.'
+  - correct: false
+    value: shintoism
+    detail: '''shintoism'' is not a synonym for ''wordplay''.'
+- text: What is a synonym for 'edmond hoyle'?
+  options:
+  - correct: false
+    value: worm fence
+    detail: '''worm fence'' is not a synonym for ''edmond hoyle''.'
+  - correct: false
+    value: whitney moore young jr.
+    detail: '''whitney moore young jr.'' is not a synonym for ''edmond hoyle''.'
+  - correct: true
+    value: Hoyle
+    detail: '''Hoyle'' is a synonym for ''edmond hoyle''.'
+  - correct: false
+    value: bevel gear
+    detail: '''bevel gear'' is not a synonym for ''edmond hoyle''.'
+- text: What is a synonym for 'mouse ear'?
+  options:
+  - correct: false
+    value: melanthiaceae
+    detail: '''melanthiaceae'' is not a synonym for ''mouse ear''.'
+  - correct: true
+    value: forget-me-not
+    detail: '''forget-me-not'' is a synonym for ''mouse ear''.'
+  - correct: false
+    value: numbering
+    detail: '''numbering'' is not a synonym for ''mouse ear''.'
+  - correct: false
+    value: vocaliser
+    detail: '''vocaliser'' is not a synonym for ''mouse ear''.'
+- text: What is a synonym for 'service routine'?
+  options:
+  - correct: false
+    value: triga
+    detail: '''triga'' is not a synonym for ''service routine''.'
+  - correct: false
+    value: monsignor
+    detail: '''monsignor'' is not a synonym for ''service routine''.'
+  - correct: true
+    value: utility routine
+    detail: '''utility routine'' is a synonym for ''service routine''.'
+  - correct: false
+    value: spectator
+    detail: '''spectator'' is not a synonym for ''service routine''.'
+- text: What is a synonym for 'justiciar'?
+  options:
+  - correct: false
+    value: lanthanide
+    detail: '''lanthanide'' is not a synonym for ''justiciar''.'
+  - correct: true
+    value: justiciary
+    detail: '''justiciary'' is a synonym for ''justiciar''.'
+  - correct: false
+    value: prankster
+    detail: '''prankster'' is not a synonym for ''justiciar''.'
+  - correct: false
+    value: water chinquapin
+    detail: '''water chinquapin'' is not a synonym for ''justiciar''.'
+- text: What is a synonym for 'jesse louis jackson'?
+  options:
+  - correct: false
+    value: turgidity
+    detail: '''turgidity'' is not a synonym for ''jesse louis jackson''.'
+  - correct: false
+    value: dyad
+    detail: '''dyad'' is not a synonym for ''jesse louis jackson''.'
+  - correct: false
+    value: cynomys ludovicianus
+    detail: '''cynomys ludovicianus'' is not a synonym for ''jesse louis jackson''.'
+  - correct: true
+    value: Jackson
+    detail: '''Jackson'' is a synonym for ''jesse louis jackson''.'
+- text: What is a synonym for 'golgi cell'?
+  options:
+  - correct: false
+    value: canine tooth
+    detail: '''canine tooth'' is not a synonym for ''golgi cell''.'
+  - correct: true
+    value: Golgi's cell
+    detail: '''Golgi''s cell'' is a synonym for ''golgi cell''.'
+  - correct: false
+    value: caulk
+    detail: '''caulk'' is not a synonym for ''golgi cell''.'
+  - correct: false
+    value: antirrhinum
+    detail: '''antirrhinum'' is not a synonym for ''golgi cell''.'
+- text: What is a synonym for 'anemopsis californica'?
+  options:
+  - correct: false
+    value: double star
+    detail: '''double star'' is not a synonym for ''anemopsis californica''.'
+  - correct: true
+    value: yerba mansa
+    detail: '''yerba mansa'' is a synonym for ''anemopsis californica''.'
+  - correct: false
+    value: sizeableness
+    detail: '''sizeableness'' is not a synonym for ''anemopsis californica''.'
+  - correct: false
+    value: juvenile-onset diabetes
+    detail: '''juvenile-onset diabetes'' is not a synonym for ''anemopsis californica''.'
+- text: What is a synonym for 'bronchus'?
+  options:
+  - correct: false
+    value: serf
+    detail: '''serf'' is not a synonym for ''bronchus''.'
+  - correct: false
+    value: tangelo
+    detail: '''tangelo'' is not a synonym for ''bronchus''.'
+  - correct: true
+    value: bronchial tube
+    detail: '''bronchial tube'' is a synonym for ''bronchus''.'
+  - correct: false
+    value: k-lor
+    detail: '''k-lor'' is not a synonym for ''bronchus''.'
+- text: What is a synonym for 'sukkoth'?
+  options:
+  - correct: true
+    value: Succoth
+    detail: '''Succoth'' is a synonym for ''sukkoth''.'
+  - correct: false
+    value: preconceived opinion
+    detail: '''preconceived opinion'' is not a synonym for ''sukkoth''.'
+  - correct: false
+    value: peziza domicilina
+    detail: '''peziza domicilina'' is not a synonym for ''sukkoth''.'
+  - correct: false
+    value: poa
+    detail: '''poa'' is not a synonym for ''sukkoth''.'
+- text: What is a synonym for 'paris green'?
+  options:
+  - correct: false
+    value: robert southey
+    detail: '''robert southey'' is not a synonym for ''paris green''.'
+  - correct: false
+    value: horselaugh
+    detail: '''horselaugh'' is not a synonym for ''paris green''.'
+  - correct: true
+    value: Paris green
+    detail: '''Paris green'' is a synonym for ''paris green''.'
+  - correct: false
+    value: communication theory
+    detail: '''communication theory'' is not a synonym for ''paris green''.'
+- text: What is a synonym for 'on tour'?
+  options:
+  - correct: false
+    value: wind exposure
+    detail: '''wind exposure'' is not a synonym for ''on tour''.'
+  - correct: false
+    value: soured cream
+    detail: '''soured cream'' is not a synonym for ''on tour''.'
+  - correct: false
+    value: caddis fly
+    detail: '''caddis fly'' is not a synonym for ''on tour''.'
+  - correct: true
+    value: on the road
+    detail: '''on the road'' is a synonym for ''on tour''.'
+- text: What is a synonym for 'quercus cerris'?
+  options:
+  - correct: false
+    value: irony
+    detail: '''irony'' is not a synonym for ''quercus cerris''.'
+  - correct: true
+    value: European turkey oak
+    detail: '''European turkey oak'' is a synonym for ''quercus cerris''.'
+  - correct: false
+    value: mycostatin
+    detail: '''mycostatin'' is not a synonym for ''quercus cerris''.'
+  - correct: false
+    value: shivering
+    detail: '''shivering'' is not a synonym for ''quercus cerris''.'
+- text: What is a synonym for 'bore bit'?
+  options:
+  - correct: false
+    value: corinthian
+    detail: '''corinthian'' is not a synonym for ''bore bit''.'
+  - correct: false
+    value: caesarea
+    detail: '''caesarea'' is not a synonym for ''bore bit''.'
+  - correct: true
+    value: borer
+    detail: '''borer'' is a synonym for ''bore bit''.'
+  - correct: false
+    value: toxic industrial waste
+    detail: '''toxic industrial waste'' is not a synonym for ''bore bit''.'
+- text: What is a synonym for 'trouble shooter'?
+  options:
+  - correct: false
+    value: trh
+    detail: '''trh'' is not a synonym for ''trouble shooter''.'
+  - correct: false
+    value: cerebrovascular accident
+    detail: '''cerebrovascular accident'' is not a synonym for ''trouble shooter''.'
+  - correct: false
+    value: jaggary
+    detail: '''jaggary'' is not a synonym for ''trouble shooter''.'
+  - correct: true
+    value: troubleshooter
+    detail: '''troubleshooter'' is a synonym for ''trouble shooter''.'
+- text: What is a synonym for 'advertizing'?
+  options:
+  - correct: false
+    value: bachelor girl
+    detail: '''bachelor girl'' is not a synonym for ''advertizing''.'
+  - correct: false
+    value: bleeding heart
+    detail: '''bleeding heart'' is not a synonym for ''advertizing''.'
+  - correct: true
+    value: ad
+    detail: '''ad'' is a synonym for ''advertizing''.'
+  - correct: false
+    value: trolley
+    detail: '''trolley'' is not a synonym for ''advertizing''.'
+- text: What is a synonym for 'macrocheira kaempferi'?
+  options:
+  - correct: true
+    value: giant crab
+    detail: '''giant crab'' is a synonym for ''macrocheira kaempferi''.'
+  - correct: false
+    value: paster
+    detail: '''paster'' is not a synonym for ''macrocheira kaempferi''.'
+  - correct: false
+    value: louis jolliet
+    detail: '''louis jolliet'' is not a synonym for ''macrocheira kaempferi''.'
+  - correct: false
+    value: pheidias
+    detail: '''pheidias'' is not a synonym for ''macrocheira kaempferi''.'
+- text: What is a synonym for 'somatesthesia'?
+  options:
+  - correct: false
+    value: multiplication
+    detail: '''multiplication'' is not a synonym for ''somatesthesia''.'
+  - correct: true
+    value: somesthesia
+    detail: '''somesthesia'' is a synonym for ''somatesthesia''.'
+  - correct: false
+    value: fuchsia coccinea
+    detail: '''fuchsia coccinea'' is not a synonym for ''somatesthesia''.'
+  - correct: false
+    value: blood stream
+    detail: '''blood stream'' is not a synonym for ''somatesthesia''.'

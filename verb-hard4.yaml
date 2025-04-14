@@ -1,0 +1,285 @@
+description: Synonym questions - Hard Set 4
+topic: verb
+id: verb-hard4
+title: Verb Synonyms - Hard 4
+questions:
+- text: What is a synonym for 'fake'?
+  options:
+  - correct: false
+    value: meagerly
+    detail: '''meagerly'' is not a synonym for ''fake''.'
+  - correct: false
+    value: performing
+    detail: '''performing'' is not a synonym for ''fake''.'
+  - correct: false
+    value: hee-haw
+    detail: '''hee-haw'' is not a synonym for ''fake''.'
+  - correct: true
+    value: forge
+    detail: '''forge'' is a synonym for ''fake''.'
+- text: What is a synonym for 'luff'?
+  options:
+  - correct: false
+    value: sparkling
+    detail: '''sparkling'' is not a synonym for ''luff''.'
+  - correct: false
+    value: vitrified
+    detail: '''vitrified'' is not a synonym for ''luff''.'
+  - correct: false
+    value: extravasate
+    detail: '''extravasate'' is not a synonym for ''luff''.'
+  - correct: true
+    value: point
+    detail: '''point'' is a synonym for ''luff''.'
+- text: What is a synonym for 'sober up'?
+  options:
+  - correct: false
+    value: desecrated
+    detail: '''desecrated'' is not a synonym for ''sober up''.'
+  - correct: false
+    value: reinvigorated
+    detail: '''reinvigorated'' is not a synonym for ''sober up''.'
+  - correct: true
+    value: sober
+    detail: '''sober'' is a synonym for ''sober up''.'
+  - correct: false
+    value: rev
+    detail: '''rev'' is not a synonym for ''sober up''.'
+- text: What is a synonym for 'waxed'?
+  options:
+  - correct: false
+    value: dip
+    detail: '''dip'' is not a synonym for ''waxed''.'
+  - correct: false
+    value: plaguey
+    detail: '''plaguey'' is not a synonym for ''waxed''.'
+  - correct: true
+    value: wax
+    detail: '''wax'' is a synonym for ''waxed''.'
+  - correct: false
+    value: maul
+    detail: '''maul'' is not a synonym for ''waxed''.'
+- text: What is a synonym for 'manage'?
+  options:
+  - correct: false
+    value: quarantined
+    detail: '''quarantined'' is not a synonym for ''manage''.'
+  - correct: false
+    value: demanding
+    detail: '''demanding'' is not a synonym for ''manage''.'
+  - correct: true
+    value: pull off
+    detail: '''pull off'' is a synonym for ''manage''.'
+  - correct: false
+    value: still-hunt
+    detail: '''still-hunt'' is not a synonym for ''manage''.'
+- text: What is a synonym for 'concoct'?
+  options:
+  - correct: true
+    value: cook up
+    detail: '''cook up'' is a synonym for ''concoct''.'
+  - correct: false
+    value: fall apart
+    detail: '''fall apart'' is not a synonym for ''concoct''.'
+  - correct: false
+    value: enormously
+    detail: '''enormously'' is not a synonym for ''concoct''.'
+  - correct: false
+    value: mutilate
+    detail: '''mutilate'' is not a synonym for ''concoct''.'
+- text: What is a synonym for 'stay away'?
+  options:
+  - correct: false
+    value: authoress
+    detail: '''authoress'' is not a synonym for ''stay away''.'
+  - correct: false
+    value: fuel
+    detail: '''fuel'' is not a synonym for ''stay away''.'
+  - correct: false
+    value: flavour
+    detail: '''flavour'' is not a synonym for ''stay away''.'
+  - correct: true
+    value: stand back
+    detail: '''stand back'' is a synonym for ''stay away''.'
+- text: What is a synonym for 'quaff'?
+  options:
+  - correct: false
+    value: backward and forward
+    detail: '''backward and forward'' is not a synonym for ''quaff''.'
+  - correct: true
+    value: gulp
+    detail: '''gulp'' is a synonym for ''quaff''.'
+  - correct: false
+    value: building
+    detail: '''building'' is not a synonym for ''quaff''.'
+  - correct: false
+    value: perchance
+    detail: '''perchance'' is not a synonym for ''quaff''.'
+- text: What is a synonym for 'trade'?
+  options:
+  - correct: true
+    value: merchandise
+    detail: '''merchandise'' is a synonym for ''trade''.'
+  - correct: false
+    value: completing
+    detail: '''completing'' is not a synonym for ''trade''.'
+  - correct: false
+    value: intrinsically
+    detail: '''intrinsically'' is not a synonym for ''trade''.'
+  - correct: false
+    value: shrine
+    detail: '''shrine'' is not a synonym for ''trade''.'
+- text: What is a synonym for 'ripened'?
+  options:
+  - correct: true
+    value: ripen
+    detail: '''ripen'' is a synonym for ''ripened''.'
+  - correct: false
+    value: quilting
+    detail: '''quilting'' is not a synonym for ''ripened''.'
+  - correct: false
+    value: bulging
+    detail: '''bulging'' is not a synonym for ''ripened''.'
+  - correct: false
+    value: obtrude upon
+    detail: '''obtrude upon'' is not a synonym for ''ripened''.'
+- text: What is a synonym for 'beggar'?
+  options:
+  - correct: true
+    value: pauperize
+    detail: '''pauperize'' is a synonym for ''beggar''.'
+  - correct: false
+    value: underestimate
+    detail: '''underestimate'' is not a synonym for ''beggar''.'
+  - correct: false
+    value: sweats
+    detail: '''sweats'' is not a synonym for ''beggar''.'
+  - correct: false
+    value: let drive
+    detail: '''let drive'' is not a synonym for ''beggar''.'
+- text: What is a synonym for 'gormandize'?
+  options:
+  - correct: false
+    value: hole out
+    detail: '''hole out'' is not a synonym for ''gormandize''.'
+  - correct: false
+    value: wonderingly
+    detail: '''wonderingly'' is not a synonym for ''gormandize''.'
+  - correct: false
+    value: listing
+    detail: '''listing'' is not a synonym for ''gormandize''.'
+  - correct: true
+    value: gorge
+    detail: '''gorge'' is a synonym for ''gormandize''.'
+- text: What is a synonym for 'planted'?
+  options:
+  - correct: false
+    value: brainstorming
+    detail: '''brainstorming'' is not a synonym for ''planted''.'
+  - correct: false
+    value: enumerate
+    detail: '''enumerate'' is not a synonym for ''planted''.'
+  - correct: true
+    value: plant
+    detail: '''plant'' is a synonym for ''planted''.'
+  - correct: false
+    value: plentifully
+    detail: '''plentifully'' is not a synonym for ''planted''.'
+- text: What is a synonym for 'throw away'?
+  options:
+  - correct: true
+    value: discard
+    detail: '''discard'' is a synonym for ''throw away''.'
+  - correct: false
+    value: legitimately
+    detail: '''legitimately'' is not a synonym for ''throw away''.'
+  - correct: false
+    value: stringently
+    detail: '''stringently'' is not a synonym for ''throw away''.'
+  - correct: false
+    value: overload
+    detail: '''overload'' is not a synonym for ''throw away''.'
+- text: What is a synonym for 'genuinely'?
+  options:
+  - correct: false
+    value: kept
+    detail: '''kept'' is not a synonym for ''genuinely''.'
+  - correct: true
+    value: truly
+    detail: '''truly'' is a synonym for ''genuinely''.'
+  - correct: false
+    value: cosign
+    detail: '''cosign'' is not a synonym for ''genuinely''.'
+  - correct: false
+    value: incapacitating
+    detail: '''incapacitating'' is not a synonym for ''genuinely''.'
+- text: What is a synonym for 'strong-arm'?
+  options:
+  - correct: false
+    value: drive around
+    detail: '''drive around'' is not a synonym for ''strong-arm''.'
+  - correct: true
+    value: bully
+    detail: '''bully'' is a synonym for ''strong-arm''.'
+  - correct: false
+    value: tonight
+    detail: '''tonight'' is not a synonym for ''strong-arm''.'
+  - correct: false
+    value: emaciated
+    detail: '''emaciated'' is not a synonym for ''strong-arm''.'
+- text: What is a synonym for 'contrasting'?
+  options:
+  - correct: false
+    value: cow
+    detail: '''cow'' is not a synonym for ''contrasting''.'
+  - correct: false
+    value: jacklight
+    detail: '''jacklight'' is not a synonym for ''contrasting''.'
+  - correct: false
+    value: perforate
+    detail: '''perforate'' is not a synonym for ''contrasting''.'
+  - correct: true
+    value: contrast
+    detail: '''contrast'' is a synonym for ''contrasting''.'
+- text: What is a synonym for 'encircling'?
+  options:
+  - correct: false
+    value: overloaded
+    detail: '''overloaded'' is not a synonym for ''encircling''.'
+  - correct: false
+    value: detox
+    detail: '''detox'' is not a synonym for ''encircling''.'
+  - correct: true
+    value: encircle
+    detail: '''encircle'' is a synonym for ''encircling''.'
+  - correct: false
+    value: macerate
+    detail: '''macerate'' is not a synonym for ''encircling''.'
+- text: What is a synonym for 'repositioning'?
+  options:
+  - correct: false
+    value: snuffle
+    detail: '''snuffle'' is not a synonym for ''repositioning''.'
+  - correct: true
+    value: shift
+    detail: '''shift'' is a synonym for ''repositioning''.'
+  - correct: false
+    value: slouch
+    detail: '''slouch'' is not a synonym for ''repositioning''.'
+  - correct: false
+    value: abduce
+    detail: '''abduce'' is not a synonym for ''repositioning''.'
+- text: What is a synonym for 'rut'?
+  options:
+  - correct: true
+    value: furrow
+    detail: '''furrow'' is a synonym for ''rut''.'
+  - correct: false
+    value: entreat
+    detail: '''entreat'' is not a synonym for ''rut''.'
+  - correct: false
+    value: whittle down
+    detail: '''whittle down'' is not a synonym for ''rut''.'
+  - correct: false
+    value: costing
+    detail: '''costing'' is not a synonym for ''rut''.'

@@ -1,0 +1,286 @@
+description: Synonym questions - Medium Set 3
+topic: noun
+id: noun-medium3
+title: Noun Synonyms - Medium 3
+questions:
+- text: What is a synonym for 'notational system'?
+  options:
+  - correct: true
+    value: notation
+    detail: '''notation'' is a synonym for ''notational system''.'
+  - correct: false
+    value: eretmochelys
+    detail: '''eretmochelys'' is not a synonym for ''notational system''.'
+  - correct: false
+    value: james wyatt
+    detail: '''james wyatt'' is not a synonym for ''notational system''.'
+  - correct: false
+    value: orphanage
+    detail: '''orphanage'' is not a synonym for ''notational system''.'
+- text: What is a synonym for 'edgard lawrence doctorow'?
+  options:
+  - correct: false
+    value: sofa
+    detail: '''sofa'' is not a synonym for ''edgard lawrence doctorow''.'
+  - correct: true
+    value: Doctorow
+    detail: '''Doctorow'' is a synonym for ''edgard lawrence doctorow''.'
+  - correct: false
+    value: ciudad victoria
+    detail: '''ciudad victoria'' is not a synonym for ''edgard lawrence doctorow''.'
+  - correct: false
+    value: meadow salsify
+    detail: '''meadow salsify'' is not a synonym for ''edgard lawrence doctorow''.'
+- text: What is a synonym for 'non-jew'?
+  options:
+  - correct: false
+    value: genus capsicum
+    detail: '''genus capsicum'' is not a synonym for ''non-jew''.'
+  - correct: true
+    value: gentile
+    detail: '''gentile'' is a synonym for ''non-jew''.'
+  - correct: false
+    value: motor end plate
+    detail: '''motor end plate'' is not a synonym for ''non-jew''.'
+  - correct: false
+    value: paget
+    detail: '''paget'' is not a synonym for ''non-jew''.'
+- text: What is a synonym for 'canine'?
+  options:
+  - correct: false
+    value: edith newbold jones wharton
+    detail: '''edith newbold jones wharton'' is not a synonym for ''canine''.'
+  - correct: false
+    value: frank breech delivery
+    detail: '''frank breech delivery'' is not a synonym for ''canine''.'
+  - correct: true
+    value: canine tooth
+    detail: '''canine tooth'' is a synonym for ''canine''.'
+  - correct: false
+    value: nonmalignant neoplasm
+    detail: '''nonmalignant neoplasm'' is not a synonym for ''canine''.'
+- text: What is a synonym for 'culvers physic'?
+  options:
+  - correct: false
+    value: graphic artist
+    detail: '''graphic artist'' is not a synonym for ''culvers physic''.'
+  - correct: false
+    value: muntz metal
+    detail: '''muntz metal'' is not a synonym for ''culvers physic''.'
+  - correct: true
+    value: Culver's root
+    detail: '''Culver''s root'' is a synonym for ''culvers physic''.'
+  - correct: false
+    value: ciudad bolivar
+    detail: '''ciudad bolivar'' is not a synonym for ''culvers physic''.'
+- text: What is a synonym for 'ascophyllum nodosum'?
+  options:
+  - correct: false
+    value: genus eumetopias
+    detail: '''genus eumetopias'' is not a synonym for ''ascophyllum nodosum''.'
+  - correct: true
+    value: bladderwrack
+    detail: '''bladderwrack'' is a synonym for ''ascophyllum nodosum''.'
+  - correct: false
+    value: okeechobee waterway
+    detail: '''okeechobee waterway'' is not a synonym for ''ascophyllum nodosum''.'
+  - correct: false
+    value: haastia
+    detail: '''haastia'' is not a synonym for ''ascophyllum nodosum''.'
+- text: What is a synonym for 'lonicera dioica'?
+  options:
+  - correct: true
+    value: yellow honeysuckle
+    detail: '''yellow honeysuckle'' is a synonym for ''lonicera dioica''.'
+  - correct: false
+    value: aram
+    detail: '''aram'' is not a synonym for ''lonicera dioica''.'
+  - correct: false
+    value: rangpur
+    detail: '''rangpur'' is not a synonym for ''lonicera dioica''.'
+  - correct: false
+    value: maroc
+    detail: '''maroc'' is not a synonym for ''lonicera dioica''.'
+- text: What is a synonym for 'f region'?
+  options:
+  - correct: false
+    value: leaf mold
+    detail: '''leaf mold'' is not a synonym for ''f region''.'
+  - correct: false
+    value: earthquake
+    detail: '''earthquake'' is not a synonym for ''f region''.'
+  - correct: true
+    value: Appleton layer
+    detail: '''Appleton layer'' is a synonym for ''f region''.'
+  - correct: false
+    value: anthozoa
+    detail: '''anthozoa'' is not a synonym for ''f region''.'
+- text: What is a synonym for 'testicular vein'?
+  options:
+  - correct: false
+    value: haemangioma
+    detail: '''haemangioma'' is not a synonym for ''testicular vein''.'
+  - correct: false
+    value: chinese pea tree
+    detail: '''chinese pea tree'' is not a synonym for ''testicular vein''.'
+  - correct: false
+    value: erigonum fasciculatum
+    detail: '''erigonum fasciculatum'' is not a synonym for ''testicular vein''.'
+  - correct: true
+    value: vena testicularis
+    detail: '''vena testicularis'' is a synonym for ''testicular vein''.'
+- text: What is a synonym for 'hydatidosis'?
+  options:
+  - correct: true
+    value: echinococcosis
+    detail: '''echinococcosis'' is a synonym for ''hydatidosis''.'
+  - correct: false
+    value: prosopium cylindraceum
+    detail: '''prosopium cylindraceum'' is not a synonym for ''hydatidosis''.'
+  - correct: false
+    value: australopithecus afarensis
+    detail: '''australopithecus afarensis'' is not a synonym for ''hydatidosis''.'
+  - correct: false
+    value: kunlun mountains
+    detail: '''kunlun mountains'' is not a synonym for ''hydatidosis''.'
+- text: What is a synonym for 'activity'?
+  options:
+  - correct: false
+    value: orites excelsa
+    detail: '''orites excelsa'' is not a synonym for ''activity''.'
+  - correct: false
+    value: watercolorist
+    detail: '''watercolorist'' is not a synonym for ''activity''.'
+  - correct: false
+    value: red region
+    detail: '''red region'' is not a synonym for ''activity''.'
+  - correct: true
+    value: action
+    detail: '''action'' is a synonym for ''activity''.'
+- text: What is a synonym for 'speck'?
+  options:
+  - correct: false
+    value: buster
+    detail: '''buster'' is not a synonym for ''speck''.'
+  - correct: false
+    value: brow
+    detail: '''brow'' is not a synonym for ''speck''.'
+  - correct: false
+    value: squash
+    detail: '''squash'' is not a synonym for ''speck''.'
+  - correct: true
+    value: pinpoint
+    detail: '''pinpoint'' is a synonym for ''speck''.'
+- text: What is a synonym for 'cubeb cigarette'?
+  options:
+  - correct: true
+    value: cubeb
+    detail: '''cubeb'' is a synonym for ''cubeb cigarette''.'
+  - correct: false
+    value: screening
+    detail: '''screening'' is not a synonym for ''cubeb cigarette''.'
+  - correct: false
+    value: commercialization
+    detail: '''commercialization'' is not a synonym for ''cubeb cigarette''.'
+  - correct: false
+    value: trollop
+    detail: '''trollop'' is not a synonym for ''cubeb cigarette''.'
+- text: What is a synonym for 'lubricating system'?
+  options:
+  - correct: false
+    value: difference
+    detail: '''difference'' is not a synonym for ''lubricating system''.'
+  - correct: true
+    value: force-feed lubricating system
+    detail: '''force-feed lubricating system'' is a synonym for ''lubricating system''.'
+  - correct: false
+    value: intermittent cramp
+    detail: '''intermittent cramp'' is not a synonym for ''lubricating system''.'
+  - correct: false
+    value: genus noctua
+    detail: '''genus noctua'' is not a synonym for ''lubricating system''.'
+- text: What is a synonym for 'cost increase'?
+  options:
+  - correct: false
+    value: clotting
+    detail: '''clotting'' is not a synonym for ''cost increase''.'
+  - correct: true
+    value: rise
+    detail: '''rise'' is a synonym for ''cost increase''.'
+  - correct: false
+    value: chlamydia trachomatis
+    detail: '''chlamydia trachomatis'' is not a synonym for ''cost increase''.'
+  - correct: false
+    value: conditional response
+    detail: '''conditional response'' is not a synonym for ''cost increase''.'
+- text: What is a synonym for 'pantomime'?
+  options:
+  - correct: false
+    value: california olive
+    detail: '''california olive'' is not a synonym for ''pantomime''.'
+  - correct: true
+    value: mime
+    detail: '''mime'' is a synonym for ''pantomime''.'
+  - correct: false
+    value: ten percent
+    detail: '''ten percent'' is not a synonym for ''pantomime''.'
+  - correct: false
+    value: genus carcharhinus
+    detail: '''genus carcharhinus'' is not a synonym for ''pantomime''.'
+- text: What is a synonym for 'opcw'?
+  options:
+  - correct: false
+    value: valdez
+    detail: '''valdez'' is not a synonym for ''opcw''.'
+  - correct: true
+    value: Organization for the Prohibition of Chemical Weapons
+    detail: '''Organization for the Prohibition of Chemical Weapons'' is a synonym
+      for ''opcw''.'
+  - correct: false
+    value: specie
+    detail: '''specie'' is not a synonym for ''opcw''.'
+  - correct: false
+    value: fulmarus
+    detail: '''fulmarus'' is not a synonym for ''opcw''.'
+- text: What is a synonym for 'altoona'?
+  options:
+  - correct: true
+    value: Altoona
+    detail: '''Altoona'' is a synonym for ''altoona''.'
+  - correct: false
+    value: unassumingness
+    detail: '''unassumingness'' is not a synonym for ''altoona''.'
+  - correct: false
+    value: vinegar worm
+    detail: '''vinegar worm'' is not a synonym for ''altoona''.'
+  - correct: false
+    value: david alfaro siqueiros
+    detail: '''david alfaro siqueiros'' is not a synonym for ''altoona''.'
+- text: What is a synonym for 'valentina vladmirovna tereshkova'?
+  options:
+  - correct: false
+    value: os hamatum
+    detail: '''os hamatum'' is not a synonym for ''valentina vladmirovna tereshkova''.'
+  - correct: false
+    value: palas
+    detail: '''palas'' is not a synonym for ''valentina vladmirovna tereshkova''.'
+  - correct: false
+    value: wirehaired terrier
+    detail: '''wirehaired terrier'' is not a synonym for ''valentina vladmirovna tereshkova''.'
+  - correct: true
+    value: Tereshkova
+    detail: '''Tereshkova'' is a synonym for ''valentina vladmirovna tereshkova''.'
+- text: What is a synonym for 'catnip'?
+  options:
+  - correct: false
+    value: congeneric
+    detail: '''congeneric'' is not a synonym for ''catnip''.'
+  - correct: false
+    value: accounting principle
+    detail: '''accounting principle'' is not a synonym for ''catnip''.'
+  - correct: true
+    value: catmint
+    detail: '''catmint'' is a synonym for ''catnip''.'
+  - correct: false
+    value: state of nature
+    detail: '''state of nature'' is not a synonym for ''catnip''.'

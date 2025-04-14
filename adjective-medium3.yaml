@@ -1,0 +1,285 @@
+description: Synonym questions - Medium Set 3
+topic: adjective
+id: adjective-medium3
+title: Adjective Synonyms - Medium 3
+questions:
+- text: What is a synonym for 'forehanded'?
+  options:
+  - correct: false
+    value: ampullary
+    detail: '''ampullary'' is not a synonym for ''forehanded''.'
+  - correct: false
+    value: nonmetal
+    detail: '''nonmetal'' is not a synonym for ''forehanded''.'
+  - correct: false
+    value: nebular
+    detail: '''nebular'' is not a synonym for ''forehanded''.'
+  - correct: true
+    value: forehand
+    detail: '''forehand'' is a synonym for ''forehanded''.'
+- text: What is a synonym for 'thin'?
+  options:
+  - correct: false
+    value: arminian
+    detail: '''arminian'' is not a synonym for ''thin''.'
+  - correct: false
+    value: pontifical
+    detail: '''pontifical'' is not a synonym for ''thin''.'
+  - correct: false
+    value: untalented
+    detail: '''untalented'' is not a synonym for ''thin''.'
+  - correct: true
+    value: lean
+    detail: '''lean'' is a synonym for ''thin''.'
+- text: What is a synonym for 'fibre-optic'?
+  options:
+  - correct: true
+    value: fiber-optic
+    detail: '''fiber-optic'' is a synonym for ''fibre-optic''.'
+  - correct: false
+    value: insensate
+    detail: '''insensate'' is not a synonym for ''fibre-optic''.'
+  - correct: false
+    value: consecrated
+    detail: '''consecrated'' is not a synonym for ''fibre-optic''.'
+  - correct: false
+    value: upstager
+    detail: '''upstager'' is not a synonym for ''fibre-optic''.'
+- text: What is a synonym for 'kurdish'?
+  options:
+  - correct: false
+    value: vacuolate
+    detail: '''vacuolate'' is not a synonym for ''kurdish''.'
+  - correct: false
+    value: extradural
+    detail: '''extradural'' is not a synonym for ''kurdish''.'
+  - correct: false
+    value: moresque
+    detail: '''moresque'' is not a synonym for ''kurdish''.'
+  - correct: true
+    value: Kurdish
+    detail: '''Kurdish'' is a synonym for ''kurdish''.'
+- text: What is a synonym for 'archaeological'?
+  options:
+  - correct: false
+    value: bathymetrical
+    detail: '''bathymetrical'' is not a synonym for ''archaeological''.'
+  - correct: true
+    value: archeological
+    detail: '''archeological'' is a synonym for ''archaeological''.'
+  - correct: false
+    value: cormous
+    detail: '''cormous'' is not a synonym for ''archaeological''.'
+  - correct: false
+    value: apologetic
+    detail: '''apologetic'' is not a synonym for ''archaeological''.'
+- text: What is a synonym for 'biovular'?
+  options:
+  - correct: false
+    value: single-barrelled
+    detail: '''single-barrelled'' is not a synonym for ''biovular''.'
+  - correct: false
+    value: impressionistic
+    detail: '''impressionistic'' is not a synonym for ''biovular''.'
+  - correct: false
+    value: aramaean
+    detail: '''aramaean'' is not a synonym for ''biovular''.'
+  - correct: true
+    value: fraternal
+    detail: '''fraternal'' is a synonym for ''biovular''.'
+- text: What is a synonym for 'flakey'?
+  options:
+  - correct: true
+    value: flaky
+    detail: '''flaky'' is a synonym for ''flakey''.'
+  - correct: false
+    value: 'off'
+    detail: '''off'' is not a synonym for ''flakey''.'
+  - correct: false
+    value: aeronautic
+    detail: '''aeronautic'' is not a synonym for ''flakey''.'
+  - correct: false
+    value: schismatical
+    detail: '''schismatical'' is not a synonym for ''flakey''.'
+- text: What is a synonym for 'lingual'?
+  options:
+  - correct: false
+    value: discontented
+    detail: '''discontented'' is not a synonym for ''lingual''.'
+  - correct: true
+    value: linguistic
+    detail: '''linguistic'' is a synonym for ''lingual''.'
+  - correct: false
+    value: dynamical
+    detail: '''dynamical'' is not a synonym for ''lingual''.'
+  - correct: false
+    value: recollective
+    detail: '''recollective'' is not a synonym for ''lingual''.'
+- text: What is a synonym for 'himalayan'?
+  options:
+  - correct: false
+    value: aristotelian
+    detail: '''aristotelian'' is not a synonym for ''himalayan''.'
+  - correct: true
+    value: Himalayan
+    detail: '''Himalayan'' is a synonym for ''himalayan''.'
+  - correct: false
+    value: febrile
+    detail: '''febrile'' is not a synonym for ''himalayan''.'
+  - correct: false
+    value: changeful
+    detail: '''changeful'' is not a synonym for ''himalayan''.'
+- text: What is a synonym for 'unessential'?
+  options:
+  - correct: false
+    value: atheromatic
+    detail: '''atheromatic'' is not a synonym for ''unessential''.'
+  - correct: false
+    value: ghanese
+    detail: '''ghanese'' is not a synonym for ''unessential''.'
+  - correct: false
+    value: nonconductive
+    detail: '''nonconductive'' is not a synonym for ''unessential''.'
+  - correct: true
+    value: inessential
+    detail: '''inessential'' is a synonym for ''unessential''.'
+- text: What is a synonym for 'refractile'?
+  options:
+  - correct: false
+    value: gastronomic
+    detail: '''gastronomic'' is not a synonym for ''refractile''.'
+  - correct: false
+    value: zonary
+    detail: '''zonary'' is not a synonym for ''refractile''.'
+  - correct: false
+    value: machiavellian
+    detail: '''machiavellian'' is not a synonym for ''refractile''.'
+  - correct: true
+    value: refractive
+    detail: '''refractive'' is a synonym for ''refractile''.'
+- text: What is a synonym for 'triassic'?
+  options:
+  - correct: true
+    value: Triassic
+    detail: '''Triassic'' is a synonym for ''triassic''.'
+  - correct: false
+    value: sensational
+    detail: '''sensational'' is not a synonym for ''triassic''.'
+  - correct: false
+    value: staccato
+    detail: '''staccato'' is not a synonym for ''triassic''.'
+  - correct: false
+    value: unauthorized
+    detail: '''unauthorized'' is not a synonym for ''triassic''.'
+- text: What is a synonym for 'unreconcilable'?
+  options:
+  - correct: false
+    value: intoxicated
+    detail: '''intoxicated'' is not a synonym for ''unreconcilable''.'
+  - correct: false
+    value: unrenewable
+    detail: '''unrenewable'' is not a synonym for ''unreconcilable''.'
+  - correct: false
+    value: lengthways
+    detail: '''lengthways'' is not a synonym for ''unreconcilable''.'
+  - correct: true
+    value: irreconcilable
+    detail: '''irreconcilable'' is a synonym for ''unreconcilable''.'
+- text: What is a synonym for 'pantheist'?
+  options:
+  - correct: false
+    value: sudorific
+    detail: '''sudorific'' is not a synonym for ''pantheist''.'
+  - correct: true
+    value: pantheistic
+    detail: '''pantheistic'' is a synonym for ''pantheist''.'
+  - correct: false
+    value: celiac
+    detail: '''celiac'' is not a synonym for ''pantheist''.'
+  - correct: false
+    value: rwandan
+    detail: '''rwandan'' is not a synonym for ''pantheist''.'
+- text: What is a synonym for 'unsure'?
+  options:
+  - correct: false
+    value: syrian
+    detail: '''syrian'' is not a synonym for ''unsure''.'
+  - correct: true
+    value: diffident
+    detail: '''diffident'' is a synonym for ''unsure''.'
+  - correct: false
+    value: michelangelesque
+    detail: '''michelangelesque'' is not a synonym for ''unsure''.'
+  - correct: false
+    value: fastest
+    detail: '''fastest'' is not a synonym for ''unsure''.'
+- text: What is a synonym for 'higher'?
+  options:
+  - correct: false
+    value: self-examining
+    detail: '''self-examining'' is not a synonym for ''higher''.'
+  - correct: false
+    value: pachydermous
+    detail: '''pachydermous'' is not a synonym for ''higher''.'
+  - correct: true
+    value: high
+    detail: '''high'' is a synonym for ''higher''.'
+  - correct: false
+    value: obstetric
+    detail: '''obstetric'' is not a synonym for ''higher''.'
+- text: What is a synonym for 'naif'?
+  options:
+  - correct: false
+    value: interactive
+    detail: '''interactive'' is not a synonym for ''naif''.'
+  - correct: false
+    value: mercuric
+    detail: '''mercuric'' is not a synonym for ''naif''.'
+  - correct: true
+    value: naive
+    detail: '''naive'' is a synonym for ''naif''.'
+  - correct: false
+    value: possessive
+    detail: '''possessive'' is not a synonym for ''naif''.'
+- text: What is a synonym for 'pragmatical'?
+  options:
+  - correct: false
+    value: malayan
+    detail: '''malayan'' is not a synonym for ''pragmatical''.'
+  - correct: false
+    value: dioecious
+    detail: '''dioecious'' is not a synonym for ''pragmatical''.'
+  - correct: false
+    value: greek
+    detail: '''greek'' is not a synonym for ''pragmatical''.'
+  - correct: true
+    value: pragmatic
+    detail: '''pragmatic'' is a synonym for ''pragmatical''.'
+- text: What is a synonym for 'totalistic'?
+  options:
+  - correct: false
+    value: nonmilitary
+    detail: '''nonmilitary'' is not a synonym for ''totalistic''.'
+  - correct: true
+    value: totalitarian
+    detail: '''totalitarian'' is a synonym for ''totalistic''.'
+  - correct: false
+    value: aleutian
+    detail: '''aleutian'' is not a synonym for ''totalistic''.'
+  - correct: false
+    value: amphitheatric
+    detail: '''amphitheatric'' is not a synonym for ''totalistic''.'
+- text: What is a synonym for 'blastoporic'?
+  options:
+  - correct: false
+    value: pragmatical
+    detail: '''pragmatical'' is not a synonym for ''blastoporic''.'
+  - correct: false
+    value: monetary
+    detail: '''monetary'' is not a synonym for ''blastoporic''.'
+  - correct: true
+    value: blastoporal
+    detail: '''blastoporal'' is a synonym for ''blastoporic''.'
+  - correct: false
+    value: shoed
+    detail: '''shoed'' is not a synonym for ''blastoporic''.'

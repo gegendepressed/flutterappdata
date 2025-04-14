@@ -1,0 +1,286 @@
+description: Synonym questions - Easy Set 1
+topic: noun
+id: noun-easy1
+title: Noun Synonyms - Easy 1
+questions:
+- text: What is a synonym for 'relative'?
+  options:
+  - correct: false
+    value: lipscomb
+    detail: '''lipscomb'' is not a synonym for ''relative''.'
+  - correct: false
+    value: eastern pipistrel
+    detail: '''eastern pipistrel'' is not a synonym for ''relative''.'
+  - correct: false
+    value: hendrik verwoerd
+    detail: '''hendrik verwoerd'' is not a synonym for ''relative''.'
+  - correct: true
+    value: relation
+    detail: '''relation'' is a synonym for ''relative''.'
+- text: What is a synonym for 'sizeableness'?
+  options:
+  - correct: true
+    value: enormousness
+    detail: '''enormousness'' is a synonym for ''sizeableness''.'
+  - correct: false
+    value: blue pointed
+    detail: '''blue pointed'' is not a synonym for ''sizeableness''.'
+  - correct: false
+    value: westminster abbey
+    detail: '''westminster abbey'' is not a synonym for ''sizeableness''.'
+  - correct: false
+    value: salientian
+    detail: '''salientian'' is not a synonym for ''sizeableness''.'
+- text: What is a synonym for 'fashion plate'?
+  options:
+  - correct: true
+    value: dandy
+    detail: '''dandy'' is a synonym for ''fashion plate''.'
+  - correct: false
+    value: benthic division
+    detail: '''benthic division'' is not a synonym for ''fashion plate''.'
+  - correct: false
+    value: hemolytic anemia
+    detail: '''hemolytic anemia'' is not a synonym for ''fashion plate''.'
+  - correct: false
+    value: eocene
+    detail: '''eocene'' is not a synonym for ''fashion plate''.'
+- text: What is a synonym for 'cygnus olor'?
+  options:
+  - correct: false
+    value: han
+    detail: '''han'' is not a synonym for ''cygnus olor''.'
+  - correct: false
+    value: holy roman emperor frederick ii
+    detail: '''holy roman emperor frederick ii'' is not a synonym for ''cygnus olor''.'
+  - correct: true
+    value: mute swan
+    detail: '''mute swan'' is a synonym for ''cygnus olor''.'
+  - correct: false
+    value: emile coue
+    detail: '''emile coue'' is not a synonym for ''cygnus olor''.'
+- text: What is a synonym for 'mendeleev'?
+  options:
+  - correct: true
+    value: Mendeleyev
+    detail: '''Mendeleyev'' is a synonym for ''mendeleev''.'
+  - correct: false
+    value: napier
+    detail: '''napier'' is not a synonym for ''mendeleev''.'
+  - correct: false
+    value: psychopathology
+    detail: '''psychopathology'' is not a synonym for ''mendeleev''.'
+  - correct: false
+    value: fda
+    detail: '''fda'' is not a synonym for ''mendeleev''.'
+- text: What is a synonym for 'baobab'?
+  options:
+  - correct: true
+    value: monkey-bread tree
+    detail: '''monkey-bread tree'' is a synonym for ''baobab''.'
+  - correct: false
+    value: arctiidae
+    detail: '''arctiidae'' is not a synonym for ''baobab''.'
+  - correct: false
+    value: cyclamen purpurascens
+    detail: '''cyclamen purpurascens'' is not a synonym for ''baobab''.'
+  - correct: false
+    value: genus mycoplasma
+    detail: '''genus mycoplasma'' is not a synonym for ''baobab''.'
+- text: What is a synonym for 'barker'?
+  options:
+  - correct: true
+    value: pooch
+    detail: '''pooch'' is a synonym for ''barker''.'
+  - correct: false
+    value: wireless fidelity
+    detail: '''wireless fidelity'' is not a synonym for ''barker''.'
+  - correct: false
+    value: turbidness
+    detail: '''turbidness'' is not a synonym for ''barker''.'
+  - correct: false
+    value: litter lout
+    detail: '''litter lout'' is not a synonym for ''barker''.'
+- text: What is a synonym for 'hautboy'?
+  options:
+  - correct: false
+    value: genus tephrosia
+    detail: '''genus tephrosia'' is not a synonym for ''hautboy''.'
+  - correct: false
+    value: law of motion
+    detail: '''law of motion'' is not a synonym for ''hautboy''.'
+  - correct: true
+    value: oboe
+    detail: '''oboe'' is a synonym for ''hautboy''.'
+  - correct: false
+    value: sovereignty
+    detail: '''sovereignty'' is not a synonym for ''hautboy''.'
+- text: What is a synonym for 'state of kuwait'?
+  options:
+  - correct: false
+    value: urtication
+    detail: '''urtication'' is not a synonym for ''state of kuwait''.'
+  - correct: false
+    value: brusa
+    detail: '''brusa'' is not a synonym for ''state of kuwait''.'
+  - correct: true
+    value: Kuwait
+    detail: '''Kuwait'' is a synonym for ''state of kuwait''.'
+  - correct: false
+    value: nicknack
+    detail: '''nicknack'' is not a synonym for ''state of kuwait''.'
+- text: What is a synonym for 'nova scotia'?
+  options:
+  - correct: true
+    value: Nova Scotia
+    detail: '''Nova Scotia'' is a synonym for ''nova scotia''.'
+  - correct: false
+    value: bonding
+    detail: '''bonding'' is not a synonym for ''nova scotia''.'
+  - correct: false
+    value: novelty
+    detail: '''novelty'' is not a synonym for ''nova scotia''.'
+  - correct: false
+    value: gyro
+    detail: '''gyro'' is not a synonym for ''nova scotia''.'
+- text: What is a synonym for 'permanganate of potash'?
+  options:
+  - correct: false
+    value: oleomargarine
+    detail: '''oleomargarine'' is not a synonym for ''permanganate of potash''.'
+  - correct: false
+    value: kriti
+    detail: '''kriti'' is not a synonym for ''permanganate of potash''.'
+  - correct: true
+    value: potassium permanganate
+    detail: '''potassium permanganate'' is a synonym for ''permanganate of potash''.'
+  - correct: false
+    value: ligustrum japonicum
+    detail: '''ligustrum japonicum'' is not a synonym for ''permanganate of potash''.'
+- text: What is a synonym for 'wheatfield'?
+  options:
+  - correct: false
+    value: pignolia
+    detail: '''pignolia'' is not a synonym for ''wheatfield''.'
+  - correct: false
+    value: viscid mushroom
+    detail: '''viscid mushroom'' is not a synonym for ''wheatfield''.'
+  - correct: false
+    value: saceur
+    detail: '''saceur'' is not a synonym for ''wheatfield''.'
+  - correct: true
+    value: wheat field
+    detail: '''wheat field'' is a synonym for ''wheatfield''.'
+- text: What is a synonym for 'xenosauridae'?
+  options:
+  - correct: false
+    value: calling into question
+    detail: '''calling into question'' is not a synonym for ''xenosauridae''.'
+  - correct: false
+    value: sharing
+    detail: '''sharing'' is not a synonym for ''xenosauridae''.'
+  - correct: false
+    value: spike suppressor
+    detail: '''spike suppressor'' is not a synonym for ''xenosauridae''.'
+  - correct: true
+    value: Xenosauridae
+    detail: '''Xenosauridae'' is a synonym for ''xenosauridae''.'
+- text: What is a synonym for 'family adelgidae'?
+  options:
+  - correct: false
+    value: scaremonger
+    detail: '''scaremonger'' is not a synonym for ''family adelgidae''.'
+  - correct: true
+    value: Adelgidae
+    detail: '''Adelgidae'' is a synonym for ''family adelgidae''.'
+  - correct: false
+    value: primrose jasmine
+    detail: '''primrose jasmine'' is not a synonym for ''family adelgidae''.'
+  - correct: false
+    value: cleome serrulata
+    detail: '''cleome serrulata'' is not a synonym for ''family adelgidae''.'
+- text: What is a synonym for 'herrick'?
+  options:
+  - correct: false
+    value: hellfire
+    detail: '''hellfire'' is not a synonym for ''herrick''.'
+  - correct: true
+    value: Herrick
+    detail: '''Herrick'' is a synonym for ''herrick''.'
+  - correct: false
+    value: milk-vetch
+    detail: '''milk-vetch'' is not a synonym for ''herrick''.'
+  - correct: false
+    value: bastard lignum vitae
+    detail: '''bastard lignum vitae'' is not a synonym for ''herrick''.'
+- text: What is a synonym for 'mathematical statistician'?
+  options:
+  - correct: true
+    value: statistician
+    detail: '''statistician'' is a synonym for ''mathematical statistician''.'
+  - correct: false
+    value: zoophilia
+    detail: '''zoophilia'' is not a synonym for ''mathematical statistician''.'
+  - correct: false
+    value: haemanthus
+    detail: '''haemanthus'' is not a synonym for ''mathematical statistician''.'
+  - correct: false
+    value: ketoacidosis-prone diabetes
+    detail: '''ketoacidosis-prone diabetes'' is not a synonym for ''mathematical statistician''.'
+- text: What is a synonym for 'robin'?
+  options:
+  - correct: false
+    value: equaliser
+    detail: '''equaliser'' is not a synonym for ''robin''.'
+  - correct: false
+    value: path
+    detail: '''path'' is not a synonym for ''robin''.'
+  - correct: false
+    value: religious service
+    detail: '''religious service'' is not a synonym for ''robin''.'
+  - correct: true
+    value: redbreast
+    detail: '''redbreast'' is a synonym for ''robin''.'
+- text: What is a synonym for 'surtax'?
+  options:
+  - correct: false
+    value: hermissenda
+    detail: '''hermissenda'' is not a synonym for ''surtax''.'
+  - correct: false
+    value: catherine parr
+    detail: '''catherine parr'' is not a synonym for ''surtax''.'
+  - correct: false
+    value: trichina
+    detail: '''trichina'' is not a synonym for ''surtax''.'
+  - correct: true
+    value: supertax
+    detail: '''supertax'' is a synonym for ''surtax''.'
+- text: What is a synonym for 'segway human transporter'?
+  options:
+  - correct: false
+    value: jumbo jet
+    detail: '''jumbo jet'' is not a synonym for ''segway human transporter''.'
+  - correct: false
+    value: youth movement
+    detail: '''youth movement'' is not a synonym for ''segway human transporter''.'
+  - correct: true
+    value: Segway
+    detail: '''Segway'' is a synonym for ''segway human transporter''.'
+  - correct: false
+    value: john william strutt
+    detail: '''john william strutt'' is not a synonym for ''segway human transporter''.'
+- text: What is a synonym for 'aquarius the water bearer'?
+  options:
+  - correct: false
+    value: anime
+    detail: '''anime'' is not a synonym for ''aquarius the water bearer''.'
+  - correct: false
+    value: university of north carolina
+    detail: '''university of north carolina'' is not a synonym for ''aquarius the
+      water bearer''.'
+  - correct: true
+    value: Aquarius
+    detail: '''Aquarius'' is a synonym for ''aquarius the water bearer''.'
+  - correct: false
+    value: elaeis oleifera
+    detail: '''elaeis oleifera'' is not a synonym for ''aquarius the water bearer''.'

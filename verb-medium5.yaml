@@ -1,0 +1,285 @@
+description: Synonym questions - Medium Set 5
+topic: verb
+id: verb-medium5
+title: Verb Synonyms - Medium 5
+questions:
+- text: What is a synonym for 'rouged'?
+  options:
+  - correct: true
+    value: rouge
+    detail: '''rouge'' is a synonym for ''rouged''.'
+  - correct: false
+    value: trump out
+    detail: '''trump out'' is not a synonym for ''rouged''.'
+  - correct: false
+    value: deaden
+    detail: '''deaden'' is not a synonym for ''rouged''.'
+  - correct: false
+    value: scollop
+    detail: '''scollop'' is not a synonym for ''rouged''.'
+- text: What is a synonym for 'pleat'?
+  options:
+  - correct: false
+    value: accusing
+    detail: '''accusing'' is not a synonym for ''pleat''.'
+  - correct: false
+    value: spit
+    detail: '''spit'' is not a synonym for ''pleat''.'
+  - correct: true
+    value: ruffle
+    detail: '''ruffle'' is a synonym for ''pleat''.'
+  - correct: false
+    value: pocket
+    detail: '''pocket'' is not a synonym for ''pleat''.'
+- text: What is a synonym for 'desire'?
+  options:
+  - correct: false
+    value: structured
+    detail: '''structured'' is not a synonym for ''desire''.'
+  - correct: false
+    value: stunningly
+    detail: '''stunningly'' is not a synonym for ''desire''.'
+  - correct: true
+    value: want
+    detail: '''want'' is a synonym for ''desire''.'
+  - correct: false
+    value: in effect
+    detail: '''in effect'' is not a synonym for ''desire''.'
+- text: What is a synonym for 'decelerate'?
+  options:
+  - correct: false
+    value: someplace
+    detail: '''someplace'' is not a synonym for ''decelerate''.'
+  - correct: true
+    value: slow
+    detail: '''slow'' is a synonym for ''decelerate''.'
+  - correct: false
+    value: wallow
+    detail: '''wallow'' is not a synonym for ''decelerate''.'
+  - correct: false
+    value: doddering
+    detail: '''doddering'' is not a synonym for ''decelerate''.'
+- text: What is a synonym for 'de-energise'?
+  options:
+  - correct: false
+    value: highly
+    detail: '''highly'' is not a synonym for ''de-energise''.'
+  - correct: true
+    value: de-energize
+    detail: '''de-energize'' is a synonym for ''de-energise''.'
+  - correct: false
+    value: blob
+    detail: '''blob'' is not a synonym for ''de-energise''.'
+  - correct: false
+    value: close
+    detail: '''close'' is not a synonym for ''de-energise''.'
+- text: What is a synonym for 'eddy'?
+  options:
+  - correct: true
+    value: purl
+    detail: '''purl'' is a synonym for ''eddy''.'
+  - correct: false
+    value: tussle
+    detail: '''tussle'' is not a synonym for ''eddy''.'
+  - correct: false
+    value: tap dancing
+    detail: '''tap dancing'' is not a synonym for ''eddy''.'
+  - correct: false
+    value: along
+    detail: '''along'' is not a synonym for ''eddy''.'
+- text: What is a synonym for 'passing'?
+  options:
+  - correct: false
+    value: observing
+    detail: '''observing'' is not a synonym for ''passing''.'
+  - correct: false
+    value: chipping
+    detail: '''chipping'' is not a synonym for ''passing''.'
+  - correct: false
+    value: pullulate with
+    detail: '''pullulate with'' is not a synonym for ''passing''.'
+  - correct: true
+    value: extremely
+    detail: '''extremely'' is a synonym for ''passing''.'
+- text: What is a synonym for 'shuddering'?
+  options:
+  - correct: false
+    value: motivated
+    detail: '''motivated'' is not a synonym for ''shuddering''.'
+  - correct: true
+    value: shiver
+    detail: '''shiver'' is a synonym for ''shuddering''.'
+  - correct: false
+    value: grubbily
+    detail: '''grubbily'' is not a synonym for ''shuddering''.'
+  - correct: false
+    value: damaged
+    detail: '''damaged'' is not a synonym for ''shuddering''.'
+- text: What is a synonym for 'wounded'?
+  options:
+  - correct: false
+    value: lock up
+    detail: '''lock up'' is not a synonym for ''wounded''.'
+  - correct: true
+    value: injure
+    detail: '''injure'' is a synonym for ''wounded''.'
+  - correct: false
+    value: forgo
+    detail: '''forgo'' is not a synonym for ''wounded''.'
+  - correct: false
+    value: scatter
+    detail: '''scatter'' is not a synonym for ''wounded''.'
+- text: What is a synonym for 'interlink'?
+  options:
+  - correct: false
+    value: snare
+    detail: '''snare'' is not a synonym for ''interlink''.'
+  - correct: false
+    value: stalked
+    detail: '''stalked'' is not a synonym for ''interlink''.'
+  - correct: false
+    value: ride the bench
+    detail: '''ride the bench'' is not a synonym for ''interlink''.'
+  - correct: true
+    value: complect
+    detail: '''complect'' is a synonym for ''interlink''.'
+- text: What is a synonym for 'cuckold'?
+  options:
+  - correct: true
+    value: cheat on
+    detail: '''cheat on'' is a synonym for ''cuckold''.'
+  - correct: false
+    value: documented
+    detail: '''documented'' is not a synonym for ''cuckold''.'
+  - correct: false
+    value: channel-surf
+    detail: '''channel-surf'' is not a synonym for ''cuckold''.'
+  - correct: false
+    value: change over
+    detail: '''change over'' is not a synonym for ''cuckold''.'
+- text: What is a synonym for 'strangulate'?
+  options:
+  - correct: false
+    value: sensing
+    detail: '''sensing'' is not a synonym for ''strangulate''.'
+  - correct: true
+    value: strangle
+    detail: '''strangle'' is a synonym for ''strangulate''.'
+  - correct: false
+    value: lengthening
+    detail: '''lengthening'' is not a synonym for ''strangulate''.'
+  - correct: false
+    value: padding
+    detail: '''padding'' is not a synonym for ''strangulate''.'
+- text: What is a synonym for 'hump'?
+  options:
+  - correct: false
+    value: unrecognizably
+    detail: '''unrecognizably'' is not a synonym for ''hump''.'
+  - correct: false
+    value: clock on
+    detail: '''clock on'' is not a synonym for ''hump''.'
+  - correct: false
+    value: ebb down
+    detail: '''ebb down'' is not a synonym for ''hump''.'
+  - correct: true
+    value: hunch
+    detail: '''hunch'' is a synonym for ''hump''.'
+- text: What is a synonym for 'hee-haw'?
+  options:
+  - correct: false
+    value: overclothe
+    detail: '''overclothe'' is not a synonym for ''hee-haw''.'
+  - correct: false
+    value: canonised
+    detail: '''canonised'' is not a synonym for ''hee-haw''.'
+  - correct: true
+    value: bray
+    detail: '''bray'' is a synonym for ''hee-haw''.'
+  - correct: false
+    value: loose off
+    detail: '''loose off'' is not a synonym for ''hee-haw''.'
+- text: What is a synonym for 'whipping'?
+  options:
+  - correct: false
+    value: greet
+    detail: '''greet'' is not a synonym for ''whipping''.'
+  - correct: false
+    value: carp
+    detail: '''carp'' is not a synonym for ''whipping''.'
+  - correct: true
+    value: flog
+    detail: '''flog'' is a synonym for ''whipping''.'
+  - correct: false
+    value: straightforwardly
+    detail: '''straightforwardly'' is not a synonym for ''whipping''.'
+- text: What is a synonym for 'do it'?
+  options:
+  - correct: true
+    value: sleep together
+    detail: '''sleep together'' is a synonym for ''do it''.'
+  - correct: false
+    value: burn out
+    detail: '''burn out'' is not a synonym for ''do it''.'
+  - correct: false
+    value: brushed
+    detail: '''brushed'' is not a synonym for ''do it''.'
+  - correct: false
+    value: out
+    detail: '''out'' is not a synonym for ''do it''.'
+- text: What is a synonym for 'efface'?
+  options:
+  - correct: false
+    value: demilitarise
+    detail: '''demilitarise'' is not a synonym for ''efface''.'
+  - correct: true
+    value: obliterate
+    detail: '''obliterate'' is a synonym for ''efface''.'
+  - correct: false
+    value: pull through
+    detail: '''pull through'' is not a synonym for ''efface''.'
+  - correct: false
+    value: clothed
+    detail: '''clothed'' is not a synonym for ''efface''.'
+- text: What is a synonym for 'cordially'?
+  options:
+  - correct: false
+    value: chew out
+    detail: '''chew out'' is not a synonym for ''cordially''.'
+  - correct: false
+    value: expire
+    detail: '''expire'' is not a synonym for ''cordially''.'
+  - correct: false
+    value: figuring
+    detail: '''figuring'' is not a synonym for ''cordially''.'
+  - correct: true
+    value: heartily
+    detail: '''heartily'' is a synonym for ''cordially''.'
+- text: What is a synonym for 'deserve'?
+  options:
+  - correct: true
+    value: merit
+    detail: '''merit'' is a synonym for ''deserve''.'
+  - correct: false
+    value: drain
+    detail: '''drain'' is not a synonym for ''deserve''.'
+  - correct: false
+    value: exacting
+    detail: '''exacting'' is not a synonym for ''deserve''.'
+  - correct: false
+    value: laugh softly
+    detail: '''laugh softly'' is not a synonym for ''deserve''.'
+- text: What is a synonym for 'sashay'?
+  options:
+  - correct: false
+    value: evaporate
+    detail: '''evaporate'' is not a synonym for ''sashay''.'
+  - correct: false
+    value: ham it up
+    detail: '''ham it up'' is not a synonym for ''sashay''.'
+  - correct: false
+    value: unwrap
+    detail: '''unwrap'' is not a synonym for ''sashay''.'
+  - correct: true
+    value: sidle
+    detail: '''sidle'' is a synonym for ''sashay''.'

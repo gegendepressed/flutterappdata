@@ -1,0 +1,285 @@
+description: Synonym questions - Hard Set 2
+topic: noun
+id: noun-hard2
+title: Noun Synonyms - Hard 2
+questions:
+- text: What is a synonym for 'remission of sin'?
+  options:
+  - correct: false
+    value: billiard hall
+    detail: '''billiard hall'' is not a synonym for ''remission of sin''.'
+  - correct: false
+    value: family viscaceae
+    detail: '''family viscaceae'' is not a synonym for ''remission of sin''.'
+  - correct: false
+    value: hypsiprymnodon moschatus
+    detail: '''hypsiprymnodon moschatus'' is not a synonym for ''remission of sin''.'
+  - correct: true
+    value: absolution
+    detail: '''absolution'' is a synonym for ''remission of sin''.'
+- text: What is a synonym for 'house decorator'?
+  options:
+  - correct: false
+    value: kike
+    detail: '''kike'' is not a synonym for ''house decorator''.'
+  - correct: true
+    value: interior designer
+    detail: '''interior designer'' is a synonym for ''house decorator''.'
+  - correct: false
+    value: jackstraw
+    detail: '''jackstraw'' is not a synonym for ''house decorator''.'
+  - correct: false
+    value: butter-flower
+    detail: '''butter-flower'' is not a synonym for ''house decorator''.'
+- text: What is a synonym for 'leeward islands'?
+  options:
+  - correct: false
+    value: french person
+    detail: '''french person'' is not a synonym for ''leeward islands''.'
+  - correct: false
+    value: john edgar hoover
+    detail: '''john edgar hoover'' is not a synonym for ''leeward islands''.'
+  - correct: true
+    value: Leeward Islands
+    detail: '''Leeward Islands'' is a synonym for ''leeward islands''.'
+  - correct: false
+    value: orache
+    detail: '''orache'' is not a synonym for ''leeward islands''.'
+- text: What is a synonym for 'kabul'?
+  options:
+  - correct: true
+    value: Kabul
+    detail: '''Kabul'' is a synonym for ''kabul''.'
+  - correct: false
+    value: robin hood
+    detail: '''robin hood'' is not a synonym for ''kabul''.'
+  - correct: false
+    value: terebella
+    detail: '''terebella'' is not a synonym for ''kabul''.'
+  - correct: false
+    value: emf
+    detail: '''emf'' is not a synonym for ''kabul''.'
+- text: What is a synonym for 'genus macrodactylus'?
+  options:
+  - correct: false
+    value: ketoaciduria
+    detail: '''ketoaciduria'' is not a synonym for ''genus macrodactylus''.'
+  - correct: false
+    value: ship's boat
+    detail: '''ship''s boat'' is not a synonym for ''genus macrodactylus''.'
+  - correct: false
+    value: eupatorium maculatum
+    detail: '''eupatorium maculatum'' is not a synonym for ''genus macrodactylus''.'
+  - correct: true
+    value: Macrodactylus
+    detail: '''Macrodactylus'' is a synonym for ''genus macrodactylus''.'
+- text: What is a synonym for 'juncus inflexus'?
+  options:
+  - correct: false
+    value: steelworks
+    detail: '''steelworks'' is not a synonym for ''juncus inflexus''.'
+  - correct: false
+    value: supervisory program
+    detail: '''supervisory program'' is not a synonym for ''juncus inflexus''.'
+  - correct: false
+    value: silver-lace
+    detail: '''silver-lace'' is not a synonym for ''juncus inflexus''.'
+  - correct: true
+    value: hard rush
+    detail: '''hard rush'' is a synonym for ''juncus inflexus''.'
+- text: What is a synonym for 'family pleuronectidae'?
+  options:
+  - correct: false
+    value: city state
+    detail: '''city state'' is not a synonym for ''family pleuronectidae''.'
+  - correct: false
+    value: startle reflex
+    detail: '''startle reflex'' is not a synonym for ''family pleuronectidae''.'
+  - correct: true
+    value: Pleuronectidae
+    detail: '''Pleuronectidae'' is a synonym for ''family pleuronectidae''.'
+  - correct: false
+    value: internal organ
+    detail: '''internal organ'' is not a synonym for ''family pleuronectidae''.'
+- text: What is a synonym for 'poppet valve'?
+  options:
+  - correct: true
+    value: poppet
+    detail: '''poppet'' is a synonym for ''poppet valve''.'
+  - correct: false
+    value: volume-detonation bomb
+    detail: '''volume-detonation bomb'' is not a synonym for ''poppet valve''.'
+  - correct: false
+    value: osmerus
+    detail: '''osmerus'' is not a synonym for ''poppet valve''.'
+  - correct: false
+    value: maigre
+    detail: '''maigre'' is not a synonym for ''poppet valve''.'
+- text: What is a synonym for 'european recovery program'?
+  options:
+  - correct: false
+    value: cichlid fish
+    detail: '''cichlid fish'' is not a synonym for ''european recovery program''.'
+  - correct: false
+    value: windsor green
+    detail: '''windsor green'' is not a synonym for ''european recovery program''.'
+  - correct: false
+    value: poison ash
+    detail: '''poison ash'' is not a synonym for ''european recovery program''.'
+  - correct: true
+    value: Marshall Plan
+    detail: '''Marshall Plan'' is a synonym for ''european recovery program''.'
+- text: What is a synonym for 'ipv'?
+  options:
+  - correct: false
+    value: haematocytopenia
+    detail: '''haematocytopenia'' is not a synonym for ''ipv''.'
+  - correct: false
+    value: westerly
+    detail: '''westerly'' is not a synonym for ''ipv''.'
+  - correct: false
+    value: titian
+    detail: '''titian'' is not a synonym for ''ipv''.'
+  - correct: true
+    value: Salk vaccine
+    detail: '''Salk vaccine'' is a synonym for ''ipv''.'
+- text: What is a synonym for 'french region'?
+  options:
+  - correct: true
+    value: French region
+    detail: '''French region'' is a synonym for ''french region''.'
+  - correct: false
+    value: badgerer
+    detail: '''badgerer'' is not a synonym for ''french region''.'
+  - correct: false
+    value: mesh
+    detail: '''mesh'' is not a synonym for ''french region''.'
+  - correct: false
+    value: colour tube
+    detail: '''colour tube'' is not a synonym for ''french region''.'
+- text: What is a synonym for 'hash mark'?
+  options:
+  - correct: false
+    value: sir philip sidney
+    detail: '''sir philip sidney'' is not a synonym for ''hash mark''.'
+  - correct: false
+    value: carnot
+    detail: '''carnot'' is not a synonym for ''hash mark''.'
+  - correct: true
+    value: service stripe
+    detail: '''service stripe'' is a synonym for ''hash mark''.'
+  - correct: false
+    value: chemical substance
+    detail: '''chemical substance'' is not a synonym for ''hash mark''.'
+- text: What is a synonym for 'lappula'?
+  options:
+  - correct: false
+    value: alfred kroeber
+    detail: '''alfred kroeber'' is not a synonym for ''lappula''.'
+  - correct: false
+    value: chelate
+    detail: '''chelate'' is not a synonym for ''lappula''.'
+  - correct: true
+    value: Hackelia
+    detail: '''Hackelia'' is a synonym for ''lappula''.'
+  - correct: false
+    value: rosa
+    detail: '''rosa'' is not a synonym for ''lappula''.'
+- text: What is a synonym for 'plantago'?
+  options:
+  - correct: false
+    value: cleanup
+    detail: '''cleanup'' is not a synonym for ''plantago''.'
+  - correct: true
+    value: Plantago
+    detail: '''Plantago'' is a synonym for ''plantago''.'
+  - correct: false
+    value: potato tree
+    detail: '''potato tree'' is not a synonym for ''plantago''.'
+  - correct: false
+    value: karl theodor jaspers
+    detail: '''karl theodor jaspers'' is not a synonym for ''plantago''.'
+- text: What is a synonym for 'caribou'?
+  options:
+  - correct: true
+    value: reindeer
+    detail: '''reindeer'' is a synonym for ''caribou''.'
+  - correct: false
+    value: cortex
+    detail: '''cortex'' is not a synonym for ''caribou''.'
+  - correct: false
+    value: scott's spleenwort
+    detail: '''scott''s spleenwort'' is not a synonym for ''caribou''.'
+  - correct: false
+    value: radio radiation
+    detail: '''radio radiation'' is not a synonym for ''caribou''.'
+- text: What is a synonym for 'counter'?
+  options:
+  - correct: false
+    value: epiphysis cerebri
+    detail: '''epiphysis cerebri'' is not a synonym for ''counter''.'
+  - correct: true
+    value: tabulator
+    detail: '''tabulator'' is a synonym for ''counter''.'
+  - correct: false
+    value: relay
+    detail: '''relay'' is not a synonym for ''counter''.'
+  - correct: false
+    value: rima glottidis
+    detail: '''rima glottidis'' is not a synonym for ''counter''.'
+- text: What is a synonym for 'cyamopsis'?
+  options:
+  - correct: true
+    value: Cyamopsis
+    detail: '''Cyamopsis'' is a synonym for ''cyamopsis''.'
+  - correct: false
+    value: laity
+    detail: '''laity'' is not a synonym for ''cyamopsis''.'
+  - correct: false
+    value: ferber
+    detail: '''ferber'' is not a synonym for ''cyamopsis''.'
+  - correct: false
+    value: blahs
+    detail: '''blahs'' is not a synonym for ''cyamopsis''.'
+- text: What is a synonym for 'monopolist'?
+  options:
+  - correct: false
+    value: eubacteria
+    detail: '''eubacteria'' is not a synonym for ''monopolist''.'
+  - correct: true
+    value: monopolizer
+    detail: '''monopolizer'' is a synonym for ''monopolist''.'
+  - correct: false
+    value: genus pediculus
+    detail: '''genus pediculus'' is not a synonym for ''monopolist''.'
+  - correct: false
+    value: mackinac bridge
+    detail: '''mackinac bridge'' is not a synonym for ''monopolist''.'
+- text: What is a synonym for 'add-on'?
+  options:
+  - correct: false
+    value: reissue
+    detail: '''reissue'' is not a synonym for ''add-on''.'
+  - correct: false
+    value: termination
+    detail: '''termination'' is not a synonym for ''add-on''.'
+  - correct: true
+    value: addition
+    detail: '''addition'' is a synonym for ''add-on''.'
+  - correct: false
+    value: brunelleschi
+    detail: '''brunelleschi'' is not a synonym for ''add-on''.'
+- text: What is a synonym for 'clathrus'?
+  options:
+  - correct: false
+    value: margaret mitchell
+    detail: '''margaret mitchell'' is not a synonym for ''clathrus''.'
+  - correct: false
+    value: playpen
+    detail: '''playpen'' is not a synonym for ''clathrus''.'
+  - correct: false
+    value: sherlock holmes
+    detail: '''sherlock holmes'' is not a synonym for ''clathrus''.'
+  - correct: true
+    value: Clathrus
+    detail: '''Clathrus'' is a synonym for ''clathrus''.'

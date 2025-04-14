@@ -1,0 +1,285 @@
+description: Synonym questions - Easy Set 5
+topic: noun
+id: noun-easy5
+title: Noun Synonyms - Easy 5
+questions:
+- text: What is a synonym for 'common seal'?
+  options:
+  - correct: false
+    value: uterine tube
+    detail: '''uterine tube'' is not a synonym for ''common seal''.'
+  - correct: false
+    value: capital of switzerland
+    detail: '''capital of switzerland'' is not a synonym for ''common seal''.'
+  - correct: false
+    value: theater director
+    detail: '''theater director'' is not a synonym for ''common seal''.'
+  - correct: true
+    value: harbor seal
+    detail: '''harbor seal'' is a synonym for ''common seal''.'
+- text: What is a synonym for 'parkinsonia aculeata'?
+  options:
+  - correct: true
+    value: Jerusalem thorn
+    detail: '''Jerusalem thorn'' is a synonym for ''parkinsonia aculeata''.'
+  - correct: false
+    value: april
+    detail: '''april'' is not a synonym for ''parkinsonia aculeata''.'
+  - correct: false
+    value: officiousness
+    detail: '''officiousness'' is not a synonym for ''parkinsonia aculeata''.'
+  - correct: false
+    value: water vole
+    detail: '''water vole'' is not a synonym for ''parkinsonia aculeata''.'
+- text: What is a synonym for 'hydrochlorothiazide'?
+  options:
+  - correct: false
+    value: fatso
+    detail: '''fatso'' is not a synonym for ''hydrochlorothiazide''.'
+  - correct: true
+    value: Microzide
+    detail: '''Microzide'' is a synonym for ''hydrochlorothiazide''.'
+  - correct: false
+    value: genus panthera
+    detail: '''genus panthera'' is not a synonym for ''hydrochlorothiazide''.'
+  - correct: false
+    value: calm air
+    detail: '''calm air'' is not a synonym for ''hydrochlorothiazide''.'
+- text: What is a synonym for 'creeping jenny'?
+  options:
+  - correct: true
+    value: moneywort
+    detail: '''moneywort'' is a synonym for ''creeping jenny''.'
+  - correct: false
+    value: domestic animal
+    detail: '''domestic animal'' is not a synonym for ''creeping jenny''.'
+  - correct: false
+    value: jesuitry
+    detail: '''jesuitry'' is not a synonym for ''creeping jenny''.'
+  - correct: false
+    value: bella sombra
+    detail: '''bella sombra'' is not a synonym for ''creeping jenny''.'
+- text: What is a synonym for 'whirlaway'?
+  options:
+  - correct: true
+    value: Whirlaway
+    detail: '''Whirlaway'' is a synonym for ''whirlaway''.'
+  - correct: false
+    value: leaded petrol
+    detail: '''leaded petrol'' is not a synonym for ''whirlaway''.'
+  - correct: false
+    value: viosterol
+    detail: '''viosterol'' is not a synonym for ''whirlaway''.'
+  - correct: false
+    value: accounting principle
+    detail: '''accounting principle'' is not a synonym for ''whirlaway''.'
+- text: What is a synonym for 'conopodium'?
+  options:
+  - correct: false
+    value: bowlful
+    detail: '''bowlful'' is not a synonym for ''conopodium''.'
+  - correct: false
+    value: marmota caligata
+    detail: '''marmota caligata'' is not a synonym for ''conopodium''.'
+  - correct: false
+    value: golgotha
+    detail: '''golgotha'' is not a synonym for ''conopodium''.'
+  - correct: true
+    value: Conopodium
+    detail: '''Conopodium'' is a synonym for ''conopodium''.'
+- text: What is a synonym for 'habacuc'?
+  options:
+  - correct: false
+    value: true blackberry
+    detail: '''true blackberry'' is not a synonym for ''habacuc''.'
+  - correct: false
+    value: st. ignatius of loyola
+    detail: '''st. ignatius of loyola'' is not a synonym for ''habacuc''.'
+  - correct: false
+    value: pilus
+    detail: '''pilus'' is not a synonym for ''habacuc''.'
+  - correct: true
+    value: Habakkuk
+    detail: '''Habakkuk'' is a synonym for ''habacuc''.'
+- text: What is a synonym for 'genus pezophaps'?
+  options:
+  - correct: false
+    value: upanishad
+    detail: '''upanishad'' is not a synonym for ''genus pezophaps''.'
+  - correct: false
+    value: adelges abietis
+    detail: '''adelges abietis'' is not a synonym for ''genus pezophaps''.'
+  - correct: false
+    value: wave guide
+    detail: '''wave guide'' is not a synonym for ''genus pezophaps''.'
+  - correct: true
+    value: Pezophaps
+    detail: '''Pezophaps'' is a synonym for ''genus pezophaps''.'
+- text: What is a synonym for 'sunburn'?
+  options:
+  - correct: false
+    value: reddish brown
+    detail: '''reddish brown'' is not a synonym for ''sunburn''.'
+  - correct: true
+    value: tan
+    detail: '''tan'' is a synonym for ''sunburn''.'
+  - correct: false
+    value: giacometti
+    detail: '''giacometti'' is not a synonym for ''sunburn''.'
+  - correct: false
+    value: urban center
+    detail: '''urban center'' is not a synonym for ''sunburn''.'
+- text: What is a synonym for 'burnoose'?
+  options:
+  - correct: false
+    value: chimaera monstrosa
+    detail: '''chimaera monstrosa'' is not a synonym for ''burnoose''.'
+  - correct: true
+    value: burnous
+    detail: '''burnous'' is a synonym for ''burnoose''.'
+  - correct: false
+    value: saxifraga hypnoides
+    detail: '''saxifraga hypnoides'' is not a synonym for ''burnoose''.'
+  - correct: false
+    value: carpeting
+    detail: '''carpeting'' is not a synonym for ''burnoose''.'
+- text: What is a synonym for 'crane fly'?
+  options:
+  - correct: false
+    value: soft-finned fish
+    detail: '''soft-finned fish'' is not a synonym for ''crane fly''.'
+  - correct: false
+    value: sales tax
+    detail: '''sales tax'' is not a synonym for ''crane fly''.'
+  - correct: true
+    value: daddy longlegs
+    detail: '''daddy longlegs'' is a synonym for ''crane fly''.'
+  - correct: false
+    value: genus taraktogenos
+    detail: '''genus taraktogenos'' is not a synonym for ''crane fly''.'
+- text: What is a synonym for 'ernest thomas sinton walton'?
+  options:
+  - correct: true
+    value: Walton
+    detail: '''Walton'' is a synonym for ''ernest thomas sinton walton''.'
+  - correct: false
+    value: herculaneum
+    detail: '''herculaneum'' is not a synonym for ''ernest thomas sinton walton''.'
+  - correct: false
+    value: ladder-back
+    detail: '''ladder-back'' is not a synonym for ''ernest thomas sinton walton''.'
+  - correct: false
+    value: kerb
+    detail: '''kerb'' is not a synonym for ''ernest thomas sinton walton''.'
+- text: What is a synonym for 'nickel alloy'?
+  options:
+  - correct: false
+    value: valentine day
+    detail: '''valentine day'' is not a synonym for ''nickel alloy''.'
+  - correct: true
+    value: nickel-base alloy
+    detail: '''nickel-base alloy'' is a synonym for ''nickel alloy''.'
+  - correct: false
+    value: influenza
+    detail: '''influenza'' is not a synonym for ''nickel alloy''.'
+  - correct: false
+    value: aucuba
+    detail: '''aucuba'' is not a synonym for ''nickel alloy''.'
+- text: What is a synonym for 'the pamirs'?
+  options:
+  - correct: false
+    value: communication theory
+    detail: '''communication theory'' is not a synonym for ''the pamirs''.'
+  - correct: false
+    value: genus tulostoma
+    detail: '''genus tulostoma'' is not a synonym for ''the pamirs''.'
+  - correct: false
+    value: gymnophiona
+    detail: '''gymnophiona'' is not a synonym for ''the pamirs''.'
+  - correct: true
+    value: Pamir Mountains
+    detail: '''Pamir Mountains'' is a synonym for ''the pamirs''.'
+- text: What is a synonym for 'zero coupon bond'?
+  options:
+  - correct: false
+    value: small-arm
+    detail: '''small-arm'' is not a synonym for ''zero coupon bond''.'
+  - correct: true
+    value: zero-coupon bond
+    detail: '''zero-coupon bond'' is a synonym for ''zero coupon bond''.'
+  - correct: false
+    value: sleeping accommodation
+    detail: '''sleeping accommodation'' is not a synonym for ''zero coupon bond''.'
+  - correct: false
+    value: mortar
+    detail: '''mortar'' is not a synonym for ''zero coupon bond''.'
+- text: What is a synonym for 'extemporisation'?
+  options:
+  - correct: false
+    value: two-grain spelt
+    detail: '''two-grain spelt'' is not a synonym for ''extemporisation''.'
+  - correct: false
+    value: genus vangueria
+    detail: '''genus vangueria'' is not a synonym for ''extemporisation''.'
+  - correct: true
+    value: extemporization
+    detail: '''extemporization'' is a synonym for ''extemporisation''.'
+  - correct: false
+    value: viola canina
+    detail: '''viola canina'' is not a synonym for ''extemporisation''.'
+- text: What is a synonym for 'ailment'?
+  options:
+  - correct: false
+    value: sedna
+    detail: '''sedna'' is not a synonym for ''ailment''.'
+  - correct: false
+    value: ovulation method of family planning
+    detail: '''ovulation method of family planning'' is not a synonym for ''ailment''.'
+  - correct: true
+    value: complaint
+    detail: '''complaint'' is a synonym for ''ailment''.'
+  - correct: false
+    value: burster
+    detail: '''burster'' is not a synonym for ''ailment''.'
+- text: What is a synonym for 'zea mays everta'?
+  options:
+  - correct: false
+    value: ugli fruit
+    detail: '''ugli fruit'' is not a synonym for ''zea mays everta''.'
+  - correct: false
+    value: steele
+    detail: '''steele'' is not a synonym for ''zea mays everta''.'
+  - correct: false
+    value: aliment
+    detail: '''aliment'' is not a synonym for ''zea mays everta''.'
+  - correct: true
+    value: popcorn
+    detail: '''popcorn'' is a synonym for ''zea mays everta''.'
+- text: What is a synonym for 'preliminary exam'?
+  options:
+  - correct: false
+    value: chartres cathedral
+    detail: '''chartres cathedral'' is not a synonym for ''preliminary exam''.'
+  - correct: false
+    value: orthodontia
+    detail: '''orthodontia'' is not a synonym for ''preliminary exam''.'
+  - correct: true
+    value: preliminary examination
+    detail: '''preliminary examination'' is a synonym for ''preliminary exam''.'
+  - correct: false
+    value: twenty-nine
+    detail: '''twenty-nine'' is not a synonym for ''preliminary exam''.'
+- text: What is a synonym for 'apple of peru'?
+  options:
+  - correct: false
+    value: bird nest
+    detail: '''bird nest'' is not a synonym for ''apple of peru''.'
+  - correct: false
+    value: hot plate
+    detail: '''hot plate'' is not a synonym for ''apple of peru''.'
+  - correct: true
+    value: apple of Peru
+    detail: '''apple of Peru'' is a synonym for ''apple of peru''.'
+  - correct: false
+    value: lightbulb
+    detail: '''lightbulb'' is not a synonym for ''apple of peru''.'

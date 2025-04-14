@@ -1,0 +1,289 @@
+description: Synonym questions - Easy Set 3
+topic: noun
+id: noun-easy3
+title: Noun Synonyms - Easy 3
+questions:
+- text: What is a synonym for 'go-between'?
+  options:
+  - correct: true
+    value: mediator
+    detail: '''mediator'' is a synonym for ''go-between''.'
+  - correct: false
+    value: garage sale
+    detail: '''garage sale'' is not a synonym for ''go-between''.'
+  - correct: false
+    value: wireless fidelity
+    detail: '''wireless fidelity'' is not a synonym for ''go-between''.'
+  - correct: false
+    value: dendroica fusca
+    detail: '''dendroica fusca'' is not a synonym for ''go-between''.'
+- text: What is a synonym for 'piet mondrian'?
+  options:
+  - correct: false
+    value: white-chinned petrel
+    detail: '''white-chinned petrel'' is not a synonym for ''piet mondrian''.'
+  - correct: true
+    value: Mondrian
+    detail: '''Mondrian'' is a synonym for ''piet mondrian''.'
+  - correct: false
+    value: palsgrave
+    detail: '''palsgrave'' is not a synonym for ''piet mondrian''.'
+  - correct: false
+    value: hemerobiid
+    detail: '''hemerobiid'' is not a synonym for ''piet mondrian''.'
+- text: What is a synonym for 'francis ford coppola'?
+  options:
+  - correct: false
+    value: bb shot
+    detail: '''bb shot'' is not a synonym for ''francis ford coppola''.'
+  - correct: false
+    value: supervisory program
+    detail: '''supervisory program'' is not a synonym for ''francis ford coppola''.'
+  - correct: false
+    value: genus sorghum
+    detail: '''genus sorghum'' is not a synonym for ''francis ford coppola''.'
+  - correct: true
+    value: Coppola
+    detail: '''Coppola'' is a synonym for ''francis ford coppola''.'
+- text: What is a synonym for 'garbage collector'?
+  options:
+  - correct: true
+    value: garbage man
+    detail: '''garbage man'' is a synonym for ''garbage collector''.'
+  - correct: false
+    value: ethyl
+    detail: '''ethyl'' is not a synonym for ''garbage collector''.'
+  - correct: false
+    value: superscript
+    detail: '''superscript'' is not a synonym for ''garbage collector''.'
+  - correct: false
+    value: field bean
+    detail: '''field bean'' is not a synonym for ''garbage collector''.'
+- text: What is a synonym for 'solar day'?
+  options:
+  - correct: false
+    value: pinna
+    detail: '''pinna'' is not a synonym for ''solar day''.'
+  - correct: false
+    value: thatch
+    detail: '''thatch'' is not a synonym for ''solar day''.'
+  - correct: true
+    value: day
+    detail: '''day'' is a synonym for ''solar day''.'
+  - correct: false
+    value: pierre de fermat
+    detail: '''pierre de fermat'' is not a synonym for ''solar day''.'
+- text: What is a synonym for 'anaconda'?
+  options:
+  - correct: true
+    value: Eunectes murinus
+    detail: '''Eunectes murinus'' is a synonym for ''anaconda''.'
+  - correct: false
+    value: order chytridiales
+    detail: '''order chytridiales'' is not a synonym for ''anaconda''.'
+  - correct: false
+    value: genus dipteryx
+    detail: '''genus dipteryx'' is not a synonym for ''anaconda''.'
+  - correct: false
+    value: minimization
+    detail: '''minimization'' is not a synonym for ''anaconda''.'
+- text: What is a synonym for 'guitar player'?
+  options:
+  - correct: true
+    value: guitarist
+    detail: '''guitarist'' is a synonym for ''guitar player''.'
+  - correct: false
+    value: nighttime
+    detail: '''nighttime'' is not a synonym for ''guitar player''.'
+  - correct: false
+    value: cgs
+    detail: '''cgs'' is not a synonym for ''guitar player''.'
+  - correct: false
+    value: caddo
+    detail: '''caddo'' is not a synonym for ''guitar player''.'
+- text: What is a synonym for 'euderma maculata'?
+  options:
+  - correct: false
+    value: fugo
+    detail: '''fugo'' is not a synonym for ''euderma maculata''.'
+  - correct: true
+    value: jackass bat
+    detail: '''jackass bat'' is a synonym for ''euderma maculata''.'
+  - correct: false
+    value: credit account
+    detail: '''credit account'' is not a synonym for ''euderma maculata''.'
+  - correct: false
+    value: nymphaea alba
+    detail: '''nymphaea alba'' is not a synonym for ''euderma maculata''.'
+- text: What is a synonym for 'reducing'?
+  options:
+  - correct: false
+    value: horselaugh
+    detail: '''horselaugh'' is not a synonym for ''reducing''.'
+  - correct: false
+    value: riveting machine
+    detail: '''riveting machine'' is not a synonym for ''reducing''.'
+  - correct: true
+    value: reduction
+    detail: '''reduction'' is a synonym for ''reducing''.'
+  - correct: false
+    value: ch'ing dynasty
+    detail: '''ch''ing dynasty'' is not a synonym for ''reducing''.'
+- text: What is a synonym for 'tubing'?
+  options:
+  - correct: true
+    value: tube
+    detail: '''tube'' is a synonym for ''tubing''.'
+  - correct: false
+    value: shrinking
+    detail: '''shrinking'' is not a synonym for ''tubing''.'
+  - correct: false
+    value: rheumatism
+    detail: '''rheumatism'' is not a synonym for ''tubing''.'
+  - correct: false
+    value: order cydippida
+    detail: '''order cydippida'' is not a synonym for ''tubing''.'
+- text: What is a synonym for 'streptosolen jamesonii'?
+  options:
+  - correct: false
+    value: leopard lily
+    detail: '''leopard lily'' is not a synonym for ''streptosolen jamesonii''.'
+  - correct: false
+    value: public figure
+    detail: '''public figure'' is not a synonym for ''streptosolen jamesonii''.'
+  - correct: false
+    value: melilotus officinalis
+    detail: '''melilotus officinalis'' is not a synonym for ''streptosolen jamesonii''.'
+  - correct: true
+    value: marmalade bush
+    detail: '''marmalade bush'' is a synonym for ''streptosolen jamesonii''.'
+- text: What is a synonym for 'schopenhauer'?
+  options:
+  - correct: false
+    value: profaneness
+    detail: '''profaneness'' is not a synonym for ''schopenhauer''.'
+  - correct: false
+    value: mendicancy
+    detail: '''mendicancy'' is not a synonym for ''schopenhauer''.'
+  - correct: true
+    value: Schopenhauer
+    detail: '''Schopenhauer'' is a synonym for ''schopenhauer''.'
+  - correct: false
+    value: travelog
+    detail: '''travelog'' is not a synonym for ''schopenhauer''.'
+- text: What is a synonym for 'afspc'?
+  options:
+  - correct: false
+    value: family calycanthaceae
+    detail: '''family calycanthaceae'' is not a synonym for ''afspc''.'
+  - correct: false
+    value: garbage disposal
+    detail: '''garbage disposal'' is not a synonym for ''afspc''.'
+  - correct: true
+    value: Air Force Space Command
+    detail: '''Air Force Space Command'' is a synonym for ''afspc''.'
+  - correct: false
+    value: dutch elm
+    detail: '''dutch elm'' is not a synonym for ''afspc''.'
+- text: What is a synonym for 'tenderisation'?
+  options:
+  - correct: false
+    value: eastern cottontail
+    detail: '''eastern cottontail'' is not a synonym for ''tenderisation''.'
+  - correct: true
+    value: tenderization
+    detail: '''tenderization'' is a synonym for ''tenderisation''.'
+  - correct: false
+    value: vdu
+    detail: '''vdu'' is not a synonym for ''tenderisation''.'
+  - correct: false
+    value: stop watch
+    detail: '''stop watch'' is not a synonym for ''tenderisation''.'
+- text: What is a synonym for 'prow'?
+  options:
+  - correct: true
+    value: bow
+    detail: '''bow'' is a synonym for ''prow''.'
+  - correct: false
+    value: stylophorum diphyllum
+    detail: '''stylophorum diphyllum'' is not a synonym for ''prow''.'
+  - correct: false
+    value: lycophyta
+    detail: '''lycophyta'' is not a synonym for ''prow''.'
+  - correct: false
+    value: eye operation
+    detail: '''eye operation'' is not a synonym for ''prow''.'
+- text: What is a synonym for 'danaus'?
+  options:
+  - correct: false
+    value: flirting
+    detail: '''flirting'' is not a synonym for ''danaus''.'
+  - correct: false
+    value: family psittacidae
+    detail: '''family psittacidae'' is not a synonym for ''danaus''.'
+  - correct: false
+    value: footrest
+    detail: '''footrest'' is not a synonym for ''danaus''.'
+  - correct: true
+    value: Danaus
+    detail: '''Danaus'' is a synonym for ''danaus''.'
+- text: What is a synonym for 'signore'?
+  options:
+  - correct: false
+    value: bronc
+    detail: '''bronc'' is not a synonym for ''signore''.'
+  - correct: true
+    value: signora
+    detail: '''signora'' is a synonym for ''signore''.'
+  - correct: false
+    value: hamito-semitic
+    detail: '''hamito-semitic'' is not a synonym for ''signore''.'
+  - correct: false
+    value: false rue anemone
+    detail: '''false rue anemone'' is not a synonym for ''signore''.'
+- text: What is a synonym for 'winter's bark tree'?
+  options:
+  - correct: false
+    value: negative feedback circuit
+    detail: '''negative feedback circuit'' is not a synonym for ''winter''s bark tree''.'
+  - correct: true
+    value: winter's bark
+    detail: '''winter''s bark'' is a synonym for ''winter''s bark tree''.'
+  - correct: false
+    value: genus francisella
+    detail: '''genus francisella'' is not a synonym for ''winter''s bark tree''.'
+  - correct: false
+    value: dadaism
+    detail: '''dadaism'' is not a synonym for ''winter''s bark tree''.'
+- text: What is a synonym for 'prostate cancer'?
+  options:
+  - correct: false
+    value: nosher
+    detail: '''nosher'' is not a synonym for ''prostate cancer''.'
+  - correct: true
+    value: prostatic adenocarcinoma
+    detail: '''prostatic adenocarcinoma'' is a synonym for ''prostate cancer''.'
+  - correct: false
+    value: iceland lichen
+    detail: '''iceland lichen'' is not a synonym for ''prostate cancer''.'
+  - correct: false
+    value: settlings
+    detail: '''settlings'' is not a synonym for ''prostate cancer''.'
+- text: What is a synonym for 'united states national library of medicine'?
+  options:
+  - correct: true
+    value: National Library of Medicine
+    detail: '''National Library of Medicine'' is a synonym for ''united states national
+      library of medicine''.'
+  - correct: false
+    value: serial music
+    detail: '''serial music'' is not a synonym for ''united states national library
+      of medicine''.'
+  - correct: false
+    value: genus ursinia
+    detail: '''genus ursinia'' is not a synonym for ''united states national library
+      of medicine''.'
+  - correct: false
+    value: centrarchid
+    detail: '''centrarchid'' is not a synonym for ''united states national library
+      of medicine''.'

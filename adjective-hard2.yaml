@@ -1,0 +1,285 @@
+description: Synonym questions - Hard Set 2
+topic: adjective
+id: adjective-hard2
+title: Adjective Synonyms - Hard 2
+questions:
+- text: What is a synonym for 'abranchial'?
+  options:
+  - correct: false
+    value: nordic
+    detail: '''nordic'' is not a synonym for ''abranchial''.'
+  - correct: false
+    value: cupric
+    detail: '''cupric'' is not a synonym for ''abranchial''.'
+  - correct: false
+    value: papistic
+    detail: '''papistic'' is not a synonym for ''abranchial''.'
+  - correct: true
+    value: abranchiate
+    detail: '''abranchiate'' is a synonym for ''abranchial''.'
+- text: What is a synonym for 'unflattering'?
+  options:
+  - correct: true
+    value: uncomplimentary
+    detail: '''uncomplimentary'' is a synonym for ''unflattering''.'
+  - correct: false
+    value: ambiguous
+    detail: '''ambiguous'' is not a synonym for ''unflattering''.'
+  - correct: false
+    value: pharmaceutical
+    detail: '''pharmaceutical'' is not a synonym for ''unflattering''.'
+  - correct: false
+    value: dedicated
+    detail: '''dedicated'' is not a synonym for ''unflattering''.'
+- text: What is a synonym for 'genitive'?
+  options:
+  - correct: false
+    value: aramean
+    detail: '''aramean'' is not a synonym for ''genitive''.'
+  - correct: false
+    value: pro-american
+    detail: '''pro-american'' is not a synonym for ''genitive''.'
+  - correct: false
+    value: dermal
+    detail: '''dermal'' is not a synonym for ''genitive''.'
+  - correct: true
+    value: possessive
+    detail: '''possessive'' is a synonym for ''genitive''.'
+- text: What is a synonym for 'effectual'?
+  options:
+  - correct: false
+    value: homogeneous
+    detail: '''homogeneous'' is not a synonym for ''effectual''.'
+  - correct: true
+    value: effective
+    detail: '''effective'' is a synonym for ''effectual''.'
+  - correct: false
+    value: biaxial
+    detail: '''biaxial'' is not a synonym for ''effectual''.'
+  - correct: false
+    value: neanderthalian
+    detail: '''neanderthalian'' is not a synonym for ''effectual''.'
+- text: What is a synonym for 'praetorial'?
+  options:
+  - correct: false
+    value: faecal
+    detail: '''faecal'' is not a synonym for ''praetorial''.'
+  - correct: false
+    value: forceless
+    detail: '''forceless'' is not a synonym for ''praetorial''.'
+  - correct: false
+    value: symmetric
+    detail: '''symmetric'' is not a synonym for ''praetorial''.'
+  - correct: true
+    value: praetorian
+    detail: '''praetorian'' is a synonym for ''praetorial''.'
+- text: What is a synonym for 'penitent'?
+  options:
+  - correct: false
+    value: coenobitical
+    detail: '''coenobitical'' is not a synonym for ''penitent''.'
+  - correct: true
+    value: repentant
+    detail: '''repentant'' is a synonym for ''penitent''.'
+  - correct: false
+    value: terrene
+    detail: '''terrene'' is not a synonym for ''penitent''.'
+  - correct: false
+    value: mozambican
+    detail: '''mozambican'' is not a synonym for ''penitent''.'
+- text: What is a synonym for 'capetian'?
+  options:
+  - correct: true
+    value: Capetian
+    detail: '''Capetian'' is a synonym for ''capetian''.'
+  - correct: false
+    value: lower
+    detail: '''lower'' is not a synonym for ''capetian''.'
+  - correct: false
+    value: synergistic
+    detail: '''synergistic'' is not a synonym for ''capetian''.'
+  - correct: false
+    value: mosaic
+    detail: '''mosaic'' is not a synonym for ''capetian''.'
+- text: What is a synonym for 'arborical'?
+  options:
+  - correct: false
+    value: electrical
+    detail: '''electrical'' is not a synonym for ''arborical''.'
+  - correct: true
+    value: arboreal
+    detail: '''arboreal'' is a synonym for ''arborical''.'
+  - correct: false
+    value: javan
+    detail: '''javan'' is not a synonym for ''arborical''.'
+  - correct: false
+    value: prenatal
+    detail: '''prenatal'' is not a synonym for ''arborical''.'
+- text: What is a synonym for 'agronomical'?
+  options:
+  - correct: true
+    value: agronomic
+    detail: '''agronomic'' is a synonym for ''agronomical''.'
+  - correct: false
+    value: mistreated
+    detail: '''mistreated'' is not a synonym for ''agronomical''.'
+  - correct: false
+    value: assamese
+    detail: '''assamese'' is not a synonym for ''agronomical''.'
+  - correct: false
+    value: uncolored
+    detail: '''uncolored'' is not a synonym for ''agronomical''.'
+- text: What is a synonym for 'thai'?
+  options:
+  - correct: false
+    value: larger
+    detail: '''larger'' is not a synonym for ''thai''.'
+  - correct: false
+    value: wishful
+    detail: '''wishful'' is not a synonym for ''thai''.'
+  - correct: false
+    value: thenar
+    detail: '''thenar'' is not a synonym for ''thai''.'
+  - correct: true
+    value: Thai
+    detail: '''Thai'' is a synonym for ''thai''.'
+- text: What is a synonym for 'climatic'?
+  options:
+  - correct: true
+    value: climatical
+    detail: '''climatical'' is a synonym for ''climatic''.'
+  - correct: false
+    value: involuntary
+    detail: '''involuntary'' is not a synonym for ''climatic''.'
+  - correct: false
+    value: gustatory
+    detail: '''gustatory'' is not a synonym for ''climatic''.'
+  - correct: false
+    value: intrinsical
+    detail: '''intrinsical'' is not a synonym for ''climatic''.'
+- text: What is a synonym for 'clear'?
+  options:
+  - correct: false
+    value: centralized
+    detail: '''centralized'' is not a synonym for ''clear''.'
+  - correct: true
+    value: well-defined
+    detail: '''well-defined'' is a synonym for ''clear''.'
+  - correct: false
+    value: unaesthetic
+    detail: '''unaesthetic'' is not a synonym for ''clear''.'
+  - correct: false
+    value: mucoid
+    detail: '''mucoid'' is not a synonym for ''clear''.'
+- text: What is a synonym for 'uninquiring'?
+  options:
+  - correct: false
+    value: magnetic
+    detail: '''magnetic'' is not a synonym for ''uninquiring''.'
+  - correct: false
+    value: psychoanalytical
+    detail: '''psychoanalytical'' is not a synonym for ''uninquiring''.'
+  - correct: false
+    value: papuan
+    detail: '''papuan'' is not a synonym for ''uninquiring''.'
+  - correct: true
+    value: uninquisitive
+    detail: '''uninquisitive'' is a synonym for ''uninquiring''.'
+- text: What is a synonym for 'lap-straked'?
+  options:
+  - correct: false
+    value: calvinistical
+    detail: '''calvinistical'' is not a synonym for ''lap-straked''.'
+  - correct: false
+    value: climatical
+    detail: '''climatical'' is not a synonym for ''lap-straked''.'
+  - correct: false
+    value: indicative
+    detail: '''indicative'' is not a synonym for ''lap-straked''.'
+  - correct: true
+    value: clinker-built
+    detail: '''clinker-built'' is a synonym for ''lap-straked''.'
+- text: What is a synonym for 'unidimensional'?
+  options:
+  - correct: true
+    value: one-dimensional
+    detail: '''one-dimensional'' is a synonym for ''unidimensional''.'
+  - correct: false
+    value: semicentennial
+    detail: '''semicentennial'' is not a synonym for ''unidimensional''.'
+  - correct: false
+    value: arachnidian
+    detail: '''arachnidian'' is not a synonym for ''unidimensional''.'
+  - correct: false
+    value: capitalist
+    detail: '''capitalist'' is not a synonym for ''unidimensional''.'
+- text: What is a synonym for 'anticlimactical'?
+  options:
+  - correct: false
+    value: newtonian
+    detail: '''newtonian'' is not a synonym for ''anticlimactical''.'
+  - correct: false
+    value: platyrrhinic
+    detail: '''platyrrhinic'' is not a synonym for ''anticlimactical''.'
+  - correct: true
+    value: anticlimactic
+    detail: '''anticlimactic'' is a synonym for ''anticlimactical''.'
+  - correct: false
+    value: panhellenic
+    detail: '''panhellenic'' is not a synonym for ''anticlimactical''.'
+- text: What is a synonym for 'chiliastic'?
+  options:
+  - correct: false
+    value: ferned
+    detail: '''ferned'' is not a synonym for ''chiliastic''.'
+  - correct: true
+    value: millenarian
+    detail: '''millenarian'' is a synonym for ''chiliastic''.'
+  - correct: false
+    value: unadvisable
+    detail: '''unadvisable'' is not a synonym for ''chiliastic''.'
+  - correct: false
+    value: over-the-counter
+    detail: '''over-the-counter'' is not a synonym for ''chiliastic''.'
+- text: What is a synonym for 'refractive'?
+  options:
+  - correct: false
+    value: monoatomic
+    detail: '''monoatomic'' is not a synonym for ''refractive''.'
+  - correct: false
+    value: surgical
+    detail: '''surgical'' is not a synonym for ''refractive''.'
+  - correct: false
+    value: complaining
+    detail: '''complaining'' is not a synonym for ''refractive''.'
+  - correct: true
+    value: refractile
+    detail: '''refractile'' is a synonym for ''refractive''.'
+- text: What is a synonym for 'large'?
+  options:
+  - correct: false
+    value: dyspneic
+    detail: '''dyspneic'' is not a synonym for ''large''.'
+  - correct: true
+    value: big
+    detail: '''big'' is a synonym for ''large''.'
+  - correct: false
+    value: agrobiologic
+    detail: '''agrobiologic'' is not a synonym for ''large''.'
+  - correct: false
+    value: heat-absorbing
+    detail: '''heat-absorbing'' is not a synonym for ''large''.'
+- text: What is a synonym for 'feverish'?
+  options:
+  - correct: false
+    value: numerical
+    detail: '''numerical'' is not a synonym for ''feverish''.'
+  - correct: true
+    value: febrile
+    detail: '''febrile'' is a synonym for ''feverish''.'
+  - correct: false
+    value: anuretic
+    detail: '''anuretic'' is not a synonym for ''feverish''.'
+  - correct: false
+    value: quadrupedal
+    detail: '''quadrupedal'' is not a synonym for ''feverish''.'

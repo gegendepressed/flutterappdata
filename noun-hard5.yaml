@@ -1,0 +1,286 @@
+description: Synonym questions - Hard Set 5
+topic: noun
+id: noun-hard5
+title: Noun Synonyms - Hard 5
+questions:
+- text: What is a synonym for 'parliament'?
+  options:
+  - correct: false
+    value: residual
+    detail: '''residual'' is not a synonym for ''parliament''.'
+  - correct: true
+    value: fantan
+    detail: '''fantan'' is a synonym for ''parliament''.'
+  - correct: false
+    value: george eliot
+    detail: '''george eliot'' is not a synonym for ''parliament''.'
+  - correct: false
+    value: caulk
+    detail: '''caulk'' is not a synonym for ''parliament''.'
+- text: What is a synonym for 'hydrastis'?
+  options:
+  - correct: false
+    value: saul bellow
+    detail: '''saul bellow'' is not a synonym for ''hydrastis''.'
+  - correct: true
+    value: Hydrastis
+    detail: '''Hydrastis'' is a synonym for ''hydrastis''.'
+  - correct: false
+    value: connemara heath
+    detail: '''connemara heath'' is not a synonym for ''hydrastis''.'
+  - correct: false
+    value: genus onychomys
+    detail: '''genus onychomys'' is not a synonym for ''hydrastis''.'
+- text: What is a synonym for 'secretary of transportation'?
+  options:
+  - correct: false
+    value: humiliation
+    detail: '''humiliation'' is not a synonym for ''secretary of transportation''.'
+  - correct: false
+    value: si system
+    detail: '''si system'' is not a synonym for ''secretary of transportation''.'
+  - correct: false
+    value: genus primula
+    detail: '''genus primula'' is not a synonym for ''secretary of transportation''.'
+  - correct: true
+    value: Secretary of Transportation
+    detail: '''Secretary of Transportation'' is a synonym for ''secretary of transportation''.'
+- text: What is a synonym for 'jack crevalle'?
+  options:
+  - correct: false
+    value: vela
+    detail: '''vela'' is not a synonym for ''jack crevalle''.'
+  - correct: false
+    value: bloc
+    detail: '''bloc'' is not a synonym for ''jack crevalle''.'
+  - correct: true
+    value: crevalle jack
+    detail: '''crevalle jack'' is a synonym for ''jack crevalle''.'
+  - correct: false
+    value: moviemaking
+    detail: '''moviemaking'' is not a synonym for ''jack crevalle''.'
+- text: What is a synonym for 'work shift'?
+  options:
+  - correct: false
+    value: lanai
+    detail: '''lanai'' is not a synonym for ''work shift''.'
+  - correct: false
+    value: dressing sacque
+    detail: '''dressing sacque'' is not a synonym for ''work shift''.'
+  - correct: true
+    value: shift
+    detail: '''shift'' is a synonym for ''work shift''.'
+  - correct: false
+    value: acridotheres
+    detail: '''acridotheres'' is not a synonym for ''work shift''.'
+- text: What is a synonym for 'governance'?
+  options:
+  - correct: false
+    value: short ton
+    detail: '''short ton'' is not a synonym for ''governance''.'
+  - correct: true
+    value: administration
+    detail: '''administration'' is a synonym for ''governance''.'
+  - correct: false
+    value: defense system
+    detail: '''defense system'' is not a synonym for ''governance''.'
+  - correct: false
+    value: gaming
+    detail: '''gaming'' is not a synonym for ''governance''.'
+- text: What is a synonym for 'bromophenol blue'?
+  options:
+  - correct: false
+    value: zinzendorf
+    detail: '''zinzendorf'' is not a synonym for ''bromophenol blue''.'
+  - correct: false
+    value: fatigue fracture
+    detail: '''fatigue fracture'' is not a synonym for ''bromophenol blue''.'
+  - correct: true
+    value: bromphenol blue
+    detail: '''bromphenol blue'' is a synonym for ''bromophenol blue''.'
+  - correct: false
+    value: gargoylism
+    detail: '''gargoylism'' is not a synonym for ''bromophenol blue''.'
+- text: What is a synonym for 'john vanbrugh'?
+  options:
+  - correct: false
+    value: mathematical statistician
+    detail: '''mathematical statistician'' is not a synonym for ''john vanbrugh''.'
+  - correct: false
+    value: blond
+    detail: '''blond'' is not a synonym for ''john vanbrugh''.'
+  - correct: false
+    value: brachinus
+    detail: '''brachinus'' is not a synonym for ''john vanbrugh''.'
+  - correct: true
+    value: Vanbrugh
+    detail: '''Vanbrugh'' is a synonym for ''john vanbrugh''.'
+- text: What is a synonym for 'marbleisation'?
+  options:
+  - correct: false
+    value: irrawaddy river
+    detail: '''irrawaddy river'' is not a synonym for ''marbleisation''.'
+  - correct: false
+    value: genetic mutation
+    detail: '''genetic mutation'' is not a synonym for ''marbleisation''.'
+  - correct: false
+    value: toxic industrial waste
+    detail: '''toxic industrial waste'' is not a synonym for ''marbleisation''.'
+  - correct: true
+    value: marbleization
+    detail: '''marbleization'' is a synonym for ''marbleisation''.'
+- text: What is a synonym for 'ministry of transportation test'?
+  options:
+  - correct: false
+    value: racehorse
+    detail: '''racehorse'' is not a synonym for ''ministry of transportation test''.'
+  - correct: false
+    value: lappula
+    detail: '''lappula'' is not a synonym for ''ministry of transportation test''.'
+  - correct: false
+    value: telopea speciosissima
+    detail: '''telopea speciosissima'' is not a synonym for ''ministry of transportation
+      test''.'
+  - correct: true
+    value: MOT
+    detail: '''MOT'' is a synonym for ''ministry of transportation test''.'
+- text: What is a synonym for 'inducement'?
+  options:
+  - correct: false
+    value: genus myxocephalus
+    detail: '''genus myxocephalus'' is not a synonym for ''inducement''.'
+  - correct: false
+    value: danaidae
+    detail: '''danaidae'' is not a synonym for ''inducement''.'
+  - correct: true
+    value: incentive
+    detail: '''incentive'' is a synonym for ''inducement''.'
+  - correct: false
+    value: genus papio
+    detail: '''genus papio'' is not a synonym for ''inducement''.'
+- text: What is a synonym for 'abolitionist'?
+  options:
+  - correct: false
+    value: germinal disc
+    detail: '''germinal disc'' is not a synonym for ''abolitionist''.'
+  - correct: false
+    value: back matter
+    detail: '''back matter'' is not a synonym for ''abolitionist''.'
+  - correct: true
+    value: emancipationist
+    detail: '''emancipationist'' is a synonym for ''abolitionist''.'
+  - correct: false
+    value: massicot
+    detail: '''massicot'' is not a synonym for ''abolitionist''.'
+- text: What is a synonym for 'cantharellus cibarius'?
+  options:
+  - correct: true
+    value: chanterelle
+    detail: '''chanterelle'' is a synonym for ''cantharellus cibarius''.'
+  - correct: false
+    value: multiplier
+    detail: '''multiplier'' is not a synonym for ''cantharellus cibarius''.'
+  - correct: false
+    value: battle of chickamauga
+    detail: '''battle of chickamauga'' is not a synonym for ''cantharellus cibarius''.'
+  - correct: false
+    value: hemigalus
+    detail: '''hemigalus'' is not a synonym for ''cantharellus cibarius''.'
+- text: What is a synonym for 'modifier'?
+  options:
+  - correct: false
+    value: welwitschia
+    detail: '''welwitschia'' is not a synonym for ''modifier''.'
+  - correct: true
+    value: qualifier
+    detail: '''qualifier'' is a synonym for ''modifier''.'
+  - correct: false
+    value: adenosine diphosphate
+    detail: '''adenosine diphosphate'' is not a synonym for ''modifier''.'
+  - correct: false
+    value: american mistletoe
+    detail: '''american mistletoe'' is not a synonym for ''modifier''.'
+- text: What is a synonym for 'face soap'?
+  options:
+  - correct: false
+    value: danish monetary unit
+    detail: '''danish monetary unit'' is not a synonym for ''face soap''.'
+  - correct: false
+    value: herzberg
+    detail: '''herzberg'' is not a synonym for ''face soap''.'
+  - correct: false
+    value: rebelliousness
+    detail: '''rebelliousness'' is not a synonym for ''face soap''.'
+  - correct: true
+    value: toilet soap
+    detail: '''toilet soap'' is a synonym for ''face soap''.'
+- text: What is a synonym for 'fuchsia coccinea'?
+  options:
+  - correct: false
+    value: lateral pass
+    detail: '''lateral pass'' is not a synonym for ''fuchsia coccinea''.'
+  - correct: false
+    value: chinese wistaria
+    detail: '''chinese wistaria'' is not a synonym for ''fuchsia coccinea''.'
+  - correct: false
+    value: kilimanjaro
+    detail: '''kilimanjaro'' is not a synonym for ''fuchsia coccinea''.'
+  - correct: true
+    value: lady's-eardrop
+    detail: '''lady''s-eardrop'' is a synonym for ''fuchsia coccinea''.'
+- text: What is a synonym for 'soapstone'?
+  options:
+  - correct: false
+    value: fourfold point correlation
+    detail: '''fourfold point correlation'' is not a synonym for ''soapstone''.'
+  - correct: true
+    value: soaprock
+    detail: '''soaprock'' is a synonym for ''soapstone''.'
+  - correct: false
+    value: c
+    detail: '''c'' is not a synonym for ''soapstone''.'
+  - correct: false
+    value: reification
+    detail: '''reification'' is not a synonym for ''soapstone''.'
+- text: What is a synonym for 'inculpation'?
+  options:
+  - correct: false
+    value: meniscus
+    detail: '''meniscus'' is not a synonym for ''inculpation''.'
+  - correct: false
+    value: family ophiodontidae
+    detail: '''family ophiodontidae'' is not a synonym for ''inculpation''.'
+  - correct: true
+    value: incrimination
+    detail: '''incrimination'' is a synonym for ''inculpation''.'
+  - correct: false
+    value: cog railway
+    detail: '''cog railway'' is not a synonym for ''inculpation''.'
+- text: What is a synonym for 'double-bitted axe'?
+  options:
+  - correct: true
+    value: double-bitted ax
+    detail: '''double-bitted ax'' is a synonym for ''double-bitted axe''.'
+  - correct: false
+    value: river adige
+    detail: '''river adige'' is not a synonym for ''double-bitted axe''.'
+  - correct: false
+    value: demagnetisation
+    detail: '''demagnetisation'' is not a synonym for ''double-bitted axe''.'
+  - correct: false
+    value: conduction deafness
+    detail: '''conduction deafness'' is not a synonym for ''double-bitted axe''.'
+- text: What is a synonym for 'spirilla'?
+  options:
+  - correct: false
+    value: caranx bartholomaei
+    detail: '''caranx bartholomaei'' is not a synonym for ''spirilla''.'
+  - correct: false
+    value: chamaedaphne
+    detail: '''chamaedaphne'' is not a synonym for ''spirilla''.'
+  - correct: false
+    value: organs
+    detail: '''organs'' is not a synonym for ''spirilla''.'
+  - correct: true
+    value: spirillum
+    detail: '''spirillum'' is a synonym for ''spirilla''.'

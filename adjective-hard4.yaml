@@ -1,0 +1,285 @@
+description: Synonym questions - Hard Set 4
+topic: adjective
+id: adjective-hard4
+title: Adjective Synonyms - Hard 4
+questions:
+- text: What is a synonym for 'tamer'?
+  options:
+  - correct: false
+    value: decentralised
+    detail: '''decentralised'' is not a synonym for ''tamer''.'
+  - correct: true
+    value: tame
+    detail: '''tame'' is a synonym for ''tamer''.'
+  - correct: false
+    value: chemical
+    detail: '''chemical'' is not a synonym for ''tamer''.'
+  - correct: false
+    value: unclimbable
+    detail: '''unclimbable'' is not a synonym for ''tamer''.'
+- text: What is a synonym for 'amerind'?
+  options:
+  - correct: true
+    value: Indian
+    detail: '''Indian'' is a synonym for ''amerind''.'
+  - correct: false
+    value: unperceivable
+    detail: '''unperceivable'' is not a synonym for ''amerind''.'
+  - correct: false
+    value: spidery
+    detail: '''spidery'' is not a synonym for ''amerind''.'
+  - correct: false
+    value: unusual
+    detail: '''unusual'' is not a synonym for ''amerind''.'
+- text: What is a synonym for 'handheld'?
+  options:
+  - correct: false
+    value: stenographical
+    detail: '''stenographical'' is not a synonym for ''handheld''.'
+  - correct: false
+    value: paying attention
+    detail: '''paying attention'' is not a synonym for ''handheld''.'
+  - correct: false
+    value: endermatic
+    detail: '''endermatic'' is not a synonym for ''handheld''.'
+  - correct: true
+    value: hand-held
+    detail: '''hand-held'' is a synonym for ''handheld''.'
+- text: What is a synonym for 'pelagic'?
+  options:
+  - correct: false
+    value: unheeding
+    detail: '''unheeding'' is not a synonym for ''pelagic''.'
+  - correct: false
+    value: bulging
+    detail: '''bulging'' is not a synonym for ''pelagic''.'
+  - correct: true
+    value: oceanic
+    detail: '''oceanic'' is a synonym for ''pelagic''.'
+  - correct: false
+    value: stomachic
+    detail: '''stomachic'' is not a synonym for ''pelagic''.'
+- text: What is a synonym for 'slavic'?
+  options:
+  - correct: false
+    value: turkic
+    detail: '''turkic'' is not a synonym for ''slavic''.'
+  - correct: false
+    value: uncomparable
+    detail: '''uncomparable'' is not a synonym for ''slavic''.'
+  - correct: true
+    value: Slavonic
+    detail: '''Slavonic'' is a synonym for ''slavic''.'
+  - correct: false
+    value: fibreoptic
+    detail: '''fibreoptic'' is not a synonym for ''slavic''.'
+- text: What is a synonym for 'lengthways'?
+  options:
+  - correct: false
+    value: narrow-minded
+    detail: '''narrow-minded'' is not a synonym for ''lengthways''.'
+  - correct: false
+    value: czechoslovakian
+    detail: '''czechoslovakian'' is not a synonym for ''lengthways''.'
+  - correct: false
+    value: antitumor
+    detail: '''antitumor'' is not a synonym for ''lengthways''.'
+  - correct: true
+    value: lengthwise
+    detail: '''lengthwise'' is a synonym for ''lengthways''.'
+- text: What is a synonym for 'restless'?
+  options:
+  - correct: false
+    value: ill-smelling
+    detail: '''ill-smelling'' is not a synonym for ''restless''.'
+  - correct: false
+    value: anagogical
+    detail: '''anagogical'' is not a synonym for ''restless''.'
+  - correct: false
+    value: ambrosian
+    detail: '''ambrosian'' is not a synonym for ''restless''.'
+  - correct: true
+    value: uneasy
+    detail: '''uneasy'' is a synonym for ''restless''.'
+- text: What is a synonym for 'pachydermal'?
+  options:
+  - correct: true
+    value: pachydermatous
+    detail: '''pachydermatous'' is a synonym for ''pachydermal''.'
+  - correct: false
+    value: exegetic
+    detail: '''exegetic'' is not a synonym for ''pachydermal''.'
+  - correct: false
+    value: peruvian
+    detail: '''peruvian'' is not a synonym for ''pachydermal''.'
+  - correct: false
+    value: closer
+    detail: '''closer'' is not a synonym for ''pachydermal''.'
+- text: What is a synonym for 'quadrupedal'?
+  options:
+  - correct: true
+    value: quadruped
+    detail: '''quadruped'' is a synonym for ''quadrupedal''.'
+  - correct: false
+    value: systematic
+    detail: '''systematic'' is not a synonym for ''quadrupedal''.'
+  - correct: false
+    value: congruous
+    detail: '''congruous'' is not a synonym for ''quadrupedal''.'
+  - correct: false
+    value: catarrhine
+    detail: '''catarrhine'' is not a synonym for ''quadrupedal''.'
+- text: What is a synonym for 'melanesian'?
+  options:
+  - correct: true
+    value: Melanesian
+    detail: '''Melanesian'' is a synonym for ''melanesian''.'
+  - correct: false
+    value: wideband
+    detail: '''wideband'' is not a synonym for ''melanesian''.'
+  - correct: false
+    value: stupid
+    detail: '''stupid'' is not a synonym for ''melanesian''.'
+  - correct: false
+    value: voltaic
+    detail: '''voltaic'' is not a synonym for ''melanesian''.'
+- text: What is a synonym for 'freelance'?
+  options:
+  - correct: false
+    value: demotic
+    detail: '''demotic'' is not a synonym for ''freelance''.'
+  - correct: false
+    value: islamic
+    detail: '''islamic'' is not a synonym for ''freelance''.'
+  - correct: true
+    value: free-lance
+    detail: '''free-lance'' is a synonym for ''freelance''.'
+  - correct: false
+    value: noachian
+    detail: '''noachian'' is not a synonym for ''freelance''.'
+- text: What is a synonym for 'philhellenic'?
+  options:
+  - correct: false
+    value: geomorphologic
+    detail: '''geomorphologic'' is not a synonym for ''philhellenic''.'
+  - correct: true
+    value: philhellene
+    detail: '''philhellene'' is a synonym for ''philhellenic''.'
+  - correct: false
+    value: apologetic
+    detail: '''apologetic'' is not a synonym for ''philhellenic''.'
+  - correct: false
+    value: two-humped
+    detail: '''two-humped'' is not a synonym for ''philhellenic''.'
+- text: What is a synonym for 'topologic'?
+  options:
+  - correct: false
+    value: self-centred
+    detail: '''self-centred'' is not a synonym for ''topologic''.'
+  - correct: false
+    value: sensitising
+    detail: '''sensitising'' is not a synonym for ''topologic''.'
+  - correct: true
+    value: topological
+    detail: '''topological'' is a synonym for ''topologic''.'
+  - correct: false
+    value: arachnidian
+    detail: '''arachnidian'' is not a synonym for ''topologic''.'
+- text: What is a synonym for 'awestruck'?
+  options:
+  - correct: false
+    value: unsmooth
+    detail: '''unsmooth'' is not a synonym for ''awestruck''.'
+  - correct: true
+    value: awed
+    detail: '''awed'' is a synonym for ''awestruck''.'
+  - correct: false
+    value: solomonic
+    detail: '''solomonic'' is not a synonym for ''awestruck''.'
+  - correct: false
+    value: orientating
+    detail: '''orientating'' is not a synonym for ''awestruck''.'
+- text: What is a synonym for 'stannous'?
+  options:
+  - correct: false
+    value: likeable
+    detail: '''likeable'' is not a synonym for ''stannous''.'
+  - correct: false
+    value: caroline
+    detail: '''caroline'' is not a synonym for ''stannous''.'
+  - correct: false
+    value: philippine
+    detail: '''philippine'' is not a synonym for ''stannous''.'
+  - correct: true
+    value: stannic
+    detail: '''stannic'' is a synonym for ''stannous''.'
+- text: What is a synonym for 'meanspirited'?
+  options:
+  - correct: false
+    value: blastemal
+    detail: '''blastemal'' is not a synonym for ''meanspirited''.'
+  - correct: false
+    value: luxemburger
+    detail: '''luxemburger'' is not a synonym for ''meanspirited''.'
+  - correct: false
+    value: pro-lifer
+    detail: '''pro-lifer'' is not a synonym for ''meanspirited''.'
+  - correct: true
+    value: ungenerous
+    detail: '''ungenerous'' is a synonym for ''meanspirited''.'
+- text: What is a synonym for 'casuistical'?
+  options:
+  - correct: true
+    value: casuistic
+    detail: '''casuistic'' is a synonym for ''casuistical''.'
+  - correct: false
+    value: resident
+    detail: '''resident'' is not a synonym for ''casuistical''.'
+  - correct: false
+    value: parhelic
+    detail: '''parhelic'' is not a synonym for ''casuistical''.'
+  - correct: false
+    value: taiwanese
+    detail: '''taiwanese'' is not a synonym for ''casuistical''.'
+- text: What is a synonym for 'antennary'?
+  options:
+  - correct: true
+    value: antennal
+    detail: '''antennal'' is a synonym for ''antennary''.'
+  - correct: false
+    value: tobagonian
+    detail: '''tobagonian'' is not a synonym for ''antennary''.'
+  - correct: false
+    value: swiss
+    detail: '''swiss'' is not a synonym for ''antennary''.'
+  - correct: false
+    value: scots
+    detail: '''scots'' is not a synonym for ''antennary''.'
+- text: What is a synonym for 'chemic'?
+  options:
+  - correct: false
+    value: eritrean
+    detail: '''eritrean'' is not a synonym for ''chemic''.'
+  - correct: false
+    value: nonconformist
+    detail: '''nonconformist'' is not a synonym for ''chemic''.'
+  - correct: true
+    value: chemical
+    detail: '''chemical'' is a synonym for ''chemic''.'
+  - correct: false
+    value: dialectical
+    detail: '''dialectical'' is not a synonym for ''chemic''.'
+- text: What is a synonym for 'structural'?
+  options:
+  - correct: false
+    value: appositive
+    detail: '''appositive'' is not a synonym for ''structural''.'
+  - correct: true
+    value: geomorphologic
+    detail: '''geomorphologic'' is a synonym for ''structural''.'
+  - correct: false
+    value: alchemical
+    detail: '''alchemical'' is not a synonym for ''structural''.'
+  - correct: false
+    value: hair-shirt
+    detail: '''hair-shirt'' is not a synonym for ''structural''.'

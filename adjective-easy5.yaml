@@ -1,0 +1,285 @@
+description: Synonym questions - Easy Set 5
+topic: adjective
+id: adjective-easy5
+title: Adjective Synonyms - Easy 5
+questions:
+- text: What is a synonym for 'commodious'?
+  options:
+  - correct: false
+    value: premarital
+    detail: '''premarital'' is not a synonym for ''commodious''.'
+  - correct: true
+    value: convenient
+    detail: '''convenient'' is a synonym for ''commodious''.'
+  - correct: false
+    value: aneurismal
+    detail: '''aneurismal'' is not a synonym for ''commodious''.'
+  - correct: false
+    value: unsavoury
+    detail: '''unsavoury'' is not a synonym for ''commodious''.'
+- text: What is a synonym for 'iberian'?
+  options:
+  - correct: false
+    value: unhallowed
+    detail: '''unhallowed'' is not a synonym for ''iberian''.'
+  - correct: false
+    value: uncompromising
+    detail: '''uncompromising'' is not a synonym for ''iberian''.'
+  - correct: true
+    value: Iberian
+    detail: '''Iberian'' is a synonym for ''iberian''.'
+  - correct: false
+    value: neotenic
+    detail: '''neotenic'' is not a synonym for ''iberian''.'
+- text: What is a synonym for 'noncellular'?
+  options:
+  - correct: false
+    value: synchronous
+    detail: '''synchronous'' is not a synonym for ''noncellular''.'
+  - correct: false
+    value: carved
+    detail: '''carved'' is not a synonym for ''noncellular''.'
+  - correct: false
+    value: satyrical
+    detail: '''satyrical'' is not a synonym for ''noncellular''.'
+  - correct: true
+    value: acellular
+    detail: '''acellular'' is a synonym for ''noncellular''.'
+- text: What is a synonym for 'cosmogenic'?
+  options:
+  - correct: false
+    value: unsaleable
+    detail: '''unsaleable'' is not a synonym for ''cosmogenic''.'
+  - correct: true
+    value: cosmologic
+    detail: '''cosmologic'' is a synonym for ''cosmogenic''.'
+  - correct: false
+    value: frisian
+    detail: '''frisian'' is not a synonym for ''cosmogenic''.'
+  - correct: false
+    value: eremitical
+    detail: '''eremitical'' is not a synonym for ''cosmogenic''.'
+- text: What is a synonym for 'imperceptible'?
+  options:
+  - correct: false
+    value: lower-class
+    detail: '''lower-class'' is not a synonym for ''imperceptible''.'
+  - correct: false
+    value: unpasteurized
+    detail: '''unpasteurized'' is not a synonym for ''imperceptible''.'
+  - correct: false
+    value: double-barreled
+    detail: '''double-barreled'' is not a synonym for ''imperceptible''.'
+  - correct: true
+    value: unperceivable
+    detail: '''unperceivable'' is a synonym for ''imperceptible''.'
+- text: What is a synonym for 'unfavourable'?
+  options:
+  - correct: false
+    value: campanular
+    detail: '''campanular'' is not a synonym for ''unfavourable''.'
+  - correct: true
+    value: unfavorable
+    detail: '''unfavorable'' is a synonym for ''unfavourable''.'
+  - correct: false
+    value: unbaptised
+    detail: '''unbaptised'' is not a synonym for ''unfavourable''.'
+  - correct: false
+    value: psychogenic
+    detail: '''psychogenic'' is not a synonym for ''unfavourable''.'
+- text: What is a synonym for 'subscript'?
+  options:
+  - correct: true
+    value: inferior
+    detail: '''inferior'' is a synonym for ''subscript''.'
+  - correct: false
+    value: blastematic
+    detail: '''blastematic'' is not a synonym for ''subscript''.'
+  - correct: false
+    value: arminian
+    detail: '''arminian'' is not a synonym for ''subscript''.'
+  - correct: false
+    value: supraocular
+    detail: '''supraocular'' is not a synonym for ''subscript''.'
+- text: What is a synonym for 'eonian'?
+  options:
+  - correct: false
+    value: mouthless
+    detail: '''mouthless'' is not a synonym for ''eonian''.'
+  - correct: false
+    value: bibliographical
+    detail: '''bibliographical'' is not a synonym for ''eonian''.'
+  - correct: true
+    value: aeonian
+    detail: '''aeonian'' is a synonym for ''eonian''.'
+  - correct: false
+    value: haploidic
+    detail: '''haploidic'' is not a synonym for ''eonian''.'
+- text: What is a synonym for 'inverted'?
+  options:
+  - correct: false
+    value: unalienable
+    detail: '''unalienable'' is not a synonym for ''inverted''.'
+  - correct: true
+    value: anatropous
+    detail: '''anatropous'' is a synonym for ''inverted''.'
+  - correct: false
+    value: anaerobiotic
+    detail: '''anaerobiotic'' is not a synonym for ''inverted''.'
+  - correct: false
+    value: counterterrorist
+    detail: '''counterterrorist'' is not a synonym for ''inverted''.'
+- text: What is a synonym for 'medical'?
+  options:
+  - correct: false
+    value: axillary
+    detail: '''axillary'' is not a synonym for ''medical''.'
+  - correct: false
+    value: geomorphological
+    detail: '''geomorphological'' is not a synonym for ''medical''.'
+  - correct: true
+    value: aesculapian
+    detail: '''aesculapian'' is a synonym for ''medical''.'
+  - correct: false
+    value: linnaean
+    detail: '''linnaean'' is not a synonym for ''medical''.'
+- text: What is a synonym for 'unlikable'?
+  options:
+  - correct: true
+    value: unsympathetic
+    detail: '''unsympathetic'' is a synonym for ''unlikable''.'
+  - correct: false
+    value: passing
+    detail: '''passing'' is not a synonym for ''unlikable''.'
+  - correct: false
+    value: self-examining
+    detail: '''self-examining'' is not a synonym for ''unlikable''.'
+  - correct: false
+    value: alsatian
+    detail: '''alsatian'' is not a synonym for ''unlikable''.'
+- text: What is a synonym for 'anagrammatical'?
+  options:
+  - correct: false
+    value: woollen
+    detail: '''woollen'' is not a synonym for ''anagrammatical''.'
+  - correct: false
+    value: rastafarian
+    detail: '''rastafarian'' is not a synonym for ''anagrammatical''.'
+  - correct: false
+    value: disorganized
+    detail: '''disorganized'' is not a synonym for ''anagrammatical''.'
+  - correct: true
+    value: anagrammatic
+    detail: '''anagrammatic'' is a synonym for ''anagrammatical''.'
+- text: What is a synonym for 'refined'?
+  options:
+  - correct: true
+    value: processed
+    detail: '''processed'' is a synonym for ''refined''.'
+  - correct: false
+    value: unedifying
+    detail: '''unedifying'' is not a synonym for ''refined''.'
+  - correct: false
+    value: disordered
+    detail: '''disordered'' is not a synonym for ''refined''.'
+  - correct: false
+    value: inshore
+    detail: '''inshore'' is not a synonym for ''refined''.'
+- text: What is a synonym for 'repentant'?
+  options:
+  - correct: false
+    value: fiscal
+    detail: '''fiscal'' is not a synonym for ''repentant''.'
+  - correct: false
+    value: factor analytical
+    detail: '''factor analytical'' is not a synonym for ''repentant''.'
+  - correct: true
+    value: penitent
+    detail: '''penitent'' is a synonym for ''repentant''.'
+  - correct: false
+    value: spermous
+    detail: '''spermous'' is not a synonym for ''repentant''.'
+- text: What is a synonym for 'blessed'?
+  options:
+  - correct: false
+    value: sandy
+    detail: '''sandy'' is not a synonym for ''blessed''.'
+  - correct: false
+    value: organismic
+    detail: '''organismic'' is not a synonym for ''blessed''.'
+  - correct: true
+    value: blest
+    detail: '''blest'' is a synonym for ''blessed''.'
+  - correct: false
+    value: missionary
+    detail: '''missionary'' is not a synonym for ''blessed''.'
+- text: What is a synonym for 'telluric'?
+  options:
+  - correct: true
+    value: tellurian
+    detail: '''tellurian'' is a synonym for ''telluric''.'
+  - correct: false
+    value: genotypical
+    detail: '''genotypical'' is not a synonym for ''telluric''.'
+  - correct: false
+    value: texan
+    detail: '''texan'' is not a synonym for ''telluric''.'
+  - correct: false
+    value: nonsubjective
+    detail: '''nonsubjective'' is not a synonym for ''telluric''.'
+- text: What is a synonym for 'yeastlike'?
+  options:
+  - correct: false
+    value: relaxing
+    detail: '''relaxing'' is not a synonym for ''yeastlike''.'
+  - correct: true
+    value: yeasty
+    detail: '''yeasty'' is a synonym for ''yeastlike''.'
+  - correct: false
+    value: genitourinary
+    detail: '''genitourinary'' is not a synonym for ''yeastlike''.'
+  - correct: false
+    value: jumpy
+    detail: '''jumpy'' is not a synonym for ''yeastlike''.'
+- text: What is a synonym for 'abducent'?
+  options:
+  - correct: true
+    value: abducting
+    detail: '''abducting'' is a synonym for ''abducent''.'
+  - correct: false
+    value: uncoiled
+    detail: '''uncoiled'' is not a synonym for ''abducent''.'
+  - correct: false
+    value: shona
+    detail: '''shona'' is not a synonym for ''abducent''.'
+  - correct: false
+    value: mithraistic
+    detail: '''mithraistic'' is not a synonym for ''abducent''.'
+- text: What is a synonym for 'impermanent'?
+  options:
+  - correct: false
+    value: spiny
+    detail: '''spiny'' is not a synonym for ''impermanent''.'
+  - correct: false
+    value: areolate
+    detail: '''areolate'' is not a synonym for ''impermanent''.'
+  - correct: false
+    value: intentional
+    detail: '''intentional'' is not a synonym for ''impermanent''.'
+  - correct: true
+    value: temporary
+    detail: '''temporary'' is a synonym for ''impermanent''.'
+- text: What is a synonym for 'apostolic'?
+  options:
+  - correct: false
+    value: photometrical
+    detail: '''photometrical'' is not a synonym for ''apostolic''.'
+  - correct: true
+    value: apostolical
+    detail: '''apostolical'' is a synonym for ''apostolic''.'
+  - correct: false
+    value: doctorial
+    detail: '''doctorial'' is not a synonym for ''apostolic''.'
+  - correct: false
+    value: schizophrenic
+    detail: '''schizophrenic'' is not a synonym for ''apostolic''.'

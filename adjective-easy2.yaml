@@ -1,0 +1,285 @@
+description: Synonym questions - Easy Set 2
+topic: adjective
+id: adjective-easy2
+title: Adjective Synonyms - Easy 2
+questions:
+- text: What is a synonym for 'comprehensible'?
+  options:
+  - correct: false
+    value: silicious
+    detail: '''silicious'' is not a synonym for ''comprehensible''.'
+  - correct: false
+    value: continental
+    detail: '''continental'' is not a synonym for ''comprehensible''.'
+  - correct: false
+    value: cleaner
+    detail: '''cleaner'' is not a synonym for ''comprehensible''.'
+  - correct: true
+    value: comprehendible
+    detail: '''comprehendible'' is a synonym for ''comprehensible''.'
+- text: What is a synonym for 'lethargic'?
+  options:
+  - correct: false
+    value: ionic
+    detail: '''ionic'' is not a synonym for ''lethargic''.'
+  - correct: false
+    value: capitular
+    detail: '''capitular'' is not a synonym for ''lethargic''.'
+  - correct: true
+    value: unenrgetic
+    detail: '''unenrgetic'' is a synonym for ''lethargic''.'
+  - correct: false
+    value: baltic
+    detail: '''baltic'' is not a synonym for ''lethargic''.'
+- text: What is a synonym for 'attic'?
+  options:
+  - correct: true
+    value: Attic
+    detail: '''Attic'' is a synonym for ''attic''.'
+  - correct: false
+    value: low
+    detail: '''low'' is not a synonym for ''attic''.'
+  - correct: false
+    value: cupric
+    detail: '''cupric'' is not a synonym for ''attic''.'
+  - correct: false
+    value: ismaili
+    detail: '''ismaili'' is not a synonym for ''attic''.'
+- text: What is a synonym for 'worse'?
+  options:
+  - correct: false
+    value: advised
+    detail: '''advised'' is not a synonym for ''worse''.'
+  - correct: false
+    value: insensate
+    detail: '''insensate'' is not a synonym for ''worse''.'
+  - correct: false
+    value: brobdingnagian
+    detail: '''brobdingnagian'' is not a synonym for ''worse''.'
+  - correct: true
+    value: worsened
+    detail: '''worsened'' is a synonym for ''worse''.'
+- text: What is a synonym for 'arborary'?
+  options:
+  - correct: false
+    value: baptised
+    detail: '''baptised'' is not a synonym for ''arborary''.'
+  - correct: false
+    value: monecious
+    detail: '''monecious'' is not a synonym for ''arborary''.'
+  - correct: true
+    value: arborical
+    detail: '''arborical'' is a synonym for ''arborary''.'
+  - correct: false
+    value: unservile
+    detail: '''unservile'' is not a synonym for ''arborary''.'
+- text: What is a synonym for 'calligraphic'?
+  options:
+  - correct: false
+    value: seaward
+    detail: '''seaward'' is not a synonym for ''calligraphic''.'
+  - correct: false
+    value: vulpecular
+    detail: '''vulpecular'' is not a synonym for ''calligraphic''.'
+  - correct: true
+    value: calligraphical
+    detail: '''calligraphical'' is a synonym for ''calligraphic''.'
+  - correct: false
+    value: alphamerical
+    detail: '''alphamerical'' is not a synonym for ''calligraphic''.'
+- text: What is a synonym for 'ill-defined'?
+  options:
+  - correct: false
+    value: amebic
+    detail: '''amebic'' is not a synonym for ''ill-defined''.'
+  - correct: true
+    value: unclear
+    detail: '''unclear'' is a synonym for ''ill-defined''.'
+  - correct: false
+    value: nontraditional
+    detail: '''nontraditional'' is not a synonym for ''ill-defined''.'
+  - correct: false
+    value: cosmogonical
+    detail: '''cosmogonical'' is not a synonym for ''ill-defined''.'
+- text: What is a synonym for 'marmorean'?
+  options:
+  - correct: true
+    value: marmoreal
+    detail: '''marmoreal'' is a synonym for ''marmorean''.'
+  - correct: false
+    value: coherent
+    detail: '''coherent'' is not a synonym for ''marmorean''.'
+  - correct: false
+    value: sclerotic
+    detail: '''sclerotic'' is not a synonym for ''marmorean''.'
+  - correct: false
+    value: siouan
+    detail: '''siouan'' is not a synonym for ''marmorean''.'
+- text: What is a synonym for 'coloured'?
+  options:
+  - correct: false
+    value: oligarchical
+    detail: '''oligarchical'' is not a synonym for ''coloured''.'
+  - correct: false
+    value: diffuse
+    detail: '''diffuse'' is not a synonym for ''coloured''.'
+  - correct: false
+    value: ismaili
+    detail: '''ismaili'' is not a synonym for ''coloured''.'
+  - correct: true
+    value: colored
+    detail: '''colored'' is a synonym for ''coloured''.'
+- text: What is a synonym for 'indelicate'?
+  options:
+  - correct: false
+    value: andalusian
+    detail: '''andalusian'' is not a synonym for ''indelicate''.'
+  - correct: false
+    value: pre-jurassic
+    detail: '''pre-jurassic'' is not a synonym for ''indelicate''.'
+  - correct: true
+    value: indecorous
+    detail: '''indecorous'' is a synonym for ''indelicate''.'
+  - correct: false
+    value: astronautic
+    detail: '''astronautic'' is not a synonym for ''indelicate''.'
+- text: What is a synonym for 'low-level'?
+  options:
+  - correct: false
+    value: anglo-jewish
+    detail: '''anglo-jewish'' is not a synonym for ''low-level''.'
+  - correct: false
+    value: asymmetrical
+    detail: '''asymmetrical'' is not a synonym for ''low-level''.'
+  - correct: false
+    value: entozoic
+    detail: '''entozoic'' is not a synonym for ''low-level''.'
+  - correct: true
+    value: subordinate
+    detail: '''subordinate'' is a synonym for ''low-level''.'
+- text: What is a synonym for 'parabolical'?
+  options:
+  - correct: false
+    value: sabbatarian
+    detail: '''sabbatarian'' is not a synonym for ''parabolical''.'
+  - correct: true
+    value: parabolic
+    detail: '''parabolic'' is a synonym for ''parabolical''.'
+  - correct: false
+    value: unbuttoned
+    detail: '''unbuttoned'' is not a synonym for ''parabolical''.'
+  - correct: false
+    value: single-barrelled
+    detail: '''single-barrelled'' is not a synonym for ''parabolical''.'
+- text: What is a synonym for 'unalert'?
+  options:
+  - correct: false
+    value: saxon
+    detail: '''saxon'' is not a synonym for ''unalert''.'
+  - correct: false
+    value: untypical
+    detail: '''untypical'' is not a synonym for ''unalert''.'
+  - correct: true
+    value: unwatchful
+    detail: '''unwatchful'' is a synonym for ''unalert''.'
+  - correct: false
+    value: capitalistic
+    detail: '''capitalistic'' is not a synonym for ''unalert''.'
+- text: What is a synonym for 'discernible'?
+  options:
+  - correct: false
+    value: sedimentary
+    detail: '''sedimentary'' is not a synonym for ''discernible''.'
+  - correct: true
+    value: discernable
+    detail: '''discernable'' is a synonym for ''discernible''.'
+  - correct: false
+    value: nonexploratory
+    detail: '''nonexploratory'' is not a synonym for ''discernible''.'
+  - correct: false
+    value: nonionised
+    detail: '''nonionised'' is not a synonym for ''discernible''.'
+- text: What is a synonym for 'tyrolean'?
+  options:
+  - correct: false
+    value: genitive
+    detail: '''genitive'' is not a synonym for ''tyrolean''.'
+  - correct: false
+    value: antineoplastic
+    detail: '''antineoplastic'' is not a synonym for ''tyrolean''.'
+  - correct: false
+    value: cyprian
+    detail: '''cyprian'' is not a synonym for ''tyrolean''.'
+  - correct: true
+    value: Tyrolean
+    detail: '''Tyrolean'' is a synonym for ''tyrolean''.'
+- text: What is a synonym for 'saxicolous'?
+  options:
+  - correct: false
+    value: unsavoury
+    detail: '''unsavoury'' is not a synonym for ''saxicolous''.'
+  - correct: false
+    value: vegetational
+    detail: '''vegetational'' is not a synonym for ''saxicolous''.'
+  - correct: false
+    value: czechoslovakian
+    detail: '''czechoslovakian'' is not a synonym for ''saxicolous''.'
+  - correct: true
+    value: saxatile
+    detail: '''saxatile'' is a synonym for ''saxicolous''.'
+- text: What is a synonym for 'organisational'?
+  options:
+  - correct: false
+    value: magnetized
+    detail: '''magnetized'' is not a synonym for ''organisational''.'
+  - correct: true
+    value: organizational
+    detail: '''organizational'' is a synonym for ''organisational''.'
+  - correct: false
+    value: protozoal
+    detail: '''protozoal'' is not a synonym for ''organisational''.'
+  - correct: false
+    value: undynamic
+    detail: '''undynamic'' is not a synonym for ''organisational''.'
+- text: What is a synonym for 'unmelodious'?
+  options:
+  - correct: true
+    value: tuneless
+    detail: '''tuneless'' is a synonym for ''unmelodious''.'
+  - correct: false
+    value: persian
+    detail: '''persian'' is not a synonym for ''unmelodious''.'
+  - correct: false
+    value: hierarchic
+    detail: '''hierarchic'' is not a synonym for ''unmelodious''.'
+  - correct: false
+    value: light-colored
+    detail: '''light-colored'' is not a synonym for ''unmelodious''.'
+- text: What is a synonym for 'unlivable'?
+  options:
+  - correct: true
+    value: unliveable
+    detail: '''unliveable'' is a synonym for ''unlivable''.'
+  - correct: false
+    value: cormous
+    detail: '''cormous'' is not a synonym for ''unlivable''.'
+  - correct: false
+    value: english
+    detail: '''english'' is not a synonym for ''unlivable''.'
+  - correct: false
+    value: carolean
+    detail: '''carolean'' is not a synonym for ''unlivable''.'
+- text: What is a synonym for 'opthalmic'?
+  options:
+  - correct: false
+    value: disorganised
+    detail: '''disorganised'' is not a synonym for ''opthalmic''.'
+  - correct: true
+    value: ocular
+    detail: '''ocular'' is a synonym for ''opthalmic''.'
+  - correct: false
+    value: positivist
+    detail: '''positivist'' is not a synonym for ''opthalmic''.'
+  - correct: false
+    value: coreferential
+    detail: '''coreferential'' is not a synonym for ''opthalmic''.'

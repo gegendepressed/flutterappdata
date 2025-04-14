@@ -1,0 +1,285 @@
+description: Synonym questions - Hard Set 2
+topic: verb
+id: verb-hard2
+title: Verb Synonyms - Hard 2
+questions:
+- text: What is a synonym for 'hinderingly'?
+  options:
+  - correct: false
+    value: lurch
+    detail: '''lurch'' is not a synonym for ''hinderingly''.'
+  - correct: false
+    value: hands down
+    detail: '''hands down'' is not a synonym for ''hinderingly''.'
+  - correct: false
+    value: sex
+    detail: '''sex'' is not a synonym for ''hinderingly''.'
+  - correct: true
+    value: obstructively
+    detail: '''obstructively'' is a synonym for ''hinderingly''.'
+- text: What is a synonym for 'inadvisably'?
+  options:
+  - correct: false
+    value: guzzling
+    detail: '''guzzling'' is not a synonym for ''inadvisably''.'
+  - correct: true
+    value: expediently
+    detail: '''expediently'' is a synonym for ''inadvisably''.'
+  - correct: false
+    value: subserviently
+    detail: '''subserviently'' is not a synonym for ''inadvisably''.'
+  - correct: false
+    value: corruptly
+    detail: '''corruptly'' is not a synonym for ''inadvisably''.'
+- text: What is a synonym for 'mighty'?
+  options:
+  - correct: false
+    value: softened
+    detail: '''softened'' is not a synonym for ''mighty''.'
+  - correct: false
+    value: outperform
+    detail: '''outperform'' is not a synonym for ''mighty''.'
+  - correct: false
+    value: eradicate
+    detail: '''eradicate'' is not a synonym for ''mighty''.'
+  - correct: true
+    value: mightily
+    detail: '''mightily'' is a synonym for ''mighty''.'
+- text: What is a synonym for 'thin'?
+  options:
+  - correct: false
+    value: at large
+    detail: '''at large'' is not a synonym for ''thin''.'
+  - correct: true
+    value: thinly
+    detail: '''thinly'' is a synonym for ''thin''.'
+  - correct: false
+    value: wheezingly
+    detail: '''wheezingly'' is not a synonym for ''thin''.'
+  - correct: false
+    value: weekly
+    detail: '''weekly'' is not a synonym for ''thin''.'
+- text: What is a synonym for 'piano'?
+  options:
+  - correct: false
+    value: grind away
+    detail: '''grind away'' is not a synonym for ''piano''.'
+  - correct: false
+    value: deaerate
+    detail: '''deaerate'' is not a synonym for ''piano''.'
+  - correct: true
+    value: softly
+    detail: '''softly'' is a synonym for ''piano''.'
+  - correct: false
+    value: catalyze
+    detail: '''catalyze'' is not a synonym for ''piano''.'
+- text: What is a synonym for 'wriggle'?
+  options:
+  - correct: false
+    value: spring to mind
+    detail: '''spring to mind'' is not a synonym for ''wriggle''.'
+  - correct: false
+    value: posturing
+    detail: '''posturing'' is not a synonym for ''wriggle''.'
+  - correct: true
+    value: writhe
+    detail: '''writhe'' is a synonym for ''wriggle''.'
+  - correct: false
+    value: finished
+    detail: '''finished'' is not a synonym for ''wriggle''.'
+- text: What is a synonym for 'take for'?
+  options:
+  - correct: false
+    value: hit it up
+    detail: '''hit it up'' is not a synonym for ''take for''.'
+  - correct: false
+    value: deserted
+    detail: '''deserted'' is not a synonym for ''take for''.'
+  - correct: false
+    value: tapdance
+    detail: '''tapdance'' is not a synonym for ''take for''.'
+  - correct: true
+    value: deem
+    detail: '''deem'' is a synonym for ''take for''.'
+- text: What is a synonym for 'recreate'?
+  options:
+  - correct: false
+    value: shrivel
+    detail: '''shrivel'' is not a synonym for ''recreate''.'
+  - correct: false
+    value: belching
+    detail: '''belching'' is not a synonym for ''recreate''.'
+  - correct: false
+    value: face
+    detail: '''face'' is not a synonym for ''recreate''.'
+  - correct: true
+    value: animate
+    detail: '''animate'' is a synonym for ''recreate''.'
+- text: What is a synonym for 'agnise'?
+  options:
+  - correct: false
+    value: benignly
+    detail: '''benignly'' is not a synonym for ''agnise''.'
+  - correct: false
+    value: snap
+    detail: '''snap'' is not a synonym for ''agnise''.'
+  - correct: true
+    value: recognize
+    detail: '''recognize'' is a synonym for ''agnise''.'
+  - correct: false
+    value: blat
+    detail: '''blat'' is not a synonym for ''agnise''.'
+- text: What is a synonym for 'simonize'?
+  options:
+  - correct: false
+    value: clove
+    detail: '''clove'' is not a synonym for ''simonize''.'
+  - correct: false
+    value: for each person
+    detail: '''for each person'' is not a synonym for ''simonize''.'
+  - correct: true
+    value: Simonize
+    detail: '''Simonize'' is a synonym for ''simonize''.'
+  - correct: false
+    value: anatomize
+    detail: '''anatomize'' is not a synonym for ''simonize''.'
+- text: What is a synonym for 'feel like a million dollars'?
+  options:
+  - correct: false
+    value: exchanged
+    detail: '''exchanged'' is not a synonym for ''feel like a million dollars''.'
+  - correct: true
+    value: feel like a million
+    detail: '''feel like a million'' is a synonym for ''feel like a million dollars''.'
+  - correct: false
+    value: temptingly
+    detail: '''temptingly'' is not a synonym for ''feel like a million dollars''.'
+  - correct: false
+    value: cut out
+    detail: '''cut out'' is not a synonym for ''feel like a million dollars''.'
+- text: What is a synonym for 'frame'?
+  options:
+  - correct: true
+    value: frame in
+    detail: '''frame in'' is a synonym for ''frame''.'
+  - correct: false
+    value: flashily
+    detail: '''flashily'' is not a synonym for ''frame''.'
+  - correct: false
+    value: ill-treat
+    detail: '''ill-treat'' is not a synonym for ''frame''.'
+  - correct: false
+    value: commanding
+    detail: '''commanding'' is not a synonym for ''frame''.'
+- text: What is a synonym for 'snogging'?
+  options:
+  - correct: false
+    value: forwards
+    detail: '''forwards'' is not a synonym for ''snogging''.'
+  - correct: true
+    value: snog
+    detail: '''snog'' is a synonym for ''snogging''.'
+  - correct: false
+    value: spot-weld
+    detail: '''spot-weld'' is not a synonym for ''snogging''.'
+  - correct: false
+    value: get a whiff
+    detail: '''get a whiff'' is not a synonym for ''snogging''.'
+- text: What is a synonym for 'divorce'?
+  options:
+  - correct: false
+    value: hunt
+    detail: '''hunt'' is not a synonym for ''divorce''.'
+  - correct: false
+    value: maroon
+    detail: '''maroon'' is not a synonym for ''divorce''.'
+  - correct: true
+    value: disassociate
+    detail: '''disassociate'' is a synonym for ''divorce''.'
+  - correct: false
+    value: circumscribe
+    detail: '''circumscribe'' is not a synonym for ''divorce''.'
+- text: What is a synonym for 'oust'?
+  options:
+  - correct: true
+    value: throw out
+    detail: '''throw out'' is a synonym for ''oust''.'
+  - correct: false
+    value: mesh
+    detail: '''mesh'' is not a synonym for ''oust''.'
+  - correct: false
+    value: anglicize
+    detail: '''anglicize'' is not a synonym for ''oust''.'
+  - correct: false
+    value: devastating
+    detail: '''devastating'' is not a synonym for ''oust''.'
+- text: What is a synonym for 'drizzle'?
+  options:
+  - correct: false
+    value: hydraulicly
+    detail: '''hydraulicly'' is not a synonym for ''drizzle''.'
+  - correct: true
+    value: mizzle
+    detail: '''mizzle'' is a synonym for ''drizzle''.'
+  - correct: false
+    value: in good spirits
+    detail: '''in good spirits'' is not a synonym for ''drizzle''.'
+  - correct: false
+    value: pick at
+    detail: '''pick at'' is not a synonym for ''drizzle''.'
+- text: What is a synonym for 'in stages'?
+  options:
+  - correct: true
+    value: piecemeal
+    detail: '''piecemeal'' is a synonym for ''in stages''.'
+  - correct: false
+    value: turn on
+    detail: '''turn on'' is not a synonym for ''in stages''.'
+  - correct: false
+    value: eloquently
+    detail: '''eloquently'' is not a synonym for ''in stages''.'
+  - correct: false
+    value: tie down
+    detail: '''tie down'' is not a synonym for ''in stages''.'
+- text: What is a synonym for 'brutalize'?
+  options:
+  - correct: false
+    value: fold up
+    detail: '''fold up'' is not a synonym for ''brutalize''.'
+  - correct: true
+    value: brutalise
+    detail: '''brutalise'' is a synonym for ''brutalize''.'
+  - correct: false
+    value: burst in on
+    detail: '''burst in on'' is not a synonym for ''brutalize''.'
+  - correct: false
+    value: stave off
+    detail: '''stave off'' is not a synonym for ''brutalize''.'
+- text: What is a synonym for 'crabs'?
+  options:
+  - correct: true
+    value: crab
+    detail: '''crab'' is a synonym for ''crabs''.'
+  - correct: false
+    value: sodomise
+    detail: '''sodomise'' is not a synonym for ''crabs''.'
+  - correct: false
+    value: wordlessly
+    detail: '''wordlessly'' is not a synonym for ''crabs''.'
+  - correct: false
+    value: watchfully
+    detail: '''watchfully'' is not a synonym for ''crabs''.'
+- text: What is a synonym for 'on the side'?
+  options:
+  - correct: false
+    value: faster
+    detail: '''faster'' is not a synonym for ''on the side''.'
+  - correct: false
+    value: disenchant
+    detail: '''disenchant'' is not a synonym for ''on the side''.'
+  - correct: true
+    value: unofficially
+    detail: '''unofficially'' is a synonym for ''on the side''.'
+  - correct: false
+    value: distributed
+    detail: '''distributed'' is not a synonym for ''on the side''.'

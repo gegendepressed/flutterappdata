@@ -1,0 +1,285 @@
+description: Synonym questions - Medium Set 4
+topic: verb
+id: verb-medium4
+title: Verb Synonyms - Medium 4
+questions:
+- text: What is a synonym for 'profit'?
+  options:
+  - correct: false
+    value: lyophilised
+    detail: '''lyophilised'' is not a synonym for ''profit''.'
+  - correct: false
+    value: stabbing
+    detail: '''stabbing'' is not a synonym for ''profit''.'
+  - correct: true
+    value: gain
+    detail: '''gain'' is a synonym for ''profit''.'
+  - correct: false
+    value: do the dishes
+    detail: '''do the dishes'' is not a synonym for ''profit''.'
+- text: What is a synonym for 'enfranchised'?
+  options:
+  - correct: false
+    value: letting
+    detail: '''letting'' is not a synonym for ''enfranchised''.'
+  - correct: true
+    value: affranchise
+    detail: '''affranchise'' is a synonym for ''enfranchised''.'
+  - correct: false
+    value: ration out
+    detail: '''ration out'' is not a synonym for ''enfranchised''.'
+  - correct: false
+    value: polarise
+    detail: '''polarise'' is not a synonym for ''enfranchised''.'
+- text: What is a synonym for 'disburse'?
+  options:
+  - correct: false
+    value: embroiled
+    detail: '''embroiled'' is not a synonym for ''disburse''.'
+  - correct: false
+    value: galling
+    detail: '''galling'' is not a synonym for ''disburse''.'
+  - correct: false
+    value: equivocate
+    detail: '''equivocate'' is not a synonym for ''disburse''.'
+  - correct: true
+    value: pay out
+    detail: '''pay out'' is a synonym for ''disburse''.'
+- text: What is a synonym for 'crank out'?
+  options:
+  - correct: false
+    value: at last
+    detail: '''at last'' is not a synonym for ''crank out''.'
+  - correct: false
+    value: tapering
+    detail: '''tapering'' is not a synonym for ''crank out''.'
+  - correct: false
+    value: automated
+    detail: '''automated'' is not a synonym for ''crank out''.'
+  - correct: true
+    value: grind out
+    detail: '''grind out'' is a synonym for ''crank out''.'
+- text: What is a synonym for 'enunciate'?
+  options:
+  - correct: false
+    value: flump
+    detail: '''flump'' is not a synonym for ''enunciate''.'
+  - correct: false
+    value: understate
+    detail: '''understate'' is not a synonym for ''enunciate''.'
+  - correct: false
+    value: rustless
+    detail: '''rustless'' is not a synonym for ''enunciate''.'
+  - correct: true
+    value: pronounce
+    detail: '''pronounce'' is a synonym for ''enunciate''.'
+- text: What is a synonym for 'unburden'?
+  options:
+  - correct: true
+    value: disburden
+    detail: '''disburden'' is a synonym for ''unburden''.'
+  - correct: false
+    value: misapprehend
+    detail: '''misapprehend'' is not a synonym for ''unburden''.'
+  - correct: false
+    value: belch
+    detail: '''belch'' is not a synonym for ''unburden''.'
+  - correct: false
+    value: stabilising
+    detail: '''stabilising'' is not a synonym for ''unburden''.'
+- text: What is a synonym for 'advertize'?
+  options:
+  - correct: false
+    value: totalise
+    detail: '''totalise'' is not a synonym for ''advertize''.'
+  - correct: false
+    value: bickering
+    detail: '''bickering'' is not a synonym for ''advertize''.'
+  - correct: true
+    value: advertise
+    detail: '''advertise'' is a synonym for ''advertize''.'
+  - correct: false
+    value: diverted
+    detail: '''diverted'' is not a synonym for ''advertize''.'
+- text: What is a synonym for 'sloshed'?
+  options:
+  - correct: false
+    value: anesthetise
+    detail: '''anesthetise'' is not a synonym for ''sloshed''.'
+  - correct: false
+    value: tip over
+    detail: '''tip over'' is not a synonym for ''sloshed''.'
+  - correct: false
+    value: imperceptibly
+    detail: '''imperceptibly'' is not a synonym for ''sloshed''.'
+  - correct: true
+    value: splash
+    detail: '''splash'' is a synonym for ''sloshed''.'
+- text: What is a synonym for 'racketeering'?
+  options:
+  - correct: true
+    value: racketeer
+    detail: '''racketeer'' is a synonym for ''racketeering''.'
+  - correct: false
+    value: cast about
+    detail: '''cast about'' is not a synonym for ''racketeering''.'
+  - correct: false
+    value: bleat
+    detail: '''bleat'' is not a synonym for ''racketeering''.'
+  - correct: false
+    value: appoint
+    detail: '''appoint'' is not a synonym for ''racketeering''.'
+- text: What is a synonym for 'sulfuretted'?
+  options:
+  - correct: false
+    value: reprobate
+    detail: '''reprobate'' is not a synonym for ''sulfuretted''.'
+  - correct: true
+    value: sulfurette
+    detail: '''sulfurette'' is a synonym for ''sulfuretted''.'
+  - correct: false
+    value: pull in one's horns
+    detail: '''pull in one''s horns'' is not a synonym for ''sulfuretted''.'
+  - correct: false
+    value: constituted
+    detail: '''constituted'' is not a synonym for ''sulfuretted''.'
+- text: What is a synonym for 'foreordain'?
+  options:
+  - correct: true
+    value: predestine
+    detail: '''predestine'' is a synonym for ''foreordain''.'
+  - correct: false
+    value: overburdened
+    detail: '''overburdened'' is not a synonym for ''foreordain''.'
+  - correct: false
+    value: pleadingly
+    detail: '''pleadingly'' is not a synonym for ''foreordain''.'
+  - correct: false
+    value: straightforwardly
+    detail: '''straightforwardly'' is not a synonym for ''foreordain''.'
+- text: What is a synonym for 'skreigh'?
+  options:
+  - correct: false
+    value: angled
+    detail: '''angled'' is not a synonym for ''skreigh''.'
+  - correct: false
+    value: spot
+    detail: '''spot'' is not a synonym for ''skreigh''.'
+  - correct: false
+    value: decentralized
+    detail: '''decentralized'' is not a synonym for ''skreigh''.'
+  - correct: true
+    value: squawk
+    detail: '''squawk'' is a synonym for ''skreigh''.'
+- text: What is a synonym for 'ham it up'?
+  options:
+  - correct: false
+    value: racketeering
+    detail: '''racketeering'' is not a synonym for ''ham it up''.'
+  - correct: false
+    value: bust up
+    detail: '''bust up'' is not a synonym for ''ham it up''.'
+  - correct: false
+    value: co-ordinated
+    detail: '''co-ordinated'' is not a synonym for ''ham it up''.'
+  - correct: true
+    value: overact
+    detail: '''overact'' is a synonym for ''ham it up''.'
+- text: What is a synonym for 'remark'?
+  options:
+  - correct: false
+    value: unarm
+    detail: '''unarm'' is not a synonym for ''remark''.'
+  - correct: false
+    value: unbelted
+    detail: '''unbelted'' is not a synonym for ''remark''.'
+  - correct: true
+    value: note
+    detail: '''note'' is a synonym for ''remark''.'
+  - correct: false
+    value: all the same
+    detail: '''all the same'' is not a synonym for ''remark''.'
+- text: What is a synonym for 'schematize'?
+  options:
+  - correct: false
+    value: premiss
+    detail: '''premiss'' is not a synonym for ''schematize''.'
+  - correct: true
+    value: schematise
+    detail: '''schematise'' is a synonym for ''schematize''.'
+  - correct: false
+    value: take hold of
+    detail: '''take hold of'' is not a synonym for ''schematize''.'
+  - correct: false
+    value: pull a fast one on
+    detail: '''pull a fast one on'' is not a synonym for ''schematize''.'
+- text: What is a synonym for 'concentre'?
+  options:
+  - correct: false
+    value: pocket
+    detail: '''pocket'' is not a synonym for ''concentre''.'
+  - correct: false
+    value: dictated
+    detail: '''dictated'' is not a synonym for ''concentre''.'
+  - correct: true
+    value: concenter
+    detail: '''concenter'' is a synonym for ''concentre''.'
+  - correct: false
+    value: first-rate
+    detail: '''first-rate'' is not a synonym for ''concentre''.'
+- text: What is a synonym for 'saccharify'?
+  options:
+  - correct: false
+    value: bower
+    detail: '''bower'' is not a synonym for ''saccharify''.'
+  - correct: false
+    value: bring off
+    detail: '''bring off'' is not a synonym for ''saccharify''.'
+  - correct: false
+    value: personate
+    detail: '''personate'' is not a synonym for ''saccharify''.'
+  - correct: true
+    value: sugar
+    detail: '''sugar'' is a synonym for ''saccharify''.'
+- text: What is a synonym for 'doings'?
+  options:
+  - correct: false
+    value: malnourish
+    detail: '''malnourish'' is not a synonym for ''doings''.'
+  - correct: false
+    value: metastasize
+    detail: '''metastasize'' is not a synonym for ''doings''.'
+  - correct: false
+    value: acclaim
+    detail: '''acclaim'' is not a synonym for ''doings''.'
+  - correct: true
+    value: make
+    detail: '''make'' is a synonym for ''doings''.'
+- text: What is a synonym for 'satiate'?
+  options:
+  - correct: false
+    value: brand
+    detail: '''brand'' is not a synonym for ''satiate''.'
+  - correct: true
+    value: sate
+    detail: '''sate'' is a synonym for ''satiate''.'
+  - correct: false
+    value: disharmonize
+    detail: '''disharmonize'' is not a synonym for ''satiate''.'
+  - correct: false
+    value: extend to
+    detail: '''extend to'' is not a synonym for ''satiate''.'
+- text: What is a synonym for 'whoop it up'?
+  options:
+  - correct: true
+    value: revel
+    detail: '''revel'' is a synonym for ''whoop it up''.'
+  - correct: false
+    value: carry off
+    detail: '''carry off'' is not a synonym for ''whoop it up''.'
+  - correct: false
+    value: rallying
+    detail: '''rallying'' is not a synonym for ''whoop it up''.'
+  - correct: false
+    value: tinned
+    detail: '''tinned'' is not a synonym for ''whoop it up''.'

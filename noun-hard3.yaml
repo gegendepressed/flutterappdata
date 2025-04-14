@@ -1,0 +1,285 @@
+description: Synonym questions - Hard Set 3
+topic: noun
+id: noun-hard3
+title: Noun Synonyms - Hard 3
+questions:
+- text: What is a synonym for 'paralipomenon'?
+  options:
+  - correct: false
+    value: settlings
+    detail: '''settlings'' is not a synonym for ''paralipomenon''.'
+  - correct: true
+    value: Paralipomenon
+    detail: '''Paralipomenon'' is a synonym for ''paralipomenon''.'
+  - correct: false
+    value: lead-in
+    detail: '''lead-in'' is not a synonym for ''paralipomenon''.'
+  - correct: false
+    value: laxity
+    detail: '''laxity'' is not a synonym for ''paralipomenon''.'
+- text: What is a synonym for 'gaminess'?
+  options:
+  - correct: true
+    value: raciness
+    detail: '''raciness'' is a synonym for ''gaminess''.'
+  - correct: false
+    value: hospital attendant
+    detail: '''hospital attendant'' is not a synonym for ''gaminess''.'
+  - correct: false
+    value: epiphysis cerebri
+    detail: '''epiphysis cerebri'' is not a synonym for ''gaminess''.'
+  - correct: false
+    value: viscid mushroom
+    detail: '''viscid mushroom'' is not a synonym for ''gaminess''.'
+- text: What is a synonym for 'genus prunella'?
+  options:
+  - correct: true
+    value: Prunella
+    detail: '''Prunella'' is a synonym for ''genus prunella''.'
+  - correct: false
+    value: anisette
+    detail: '''anisette'' is not a synonym for ''genus prunella''.'
+  - correct: false
+    value: railway line
+    detail: '''railway line'' is not a synonym for ''genus prunella''.'
+  - correct: false
+    value: family myxophyceae
+    detail: '''family myxophyceae'' is not a synonym for ''genus prunella''.'
+- text: What is a synonym for 'genus erignathus'?
+  options:
+  - correct: true
+    value: Erignathus
+    detail: '''Erignathus'' is a synonym for ''genus erignathus''.'
+  - correct: false
+    value: bubbler
+    detail: '''bubbler'' is not a synonym for ''genus erignathus''.'
+  - correct: false
+    value: reef whitetip shark
+    detail: '''reef whitetip shark'' is not a synonym for ''genus erignathus''.'
+  - correct: false
+    value: samuel beckett
+    detail: '''samuel beckett'' is not a synonym for ''genus erignathus''.'
+- text: What is a synonym for 'albion'?
+  options:
+  - correct: true
+    value: Albion
+    detail: '''Albion'' is a synonym for ''albion''.'
+  - correct: false
+    value: home plate
+    detail: '''home plate'' is not a synonym for ''albion''.'
+  - correct: false
+    value: jerusalem artichoke
+    detail: '''jerusalem artichoke'' is not a synonym for ''albion''.'
+  - correct: false
+    value: wapiti
+    detail: '''wapiti'' is not a synonym for ''albion''.'
+- text: What is a synonym for 'tennis shot'?
+  options:
+  - correct: false
+    value: public security
+    detail: '''public security'' is not a synonym for ''tennis shot''.'
+  - correct: false
+    value: concubine
+    detail: '''concubine'' is not a synonym for ''tennis shot''.'
+  - correct: false
+    value: piece of cake
+    detail: '''piece of cake'' is not a synonym for ''tennis shot''.'
+  - correct: true
+    value: tennis stroke
+    detail: '''tennis stroke'' is a synonym for ''tennis shot''.'
+- text: What is a synonym for 'air sickness'?
+  options:
+  - correct: true
+    value: airsickness
+    detail: '''airsickness'' is a synonym for ''air sickness''.'
+  - correct: false
+    value: pine finch
+    detail: '''pine finch'' is not a synonym for ''air sickness''.'
+  - correct: false
+    value: makaira
+    detail: '''makaira'' is not a synonym for ''air sickness''.'
+  - correct: false
+    value: snakewood
+    detail: '''snakewood'' is not a synonym for ''air sickness''.'
+- text: What is a synonym for 'structuralism'?
+  options:
+  - correct: false
+    value: overdraft credit
+    detail: '''overdraft credit'' is not a synonym for ''structuralism''.'
+  - correct: false
+    value: wild thyme
+    detail: '''wild thyme'' is not a synonym for ''structuralism''.'
+  - correct: false
+    value: crack of doom
+    detail: '''crack of doom'' is not a synonym for ''structuralism''.'
+  - correct: true
+    value: structural linguistics
+    detail: '''structural linguistics'' is a synonym for ''structuralism''.'
+- text: What is a synonym for 'prefrontal cortex'?
+  options:
+  - correct: false
+    value: norman jewison
+    detail: '''norman jewison'' is not a synonym for ''prefrontal cortex''.'
+  - correct: false
+    value: genus psephurus
+    detail: '''genus psephurus'' is not a synonym for ''prefrontal cortex''.'
+  - correct: false
+    value: canterbury
+    detail: '''canterbury'' is not a synonym for ''prefrontal cortex''.'
+  - correct: true
+    value: prefrontal lobe
+    detail: '''prefrontal lobe'' is a synonym for ''prefrontal cortex''.'
+- text: What is a synonym for 'worrier'?
+  options:
+  - correct: false
+    value: taste tester
+    detail: '''taste tester'' is not a synonym for ''worrier''.'
+  - correct: false
+    value: reb
+    detail: '''reb'' is not a synonym for ''worrier''.'
+  - correct: true
+    value: fuss-budget
+    detail: '''fuss-budget'' is a synonym for ''worrier''.'
+  - correct: false
+    value: french pancake
+    detail: '''french pancake'' is not a synonym for ''worrier''.'
+- text: What is a synonym for 'journey'?
+  options:
+  - correct: false
+    value: tea wagon
+    detail: '''tea wagon'' is not a synonym for ''journey''.'
+  - correct: false
+    value: mu-meson
+    detail: '''mu-meson'' is not a synonym for ''journey''.'
+  - correct: true
+    value: journeying
+    detail: '''journeying'' is a synonym for ''journey''.'
+  - correct: false
+    value: novelty shop
+    detail: '''novelty shop'' is not a synonym for ''journey''.'
+- text: What is a synonym for 'mott'?
+  options:
+  - correct: false
+    value: pipa pipa
+    detail: '''pipa pipa'' is not a synonym for ''mott''.'
+  - correct: false
+    value: cyrus mccormick
+    detail: '''cyrus mccormick'' is not a synonym for ''mott''.'
+  - correct: false
+    value: splodge
+    detail: '''splodge'' is not a synonym for ''mott''.'
+  - correct: true
+    value: Mott
+    detail: '''Mott'' is a synonym for ''mott''.'
+- text: What is a synonym for 'sanity'?
+  options:
+  - correct: false
+    value: battering
+    detail: '''battering'' is not a synonym for ''sanity''.'
+  - correct: true
+    value: saneness
+    detail: '''saneness'' is a synonym for ''sanity''.'
+  - correct: false
+    value: tai nuea
+    detail: '''tai nuea'' is not a synonym for ''sanity''.'
+  - correct: false
+    value: portwatcher
+    detail: '''portwatcher'' is not a synonym for ''sanity''.'
+- text: What is a synonym for 'second banana'?
+  options:
+  - correct: false
+    value: extemporisation
+    detail: '''extemporisation'' is not a synonym for ''second banana''.'
+  - correct: false
+    value: vena labialis superior
+    detail: '''vena labialis superior'' is not a synonym for ''second banana''.'
+  - correct: false
+    value: trinity sunday
+    detail: '''trinity sunday'' is not a synonym for ''second banana''.'
+  - correct: true
+    value: straight man
+    detail: '''straight man'' is a synonym for ''second banana''.'
+- text: What is a synonym for 'fool's cap'?
+  options:
+  - correct: false
+    value: trapezoid bone
+    detail: '''trapezoid bone'' is not a synonym for ''fool''s cap''.'
+  - correct: true
+    value: dunce cap
+    detail: '''dunce cap'' is a synonym for ''fool''s cap''.'
+  - correct: false
+    value: carbon copy
+    detail: '''carbon copy'' is not a synonym for ''fool''s cap''.'
+  - correct: false
+    value: cornish fowl
+    detail: '''cornish fowl'' is not a synonym for ''fool''s cap''.'
+- text: What is a synonym for 'leaf mustard'?
+  options:
+  - correct: true
+    value: chinese mustard
+    detail: '''chinese mustard'' is a synonym for ''leaf mustard''.'
+  - correct: false
+    value: present
+    detail: '''present'' is not a synonym for ''leaf mustard''.'
+  - correct: false
+    value: william le baron jenny
+    detail: '''william le baron jenny'' is not a synonym for ''leaf mustard''.'
+  - correct: false
+    value: esq
+    detail: '''esq'' is not a synonym for ''leaf mustard''.'
+- text: What is a synonym for 'jacquemier's sign'?
+  options:
+  - correct: false
+    value: maritimes
+    detail: '''maritimes'' is not a synonym for ''jacquemier''s sign''.'
+  - correct: false
+    value: aztec lily
+    detail: '''aztec lily'' is not a synonym for ''jacquemier''s sign''.'
+  - correct: false
+    value: november
+    detail: '''november'' is not a synonym for ''jacquemier''s sign''.'
+  - correct: true
+    value: Jacquemier's sign
+    detail: '''Jacquemier''s sign'' is a synonym for ''jacquemier''s sign''.'
+- text: What is a synonym for 'moviemaking'?
+  options:
+  - correct: false
+    value: book of jeremiah
+    detail: '''book of jeremiah'' is not a synonym for ''moviemaking''.'
+  - correct: true
+    value: movie making
+    detail: '''movie making'' is a synonym for ''moviemaking''.'
+  - correct: false
+    value: hem
+    detail: '''hem'' is not a synonym for ''moviemaking''.'
+  - correct: false
+    value: fall of man
+    detail: '''fall of man'' is not a synonym for ''moviemaking''.'
+- text: What is a synonym for 'kingdom of cambodia'?
+  options:
+  - correct: false
+    value: vitus bering
+    detail: '''vitus bering'' is not a synonym for ''kingdom of cambodia''.'
+  - correct: true
+    value: Cambodia
+    detail: '''Cambodia'' is a synonym for ''kingdom of cambodia''.'
+  - correct: false
+    value: hans c. j. gram
+    detail: '''hans c. j. gram'' is not a synonym for ''kingdom of cambodia''.'
+  - correct: false
+    value: sportsman
+    detail: '''sportsman'' is not a synonym for ''kingdom of cambodia''.'
+- text: What is a synonym for 'flair'?
+  options:
+  - correct: false
+    value: seventh crusade
+    detail: '''seventh crusade'' is not a synonym for ''flair''.'
+  - correct: false
+    value: american bog asphodel
+    detail: '''american bog asphodel'' is not a synonym for ''flair''.'
+  - correct: true
+    value: genius
+    detail: '''genius'' is a synonym for ''flair''.'
+  - correct: false
+    value: sade
+    detail: '''sade'' is not a synonym for ''flair''.'

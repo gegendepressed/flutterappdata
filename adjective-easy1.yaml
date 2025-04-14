@@ -1,0 +1,285 @@
+description: Synonym questions - Easy Set 1
+topic: adjective
+id: adjective-easy1
+title: Adjective Synonyms - Easy 1
+questions:
+- text: What is a synonym for 'uncomprehensible'?
+  options:
+  - correct: true
+    value: incomprehensible
+    detail: '''incomprehensible'' is a synonym for ''uncomprehensible''.'
+  - correct: false
+    value: wagnerian
+    detail: '''wagnerian'' is not a synonym for ''uncomprehensible''.'
+  - correct: false
+    value: fruticose
+    detail: '''fruticose'' is not a synonym for ''uncomprehensible''.'
+  - correct: false
+    value: microscopic
+    detail: '''microscopic'' is not a synonym for ''uncomprehensible''.'
+- text: What is a synonym for 'preventative'?
+  options:
+  - correct: false
+    value: unlaurelled
+    detail: '''unlaurelled'' is not a synonym for ''preventative''.'
+  - correct: false
+    value: unlikeable
+    detail: '''unlikeable'' is not a synonym for ''preventative''.'
+  - correct: false
+    value: saxatile
+    detail: '''saxatile'' is not a synonym for ''preventative''.'
+  - correct: true
+    value: preventive
+    detail: '''preventive'' is a synonym for ''preventative''.'
+- text: What is a synonym for 'animist'?
+  options:
+  - correct: false
+    value: hypophysial
+    detail: '''hypophysial'' is not a synonym for ''animist''.'
+  - correct: false
+    value: gill-less
+    detail: '''gill-less'' is not a synonym for ''animist''.'
+  - correct: false
+    value: ruandan
+    detail: '''ruandan'' is not a synonym for ''animist''.'
+  - correct: true
+    value: animistic
+    detail: '''animistic'' is a synonym for ''animist''.'
+- text: What is a synonym for 'permanent'?
+  options:
+  - correct: true
+    value: lasting
+    detail: '''lasting'' is a synonym for ''permanent''.'
+  - correct: false
+    value: nigerien
+    detail: '''nigerien'' is not a synonym for ''permanent''.'
+  - correct: false
+    value: comestible
+    detail: '''comestible'' is not a synonym for ''permanent''.'
+  - correct: false
+    value: dimorphic
+    detail: '''dimorphic'' is not a synonym for ''permanent''.'
+- text: What is a synonym for 'anticlimactic'?
+  options:
+  - correct: false
+    value: homostylous
+    detail: '''homostylous'' is not a synonym for ''anticlimactic''.'
+  - correct: false
+    value: shod
+    detail: '''shod'' is not a synonym for ''anticlimactic''.'
+  - correct: true
+    value: anticlimactical
+    detail: '''anticlimactical'' is a synonym for ''anticlimactic''.'
+  - correct: false
+    value: nonabsorbent
+    detail: '''nonabsorbent'' is not a synonym for ''anticlimactic''.'
+- text: What is a synonym for 'hematologic'?
+  options:
+  - correct: false
+    value: visual
+    detail: '''visual'' is not a synonym for ''hematologic''.'
+  - correct: true
+    value: haematological
+    detail: '''haematological'' is a synonym for ''hematologic''.'
+  - correct: false
+    value: unleavened
+    detail: '''unleavened'' is not a synonym for ''hematologic''.'
+  - correct: false
+    value: palatine
+    detail: '''palatine'' is not a synonym for ''hematologic''.'
+- text: What is a synonym for 'nonsubmergible'?
+  options:
+  - correct: true
+    value: nonsubmersible
+    detail: '''nonsubmersible'' is a synonym for ''nonsubmergible''.'
+  - correct: false
+    value: kashmiri
+    detail: '''kashmiri'' is not a synonym for ''nonsubmergible''.'
+  - correct: false
+    value: biaxial
+    detail: '''biaxial'' is not a synonym for ''nonsubmergible''.'
+  - correct: false
+    value: tagged
+    detail: '''tagged'' is not a synonym for ''nonsubmergible''.'
+- text: What is a synonym for 'chiasmal'?
+  options:
+  - correct: false
+    value: confucian
+    detail: '''confucian'' is not a synonym for ''chiasmal''.'
+  - correct: false
+    value: appositional
+    detail: '''appositional'' is not a synonym for ''chiasmal''.'
+  - correct: false
+    value: unintegrated
+    detail: '''unintegrated'' is not a synonym for ''chiasmal''.'
+  - correct: true
+    value: chiasmic
+    detail: '''chiasmic'' is a synonym for ''chiasmal''.'
+- text: What is a synonym for 'unlamented'?
+  options:
+  - correct: false
+    value: heliac
+    detail: '''heliac'' is not a synonym for ''unlamented''.'
+  - correct: true
+    value: unmourned
+    detail: '''unmourned'' is a synonym for ''unlamented''.'
+  - correct: false
+    value: west african
+    detail: '''west african'' is not a synonym for ''unlamented''.'
+  - correct: false
+    value: .38-caliber
+    detail: '''.38-caliber'' is not a synonym for ''unlamented''.'
+- text: What is a synonym for 'unripened'?
+  options:
+  - correct: true
+    value: green
+    detail: '''green'' is a synonym for ''unripened''.'
+  - correct: false
+    value: nicaean
+    detail: '''nicaean'' is not a synonym for ''unripened''.'
+  - correct: false
+    value: anaglyptical
+    detail: '''anaglyptical'' is not a synonym for ''unripened''.'
+  - correct: false
+    value: talented
+    detail: '''talented'' is not a synonym for ''unripened''.'
+- text: What is a synonym for 'conelike'?
+  options:
+  - correct: false
+    value: diametrical
+    detail: '''diametrical'' is not a synonym for ''conelike''.'
+  - correct: false
+    value: rough
+    detail: '''rough'' is not a synonym for ''conelike''.'
+  - correct: false
+    value: algonkian
+    detail: '''algonkian'' is not a synonym for ''conelike''.'
+  - correct: true
+    value: conic
+    detail: '''conic'' is a synonym for ''conelike''.'
+- text: What is a synonym for 'civilised'?
+  options:
+  - correct: false
+    value: dostoyevskian
+    detail: '''dostoyevskian'' is not a synonym for ''civilised''.'
+  - correct: true
+    value: civilized
+    detail: '''civilized'' is a synonym for ''civilised''.'
+  - correct: false
+    value: expressed
+    detail: '''expressed'' is not a synonym for ''civilised''.'
+  - correct: false
+    value: unaffected
+    detail: '''unaffected'' is not a synonym for ''civilised''.'
+- text: What is a synonym for 'ethnographical'?
+  options:
+  - correct: false
+    value: reproducible
+    detail: '''reproducible'' is not a synonym for ''ethnographical''.'
+  - correct: false
+    value: represented
+    detail: '''represented'' is not a synonym for ''ethnographical''.'
+  - correct: true
+    value: ethnographic
+    detail: '''ethnographic'' is a synonym for ''ethnographical''.'
+  - correct: false
+    value: expiative
+    detail: '''expiative'' is not a synonym for ''ethnographical''.'
+- text: What is a synonym for 'east african'?
+  options:
+  - correct: false
+    value: variolar
+    detail: '''variolar'' is not a synonym for ''east african''.'
+  - correct: true
+    value: East African
+    detail: '''East African'' is a synonym for ''east african''.'
+  - correct: false
+    value: annexal
+    detail: '''annexal'' is not a synonym for ''east african''.'
+  - correct: false
+    value: sanitary
+    detail: '''sanitary'' is not a synonym for ''east african''.'
+- text: What is a synonym for 'biaxate'?
+  options:
+  - correct: false
+    value: extraversive
+    detail: '''extraversive'' is not a synonym for ''biaxate''.'
+  - correct: true
+    value: biaxial
+    detail: '''biaxial'' is a synonym for ''biaxate''.'
+  - correct: false
+    value: outside
+    detail: '''outside'' is not a synonym for ''biaxate''.'
+  - correct: false
+    value: hemal
+    detail: '''hemal'' is not a synonym for ''biaxate''.'
+- text: What is a synonym for 'unploughed'?
+  options:
+  - correct: false
+    value: geologic
+    detail: '''geologic'' is not a synonym for ''unploughed''.'
+  - correct: true
+    value: unplowed
+    detail: '''unplowed'' is a synonym for ''unploughed''.'
+  - correct: false
+    value: curved
+    detail: '''curved'' is not a synonym for ''unploughed''.'
+  - correct: false
+    value: arboreal
+    detail: '''arboreal'' is not a synonym for ''unploughed''.'
+- text: What is a synonym for 'genuine'?
+  options:
+  - correct: false
+    value: dietetical
+    detail: '''dietetical'' is not a synonym for ''genuine''.'
+  - correct: false
+    value: sounder
+    detail: '''sounder'' is not a synonym for ''genuine''.'
+  - correct: true
+    value: echt
+    detail: '''echt'' is a synonym for ''genuine''.'
+  - correct: false
+    value: best
+    detail: '''best'' is not a synonym for ''genuine''.'
+- text: What is a synonym for 'anodal'?
+  options:
+  - correct: false
+    value: confirming
+    detail: '''confirming'' is not a synonym for ''anodal''.'
+  - correct: false
+    value: stigmatic
+    detail: '''stigmatic'' is not a synonym for ''anodal''.'
+  - correct: false
+    value: rough
+    detail: '''rough'' is not a synonym for ''anodal''.'
+  - correct: true
+    value: anodic
+    detail: '''anodic'' is a synonym for ''anodal''.'
+- text: What is a synonym for 'myopic'?
+  options:
+  - correct: false
+    value: congeneric
+    detail: '''congeneric'' is not a synonym for ''myopic''.'
+  - correct: false
+    value: unbroken
+    detail: '''unbroken'' is not a synonym for ''myopic''.'
+  - correct: true
+    value: nearsighted
+    detail: '''nearsighted'' is a synonym for ''myopic''.'
+  - correct: false
+    value: bahraini
+    detail: '''bahraini'' is not a synonym for ''myopic''.'
+- text: What is a synonym for 'late'?
+  options:
+  - correct: true
+    value: later
+    detail: '''later'' is a synonym for ''late''.'
+  - correct: false
+    value: centennial
+    detail: '''centennial'' is not a synonym for ''late''.'
+  - correct: false
+    value: part-time
+    detail: '''part-time'' is not a synonym for ''late''.'
+  - correct: false
+    value: underhanded
+    detail: '''underhanded'' is not a synonym for ''late''.'

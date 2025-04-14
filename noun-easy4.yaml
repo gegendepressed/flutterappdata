@@ -1,0 +1,285 @@
+description: Synonym questions - Easy Set 4
+topic: noun
+id: noun-easy4
+title: Noun Synonyms - Easy 4
+questions:
+- text: What is a synonym for 'safety valve'?
+  options:
+  - correct: false
+    value: giro cheque
+    detail: '''giro cheque'' is not a synonym for ''safety valve''.'
+  - correct: false
+    value: white alder
+    detail: '''white alder'' is not a synonym for ''safety valve''.'
+  - correct: true
+    value: relief valve
+    detail: '''relief valve'' is a synonym for ''safety valve''.'
+  - correct: false
+    value: wainscotting
+    detail: '''wainscotting'' is not a synonym for ''safety valve''.'
+- text: What is a synonym for 'self-fulfillment'?
+  options:
+  - correct: false
+    value: stewardess
+    detail: '''stewardess'' is not a synonym for ''self-fulfillment''.'
+  - correct: false
+    value: sewer system
+    detail: '''sewer system'' is not a synonym for ''self-fulfillment''.'
+  - correct: false
+    value: scarer
+    detail: '''scarer'' is not a synonym for ''self-fulfillment''.'
+  - correct: true
+    value: self-realization
+    detail: '''self-realization'' is a synonym for ''self-fulfillment''.'
+- text: What is a synonym for 'kingdom of sweden'?
+  options:
+  - correct: false
+    value: liberty chit
+    detail: '''liberty chit'' is not a synonym for ''kingdom of sweden''.'
+  - correct: false
+    value: capet
+    detail: '''capet'' is not a synonym for ''kingdom of sweden''.'
+  - correct: false
+    value: mountain beaver
+    detail: '''mountain beaver'' is not a synonym for ''kingdom of sweden''.'
+  - correct: true
+    value: Sweden
+    detail: '''Sweden'' is a synonym for ''kingdom of sweden''.'
+- text: What is a synonym for 'kph'?
+  options:
+  - correct: false
+    value: astropogon
+    detail: '''astropogon'' is not a synonym for ''kph''.'
+  - correct: false
+    value: anisette
+    detail: '''anisette'' is not a synonym for ''kph''.'
+  - correct: true
+    value: kilometers per hour
+    detail: '''kilometers per hour'' is a synonym for ''kph''.'
+  - correct: false
+    value: declinometer
+    detail: '''declinometer'' is not a synonym for ''kph''.'
+- text: What is a synonym for 'dwelling house'?
+  options:
+  - correct: false
+    value: peripeteia
+    detail: '''peripeteia'' is not a synonym for ''dwelling house''.'
+  - correct: false
+    value: lyonia lucida
+    detail: '''lyonia lucida'' is not a synonym for ''dwelling house''.'
+  - correct: false
+    value: chimonanthus
+    detail: '''chimonanthus'' is not a synonym for ''dwelling house''.'
+  - correct: true
+    value: dwelling
+    detail: '''dwelling'' is a synonym for ''dwelling house''.'
+- text: What is a synonym for 'zoophilia'?
+  options:
+  - correct: false
+    value: mental balance
+    detail: '''mental balance'' is not a synonym for ''zoophilia''.'
+  - correct: false
+    value: have-not
+    detail: '''have-not'' is not a synonym for ''zoophilia''.'
+  - correct: true
+    value: zoophilism
+    detail: '''zoophilism'' is a synonym for ''zoophilia''.'
+  - correct: false
+    value: peace treaty
+    detail: '''peace treaty'' is not a synonym for ''zoophilia''.'
+- text: What is a synonym for 'red goosefoot'?
+  options:
+  - correct: false
+    value: salvia lyrata
+    detail: '''salvia lyrata'' is not a synonym for ''red goosefoot''.'
+  - correct: false
+    value: paperclip
+    detail: '''paperclip'' is not a synonym for ''red goosefoot''.'
+  - correct: false
+    value: madriporian coral
+    detail: '''madriporian coral'' is not a synonym for ''red goosefoot''.'
+  - correct: true
+    value: French spinach
+    detail: '''French spinach'' is a synonym for ''red goosefoot''.'
+- text: What is a synonym for 'palaeontologist'?
+  options:
+  - correct: true
+    value: paleontologist
+    detail: '''paleontologist'' is a synonym for ''palaeontologist''.'
+  - correct: false
+    value: orchidaceae
+    detail: '''orchidaceae'' is not a synonym for ''palaeontologist''.'
+  - correct: false
+    value: gesneriaceae
+    detail: '''gesneriaceae'' is not a synonym for ''palaeontologist''.'
+  - correct: false
+    value: japanese spurge
+    detail: '''japanese spurge'' is not a synonym for ''palaeontologist''.'
+- text: What is a synonym for 'robert i'?
+  options:
+  - correct: false
+    value: zealot
+    detail: '''zealot'' is not a synonym for ''robert i''.'
+  - correct: false
+    value: hudsonia ericoides
+    detail: '''hudsonia ericoides'' is not a synonym for ''robert i''.'
+  - correct: false
+    value: verdolagas
+    detail: '''verdolagas'' is not a synonym for ''robert i''.'
+  - correct: true
+    value: Bruce
+    detail: '''Bruce'' is a synonym for ''robert i''.'
+- text: What is a synonym for 'towel horse'?
+  options:
+  - correct: true
+    value: towel rack
+    detail: '''towel rack'' is a synonym for ''towel horse''.'
+  - correct: false
+    value: direct correlation
+    detail: '''direct correlation'' is not a synonym for ''towel horse''.'
+  - correct: false
+    value: mycostatin
+    detail: '''mycostatin'' is not a synonym for ''towel horse''.'
+  - correct: false
+    value: mezereon
+    detail: '''mezereon'' is not a synonym for ''towel horse''.'
+- text: What is a synonym for 'philtre'?
+  options:
+  - correct: false
+    value: organized crime
+    detail: '''organized crime'' is not a synonym for ''philtre''.'
+  - correct: false
+    value: auspices
+    detail: '''auspices'' is not a synonym for ''philtre''.'
+  - correct: false
+    value: lust for learning
+    detail: '''lust for learning'' is not a synonym for ''philtre''.'
+  - correct: true
+    value: philter
+    detail: '''philter'' is a synonym for ''philtre''.'
+- text: What is a synonym for 'lisinopril'?
+  options:
+  - correct: false
+    value: fenestra vestibuli
+    detail: '''fenestra vestibuli'' is not a synonym for ''lisinopril''.'
+  - correct: false
+    value: achylia
+    detail: '''achylia'' is not a synonym for ''lisinopril''.'
+  - correct: true
+    value: Prinival
+    detail: '''Prinival'' is a synonym for ''lisinopril''.'
+  - correct: false
+    value: fish eagle
+    detail: '''fish eagle'' is not a synonym for ''lisinopril''.'
+- text: What is a synonym for 'penutian'?
+  options:
+  - correct: false
+    value: lush
+    detail: '''lush'' is not a synonym for ''penutian''.'
+  - correct: true
+    value: Penutian
+    detail: '''Penutian'' is a synonym for ''penutian''.'
+  - correct: false
+    value: gobio
+    detail: '''gobio'' is not a synonym for ''penutian''.'
+  - correct: false
+    value: irvingia gabonensis
+    detail: '''irvingia gabonensis'' is not a synonym for ''penutian''.'
+- text: What is a synonym for 'step-up'?
+  options:
+  - correct: false
+    value: assam rubber
+    detail: '''assam rubber'' is not a synonym for ''step-up''.'
+  - correct: false
+    value: disciotis venosa
+    detail: '''disciotis venosa'' is not a synonym for ''step-up''.'
+  - correct: true
+    value: increase
+    detail: '''increase'' is a synonym for ''step-up''.'
+  - correct: false
+    value: communist party
+    detail: '''communist party'' is not a synonym for ''step-up''.'
+- text: What is a synonym for 'saint andrew'?
+  options:
+  - correct: false
+    value: earth wax
+    detail: '''earth wax'' is not a synonym for ''saint andrew''.'
+  - correct: true
+    value: Andrew
+    detail: '''Andrew'' is a synonym for ''saint andrew''.'
+  - correct: false
+    value: flower-cup fern
+    detail: '''flower-cup fern'' is not a synonym for ''saint andrew''.'
+  - correct: false
+    value: homarus vulgaris
+    detail: '''homarus vulgaris'' is not a synonym for ''saint andrew''.'
+- text: What is a synonym for 'violaceae'?
+  options:
+  - correct: false
+    value: rotundness
+    detail: '''rotundness'' is not a synonym for ''violaceae''.'
+  - correct: false
+    value: tow car
+    detail: '''tow car'' is not a synonym for ''violaceae''.'
+  - correct: true
+    value: Violaceae
+    detail: '''Violaceae'' is a synonym for ''violaceae''.'
+  - correct: false
+    value: mustelidae
+    detail: '''mustelidae'' is not a synonym for ''violaceae''.'
+- text: What is a synonym for 'eliezer wiesel'?
+  options:
+  - correct: false
+    value: pair of tongs
+    detail: '''pair of tongs'' is not a synonym for ''eliezer wiesel''.'
+  - correct: false
+    value: leaf
+    detail: '''leaf'' is not a synonym for ''eliezer wiesel''.'
+  - correct: true
+    value: Wiesel
+    detail: '''Wiesel'' is a synonym for ''eliezer wiesel''.'
+  - correct: false
+    value: duke university
+    detail: '''duke university'' is not a synonym for ''eliezer wiesel''.'
+- text: What is a synonym for 'division eumycota'?
+  options:
+  - correct: false
+    value: prurience
+    detail: '''prurience'' is not a synonym for ''division eumycota''.'
+  - correct: false
+    value: real gnp
+    detail: '''real gnp'' is not a synonym for ''division eumycota''.'
+  - correct: false
+    value: stalin peak
+    detail: '''stalin peak'' is not a synonym for ''division eumycota''.'
+  - correct: true
+    value: Eumycota
+    detail: '''Eumycota'' is a synonym for ''division eumycota''.'
+- text: What is a synonym for 'sound projection'?
+  options:
+  - correct: false
+    value: diplotaxis erucoides
+    detail: '''diplotaxis erucoides'' is not a synonym for ''sound projection''.'
+  - correct: false
+    value: y chromosome
+    detail: '''y chromosome'' is not a synonym for ''sound projection''.'
+  - correct: true
+    value: projection
+    detail: '''projection'' is a synonym for ''sound projection''.'
+  - correct: false
+    value: materfamilias
+    detail: '''materfamilias'' is not a synonym for ''sound projection''.'
+- text: What is a synonym for 'paul revere'?
+  options:
+  - correct: false
+    value: sugar
+    detail: '''sugar'' is not a synonym for ''paul revere''.'
+  - correct: true
+    value: Revere
+    detail: '''Revere'' is a synonym for ''paul revere''.'
+  - correct: false
+    value: self-feeder
+    detail: '''self-feeder'' is not a synonym for ''paul revere''.'
+  - correct: false
+    value: genus pimenta
+    detail: '''genus pimenta'' is not a synonym for ''paul revere''.'

@@ -1,0 +1,285 @@
+description: Synonym questions - Easy Set 2
+topic: verb
+id: verb-easy2
+title: Verb Synonyms - Easy 2
+questions:
+- text: What is a synonym for 'learnedly'?
+  options:
+  - correct: false
+    value: familiarized
+    detail: '''familiarized'' is not a synonym for ''learnedly''.'
+  - correct: false
+    value: glorify
+    detail: '''glorify'' is not a synonym for ''learnedly''.'
+  - correct: true
+    value: eruditely
+    detail: '''eruditely'' is a synonym for ''learnedly''.'
+  - correct: false
+    value: at the best
+    detail: '''at the best'' is not a synonym for ''learnedly''.'
+- text: What is a synonym for 'alarm'?
+  options:
+  - correct: false
+    value: muff
+    detail: '''muff'' is not a synonym for ''alarm''.'
+  - correct: true
+    value: dismay
+    detail: '''dismay'' is a synonym for ''alarm''.'
+  - correct: false
+    value: rent out
+    detail: '''rent out'' is not a synonym for ''alarm''.'
+  - correct: false
+    value: pass up
+    detail: '''pass up'' is not a synonym for ''alarm''.'
+- text: What is a synonym for 'ask for'?
+  options:
+  - correct: false
+    value: dissolve
+    detail: '''dissolve'' is not a synonym for ''ask for''.'
+  - correct: false
+    value: bivouac
+    detail: '''bivouac'' is not a synonym for ''ask for''.'
+  - correct: false
+    value: deadening
+    detail: '''deadening'' is not a synonym for ''ask for''.'
+  - correct: true
+    value: invite
+    detail: '''invite'' is a synonym for ''ask for''.'
+- text: What is a synonym for 'crap'?
+  options:
+  - correct: false
+    value: remind
+    detail: '''remind'' is not a synonym for ''crap''.'
+  - correct: false
+    value: seldom
+    detail: '''seldom'' is not a synonym for ''crap''.'
+  - correct: false
+    value: tree
+    detail: '''tree'' is not a synonym for ''crap''.'
+  - correct: true
+    value: stool
+    detail: '''stool'' is a synonym for ''crap''.'
+- text: What is a synonym for 'moistening'?
+  options:
+  - correct: false
+    value: on the contrary
+    detail: '''on the contrary'' is not a synonym for ''moistening''.'
+  - correct: true
+    value: moisten
+    detail: '''moisten'' is a synonym for ''moistening''.'
+  - correct: false
+    value: empanel
+    detail: '''empanel'' is not a synonym for ''moistening''.'
+  - correct: false
+    value: include
+    detail: '''include'' is not a synonym for ''moistening''.'
+- text: What is a synonym for 'compress'?
+  options:
+  - correct: true
+    value: compact
+    detail: '''compact'' is a synonym for ''compress''.'
+  - correct: false
+    value: wish well
+    detail: '''wish well'' is not a synonym for ''compress''.'
+  - correct: false
+    value: entangled
+    detail: '''entangled'' is not a synonym for ''compress''.'
+  - correct: false
+    value: eased
+    detail: '''eased'' is not a synonym for ''compress''.'
+- text: What is a synonym for 'exsiccate'?
+  options:
+  - correct: false
+    value: cultivated
+    detail: '''cultivated'' is not a synonym for ''exsiccate''.'
+  - correct: false
+    value: coop in
+    detail: '''coop in'' is not a synonym for ''exsiccate''.'
+  - correct: false
+    value: wheedle
+    detail: '''wheedle'' is not a synonym for ''exsiccate''.'
+  - correct: true
+    value: dehydrate
+    detail: '''dehydrate'' is a synonym for ''exsiccate''.'
+- text: What is a synonym for 'accredited'?
+  options:
+  - correct: true
+    value: accredit
+    detail: '''accredit'' is a synonym for ''accredited''.'
+  - correct: false
+    value: torture
+    detail: '''torture'' is not a synonym for ''accredited''.'
+  - correct: false
+    value: jellify
+    detail: '''jellify'' is not a synonym for ''accredited''.'
+  - correct: false
+    value: catechize
+    detail: '''catechize'' is not a synonym for ''accredited''.'
+- text: What is a synonym for 'accoutred'?
+  options:
+  - correct: true
+    value: accouter
+    detail: '''accouter'' is a synonym for ''accoutred''.'
+  - correct: false
+    value: paired
+    detail: '''paired'' is not a synonym for ''accoutred''.'
+  - correct: false
+    value: wiring
+    detail: '''wiring'' is not a synonym for ''accoutred''.'
+  - correct: false
+    value: flatten
+    detail: '''flatten'' is not a synonym for ''accoutred''.'
+- text: What is a synonym for 'braided'?
+  options:
+  - correct: false
+    value: come apart
+    detail: '''come apart'' is not a synonym for ''braided''.'
+  - correct: false
+    value: stitched
+    detail: '''stitched'' is not a synonym for ''braided''.'
+  - correct: true
+    value: braid
+    detail: '''braid'' is a synonym for ''braided''.'
+  - correct: false
+    value: exhilarate
+    detail: '''exhilarate'' is not a synonym for ''braided''.'
+- text: What is a synonym for 'offload'?
+  options:
+  - correct: false
+    value: double time
+    detail: '''double time'' is not a synonym for ''offload''.'
+  - correct: true
+    value: unload
+    detail: '''unload'' is a synonym for ''offload''.'
+  - correct: false
+    value: tours
+    detail: '''tours'' is not a synonym for ''offload''.'
+  - correct: false
+    value: confirming
+    detail: '''confirming'' is not a synonym for ''offload''.'
+- text: What is a synonym for 'embrace'?
+  options:
+  - correct: false
+    value: gesticulate
+    detail: '''gesticulate'' is not a synonym for ''embrace''.'
+  - correct: false
+    value: exuviate
+    detail: '''exuviate'' is not a synonym for ''embrace''.'
+  - correct: true
+    value: encompass
+    detail: '''encompass'' is a synonym for ''embrace''.'
+  - correct: false
+    value: regard
+    detail: '''regard'' is not a synonym for ''embrace''.'
+- text: What is a synonym for 'fall'?
+  options:
+  - correct: false
+    value: ooh
+    detail: '''ooh'' is not a synonym for ''fall''.'
+  - correct: true
+    value: descend
+    detail: '''descend'' is a synonym for ''fall''.'
+  - correct: false
+    value: boned
+    detail: '''boned'' is not a synonym for ''fall''.'
+  - correct: false
+    value: scrubbing
+    detail: '''scrubbing'' is not a synonym for ''fall''.'
+- text: What is a synonym for 'biased'?
+  options:
+  - correct: false
+    value: endorse
+    detail: '''endorse'' is not a synonym for ''biased''.'
+  - correct: true
+    value: bias
+    detail: '''bias'' is a synonym for ''biased''.'
+  - correct: false
+    value: measure out
+    detail: '''measure out'' is not a synonym for ''biased''.'
+  - correct: false
+    value: modify
+    detail: '''modify'' is not a synonym for ''biased''.'
+- text: What is a synonym for 'through'?
+  options:
+  - correct: false
+    value: bevel
+    detail: '''bevel'' is not a synonym for ''through''.'
+  - correct: true
+    value: through and through
+    detail: '''through and through'' is a synonym for ''through''.'
+  - correct: false
+    value: put one over
+    detail: '''put one over'' is not a synonym for ''through''.'
+  - correct: false
+    value: philosophize
+    detail: '''philosophize'' is not a synonym for ''through''.'
+- text: What is a synonym for 'impaired'?
+  options:
+  - correct: false
+    value: flick
+    detail: '''flick'' is not a synonym for ''impaired''.'
+  - correct: false
+    value: harrow
+    detail: '''harrow'' is not a synonym for ''impaired''.'
+  - correct: false
+    value: swathing
+    detail: '''swathing'' is not a synonym for ''impaired''.'
+  - correct: true
+    value: impair
+    detail: '''impair'' is a synonym for ''impaired''.'
+- text: What is a synonym for 'renounce'?
+  options:
+  - correct: false
+    value: expected
+    detail: '''expected'' is not a synonym for ''renounce''.'
+  - correct: false
+    value: try for
+    detail: '''try for'' is not a synonym for ''renounce''.'
+  - correct: false
+    value: make off
+    detail: '''make off'' is not a synonym for ''renounce''.'
+  - correct: true
+    value: abdicate
+    detail: '''abdicate'' is a synonym for ''renounce''.'
+- text: What is a synonym for 'belly'?
+  options:
+  - correct: false
+    value: take home
+    detail: '''take home'' is not a synonym for ''belly''.'
+  - correct: true
+    value: belly out
+    detail: '''belly out'' is a synonym for ''belly''.'
+  - correct: false
+    value: shear
+    detail: '''shear'' is not a synonym for ''belly''.'
+  - correct: false
+    value: shortening
+    detail: '''shortening'' is not a synonym for ''belly''.'
+- text: What is a synonym for 'multifariously'?
+  options:
+  - correct: false
+    value: planning
+    detail: '''planning'' is not a synonym for ''multifariously''.'
+  - correct: false
+    value: stream
+    detail: '''stream'' is not a synonym for ''multifariously''.'
+  - correct: true
+    value: variously
+    detail: '''variously'' is a synonym for ''multifariously''.'
+  - correct: false
+    value: drink
+    detail: '''drink'' is not a synonym for ''multifariously''.'
+- text: What is a synonym for 'gallop'?
+  options:
+  - correct: false
+    value: forward
+    detail: '''forward'' is not a synonym for ''gallop''.'
+  - correct: false
+    value: swathing
+    detail: '''swathing'' is not a synonym for ''gallop''.'
+  - correct: true
+    value: extend
+    detail: '''extend'' is a synonym for ''gallop''.'
+  - correct: false
+    value: legislate
+    detail: '''legislate'' is not a synonym for ''gallop''.'

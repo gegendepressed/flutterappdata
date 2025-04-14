@@ -1,0 +1,285 @@
+description: Synonym questions - Medium Set 4
+topic: noun
+id: noun-medium4
+title: Noun Synonyms - Medium 4
+questions:
+- text: What is a synonym for 'karl adolf eichmann'?
+  options:
+  - correct: false
+    value: potassium acid carbonate
+    detail: '''potassium acid carbonate'' is not a synonym for ''karl adolf eichmann''.'
+  - correct: false
+    value: grass tree family
+    detail: '''grass tree family'' is not a synonym for ''karl adolf eichmann''.'
+  - correct: true
+    value: Eichmann
+    detail: '''Eichmann'' is a synonym for ''karl adolf eichmann''.'
+  - correct: false
+    value: scollop
+    detail: '''scollop'' is not a synonym for ''karl adolf eichmann''.'
+- text: What is a synonym for 'sir james george frazer'?
+  options:
+  - correct: false
+    value: administrative official
+    detail: '''administrative official'' is not a synonym for ''sir james george frazer''.'
+  - correct: false
+    value: crockett
+    detail: '''crockett'' is not a synonym for ''sir james george frazer''.'
+  - correct: true
+    value: Frazer
+    detail: '''Frazer'' is a synonym for ''sir james george frazer''.'
+  - correct: false
+    value: bottle-nosed whale
+    detail: '''bottle-nosed whale'' is not a synonym for ''sir james george frazer''.'
+- text: What is a synonym for 'yellow fever'?
+  options:
+  - correct: false
+    value: familiarization
+    detail: '''familiarization'' is not a synonym for ''yellow fever''.'
+  - correct: false
+    value: catalpa bignioides
+    detail: '''catalpa bignioides'' is not a synonym for ''yellow fever''.'
+  - correct: true
+    value: yellow jack
+    detail: '''yellow jack'' is a synonym for ''yellow fever''.'
+  - correct: false
+    value: cumulonimbus
+    detail: '''cumulonimbus'' is not a synonym for ''yellow fever''.'
+- text: What is a synonym for 'gravimeter'?
+  options:
+  - correct: true
+    value: hydrometer
+    detail: '''hydrometer'' is a synonym for ''gravimeter''.'
+  - correct: false
+    value: bycatch
+    detail: '''bycatch'' is not a synonym for ''gravimeter''.'
+  - correct: false
+    value: pima
+    detail: '''pima'' is not a synonym for ''gravimeter''.'
+  - correct: false
+    value: st. ignatius of loyola
+    detail: '''st. ignatius of loyola'' is not a synonym for ''gravimeter''.'
+- text: What is a synonym for 'hematoma'?
+  options:
+  - correct: false
+    value: wetter
+    detail: '''wetter'' is not a synonym for ''hematoma''.'
+  - correct: false
+    value: sterculia rupestris
+    detail: '''sterculia rupestris'' is not a synonym for ''hematoma''.'
+  - correct: true
+    value: haematoma
+    detail: '''haematoma'' is a synonym for ''hematoma''.'
+  - correct: false
+    value: eighth
+    detail: '''eighth'' is not a synonym for ''hematoma''.'
+- text: What is a synonym for 'tanbark oak'?
+  options:
+  - correct: true
+    value: Lithocarpus densiflorus
+    detail: '''Lithocarpus densiflorus'' is a synonym for ''tanbark oak''.'
+  - correct: false
+    value: genus coelogyne
+    detail: '''genus coelogyne'' is not a synonym for ''tanbark oak''.'
+  - correct: false
+    value: leaf
+    detail: '''leaf'' is not a synonym for ''tanbark oak''.'
+  - correct: false
+    value: leucadendron argenteum
+    detail: '''leucadendron argenteum'' is not a synonym for ''tanbark oak''.'
+- text: What is a synonym for 'sydenham's chorea'?
+  options:
+  - correct: true
+    value: Sydenham's chorea
+    detail: '''Sydenham''s chorea'' is a synonym for ''sydenham''s chorea''.'
+  - correct: false
+    value: flanders poppy
+    detail: '''flanders poppy'' is not a synonym for ''sydenham''s chorea''.'
+  - correct: false
+    value: anal intercourse
+    detail: '''anal intercourse'' is not a synonym for ''sydenham''s chorea''.'
+  - correct: false
+    value: temporizer
+    detail: '''temporizer'' is not a synonym for ''sydenham''s chorea''.'
+- text: What is a synonym for 'north korean won'?
+  options:
+  - correct: false
+    value: genus lamna
+    detail: '''genus lamna'' is not a synonym for ''north korean won''.'
+  - correct: true
+    value: North Korean won
+    detail: '''North Korean won'' is a synonym for ''north korean won''.'
+  - correct: false
+    value: iw
+    detail: '''iw'' is not a synonym for ''north korean won''.'
+  - correct: false
+    value: living space
+    detail: '''living space'' is not a synonym for ''north korean won''.'
+- text: What is a synonym for 'dietrich'?
+  options:
+  - correct: false
+    value: business loan
+    detail: '''business loan'' is not a synonym for ''dietrich''.'
+  - correct: true
+    value: Dietrich
+    detail: '''Dietrich'' is a synonym for ''dietrich''.'
+  - correct: false
+    value: chateura
+    detail: '''chateura'' is not a synonym for ''dietrich''.'
+  - correct: false
+    value: battle of gettysburg
+    detail: '''battle of gettysburg'' is not a synonym for ''dietrich''.'
+- text: What is a synonym for 'broil'?
+  options:
+  - correct: false
+    value: gearbox
+    detail: '''gearbox'' is not a synonym for ''broil''.'
+  - correct: true
+    value: broiling
+    detail: '''broiling'' is a synonym for ''broil''.'
+  - correct: false
+    value: menomini
+    detail: '''menomini'' is not a synonym for ''broil''.'
+  - correct: false
+    value: scientific discipline
+    detail: '''scientific discipline'' is not a synonym for ''broil''.'
+- text: What is a synonym for 'laniard'?
+  options:
+  - correct: false
+    value: flexibility
+    detail: '''flexibility'' is not a synonym for ''laniard''.'
+  - correct: false
+    value: pennywhistle
+    detail: '''pennywhistle'' is not a synonym for ''laniard''.'
+  - correct: true
+    value: lanyard
+    detail: '''lanyard'' is a synonym for ''laniard''.'
+  - correct: false
+    value: british isles
+    detail: '''british isles'' is not a synonym for ''laniard''.'
+- text: What is a synonym for 'finiteness'?
+  options:
+  - correct: false
+    value: cigarette
+    detail: '''cigarette'' is not a synonym for ''finiteness''.'
+  - correct: true
+    value: finitude
+    detail: '''finitude'' is a synonym for ''finiteness''.'
+  - correct: false
+    value: sarcocephalus
+    detail: '''sarcocephalus'' is not a synonym for ''finiteness''.'
+  - correct: false
+    value: cyanamid
+    detail: '''cyanamid'' is not a synonym for ''finiteness''.'
+- text: What is a synonym for 'gambrel roof'?
+  options:
+  - correct: false
+    value: mecholyl
+    detail: '''mecholyl'' is not a synonym for ''gambrel roof''.'
+  - correct: false
+    value: dugald stewart
+    detail: '''dugald stewart'' is not a synonym for ''gambrel roof''.'
+  - correct: true
+    value: gambrel
+    detail: '''gambrel'' is a synonym for ''gambrel roof''.'
+  - correct: false
+    value: green pea
+    detail: '''green pea'' is not a synonym for ''gambrel roof''.'
+- text: What is a synonym for 'custer'?
+  options:
+  - correct: false
+    value: dogtooth violet
+    detail: '''dogtooth violet'' is not a synonym for ''custer''.'
+  - correct: false
+    value: zooflagellate
+    detail: '''zooflagellate'' is not a synonym for ''custer''.'
+  - correct: false
+    value: genus chrysochloris
+    detail: '''genus chrysochloris'' is not a synonym for ''custer''.'
+  - correct: true
+    value: Custer
+    detail: '''Custer'' is a synonym for ''custer''.'
+- text: What is a synonym for 'genus carassius'?
+  options:
+  - correct: true
+    value: Carassius
+    detail: '''Carassius'' is a synonym for ''genus carassius''.'
+  - correct: false
+    value: grommet
+    detail: '''grommet'' is not a synonym for ''genus carassius''.'
+  - correct: false
+    value: flindersia
+    detail: '''flindersia'' is not a synonym for ''genus carassius''.'
+  - correct: false
+    value: rawalpindi
+    detail: '''rawalpindi'' is not a synonym for ''genus carassius''.'
+- text: What is a synonym for 'abraham'?
+  options:
+  - correct: false
+    value: moro
+    detail: '''moro'' is not a synonym for ''abraham''.'
+  - correct: false
+    value: by-blow
+    detail: '''by-blow'' is not a synonym for ''abraham''.'
+  - correct: true
+    value: Abraham
+    detail: '''Abraham'' is a synonym for ''abraham''.'
+  - correct: false
+    value: candelilla
+    detail: '''candelilla'' is not a synonym for ''abraham''.'
+- text: What is a synonym for 'lush'?
+  options:
+  - correct: false
+    value: allice shad
+    detail: '''allice shad'' is not a synonym for ''lush''.'
+  - correct: false
+    value: nicotiana glauca
+    detail: '''nicotiana glauca'' is not a synonym for ''lush''.'
+  - correct: true
+    value: alcoholic
+    detail: '''alcoholic'' is a synonym for ''lush''.'
+  - correct: false
+    value: ballistics
+    detail: '''ballistics'' is not a synonym for ''lush''.'
+- text: What is a synonym for 'liberty chit'?
+  options:
+  - correct: true
+    value: pass
+    detail: '''pass'' is a synonym for ''liberty chit''.'
+  - correct: false
+    value: eye tooth
+    detail: '''eye tooth'' is not a synonym for ''liberty chit''.'
+  - correct: false
+    value: fetoprotein
+    detail: '''fetoprotein'' is not a synonym for ''liberty chit''.'
+  - correct: false
+    value: impossible action
+    detail: '''impossible action'' is not a synonym for ''liberty chit''.'
+- text: What is a synonym for 'lagenaria siceraria'?
+  options:
+  - correct: true
+    value: bottle gourd
+    detail: '''bottle gourd'' is a synonym for ''lagenaria siceraria''.'
+  - correct: false
+    value: khanty
+    detail: '''khanty'' is not a synonym for ''lagenaria siceraria''.'
+  - correct: false
+    value: northwestern united states
+    detail: '''northwestern united states'' is not a synonym for ''lagenaria siceraria''.'
+  - correct: false
+    value: festering
+    detail: '''festering'' is not a synonym for ''lagenaria siceraria''.'
+- text: What is a synonym for 'short's aster'?
+  options:
+  - correct: false
+    value: constriction
+    detail: '''constriction'' is not a synonym for ''short''s aster''.'
+  - correct: true
+    value: Short's aster
+    detail: '''Short''s aster'' is a synonym for ''short''s aster''.'
+  - correct: false
+    value: order palmales
+    detail: '''order palmales'' is not a synonym for ''short''s aster''.'
+  - correct: false
+    value: genus acarus
+    detail: '''genus acarus'' is not a synonym for ''short''s aster''.'

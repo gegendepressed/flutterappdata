@@ -1,0 +1,285 @@
+description: Synonym questions - Medium Set 3
+topic: verb
+id: verb-medium3
+title: Verb Synonyms - Medium 3
+questions:
+- text: What is a synonym for 'contra danse'?
+  options:
+  - correct: true
+    value: contradance
+    detail: '''contradance'' is a synonym for ''contra danse''.'
+  - correct: false
+    value: alleviated
+    detail: '''alleviated'' is not a synonym for ''contra danse''.'
+  - correct: false
+    value: slug
+    detail: '''slug'' is not a synonym for ''contra danse''.'
+  - correct: false
+    value: deliciously
+    detail: '''deliciously'' is not a synonym for ''contra danse''.'
+- text: What is a synonym for 'smell'?
+  options:
+  - correct: false
+    value: stalk
+    detail: '''stalk'' is not a synonym for ''smell''.'
+  - correct: false
+    value: cannulize
+    detail: '''cannulize'' is not a synonym for ''smell''.'
+  - correct: false
+    value: amass
+    detail: '''amass'' is not a synonym for ''smell''.'
+  - correct: true
+    value: smack
+    detail: '''smack'' is a synonym for ''smell''.'
+- text: What is a synonym for 'colored'?
+  options:
+  - correct: false
+    value: abroad
+    detail: '''abroad'' is not a synonym for ''colored''.'
+  - correct: false
+    value: in darkness
+    detail: '''in darkness'' is not a synonym for ''colored''.'
+  - correct: true
+    value: color
+    detail: '''color'' is a synonym for ''colored''.'
+  - correct: false
+    value: detransitivize
+    detail: '''detransitivize'' is not a synonym for ''colored''.'
+- text: What is a synonym for 'roleplaying'?
+  options:
+  - correct: false
+    value: pair off
+    detail: '''pair off'' is not a synonym for ''roleplaying''.'
+  - correct: false
+    value: glaze
+    detail: '''glaze'' is not a synonym for ''roleplaying''.'
+  - correct: true
+    value: act
+    detail: '''act'' is a synonym for ''roleplaying''.'
+  - correct: false
+    value: retract
+    detail: '''retract'' is not a synonym for ''roleplaying''.'
+- text: What is a synonym for 'emboss'?
+  options:
+  - correct: false
+    value: irresistibly
+    detail: '''irresistibly'' is not a synonym for ''emboss''.'
+  - correct: false
+    value: boob
+    detail: '''boob'' is not a synonym for ''emboss''.'
+  - correct: false
+    value: detected
+    detail: '''detected'' is not a synonym for ''emboss''.'
+  - correct: true
+    value: boss
+    detail: '''boss'' is a synonym for ''emboss''.'
+- text: What is a synonym for 'grinding'?
+  options:
+  - correct: false
+    value: bidding
+    detail: '''bidding'' is not a synonym for ''grinding''.'
+  - correct: true
+    value: crunch
+    detail: '''crunch'' is a synonym for ''grinding''.'
+  - correct: false
+    value: manoeuver
+    detail: '''manoeuver'' is not a synonym for ''grinding''.'
+  - correct: false
+    value: underlay
+    detail: '''underlay'' is not a synonym for ''grinding''.'
+- text: What is a synonym for 'catalyse'?
+  options:
+  - correct: false
+    value: inspired
+    detail: '''inspired'' is not a synonym for ''catalyse''.'
+  - correct: true
+    value: catalyze
+    detail: '''catalyze'' is a synonym for ''catalyse''.'
+  - correct: false
+    value: sent
+    detail: '''sent'' is not a synonym for ''catalyse''.'
+  - correct: false
+    value: blaze out
+    detail: '''blaze out'' is not a synonym for ''catalyse''.'
+- text: What is a synonym for 'wandering'?
+  options:
+  - correct: false
+    value: smell
+    detail: '''smell'' is not a synonym for ''wandering''.'
+  - correct: true
+    value: roll
+    detail: '''roll'' is a synonym for ''wandering''.'
+  - correct: false
+    value: hinder
+    detail: '''hinder'' is not a synonym for ''wandering''.'
+  - correct: false
+    value: bog
+    detail: '''bog'' is not a synonym for ''wandering''.'
+- text: What is a synonym for 'sovietise'?
+  options:
+  - correct: false
+    value: stuffing
+    detail: '''stuffing'' is not a synonym for ''sovietise''.'
+  - correct: true
+    value: sovietize
+    detail: '''sovietize'' is a synonym for ''sovietise''.'
+  - correct: false
+    value: preoccupied
+    detail: '''preoccupied'' is not a synonym for ''sovietise''.'
+  - correct: false
+    value: syllabize
+    detail: '''syllabize'' is not a synonym for ''sovietise''.'
+- text: What is a synonym for 'enrapture'?
+  options:
+  - correct: false
+    value: at last
+    detail: '''at last'' is not a synonym for ''enrapture''.'
+  - correct: true
+    value: enchant
+    detail: '''enchant'' is a synonym for ''enrapture''.'
+  - correct: false
+    value: deceased
+    detail: '''deceased'' is not a synonym for ''enrapture''.'
+  - correct: false
+    value: breathalyze
+    detail: '''breathalyze'' is not a synonym for ''enrapture''.'
+- text: What is a synonym for 'sure as shooting'?
+  options:
+  - correct: false
+    value: depopulate
+    detail: '''depopulate'' is not a synonym for ''sure as shooting''.'
+  - correct: false
+    value: ineloquently
+    detail: '''ineloquently'' is not a synonym for ''sure as shooting''.'
+  - correct: true
+    value: surely
+    detail: '''surely'' is a synonym for ''sure as shooting''.'
+  - correct: false
+    value: send away
+    detail: '''send away'' is not a synonym for ''sure as shooting''.'
+- text: What is a synonym for 'squinched'?
+  options:
+  - correct: false
+    value: prim out
+    detail: '''prim out'' is not a synonym for ''squinched''.'
+  - correct: false
+    value: reimburse
+    detail: '''reimburse'' is not a synonym for ''squinched''.'
+  - correct: false
+    value: invoke
+    detail: '''invoke'' is not a synonym for ''squinched''.'
+  - correct: true
+    value: squinch
+    detail: '''squinch'' is a synonym for ''squinched''.'
+- text: What is a synonym for 'serrated'?
+  options:
+  - correct: false
+    value: excel at
+    detail: '''excel at'' is not a synonym for ''serrated''.'
+  - correct: true
+    value: serrate
+    detail: '''serrate'' is a synonym for ''serrated''.'
+  - correct: false
+    value: madden
+    detail: '''madden'' is not a synonym for ''serrated''.'
+  - correct: false
+    value: each week
+    detail: '''each week'' is not a synonym for ''serrated''.'
+- text: What is a synonym for 'thresh'?
+  options:
+  - correct: true
+    value: convulse
+    detail: '''convulse'' is a synonym for ''thresh''.'
+  - correct: false
+    value: asymmetrically
+    detail: '''asymmetrically'' is not a synonym for ''thresh''.'
+  - correct: false
+    value: incisively
+    detail: '''incisively'' is not a synonym for ''thresh''.'
+  - correct: false
+    value: emerge
+    detail: '''emerge'' is not a synonym for ''thresh''.'
+- text: What is a synonym for 'jokingly'?
+  options:
+  - correct: false
+    value: mortify
+    detail: '''mortify'' is not a synonym for ''jokingly''.'
+  - correct: false
+    value: sprouting
+    detail: '''sprouting'' is not a synonym for ''jokingly''.'
+  - correct: true
+    value: jestingly
+    detail: '''jestingly'' is a synonym for ''jokingly''.'
+  - correct: false
+    value: wail
+    detail: '''wail'' is not a synonym for ''jokingly''.'
+- text: What is a synonym for 'crippled'?
+  options:
+  - correct: false
+    value: topsy-turvy
+    detail: '''topsy-turvy'' is not a synonym for ''crippled''.'
+  - correct: false
+    value: caponize
+    detail: '''caponize'' is not a synonym for ''crippled''.'
+  - correct: true
+    value: cripple
+    detail: '''cripple'' is a synonym for ''crippled''.'
+  - correct: false
+    value: chivy
+    detail: '''chivy'' is not a synonym for ''crippled''.'
+- text: What is a synonym for 'gratifyingly'?
+  options:
+  - correct: true
+    value: satisfyingly
+    detail: '''satisfyingly'' is a synonym for ''gratifyingly''.'
+  - correct: false
+    value: punctured
+    detail: '''punctured'' is not a synonym for ''gratifyingly''.'
+  - correct: false
+    value: punitively
+    detail: '''punitively'' is not a synonym for ''gratifyingly''.'
+  - correct: false
+    value: yell
+    detail: '''yell'' is not a synonym for ''gratifyingly''.'
+- text: What is a synonym for 'burnish'?
+  options:
+  - correct: false
+    value: tink
+    detail: '''tink'' is not a synonym for ''burnish''.'
+  - correct: true
+    value: buff
+    detail: '''buff'' is a synonym for ''burnish''.'
+  - correct: false
+    value: guess
+    detail: '''guess'' is not a synonym for ''burnish''.'
+  - correct: false
+    value: racketeering
+    detail: '''racketeering'' is not a synonym for ''burnish''.'
+- text: What is a synonym for 'foiled'?
+  options:
+  - correct: false
+    value: appraising
+    detail: '''appraising'' is not a synonym for ''foiled''.'
+  - correct: true
+    value: foil
+    detail: '''foil'' is a synonym for ''foiled''.'
+  - correct: false
+    value: clutches
+    detail: '''clutches'' is not a synonym for ''foiled''.'
+  - correct: false
+    value: crystallise
+    detail: '''crystallise'' is not a synonym for ''foiled''.'
+- text: What is a synonym for 'submerge'?
+  options:
+  - correct: false
+    value: anyhow
+    detail: '''anyhow'' is not a synonym for ''submerge''.'
+  - correct: false
+    value: ask
+    detail: '''ask'' is not a synonym for ''submerge''.'
+  - correct: false
+    value: addressed
+    detail: '''addressed'' is not a synonym for ''submerge''.'
+  - correct: true
+    value: submerse
+    detail: '''submerse'' is a synonym for ''submerge''.'

@@ -1,0 +1,285 @@
+description: Synonym questions - Medium Set 2
+topic: adjective
+id: adjective-medium2
+title: Adjective Synonyms - Medium 2
+questions:
+- text: What is a synonym for 'anuretic'?
+  options:
+  - correct: true
+    value: anuric
+    detail: '''anuric'' is a synonym for ''anuretic''.'
+  - correct: false
+    value: cutaneous
+    detail: '''cutaneous'' is not a synonym for ''anuretic''.'
+  - correct: false
+    value: older
+    detail: '''older'' is not a synonym for ''anuretic''.'
+  - correct: false
+    value: greek
+    detail: '''greek'' is not a synonym for ''anuretic''.'
+- text: What is a synonym for 'unharmonious'?
+  options:
+  - correct: false
+    value: conspiratorial
+    detail: '''conspiratorial'' is not a synonym for ''unharmonious''.'
+  - correct: false
+    value: uneasy
+    detail: '''uneasy'' is not a synonym for ''unharmonious''.'
+  - correct: true
+    value: inharmonious
+    detail: '''inharmonious'' is a synonym for ''unharmonious''.'
+  - correct: false
+    value: enlarged
+    detail: '''enlarged'' is not a synonym for ''unharmonious''.'
+- text: What is a synonym for 'nitrous'?
+  options:
+  - correct: false
+    value: logographic
+    detail: '''logographic'' is not a synonym for ''nitrous''.'
+  - correct: true
+    value: azotic
+    detail: '''azotic'' is a synonym for ''nitrous''.'
+  - correct: false
+    value: hand-held
+    detail: '''hand-held'' is not a synonym for ''nitrous''.'
+  - correct: false
+    value: unshorn
+    detail: '''unshorn'' is not a synonym for ''nitrous''.'
+- text: What is a synonym for 'unarticulate'?
+  options:
+  - correct: false
+    value: inequitable
+    detail: '''inequitable'' is not a synonym for ''unarticulate''.'
+  - correct: false
+    value: millenarian
+    detail: '''millenarian'' is not a synonym for ''unarticulate''.'
+  - correct: false
+    value: anthropogenetic
+    detail: '''anthropogenetic'' is not a synonym for ''unarticulate''.'
+  - correct: true
+    value: inarticulate
+    detail: '''inarticulate'' is a synonym for ''unarticulate''.'
+- text: What is a synonym for 'unsubstantial'?
+  options:
+  - correct: true
+    value: insubstantial
+    detail: '''insubstantial'' is a synonym for ''unsubstantial''.'
+  - correct: false
+    value: topological
+    detail: '''topological'' is not a synonym for ''unsubstantial''.'
+  - correct: false
+    value: avestan
+    detail: '''avestan'' is not a synonym for ''unsubstantial''.'
+  - correct: false
+    value: gastronomical
+    detail: '''gastronomical'' is not a synonym for ''unsubstantial''.'
+- text: What is a synonym for 'classical'?
+  options:
+  - correct: false
+    value: buddhist
+    detail: '''buddhist'' is not a synonym for ''classical''.'
+  - correct: false
+    value: hematogenic
+    detail: '''hematogenic'' is not a synonym for ''classical''.'
+  - correct: false
+    value: galwegian
+    detail: '''galwegian'' is not a synonym for ''classical''.'
+  - correct: true
+    value: classic
+    detail: '''classic'' is a synonym for ''classical''.'
+- text: What is a synonym for 'tuneless'?
+  options:
+  - correct: true
+    value: untuneful
+    detail: '''untuneful'' is a synonym for ''tuneless''.'
+  - correct: false
+    value: titular
+    detail: '''titular'' is not a synonym for ''tuneless''.'
+  - correct: false
+    value: aqueous
+    detail: '''aqueous'' is not a synonym for ''tuneless''.'
+  - correct: false
+    value: intolerable
+    detail: '''intolerable'' is not a synonym for ''tuneless''.'
+- text: What is a synonym for 'glassless'?
+  options:
+  - correct: false
+    value: brasslike
+    detail: '''brasslike'' is not a synonym for ''glassless''.'
+  - correct: false
+    value: advised
+    detail: '''advised'' is not a synonym for ''glassless''.'
+  - correct: false
+    value: autogamous
+    detail: '''autogamous'' is not a synonym for ''glassless''.'
+  - correct: true
+    value: unglazed
+    detail: '''unglazed'' is a synonym for ''glassless''.'
+- text: What is a synonym for 'orphic'?
+  options:
+  - correct: false
+    value: lao
+    detail: '''lao'' is not a synonym for ''orphic''.'
+  - correct: false
+    value: moroccan
+    detail: '''moroccan'' is not a synonym for ''orphic''.'
+  - correct: false
+    value: astronomic
+    detail: '''astronomic'' is not a synonym for ''orphic''.'
+  - correct: true
+    value: Orphic
+    detail: '''Orphic'' is a synonym for ''orphic''.'
+- text: What is a synonym for 'wilsonian'?
+  options:
+  - correct: false
+    value: aminic
+    detail: '''aminic'' is not a synonym for ''wilsonian''.'
+  - correct: false
+    value: graphic
+    detail: '''graphic'' is not a synonym for ''wilsonian''.'
+  - correct: true
+    value: Wilsonian
+    detail: '''Wilsonian'' is a synonym for ''wilsonian''.'
+  - correct: false
+    value: unholy
+    detail: '''unholy'' is not a synonym for ''wilsonian''.'
+- text: What is a synonym for 'hypertrophied'?
+  options:
+  - correct: false
+    value: sinhala
+    detail: '''sinhala'' is not a synonym for ''hypertrophied''.'
+  - correct: true
+    value: enlarged
+    detail: '''enlarged'' is a synonym for ''hypertrophied''.'
+  - correct: false
+    value: venereal
+    detail: '''venereal'' is not a synonym for ''hypertrophied''.'
+  - correct: false
+    value: amoebous
+    detail: '''amoebous'' is not a synonym for ''hypertrophied''.'
+- text: What is a synonym for 'romantic'?
+  options:
+  - correct: false
+    value: regular
+    detail: '''regular'' is not a synonym for ''romantic''.'
+  - correct: true
+    value: romanticist
+    detail: '''romanticist'' is a synonym for ''romantic''.'
+  - correct: false
+    value: thermic
+    detail: '''thermic'' is not a synonym for ''romantic''.'
+  - correct: false
+    value: alexic
+    detail: '''alexic'' is not a synonym for ''romantic''.'
+- text: What is a synonym for 'incomprehensible'?
+  options:
+  - correct: false
+    value: truthful
+    detail: '''truthful'' is not a synonym for ''incomprehensible''.'
+  - correct: false
+    value: ionized
+    detail: '''ionized'' is not a synonym for ''incomprehensible''.'
+  - correct: false
+    value: nervous
+    detail: '''nervous'' is not a synonym for ''incomprehensible''.'
+  - correct: true
+    value: inexplicable
+    detail: '''inexplicable'' is a synonym for ''incomprehensible''.'
+- text: What is a synonym for 'stratified'?
+  options:
+  - correct: false
+    value: phosphoric
+    detail: '''phosphoric'' is not a synonym for ''stratified''.'
+  - correct: false
+    value: documentary
+    detail: '''documentary'' is not a synonym for ''stratified''.'
+  - correct: false
+    value: lowest
+    detail: '''lowest'' is not a synonym for ''stratified''.'
+  - correct: true
+    value: bedded
+    detail: '''bedded'' is a synonym for ''stratified''.'
+- text: What is a synonym for 'autogamous'?
+  options:
+  - correct: false
+    value: acrogenous
+    detail: '''acrogenous'' is not a synonym for ''autogamous''.'
+  - correct: false
+    value: botryoid
+    detail: '''botryoid'' is not a synonym for ''autogamous''.'
+  - correct: true
+    value: autogamic
+    detail: '''autogamic'' is a synonym for ''autogamous''.'
+  - correct: false
+    value: albinal
+    detail: '''albinal'' is not a synonym for ''autogamous''.'
+- text: What is a synonym for 'soft-boiled'?
+  options:
+  - correct: false
+    value: angelical
+    detail: '''angelical'' is not a synonym for ''soft-boiled''.'
+  - correct: false
+    value: ionic
+    detail: '''ionic'' is not a synonym for ''soft-boiled''.'
+  - correct: false
+    value: economical
+    detail: '''economical'' is not a synonym for ''soft-boiled''.'
+  - correct: true
+    value: softhearted
+    detail: '''softhearted'' is a synonym for ''soft-boiled''.'
+- text: What is a synonym for 'reasonable'?
+  options:
+  - correct: true
+    value: sensible
+    detail: '''sensible'' is a synonym for ''reasonable''.'
+  - correct: false
+    value: uncolored
+    detail: '''uncolored'' is not a synonym for ''reasonable''.'
+  - correct: false
+    value: unmelodic
+    detail: '''unmelodic'' is not a synonym for ''reasonable''.'
+  - correct: false
+    value: tame
+    detail: '''tame'' is not a synonym for ''reasonable''.'
+- text: What is a synonym for 'monecious'?
+  options:
+  - correct: true
+    value: monoecious
+    detail: '''monoecious'' is a synonym for ''monecious''.'
+  - correct: false
+    value: scriptural
+    detail: '''scriptural'' is not a synonym for ''monecious''.'
+  - correct: false
+    value: elizabethan
+    detail: '''elizabethan'' is not a synonym for ''monecious''.'
+  - correct: false
+    value: hittite
+    detail: '''hittite'' is not a synonym for ''monecious''.'
+- text: What is a synonym for 'periodic'?
+  options:
+  - correct: false
+    value: quantal
+    detail: '''quantal'' is not a synonym for ''periodic''.'
+  - correct: false
+    value: hired
+    detail: '''hired'' is not a synonym for ''periodic''.'
+  - correct: true
+    value: periodical
+    detail: '''periodical'' is a synonym for ''periodic''.'
+  - correct: false
+    value: altruistic
+    detail: '''altruistic'' is not a synonym for ''periodic''.'
+- text: What is a synonym for 'altruistic'?
+  options:
+  - correct: false
+    value: canine
+    detail: '''canine'' is not a synonym for ''altruistic''.'
+  - correct: false
+    value: trinucleate
+    detail: '''trinucleate'' is not a synonym for ''altruistic''.'
+  - correct: true
+    value: selfless
+    detail: '''selfless'' is a synonym for ''altruistic''.'
+  - correct: false
+    value: mongol
+    detail: '''mongol'' is not a synonym for ''altruistic''.'

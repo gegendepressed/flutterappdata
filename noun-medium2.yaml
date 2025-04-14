@@ -1,0 +1,285 @@
+description: Synonym questions - Medium Set 2
+topic: noun
+id: noun-medium2
+title: Noun Synonyms - Medium 2
+questions:
+- text: What is a synonym for 'family limacidae'?
+  options:
+  - correct: false
+    value: rubber plant
+    detail: '''rubber plant'' is not a synonym for ''family limacidae''.'
+  - correct: true
+    value: Limacidae
+    detail: '''Limacidae'' is a synonym for ''family limacidae''.'
+  - correct: false
+    value: japanese chess
+    detail: '''japanese chess'' is not a synonym for ''family limacidae''.'
+  - correct: false
+    value: ideograph
+    detail: '''ideograph'' is not a synonym for ''family limacidae''.'
+- text: What is a synonym for 'shrinking'?
+  options:
+  - correct: false
+    value: green douglas fir
+    detail: '''green douglas fir'' is not a synonym for ''shrinking''.'
+  - correct: true
+    value: shrinkage
+    detail: '''shrinkage'' is a synonym for ''shrinking''.'
+  - correct: false
+    value: relative atomic mass
+    detail: '''relative atomic mass'' is not a synonym for ''shrinking''.'
+  - correct: false
+    value: complex instruction set computing
+    detail: '''complex instruction set computing'' is not a synonym for ''shrinking''.'
+- text: What is a synonym for 'king of beasts'?
+  options:
+  - correct: false
+    value: washing powder
+    detail: '''washing powder'' is not a synonym for ''king of beasts''.'
+  - correct: false
+    value: meat market
+    detail: '''meat market'' is not a synonym for ''king of beasts''.'
+  - correct: false
+    value: bastard
+    detail: '''bastard'' is not a synonym for ''king of beasts''.'
+  - correct: true
+    value: lion
+    detail: '''lion'' is a synonym for ''king of beasts''.'
+- text: What is a synonym for 'fatigue duty'?
+  options:
+  - correct: false
+    value: allotropism
+    detail: '''allotropism'' is not a synonym for ''fatigue duty''.'
+  - correct: false
+    value: family apogonidae
+    detail: '''family apogonidae'' is not a synonym for ''fatigue duty''.'
+  - correct: true
+    value: fatigue
+    detail: '''fatigue'' is a synonym for ''fatigue duty''.'
+  - correct: false
+    value: rhumb
+    detail: '''rhumb'' is not a synonym for ''fatigue duty''.'
+- text: What is a synonym for 'grizzly bear'?
+  options:
+  - correct: false
+    value: linkage group
+    detail: '''linkage group'' is not a synonym for ''grizzly bear''.'
+  - correct: true
+    value: grizzly
+    detail: '''grizzly'' is a synonym for ''grizzly bear''.'
+  - correct: false
+    value: butter-flower
+    detail: '''butter-flower'' is not a synonym for ''grizzly bear''.'
+  - correct: false
+    value: hyperbole
+    detail: '''hyperbole'' is not a synonym for ''grizzly bear''.'
+- text: What is a synonym for 'fixed investment trust'?
+  options:
+  - correct: false
+    value: gismo
+    detail: '''gismo'' is not a synonym for ''fixed investment trust''.'
+  - correct: false
+    value: genus hexamita
+    detail: '''genus hexamita'' is not a synonym for ''fixed investment trust''.'
+  - correct: false
+    value: william menninger
+    detail: '''william menninger'' is not a synonym for ''fixed investment trust''.'
+  - correct: true
+    value: nondiscretionary trust
+    detail: '''nondiscretionary trust'' is a synonym for ''fixed investment trust''.'
+- text: What is a synonym for 'islamic army of aden-abyan'?
+  options:
+  - correct: true
+    value: Islamic Army of Aden
+    detail: '''Islamic Army of Aden'' is a synonym for ''islamic army of aden-abyan''.'
+  - correct: false
+    value: coronal
+    detail: '''coronal'' is not a synonym for ''islamic army of aden-abyan''.'
+  - correct: false
+    value: detergence
+    detail: '''detergence'' is not a synonym for ''islamic army of aden-abyan''.'
+  - correct: false
+    value: iced coffee
+    detail: '''iced coffee'' is not a synonym for ''islamic army of aden-abyan''.'
+- text: What is a synonym for 'knockout'?
+  options:
+  - correct: false
+    value: auction
+    detail: '''auction'' is not a synonym for ''knockout''.'
+  - correct: false
+    value: negro vine
+    detail: '''negro vine'' is not a synonym for ''knockout''.'
+  - correct: true
+    value: smasher
+    detail: '''smasher'' is a synonym for ''knockout''.'
+  - correct: false
+    value: schopenhauer
+    detail: '''schopenhauer'' is not a synonym for ''knockout''.'
+- text: What is a synonym for 'cervical vein'?
+  options:
+  - correct: false
+    value: bougainville trench
+    detail: '''bougainville trench'' is not a synonym for ''cervical vein''.'
+  - correct: true
+    value: deep cervical vein
+    detail: '''deep cervical vein'' is a synonym for ''cervical vein''.'
+  - correct: false
+    value: marie goeppert mayer
+    detail: '''marie goeppert mayer'' is not a synonym for ''cervical vein''.'
+  - correct: false
+    value: vaccinia
+    detail: '''vaccinia'' is not a synonym for ''cervical vein''.'
+- text: What is a synonym for 'priscoan aeon'?
+  options:
+  - correct: true
+    value: Hadean
+    detail: '''Hadean'' is a synonym for ''priscoan aeon''.'
+  - correct: false
+    value: granduncle
+    detail: '''granduncle'' is not a synonym for ''priscoan aeon''.'
+  - correct: false
+    value: rupicolous plant
+    detail: '''rupicolous plant'' is not a synonym for ''priscoan aeon''.'
+  - correct: false
+    value: heroin
+    detail: '''heroin'' is not a synonym for ''priscoan aeon''.'
+- text: What is a synonym for 'sardinops'?
+  options:
+  - correct: false
+    value: savings and loan association
+    detail: '''savings and loan association'' is not a synonym for ''sardinops''.'
+  - correct: false
+    value: gluttony
+    detail: '''gluttony'' is not a synonym for ''sardinops''.'
+  - correct: false
+    value: provisioner
+    detail: '''provisioner'' is not a synonym for ''sardinops''.'
+  - correct: true
+    value: Sardinops
+    detail: '''Sardinops'' is a synonym for ''sardinops''.'
+- text: What is a synonym for 'skeptic'?
+  options:
+  - correct: false
+    value: aspergillus fumigatus
+    detail: '''aspergillus fumigatus'' is not a synonym for ''skeptic''.'
+  - correct: true
+    value: sceptic
+    detail: '''sceptic'' is a synonym for ''skeptic''.'
+  - correct: false
+    value: family tineidae
+    detail: '''family tineidae'' is not a synonym for ''skeptic''.'
+  - correct: false
+    value: canebrake rattlesnake
+    detail: '''canebrake rattlesnake'' is not a synonym for ''skeptic''.'
+- text: What is a synonym for 'deep south'?
+  options:
+  - correct: true
+    value: Deep South
+    detail: '''Deep South'' is a synonym for ''deep south''.'
+  - correct: false
+    value: leaf-book
+    detail: '''leaf-book'' is not a synonym for ''deep south''.'
+  - correct: false
+    value: king ferdinand
+    detail: '''king ferdinand'' is not a synonym for ''deep south''.'
+  - correct: false
+    value: qualifier
+    detail: '''qualifier'' is not a synonym for ''deep south''.'
+- text: What is a synonym for 'sunni'?
+  options:
+  - correct: false
+    value: desk clerk
+    detail: '''desk clerk'' is not a synonym for ''sunni''.'
+  - correct: true
+    value: Sunnite
+    detail: '''Sunnite'' is a synonym for ''sunni''.'
+  - correct: false
+    value: humanities
+    detail: '''humanities'' is not a synonym for ''sunni''.'
+  - correct: false
+    value: veadar
+    detail: '''veadar'' is not a synonym for ''sunni''.'
+- text: What is a synonym for 'evening star'?
+  options:
+  - correct: false
+    value: proclamation
+    detail: '''proclamation'' is not a synonym for ''evening star''.'
+  - correct: true
+    value: Hesperus
+    detail: '''Hesperus'' is a synonym for ''evening star''.'
+  - correct: false
+    value: accusative
+    detail: '''accusative'' is not a synonym for ''evening star''.'
+  - correct: false
+    value: honeydew
+    detail: '''honeydew'' is not a synonym for ''evening star''.'
+- text: What is a synonym for 'ageism'?
+  options:
+  - correct: false
+    value: megalithic structure
+    detail: '''megalithic structure'' is not a synonym for ''ageism''.'
+  - correct: true
+    value: agism
+    detail: '''agism'' is a synonym for ''ageism''.'
+  - correct: false
+    value: thigh
+    detail: '''thigh'' is not a synonym for ''ageism''.'
+  - correct: false
+    value: ecc
+    detail: '''ecc'' is not a synonym for ''ageism''.'
+- text: What is a synonym for 'watch bracelet'?
+  options:
+  - correct: false
+    value: balladeer
+    detail: '''balladeer'' is not a synonym for ''watch bracelet''.'
+  - correct: true
+    value: watchband
+    detail: '''watchband'' is a synonym for ''watch bracelet''.'
+  - correct: false
+    value: bowdlerization
+    detail: '''bowdlerization'' is not a synonym for ''watch bracelet''.'
+  - correct: false
+    value: bloomfield
+    detail: '''bloomfield'' is not a synonym for ''watch bracelet''.'
+- text: What is a synonym for 'milk sugar'?
+  options:
+  - correct: true
+    value: lactose
+    detail: '''lactose'' is a synonym for ''milk sugar''.'
+  - correct: false
+    value: razorback
+    detail: '''razorback'' is not a synonym for ''milk sugar''.'
+  - correct: false
+    value: desmodus
+    detail: '''desmodus'' is not a synonym for ''milk sugar''.'
+  - correct: false
+    value: cascarilla bark
+    detail: '''cascarilla bark'' is not a synonym for ''milk sugar''.'
+- text: What is a synonym for 'branchial cleft'?
+  options:
+  - correct: false
+    value: water system
+    detail: '''water system'' is not a synonym for ''branchial cleft''.'
+  - correct: true
+    value: gill slit
+    detail: '''gill slit'' is a synonym for ''branchial cleft''.'
+  - correct: false
+    value: honeydew
+    detail: '''honeydew'' is not a synonym for ''branchial cleft''.'
+  - correct: false
+    value: william rehnquist
+    detail: '''william rehnquist'' is not a synonym for ''branchial cleft''.'
+- text: What is a synonym for 'crimp'?
+  options:
+  - correct: true
+    value: fold
+    detail: '''fold'' is a synonym for ''crimp''.'
+  - correct: false
+    value: apheresis
+    detail: '''apheresis'' is not a synonym for ''crimp''.'
+  - correct: false
+    value: albugo
+    detail: '''albugo'' is not a synonym for ''crimp''.'
+  - correct: false
+    value: mussorgsky
+    detail: '''mussorgsky'' is not a synonym for ''crimp''.'

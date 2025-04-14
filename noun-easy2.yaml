@@ -1,0 +1,285 @@
+description: Synonym questions - Easy Set 2
+topic: noun
+id: noun-easy2
+title: Noun Synonyms - Easy 2
+questions:
+- text: What is a synonym for 'european sea eagle'?
+  options:
+  - correct: false
+    value: whalebone whale
+    detail: '''whalebone whale'' is not a synonym for ''european sea eagle''.'
+  - correct: false
+    value: foundry
+    detail: '''foundry'' is not a synonym for ''european sea eagle''.'
+  - correct: true
+    value: ern
+    detail: '''ern'' is a synonym for ''european sea eagle''.'
+  - correct: false
+    value: mary stuart
+    detail: '''mary stuart'' is not a synonym for ''european sea eagle''.'
+- text: What is a synonym for 'uintatherium'?
+  options:
+  - correct: false
+    value: finger scan
+    detail: '''finger scan'' is not a synonym for ''uintatherium''.'
+  - correct: true
+    value: Uintatherium
+    detail: '''Uintatherium'' is a synonym for ''uintatherium''.'
+  - correct: false
+    value: mooring line
+    detail: '''mooring line'' is not a synonym for ''uintatherium''.'
+  - correct: false
+    value: basseterre
+    detail: '''basseterre'' is not a synonym for ''uintatherium''.'
+- text: What is a synonym for 'edmund wilson'?
+  options:
+  - correct: true
+    value: Wilson
+    detail: '''Wilson'' is a synonym for ''edmund wilson''.'
+  - correct: false
+    value: halo
+    detail: '''halo'' is not a synonym for ''edmund wilson''.'
+  - correct: false
+    value: theoriser
+    detail: '''theoriser'' is not a synonym for ''edmund wilson''.'
+  - correct: false
+    value: wurzburg
+    detail: '''wurzburg'' is not a synonym for ''edmund wilson''.'
+- text: What is a synonym for 'teach'?
+  options:
+  - correct: false
+    value: pineal eye
+    detail: '''pineal eye'' is not a synonym for ''teach''.'
+  - correct: true
+    value: Teach
+    detail: '''Teach'' is a synonym for ''teach''.'
+  - correct: false
+    value: richard burton
+    detail: '''richard burton'' is not a synonym for ''teach''.'
+  - correct: false
+    value: polyoma
+    detail: '''polyoma'' is not a synonym for ''teach''.'
+- text: What is a synonym for 'cirrhosis'?
+  options:
+  - correct: false
+    value: attainableness
+    detail: '''attainableness'' is not a synonym for ''cirrhosis''.'
+  - correct: false
+    value: europan
+    detail: '''europan'' is not a synonym for ''cirrhosis''.'
+  - correct: false
+    value: curettement
+    detail: '''curettement'' is not a synonym for ''cirrhosis''.'
+  - correct: true
+    value: cirrhosis of the liver
+    detail: '''cirrhosis of the liver'' is a synonym for ''cirrhosis''.'
+- text: What is a synonym for 'genus pterospermum'?
+  options:
+  - correct: false
+    value: medicinal drug
+    detail: '''medicinal drug'' is not a synonym for ''genus pterospermum''.'
+  - correct: false
+    value: sweet cherry
+    detail: '''sweet cherry'' is not a synonym for ''genus pterospermum''.'
+  - correct: true
+    value: Pterospermum
+    detail: '''Pterospermum'' is a synonym for ''genus pterospermum''.'
+  - correct: false
+    value: hellman
+    detail: '''hellman'' is not a synonym for ''genus pterospermum''.'
+- text: What is a synonym for 'nyiragongo'?
+  options:
+  - correct: false
+    value: tribal sheik
+    detail: '''tribal sheik'' is not a synonym for ''nyiragongo''.'
+  - correct: true
+    value: Nyiragongo
+    detail: '''Nyiragongo'' is a synonym for ''nyiragongo''.'
+  - correct: false
+    value: tilth
+    detail: '''tilth'' is not a synonym for ''nyiragongo''.'
+  - correct: false
+    value: vicar of christ
+    detail: '''vicar of christ'' is not a synonym for ''nyiragongo''.'
+- text: What is a synonym for 'ml'?
+  options:
+  - correct: false
+    value: aggression
+    detail: '''aggression'' is not a synonym for ''ml''.'
+  - correct: false
+    value: accordion
+    detail: '''accordion'' is not a synonym for ''ml''.'
+  - correct: true
+    value: milliliter
+    detail: '''milliliter'' is a synonym for ''ml''.'
+  - correct: false
+    value: irrational number
+    detail: '''irrational number'' is not a synonym for ''ml''.'
+- text: What is a synonym for 'roast'?
+  options:
+  - correct: false
+    value: wyomingite
+    detail: '''wyomingite'' is not a synonym for ''roast''.'
+  - correct: false
+    value: silver spruce
+    detail: '''silver spruce'' is not a synonym for ''roast''.'
+  - correct: true
+    value: joint
+    detail: '''joint'' is a synonym for ''roast''.'
+  - correct: false
+    value: geographical zone
+    detail: '''geographical zone'' is not a synonym for ''roast''.'
+- text: What is a synonym for 'bill sticker'?
+  options:
+  - correct: true
+    value: bill poster
+    detail: '''bill poster'' is a synonym for ''bill sticker''.'
+  - correct: false
+    value: base hit
+    detail: '''base hit'' is not a synonym for ''bill sticker''.'
+  - correct: false
+    value: leopard lily
+    detail: '''leopard lily'' is not a synonym for ''bill sticker''.'
+  - correct: false
+    value: dueller
+    detail: '''dueller'' is not a synonym for ''bill sticker''.'
+- text: What is a synonym for 'helianthus'?
+  options:
+  - correct: false
+    value: sagaciousness
+    detail: '''sagaciousness'' is not a synonym for ''helianthus''.'
+  - correct: false
+    value: trapezoid bone
+    detail: '''trapezoid bone'' is not a synonym for ''helianthus''.'
+  - correct: false
+    value: mezereon
+    detail: '''mezereon'' is not a synonym for ''helianthus''.'
+  - correct: true
+    value: sunflower
+    detail: '''sunflower'' is a synonym for ''helianthus''.'
+- text: What is a synonym for 'electric shaver'?
+  options:
+  - correct: false
+    value: cover slip
+    detail: '''cover slip'' is not a synonym for ''electric shaver''.'
+  - correct: true
+    value: shaver
+    detail: '''shaver'' is a synonym for ''electric shaver''.'
+  - correct: false
+    value: enterprisingness
+    detail: '''enterprisingness'' is not a synonym for ''electric shaver''.'
+  - correct: false
+    value: genus parus
+    detail: '''genus parus'' is not a synonym for ''electric shaver''.'
+- text: What is a synonym for 'masturbation'?
+  options:
+  - correct: false
+    value: footrace
+    detail: '''footrace'' is not a synonym for ''masturbation''.'
+  - correct: false
+    value: peace officer
+    detail: '''peace officer'' is not a synonym for ''masturbation''.'
+  - correct: false
+    value: space-reflection symmetry
+    detail: '''space-reflection symmetry'' is not a synonym for ''masturbation''.'
+  - correct: true
+    value: onanism
+    detail: '''onanism'' is a synonym for ''masturbation''.'
+- text: What is a synonym for 'sir christopher wren'?
+  options:
+  - correct: false
+    value: john anthony ciardi
+    detail: '''john anthony ciardi'' is not a synonym for ''sir christopher wren''.'
+  - correct: false
+    value: sudorific
+    detail: '''sudorific'' is not a synonym for ''sir christopher wren''.'
+  - correct: true
+    value: Wren
+    detail: '''Wren'' is a synonym for ''sir christopher wren''.'
+  - correct: false
+    value: poisonous substance
+    detail: '''poisonous substance'' is not a synonym for ''sir christopher wren''.'
+- text: What is a synonym for 'columbo'?
+  options:
+  - correct: false
+    value: del rio
+    detail: '''del rio'' is not a synonym for ''columbo''.'
+  - correct: true
+    value: American columbo
+    detail: '''American columbo'' is a synonym for ''columbo''.'
+  - correct: false
+    value: commutability
+    detail: '''commutability'' is not a synonym for ''columbo''.'
+  - correct: false
+    value: velours
+    detail: '''velours'' is not a synonym for ''columbo''.'
+- text: What is a synonym for 'alumna'?
+  options:
+  - correct: false
+    value: seawards
+    detail: '''seawards'' is not a synonym for ''alumna''.'
+  - correct: false
+    value: blizzard
+    detail: '''blizzard'' is not a synonym for ''alumna''.'
+  - correct: false
+    value: yangon
+    detail: '''yangon'' is not a synonym for ''alumna''.'
+  - correct: true
+    value: alumnus
+    detail: '''alumnus'' is a synonym for ''alumna''.'
+- text: What is a synonym for 'pavise'?
+  options:
+  - correct: true
+    value: pavis
+    detail: '''pavis'' is a synonym for ''pavise''.'
+  - correct: false
+    value: inexorableness
+    detail: '''inexorableness'' is not a synonym for ''pavise''.'
+  - correct: false
+    value: zoarces viviparus
+    detail: '''zoarces viviparus'' is not a synonym for ''pavise''.'
+  - correct: false
+    value: genus musophaga
+    detail: '''genus musophaga'' is not a synonym for ''pavise''.'
+- text: What is a synonym for 'desmodus'?
+  options:
+  - correct: false
+    value: thyme-leaved speedwell
+    detail: '''thyme-leaved speedwell'' is not a synonym for ''desmodus''.'
+  - correct: false
+    value: benny goodman
+    detail: '''benny goodman'' is not a synonym for ''desmodus''.'
+  - correct: false
+    value: cactus family
+    detail: '''cactus family'' is not a synonym for ''desmodus''.'
+  - correct: true
+    value: Desmodus
+    detail: '''Desmodus'' is a synonym for ''desmodus''.'
+- text: What is a synonym for 'stone bass'?
+  options:
+  - correct: false
+    value: ventilation
+    detail: '''ventilation'' is not a synonym for ''stone bass''.'
+  - correct: false
+    value: sedulousness
+    detail: '''sedulousness'' is not a synonym for ''stone bass''.'
+  - correct: false
+    value: tamus
+    detail: '''tamus'' is not a synonym for ''stone bass''.'
+  - correct: true
+    value: wreckfish
+    detail: '''wreckfish'' is a synonym for ''stone bass''.'
+- text: What is a synonym for 'eocene'?
+  options:
+  - correct: true
+    value: Eocene
+    detail: '''Eocene'' is a synonym for ''eocene''.'
+  - correct: false
+    value: nigella sativa
+    detail: '''nigella sativa'' is not a synonym for ''eocene''.'
+  - correct: false
+    value: sparrow
+    detail: '''sparrow'' is not a synonym for ''eocene''.'
+  - correct: false
+    value: genus swietinia
+    detail: '''genus swietinia'' is not a synonym for ''eocene''.'

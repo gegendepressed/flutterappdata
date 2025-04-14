@@ -1,0 +1,285 @@
+description: Synonym questions - Easy Set 4
+topic: adjective
+id: adjective-easy4
+title: Adjective Synonyms - Easy 4
+questions:
+- text: What is a synonym for 'divalent'?
+  options:
+  - correct: false
+    value: continental
+    detail: '''continental'' is not a synonym for ''divalent''.'
+  - correct: true
+    value: bivalent
+    detail: '''bivalent'' is a synonym for ''divalent''.'
+  - correct: false
+    value: splayfoot
+    detail: '''splayfoot'' is not a synonym for ''divalent''.'
+  - correct: false
+    value: heterogenous
+    detail: '''heterogenous'' is not a synonym for ''divalent''.'
+- text: What is a synonym for 'taxable'?
+  options:
+  - correct: false
+    value: unrepeatable
+    detail: '''unrepeatable'' is not a synonym for ''taxable''.'
+  - correct: false
+    value: sigmoidal
+    detail: '''sigmoidal'' is not a synonym for ''taxable''.'
+  - correct: true
+    value: nonexempt
+    detail: '''nonexempt'' is a synonym for ''taxable''.'
+  - correct: false
+    value: epiphyseal
+    detail: '''epiphyseal'' is not a synonym for ''taxable''.'
+- text: What is a synonym for 'monoatomic'?
+  options:
+  - correct: true
+    value: monatomic
+    detail: '''monatomic'' is a synonym for ''monoatomic''.'
+  - correct: false
+    value: yugoslav
+    detail: '''yugoslav'' is not a synonym for ''monoatomic''.'
+  - correct: false
+    value: rastafarian
+    detail: '''rastafarian'' is not a synonym for ''monoatomic''.'
+  - correct: false
+    value: cosmogonical
+    detail: '''cosmogonical'' is not a synonym for ''monoatomic''.'
+- text: What is a synonym for 'carolean'?
+  options:
+  - correct: false
+    value: nonhierarchical
+    detail: '''nonhierarchical'' is not a synonym for ''carolean''.'
+  - correct: true
+    value: Caroline
+    detail: '''Caroline'' is a synonym for ''carolean''.'
+  - correct: false
+    value: reparable
+    detail: '''reparable'' is not a synonym for ''carolean''.'
+  - correct: false
+    value: collegiate
+    detail: '''collegiate'' is not a synonym for ''carolean''.'
+- text: What is a synonym for 'declarative'?
+  options:
+  - correct: true
+    value: declaratory
+    detail: '''declaratory'' is a synonym for ''declarative''.'
+  - correct: false
+    value: ectodermic
+    detail: '''ectodermic'' is not a synonym for ''declarative''.'
+  - correct: false
+    value: mononucleate
+    detail: '''mononucleate'' is not a synonym for ''declarative''.'
+  - correct: false
+    value: geographical
+    detail: '''geographical'' is not a synonym for ''declarative''.'
+- text: What is a synonym for 'brahminic'?
+  options:
+  - correct: false
+    value: tyrolese
+    detail: '''tyrolese'' is not a synonym for ''brahminic''.'
+  - correct: false
+    value: sensitising
+    detail: '''sensitising'' is not a synonym for ''brahminic''.'
+  - correct: false
+    value: roumanian
+    detail: '''roumanian'' is not a synonym for ''brahminic''.'
+  - correct: true
+    value: brahminical
+    detail: '''brahminical'' is a synonym for ''brahminic''.'
+- text: What is a synonym for 'experient'?
+  options:
+  - correct: false
+    value: certain
+    detail: '''certain'' is not a synonym for ''experient''.'
+  - correct: true
+    value: experienced
+    detail: '''experienced'' is a synonym for ''experient''.'
+  - correct: false
+    value: fatty
+    detail: '''fatty'' is not a synonym for ''experient''.'
+  - correct: false
+    value: moorish
+    detail: '''moorish'' is not a synonym for ''experient''.'
+- text: What is a synonym for 'waxen'?
+  options:
+  - correct: true
+    value: waxy
+    detail: '''waxy'' is a synonym for ''waxen''.'
+  - correct: false
+    value: paralytical
+    detail: '''paralytical'' is not a synonym for ''waxen''.'
+  - correct: false
+    value: persistent
+    detail: '''persistent'' is not a synonym for ''waxen''.'
+  - correct: false
+    value: unbearable
+    detail: '''unbearable'' is not a synonym for ''waxen''.'
+- text: What is a synonym for 'accusative'?
+  options:
+  - correct: true
+    value: objective
+    detail: '''objective'' is a synonym for ''accusative''.'
+  - correct: false
+    value: afghani
+    detail: '''afghani'' is not a synonym for ''accusative''.'
+  - correct: false
+    value: vulval
+    detail: '''vulval'' is not a synonym for ''accusative''.'
+  - correct: false
+    value: merited
+    detail: '''merited'' is not a synonym for ''accusative''.'
+- text: What is a synonym for 'aurorean'?
+  options:
+  - correct: true
+    value: auroral
+    detail: '''auroral'' is a synonym for ''aurorean''.'
+  - correct: false
+    value: technological
+    detail: '''technological'' is not a synonym for ''aurorean''.'
+  - correct: false
+    value: shortsighted
+    detail: '''shortsighted'' is not a synonym for ''aurorean''.'
+  - correct: false
+    value: ceylonese
+    detail: '''ceylonese'' is not a synonym for ''aurorean''.'
+- text: What is a synonym for 'oncological'?
+  options:
+  - correct: false
+    value: baptized
+    detail: '''baptized'' is not a synonym for ''oncological''.'
+  - correct: false
+    value: equipped
+    detail: '''equipped'' is not a synonym for ''oncological''.'
+  - correct: false
+    value: pachydermic
+    detail: '''pachydermic'' is not a synonym for ''oncological''.'
+  - correct: true
+    value: oncologic
+    detail: '''oncologic'' is a synonym for ''oncological''.'
+- text: What is a synonym for 'olfactive'?
+  options:
+  - correct: true
+    value: olfactory
+    detail: '''olfactory'' is a synonym for ''olfactive''.'
+  - correct: false
+    value: pistillate
+    detail: '''pistillate'' is not a synonym for ''olfactive''.'
+  - correct: false
+    value: sitting
+    detail: '''sitting'' is not a synonym for ''olfactive''.'
+  - correct: false
+    value: aesthetical
+    detail: '''aesthetical'' is not a synonym for ''olfactive''.'
+- text: What is a synonym for 'resolved'?
+  options:
+  - correct: false
+    value: pycnotic
+    detail: '''pycnotic'' is not a synonym for ''resolved''.'
+  - correct: false
+    value: macrocephalic
+    detail: '''macrocephalic'' is not a synonym for ''resolved''.'
+  - correct: true
+    value: solved
+    detail: '''solved'' is a synonym for ''resolved''.'
+  - correct: false
+    value: papist
+    detail: '''papist'' is not a synonym for ''resolved''.'
+- text: What is a synonym for 'protozoal'?
+  options:
+  - correct: false
+    value: piano
+    detail: '''piano'' is not a synonym for ''protozoal''.'
+  - correct: false
+    value: centralising
+    detail: '''centralising'' is not a synonym for ''protozoal''.'
+  - correct: false
+    value: crownless
+    detail: '''crownless'' is not a synonym for ''protozoal''.'
+  - correct: true
+    value: protozoan
+    detail: '''protozoan'' is a synonym for ''protozoal''.'
+- text: What is a synonym for 'allied'?
+  options:
+  - correct: true
+    value: Allied
+    detail: '''Allied'' is a synonym for ''allied''.'
+  - correct: false
+    value: necromantic
+    detail: '''necromantic'' is not a synonym for ''allied''.'
+  - correct: false
+    value: alchemic
+    detail: '''alchemic'' is not a synonym for ''allied''.'
+  - correct: false
+    value: mithraistic
+    detail: '''mithraistic'' is not a synonym for ''allied''.'
+- text: What is a synonym for 'south korean'?
+  options:
+  - correct: false
+    value: ossicular
+    detail: '''ossicular'' is not a synonym for ''south korean''.'
+  - correct: true
+    value: South Korean
+    detail: '''South Korean'' is a synonym for ''south korean''.'
+  - correct: false
+    value: forehanded
+    detail: '''forehanded'' is not a synonym for ''south korean''.'
+  - correct: false
+    value: pedagogical
+    detail: '''pedagogical'' is not a synonym for ''south korean''.'
+- text: What is a synonym for 'unitarian'?
+  options:
+  - correct: false
+    value: clearheaded
+    detail: '''clearheaded'' is not a synonym for ''unitarian''.'
+  - correct: false
+    value: aramaean
+    detail: '''aramaean'' is not a synonym for ''unitarian''.'
+  - correct: true
+    value: Unitarian
+    detail: '''Unitarian'' is a synonym for ''unitarian''.'
+  - correct: false
+    value: ethnographic
+    detail: '''ethnographic'' is not a synonym for ''unitarian''.'
+- text: What is a synonym for 'backhander'?
+  options:
+  - correct: false
+    value: azerbaijani
+    detail: '''azerbaijani'' is not a synonym for ''backhander''.'
+  - correct: false
+    value: diluvian
+    detail: '''diluvian'' is not a synonym for ''backhander''.'
+  - correct: true
+    value: backhand
+    detail: '''backhand'' is a synonym for ''backhander''.'
+  - correct: false
+    value: frisian
+    detail: '''frisian'' is not a synonym for ''backhander''.'
+- text: What is a synonym for 'bibliographic'?
+  options:
+  - correct: true
+    value: bibliographical
+    detail: '''bibliographical'' is a synonym for ''bibliographic''.'
+  - correct: false
+    value: apnoeic
+    detail: '''apnoeic'' is not a synonym for ''bibliographic''.'
+  - correct: false
+    value: angiocarpic
+    detail: '''angiocarpic'' is not a synonym for ''bibliographic''.'
+  - correct: false
+    value: brahminic
+    detail: '''brahminic'' is not a synonym for ''bibliographic''.'
+- text: What is a synonym for 'annelid'?
+  options:
+  - correct: true
+    value: annelidan
+    detail: '''annelidan'' is a synonym for ''annelid''.'
+  - correct: false
+    value: attached
+    detail: '''attached'' is not a synonym for ''annelid''.'
+  - correct: false
+    value: adsorbate
+    detail: '''adsorbate'' is not a synonym for ''annelid''.'
+  - correct: false
+    value: cytologic
+    detail: '''cytologic'' is not a synonym for ''annelid''.'

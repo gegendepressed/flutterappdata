@@ -1,0 +1,183 @@
+adjective:
+- title: Easy 1
+  description: Synonym questions - Easy Set 1
+  id: adjective-easy1
+  file: adjective-easy1.yaml
+- title: Easy 2
+  description: Synonym questions - Easy Set 2
+  id: adjective-easy2
+  file: adjective-easy2.yaml
+- title: Easy 3
+  description: Synonym questions - Easy Set 3
+  id: adjective-easy3
+  file: adjective-easy3.yaml
+- title: Easy 4
+  description: Synonym questions - Easy Set 4
+  id: adjective-easy4
+  file: adjective-easy4.yaml
+- title: Easy 5
+  description: Synonym questions - Easy Set 5
+  id: adjective-easy5
+  file: adjective-easy5.yaml
+- title: Medium 1
+  description: Synonym questions - Medium Set 1
+  id: adjective-medium1
+  file: adjective-medium1.yaml
+- title: Medium 2
+  description: Synonym questions - Medium Set 2
+  id: adjective-medium2
+  file: adjective-medium2.yaml
+- title: Medium 3
+  description: Synonym questions - Medium Set 3
+  id: adjective-medium3
+  file: adjective-medium3.yaml
+- title: Medium 4
+  description: Synonym questions - Medium Set 4
+  id: adjective-medium4
+  file: adjective-medium4.yaml
+- title: Medium 5
+  description: Synonym questions - Medium Set 5
+  id: adjective-medium5
+  file: adjective-medium5.yaml
+- title: Hard 1
+  description: Synonym questions - Hard Set 1
+  id: adjective-hard1
+  file: adjective-hard1.yaml
+- title: Hard 2
+  description: Synonym questions - Hard Set 2
+  id: adjective-hard2
+  file: adjective-hard2.yaml
+- title: Hard 3
+  description: Synonym questions - Hard Set 3
+  id: adjective-hard3
+  file: adjective-hard3.yaml
+- title: Hard 4
+  description: Synonym questions - Hard Set 4
+  id: adjective-hard4
+  file: adjective-hard4.yaml
+- title: Hard 5
+  description: Synonym questions - Hard Set 5
+  id: adjective-hard5
+  file: adjective-hard5.yaml
+verb:
+- title: Easy 1
+  description: Synonym questions - Easy Set 1
+  id: verb-easy1
+  file: verb-easy1.yaml
+- title: Easy 2
+  description: Synonym questions - Easy Set 2
+  id: verb-easy2
+  file: verb-easy2.yaml
+- title: Easy 3
+  description: Synonym questions - Easy Set 3
+  id: verb-easy3
+  file: verb-easy3.yaml
+- title: Easy 4
+  description: Synonym questions - Easy Set 4
+  id: verb-easy4
+  file: verb-easy4.yaml
+- title: Easy 5
+  description: Synonym questions - Easy Set 5
+  id: verb-easy5
+  file: verb-easy5.yaml
+- title: Medium 1
+  description: Synonym questions - Medium Set 1
+  id: verb-medium1
+  file: verb-medium1.yaml
+- title: Medium 2
+  description: Synonym questions - Medium Set 2
+  id: verb-medium2
+  file: verb-medium2.yaml
+- title: Medium 3
+  description: Synonym questions - Medium Set 3
+  id: verb-medium3
+  file: verb-medium3.yaml
+- title: Medium 4
+  description: Synonym questions - Medium Set 4
+  id: verb-medium4
+  file: verb-medium4.yaml
+- title: Medium 5
+  description: Synonym questions - Medium Set 5
+  id: verb-medium5
+  file: verb-medium5.yaml
+- title: Hard 1
+  description: Synonym questions - Hard Set 1
+  id: verb-hard1
+  file: verb-hard1.yaml
+- title: Hard 2
+  description: Synonym questions - Hard Set 2
+  id: verb-hard2
+  file: verb-hard2.yaml
+- title: Hard 3
+  description: Synonym questions - Hard Set 3
+  id: verb-hard3
+  file: verb-hard3.yaml
+- title: Hard 4
+  description: Synonym questions - Hard Set 4
+  id: verb-hard4
+  file: verb-hard4.yaml
+- title: Hard 5
+  description: Synonym questions - Hard Set 5
+  id: verb-hard5
+  file: verb-hard5.yaml
+noun:
+- title: Easy 1
+  description: Synonym questions - Easy Set 1
+  id: noun-easy1
+  file: noun-easy1.yaml
+- title: Easy 2
+  description: Synonym questions - Easy Set 2
+  id: noun-easy2
+  file: noun-easy2.yaml
+- title: Easy 3
+  description: Synonym questions - Easy Set 3
+  id: noun-easy3
+  file: noun-easy3.yaml
+- title: Easy 4
+  description: Synonym questions - Easy Set 4
+  id: noun-easy4
+  file: noun-easy4.yaml
+- title: Easy 5
+  description: Synonym questions - Easy Set 5
+  id: noun-easy5
+  file: noun-easy5.yaml
+- title: Medium 1
+  description: Synonym questions - Medium Set 1
+  id: noun-medium1
+  file: noun-medium1.yaml
+- title: Medium 2
+  description: Synonym questions - Medium Set 2
+  id: noun-medium2
+  file: noun-medium2.yaml
+- title: Medium 3
+  description: Synonym questions - Medium Set 3
+  id: noun-medium3
+  file: noun-medium3.yaml
+- title: Medium 4
+  description: Synonym questions - Medium Set 4
+  id: noun-medium4
+  file: noun-medium4.yaml
+- title: Medium 5
+  description: Synonym questions - Medium Set 5
+  id: noun-medium5
+  file: noun-medium5.yaml
+- title: Hard 1
+  description: Synonym questions - Hard Set 1
+  id: noun-hard1
+  file: noun-hard1.yaml
+- title: Hard 2
+  description: Synonym questions - Hard Set 2
+  id: noun-hard2
+  file: noun-hard2.yaml
+- title: Hard 3
+  description: Synonym questions - Hard Set 3
+  id: noun-hard3
+  file: noun-hard3.yaml
+- title: Hard 4
+  description: Synonym questions - Hard Set 4
+  id: noun-hard4
+  file: noun-hard4.yaml
+- title: Hard 5
+  description: Synonym questions - Hard Set 5
+  id: noun-hard5
+  file: noun-hard5.yaml

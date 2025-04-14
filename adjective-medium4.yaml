@@ -1,0 +1,285 @@
+description: Synonym questions - Medium Set 4
+topic: adjective
+id: adjective-medium4
+title: Adjective Synonyms - Medium 4
+questions:
+- text: What is a synonym for 'botryoid'?
+  options:
+  - correct: true
+    value: botryoidal
+    detail: '''botryoidal'' is a synonym for ''botryoid''.'
+  - correct: false
+    value: endomorphic
+    detail: '''endomorphic'' is not a synonym for ''botryoid''.'
+  - correct: false
+    value: adnexal
+    detail: '''adnexal'' is not a synonym for ''botryoid''.'
+  - correct: false
+    value: zoroastrian
+    detail: '''zoroastrian'' is not a synonym for ''botryoid''.'
+- text: What is a synonym for 'tsaristic'?
+  options:
+  - correct: false
+    value: unhumorous
+    detail: '''unhumorous'' is not a synonym for ''tsaristic''.'
+  - correct: true
+    value: czarist
+    detail: '''czarist'' is a synonym for ''tsaristic''.'
+  - correct: false
+    value: epizoan
+    detail: '''epizoan'' is not a synonym for ''tsaristic''.'
+  - correct: false
+    value: behavioral
+    detail: '''behavioral'' is not a synonym for ''tsaristic''.'
+- text: What is a synonym for 'sociobiologic'?
+  options:
+  - correct: false
+    value: procedural
+    detail: '''procedural'' is not a synonym for ''sociobiologic''.'
+  - correct: false
+    value: solderer
+    detail: '''solderer'' is not a synonym for ''sociobiologic''.'
+  - correct: false
+    value: better
+    detail: '''better'' is not a synonym for ''sociobiologic''.'
+  - correct: true
+    value: sociobiological
+    detail: '''sociobiological'' is a synonym for ''sociobiologic''.'
+- text: What is a synonym for 'homogenous'?
+  options:
+  - correct: false
+    value: hanoverian
+    detail: '''hanoverian'' is not a synonym for ''homogenous''.'
+  - correct: true
+    value: homogeneous
+    detail: '''homogeneous'' is a synonym for ''homogenous''.'
+  - correct: false
+    value: siberian
+    detail: '''siberian'' is not a synonym for ''homogenous''.'
+  - correct: false
+    value: not intrusive
+    detail: '''not intrusive'' is not a synonym for ''homogenous''.'
+- text: What is a synonym for 'fastidious'?
+  options:
+  - correct: true
+    value: exacting
+    detail: '''exacting'' is a synonym for ''fastidious''.'
+  - correct: false
+    value: gerontological
+    detail: '''gerontological'' is not a synonym for ''fastidious''.'
+  - correct: false
+    value: .45 calibre
+    detail: '''.45 calibre'' is not a synonym for ''fastidious''.'
+  - correct: false
+    value: computer readable
+    detail: '''computer readable'' is not a synonym for ''fastidious''.'
+- text: What is a synonym for 'aminic'?
+  options:
+  - correct: true
+    value: amino
+    detail: '''amino'' is a synonym for ''aminic''.'
+  - correct: false
+    value: pass
+    detail: '''pass'' is not a synonym for ''aminic''.'
+  - correct: false
+    value: conjugal
+    detail: '''conjugal'' is not a synonym for ''aminic''.'
+  - correct: false
+    value: flexible
+    detail: '''flexible'' is not a synonym for ''aminic''.'
+- text: What is a synonym for 'metabolous'?
+  options:
+  - correct: false
+    value: hellenistic
+    detail: '''hellenistic'' is not a synonym for ''metabolous''.'
+  - correct: false
+    value: dermatological
+    detail: '''dermatological'' is not a synonym for ''metabolous''.'
+  - correct: false
+    value: uncoiled
+    detail: '''uncoiled'' is not a synonym for ''metabolous''.'
+  - correct: true
+    value: metabolic
+    detail: '''metabolic'' is a synonym for ''metabolous''.'
+- text: What is a synonym for 'unfortunate'?
+  options:
+  - correct: false
+    value: jovian
+    detail: '''jovian'' is not a synonym for ''unfortunate''.'
+  - correct: false
+    value: calvinistic
+    detail: '''calvinistic'' is not a synonym for ''unfortunate''.'
+  - correct: true
+    value: inauspicious
+    detail: '''inauspicious'' is a synonym for ''unfortunate''.'
+  - correct: false
+    value: axile
+    detail: '''axile'' is not a synonym for ''unfortunate''.'
+- text: What is a synonym for 'dimorphous'?
+  options:
+  - correct: false
+    value: unperceiving
+    detail: '''unperceiving'' is not a synonym for ''dimorphous''.'
+  - correct: false
+    value: subocular
+    detail: '''subocular'' is not a synonym for ''dimorphous''.'
+  - correct: false
+    value: apomictical
+    detail: '''apomictical'' is not a synonym for ''dimorphous''.'
+  - correct: true
+    value: dimorphic
+    detail: '''dimorphic'' is a synonym for ''dimorphous''.'
+- text: What is a synonym for 'two-footed'?
+  options:
+  - correct: false
+    value: unsubstantial
+    detail: '''unsubstantial'' is not a synonym for ''two-footed''.'
+  - correct: true
+    value: bipedal
+    detail: '''bipedal'' is a synonym for ''two-footed''.'
+  - correct: false
+    value: nephritic
+    detail: '''nephritic'' is not a synonym for ''two-footed''.'
+  - correct: false
+    value: percutaneous
+    detail: '''percutaneous'' is not a synonym for ''two-footed''.'
+- text: What is a synonym for 'fiscal'?
+  options:
+  - correct: false
+    value: static
+    detail: '''static'' is not a synonym for ''fiscal''.'
+  - correct: true
+    value: financial
+    detail: '''financial'' is a synonym for ''fiscal''.'
+  - correct: false
+    value: cephalopodan
+    detail: '''cephalopodan'' is not a synonym for ''fiscal''.'
+  - correct: false
+    value: aeolian
+    detail: '''aeolian'' is not a synonym for ''fiscal''.'
+- text: What is a synonym for 'unsolder'?
+  options:
+  - correct: false
+    value: potential
+    detail: '''potential'' is not a synonym for ''unsolder''.'
+  - correct: true
+    value: unsold
+    detail: '''unsold'' is a synonym for ''unsolder''.'
+  - correct: false
+    value: committed
+    detail: '''committed'' is not a synonym for ''unsolder''.'
+  - correct: false
+    value: calycular
+    detail: '''calycular'' is not a synonym for ''unsolder''.'
+- text: What is a synonym for 'favorable'?
+  options:
+  - correct: false
+    value: perinasal
+    detail: '''perinasal'' is not a synonym for ''favorable''.'
+  - correct: false
+    value: aquicultural
+    detail: '''aquicultural'' is not a synonym for ''favorable''.'
+  - correct: true
+    value: favourable
+    detail: '''favourable'' is a synonym for ''favorable''.'
+  - correct: false
+    value: petalous
+    detail: '''petalous'' is not a synonym for ''favorable''.'
+- text: What is a synonym for 'extroversive'?
+  options:
+  - correct: false
+    value: geometric
+    detail: '''geometric'' is not a synonym for ''extroversive''.'
+  - correct: false
+    value: received
+    detail: '''received'' is not a synonym for ''extroversive''.'
+  - correct: false
+    value: unfair
+    detail: '''unfair'' is not a synonym for ''extroversive''.'
+  - correct: true
+    value: extraversive
+    detail: '''extraversive'' is a synonym for ''extroversive''.'
+- text: What is a synonym for 'zolaesque'?
+  options:
+  - correct: false
+    value: close
+    detail: '''close'' is not a synonym for ''zolaesque''.'
+  - correct: true
+    value: Zolaesque
+    detail: '''Zolaesque'' is a synonym for ''zolaesque''.'
+  - correct: false
+    value: canonical
+    detail: '''canonical'' is not a synonym for ''zolaesque''.'
+  - correct: false
+    value: breathless
+    detail: '''breathless'' is not a synonym for ''zolaesque''.'
+- text: What is a synonym for 'thermodynamic'?
+  options:
+  - correct: false
+    value: sulphurous
+    detail: '''sulphurous'' is not a synonym for ''thermodynamic''.'
+  - correct: true
+    value: thermodynamical
+    detail: '''thermodynamical'' is a synonym for ''thermodynamic''.'
+  - correct: false
+    value: comprehendible
+    detail: '''comprehendible'' is not a synonym for ''thermodynamic''.'
+  - correct: false
+    value: superscript
+    detail: '''superscript'' is not a synonym for ''thermodynamic''.'
+- text: What is a synonym for 'new zealander'?
+  options:
+  - correct: false
+    value: polyphase
+    detail: '''polyphase'' is not a synonym for ''new zealander''.'
+  - correct: true
+    value: New Zealander
+    detail: '''New Zealander'' is a synonym for ''new zealander''.'
+  - correct: false
+    value: anglo-catholic
+    detail: '''anglo-catholic'' is not a synonym for ''new zealander''.'
+  - correct: false
+    value: warmer
+    detail: '''warmer'' is not a synonym for ''new zealander''.'
+- text: What is a synonym for 'endogamous'?
+  options:
+  - correct: false
+    value: paleontological
+    detail: '''paleontological'' is not a synonym for ''endogamous''.'
+  - correct: false
+    value: rembrandtesque
+    detail: '''rembrandtesque'' is not a synonym for ''endogamous''.'
+  - correct: false
+    value: congolese
+    detail: '''congolese'' is not a synonym for ''endogamous''.'
+  - correct: true
+    value: endogamic
+    detail: '''endogamic'' is a synonym for ''endogamous''.'
+- text: What is a synonym for 'purifying'?
+  options:
+  - correct: false
+    value: mediaeval
+    detail: '''mediaeval'' is not a synonym for ''purifying''.'
+  - correct: false
+    value: fascistic
+    detail: '''fascistic'' is not a synonym for ''purifying''.'
+  - correct: false
+    value: buddhist
+    detail: '''buddhist'' is not a synonym for ''purifying''.'
+  - correct: true
+    value: purgatorial
+    detail: '''purgatorial'' is a synonym for ''purifying''.'
+- text: What is a synonym for 'hebrew'?
+  options:
+  - correct: true
+    value: Hebraic
+    detail: '''Hebraic'' is a synonym for ''hebrew''.'
+  - correct: false
+    value: cenobitical
+    detail: '''cenobitical'' is not a synonym for ''hebrew''.'
+  - correct: false
+    value: viricidal
+    detail: '''viricidal'' is not a synonym for ''hebrew''.'
+  - correct: false
+    value: wrinkle-resistant
+    detail: '''wrinkle-resistant'' is not a synonym for ''hebrew''.'
